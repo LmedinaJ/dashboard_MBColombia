@@ -1,0 +1,20 @@
+{
+  "TIS": {
+    "file": "AREAS-INTEGRACION-AMAZONIA-TIS-070725.csv",
+    "codes": "tis_codes.txt",
+    "description": "Territorios Indígenas",
+    "columns":["Nombre"]
+  },
+  "REGIONES CLASS": {
+    "file": "AREAS-INTEGRACION-AMAZONIA-REGIONES-CLASS-070725.csv",
+    "codes": "territory_amazon.txt",
+    "description": "Regiones Clasificadas",
+    "columns":["codigo"]
+  },
+  "MUNICIPIOS": {
+    "file": "AREAS-INTEGRACION-COLOMBIA-MUNICIPIO.csv",
+    "codes": "municipios.txt",
+    "description": "Municipios",
+    "columns":["Departamento","Municipio"]
+  }
+}
