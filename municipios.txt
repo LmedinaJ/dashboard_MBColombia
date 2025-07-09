@@ -1,1108 +1,1175 @@
-1.0;Área en Litigio-Área en Litigio
-10.0;Antioquia-Angostura
-100.0;Antioquia-San Roque
-1000.0;Magdalena-El Piñón
-1001.0;Magdalena-El Retén
-1002.0;Magdalena-Fundación
-1003.0;Magdalena-Pivijay
-1004.0;Magdalena-Puebloviejo
-1005.0;Magdalena-Remolino
-1006.0;Magdalena-Sabanas de San Ángel
-1007.0;Magdalena-Salamina
-1008.0;Magdalena-Sitionuevo
-1009.0;Magdalena-Zapayán
-101.0;Antioquia-San Vicente
-1010.0;Magdalena-Zona Bananera
-1011.0;Norte de Santander-Cúcuta
-1012.0;Norte de Santander-Ábrego
-1013.0;Norte de Santander-Arboledas
-1014.0;Norte de Santander-Bochalema
-1015.0;Norte de Santander-Bucarasica
-1016.0;Norte de Santander-Cácota
-1017.0;Norte de Santander-Cáchira
-1018.0;Norte de Santander-Chinácota
-1019.0;Norte de Santander-Chitagá
-102.0;Antioquia-Santa Bárbara
-1020.0;Norte de Santander-Convención
-1021.0;Norte de Santander-Cucutilla
-1022.0;Norte de Santander-Durania
-1023.0;Norte de Santander-El Tarra
-1024.0;Norte de Santander-El Zulia
-1025.0;Norte de Santander-Gramalote
-1026.0;Norte de Santander-Hacarí
-1027.0;Norte de Santander-Herrán
-1028.0;Norte de Santander-Labateca
-1029.0;Norte de Santander-La Playa
-103.0;Antioquia-Santa Rosa de Osos
-1030.0;Norte de Santander-Los Patios
-1031.0;Norte de Santander-Lourdes
-1032.0;Norte de Santander-Mutiscua
-1033.0;Norte de Santander-Pamplona
-1034.0;Norte de Santander-Pamplonita
-1035.0;Norte de Santander-Puerto Santander
-1036.0;Norte de Santander-Ragonvalia
-1037.0;Norte de Santander-Salazar
-1038.0;Norte de Santander-San Calixto
-1039.0;Norte de Santander-San Cayetano
-104.0;Antioquia-Santo Domingo
-1040.0;Norte de Santander-Santiago
-1041.0;Norte de Santander-Sardinata
-1042.0;Norte de Santander-Silos
-1043.0;Norte de Santander-Teorama
-1044.0;Norte de Santander-Tibú
-1045.0;Norte de Santander-Toledo
-1046.0;Norte de Santander-Villa Caro
-1047.0;Norte de Santander-Villa del Rosario
-1048.0;Santander-Bucaramanga
-1049.0;Santander-Aratoca
-105.0;Antioquia-Santuario
-1050.0;Santander-Barichara
-1051.0;Santander-Cabrera
-1052.0;Santander-California
-1053.0;Santander-Capitanejo
-1054.0;Santander-Carcasí
-1055.0;Santander-Cepitá
-1056.0;Santander-Cerrito
-1057.0;Santander-Charalá
-1058.0;Santander-Charta
-1059.0;Santander-Concepción
-106.0;Antioquia-Segovia
-1060.0;Santander-Confines
-1061.0;Santander-Coromoro
-1062.0;Santander-Curití
-1063.0;Santander-El Playón
-1064.0;Santander-Encino
-1065.0;Santander-Enciso
-1066.0;Santander-Floridablanca
-1067.0;Santander-Galán
-1068.0;Santander-Guaca
-1069.0;Santander-Guapotá
-107.0;Antioquia-Sonsón
-1070.0;Santander-Hato
-1071.0;Santander-Jordán
-1072.0;Santander-Lebrija
-1073.0;Santander-Los Santos
-1074.0;Santander-Macaravita
-1075.0;Santander-Málaga
-1076.0;Santander-Matanza
-1077.0;Santander-Mogotes
-1078.0;Santander-Molagavita
-1079.0;Santander-Ocamonte
-108.0;Antioquia-Sopetrán
-1080.0;Santander-Oiba
-1081.0;Santander-Onzaga
-1082.0;Santander-Palmar
-1083.0;Santander-Palmas del Socorro
-1084.0;Santander-Páramo
-1085.0;Santander-Piedecuesta
-1086.0;Santander-Pinchote
-1087.0;Santander-San Andrés
-1088.0;Santander-San Gil
-1089.0;Santander-San Joaquín
-109.0;Antioquia-Támesis
-1090.0;Santander-San José de Miranda
-1091.0;Santander-San Miguel
-1092.0;Santander-Santa Bárbara
-1093.0;Santander-Socorro
-1094.0;Santander-Suratá
-1095.0;Santander-Tona
-1096.0;Santander-Valle de San José
-1097.0;Santander-Vetas
-1098.0;Santander-Villanueva
-1099.0;Santander-Zapatoca
-11.0;Antioquia-Anorí
-110.0;Antioquia-Tarazá
-1100.0;San Andres y Providencia-San Andrés
-1101.0;San Andres y Providencia-Providencia y Santa Catalina
-1102.0;Valle del Cauca-Buenaventura
-1103.0;Vichada-La Primavera
-1104.0;Vichada-Puerto Carreño
-1105.0;Amazonas-Leticia
-1106.0;Amazonas-Sin decisión político administrativa 1
-1107.0;Amazonas-Puerto Nariño
-1108.0;Vaupés-Taraira
-111.0;Antioquia-Tarso
-112.0;Antioquia-Titiribí
-113.0;Antioquia-Toledo
-114.0;Antioquia-Turbo
-115.0;Antioquia-Uramita
-116.0;Antioquia-Urrao
-117.0;Antioquia-Valdivia
-118.0;Antioquia-Valparaíso
-119.0;Antioquia-Vegachí
-12.0;Antioquia-Santa Fe de Antioquia
-120.0;Antioquia-Venecia
-121.0;Antioquia-Vigía del Fuerte
-122.0;Antioquia-Yalí
-123.0;Antioquia-Yarumal
-124.0;Antioquia-Yolombó
-125.0;Antioquia-Yondó
-126.0;Antioquia-Zaragoza
-127.0;Bolívar-Achí
-128.0;Bolívar-Altos del Rosario
-129.0;Bolívar-Arenal
-13.0;Antioquia-Anzá
-130.0;Bolívar-Barranco de Loba
-131.0;Bolívar-Cantagallo
-132.0;Bolívar-Cicuco
-133.0;Bolívar-Córdoba
-134.0;Bolívar-El Carmen de Bolívar
-135.0;Bolívar-El Guamo
-136.0;Bolívar-El Peñón
-137.0;Bolívar-Hatillo de Loba
-138.0;Bolívar-Magangué
-139.0;Bolívar-Margarita
-14.0;Antioquia-Apartadó
-140.0;Bolívar-María La Baja
-141.0;Bolívar-Montecristo
-142.0;Bolívar-Mompós
-143.0;Bolívar-Morales
-144.0;Bolívar-Norosí
-145.0;Bolívar-Pinillos
-146.0;Bolívar-Regidor
-147.0;Bolívar-Ríoviejo
-148.0;Bolívar-San Fernando
-149.0;Bolívar-San Jacinto
-15.0;Antioquia-Arboletes
-150.0;Bolívar-San Jacinto del Cauca
-151.0;Bolívar-San Juan Nepomuceno
-152.0;Bolívar-San Martín de Loba
-153.0;Bolívar-San Pablo
-154.0;Bolívar-Santa Rosa del Sur
-155.0;Bolívar-Simití
-156.0;Bolívar-Talaigua Nuevo
-157.0;Bolívar-Tiquisio
-158.0;Bolívar-Zambrano
-159.0;Boyacá-Arcabuco
-16.0;Antioquia-Argelia
-160.0;Boyacá-Briceño
-161.0;Boyacá-Buenavista
-162.0;Boyacá-Caldas
-163.0;Boyacá-Chiquinquirá
-164.0;Boyacá-Chitaraque
-165.0;Boyacá-Coper
-166.0;Boyacá-Cucaita
-167.0;Boyacá-Chíquiza
-168.0;Boyacá-Chivor
-169.0;Boyacá-Gachantivá
-17.0;Antioquia-Armenia
-170.0;Boyacá-Guateque
-171.0;Boyacá-Guayatá
-172.0;Boyacá-La Capilla
-173.0;Boyacá-La Victoria
-174.0;Boyacá-Villa de Leiva
-175.0;Boyacá-Maripí
-176.0;Boyacá-Moniquirá
-177.0;Boyacá-Muzo
-178.0;Boyacá-Nuevo Colón
-179.0;Boyacá-Otanche
-18.0;Antioquia-Barbosa
-180.0;Boyacá-Pauna
-181.0;Boyacá-Puerto Boyacá
-182.0;Boyacá-Quípama
-183.0;Boyacá-Ráquira
-184.0;Boyacá-Saboyá
-185.0;Boyacá-Sáchica
-186.0;Boyacá-Samacá
-187.0;Boyacá-San José de Pare
-188.0;Boyacá-San Luis de Gaceno
-189.0;Boyacá-San Miguel de Sema
-19.0;Antioquia-Belmira
-190.0;Boyacá-San Pablo de Borbur
-191.0;Boyacá-Santana
-192.0;Boyacá-Santa María
-193.0;Boyacá-Santa Sofía
-194.0;Boyacá-Somondoco
-195.0;Boyacá-Sora
-196.0;Boyacá-Sutamarchán
-197.0;Boyacá-Sutatenza
-198.0;Boyacá-Tenza
-199.0;Boyacá-Tinjacá
-2.0;Antioquia-Medellín
-20.0;Antioquia-Bello
-200.0;Boyacá-Togüí
-201.0;Boyacá-Tununguá
-202.0;Boyacá-Turmequé
-203.0;Boyacá-Úmbita
-204.0;Boyacá-Ventaquemada
-205.0;Caldas-Manizales
-206.0;Caldas-Aguadas
-207.0;Caldas-Anserma
-208.0;Caldas-Aranzazu
-209.0;Caldas-Belalcazar
-21.0;Antioquia-Betania
-210.0;Caldas-Chinchiná
-211.0;Caldas-Filadelfia
-212.0;Caldas-La Dorada
-213.0;Caldas-La Merced
-214.0;Caldas-Manzanares
-215.0;Caldas-Marmato
-216.0;Caldas-Marquetalia
-217.0;Caldas-Marulanda
-218.0;Caldas-Neira
-219.0;Caldas-Norcasia
-22.0;Antioquia-Betulia
-220.0;Caldas-Pácora
-221.0;Caldas-Palestina
-222.0;Caldas-Pensilvania
-223.0;Caldas-Ríosucio
-224.0;Caldas-Risaralda
-225.0;Caldas-Salamina
-226.0;Caldas-Samaná
-227.0;Caldas-San José
-228.0;Caldas-Supia
-229.0;Caldas-Victoria
-23.0;Antioquia-Ciudad Bolívar
-230.0;Caldas-Villamaría
-231.0;Caldas-Viterbo
-232.0;Casanare-Sabanalarga
-233.0;Casanare-Villanueva
-234.0;Casanare-Maní
-235.0;Casanare-Monterrey
-236.0;Casanare-Orocué
-237.0;Casanare-Tauramena
-238.0;Cauca-Popayán
-239.0;Cauca-Almaguer
-24.0;Antioquia-Briceño
-240.0;Cauca-Argelia
-241.0;Cauca-Balboa
-242.0;Cauca-Buenos Aires
-243.0;Cauca-Cajibío
-244.0;Cauca-Caldono
-245.0;Cauca-Caloto
-246.0;Cauca-Corinto
-247.0;Cauca-El Tambo
-248.0;Cauca-Florencia
-249.0;Cauca-Guachené
-25.0;Antioquia-Buriticá
-250.0;Cauca-Guapi
-251.0;Cauca-Inzá
-252.0;Cauca-Jambaló
-253.0;Cauca-La Sierra
-254.0;Cauca-La Vega
-255.0;Cauca-López
-256.0;Cauca-Mercaderes
-257.0;Cauca-Miranda
-258.0;Cauca-Morales
-259.0;Cauca-Padilla
-26.0;Antioquia-Cáceres
-260.0;Cauca-Páez
-261.0;Cauca-Patía
-262.0;Cauca-Piendamó
-263.0;Cauca-Puerto Tejada
-264.0;Cauca-Puracé
-265.0;Cauca-Rosas
-266.0;Cauca-Santander de Quilichao
-267.0;Cauca-Silvia
-268.0;Cauca-Sotará
-269.0;Cauca-Suárez
-27.0;Antioquia-Caicedo
-270.0;Cauca-Timbío
-271.0;Cauca-Timbiquí
-272.0;Cauca-Toribío
-273.0;Cauca-Totoró
-274.0;Cauca-Villa Rica
-275.0;Cauca-Sucre
-276.0;Cauca-Bolívar
-277.0;Cesar-Aguachica
-278.0;Cesar-Astrea
-279.0;Cesar-Becerril
-28.0;Antioquia-Caldas
-280.0;Cesar-Bosconia
-281.0;Cesar-Chimichagua
-282.0;Cesar-Chiriguaná
-283.0;Cesar-Curumaní
-284.0;Cesar-El Paso
-285.0;Cesar-Gamarra
-286.0;Cesar-La Gloria
-287.0;Cesar-La Jagua de Ibirico
-288.0;Cesar-Pailitas
-289.0;Cesar-Pelaya
-29.0;Antioquia-Campamento
-290.0;Cesar-Rio de Oro
-291.0;Cesar-San Alberto
-292.0;Cesar-San Martín
-293.0;Cesar-Tamalameque
-294.0;Chocó-Quibdó
-295.0;Chocó-Acandí
-296.0;Chocó-Alto Baudó
-297.0;Chocó-Atrato
-298.0;Chocó-Bagadó
-299.0;Chocó-Nuquí
-3.0;Antioquia-Abejorral
-30.0;Antioquia-Cañasgordas
-300.0;Chocó-Bajo Baudó
-301.0;Chocó-Bojayá
-302.0;Chocó-El Cantón del San Pablo
-303.0;Chocó-Carmen del Darién
-304.0;Chocó-Cértegui
-305.0;Chocó-Condoto
-306.0;Chocó-El Carmen
-307.0;Chocó-El Litoral del San Juán
-308.0;Chocó-Istmina
-309.0;Chocó-Juradó
-31.0;Antioquia-Caracolí
-310.0;Chocó-Lloró
-311.0;Chocó-Medio Atrato
-312.0;Chocó-Medio Baudó
-313.0;Chocó-Medio San Juan
-314.0;Chocó-Nóvita
-315.0;Chocó-Bahía Solano
-316.0;Chocó-Rio Iró
-317.0;Chocó-Rio Quito
-318.0;Chocó-Ríosucio
-319.0;Chocó-San José del Palmar
-32.0;Antioquia-Caramanta
-320.0;Chocó-Sipí
-321.0;Chocó-Tadó
-322.0;Chocó-Unguía
-323.0;Chocó-Unión Panamericana
-324.0;Córdoba-Montería
-325.0;Córdoba-Ayapel
-326.0;Córdoba-Buenavista
-327.0;Córdoba-Canalete
-328.0;Córdoba-Cereté
-329.0;Córdoba-Chima
-33.0;Antioquia-Carepa
-330.0;Córdoba-Chinú
-331.0;Córdoba-Ciénaga de Oro
-332.0;Córdoba-Cotorra
-333.0;Córdoba-La Apartada
-334.0;Córdoba-Lorica
-335.0;Córdoba-Los Córdobas
-336.0;Córdoba-Momil
-337.0;Córdoba-Montelíbano
-338.0;Córdoba-Moñitos
-339.0;Córdoba-Planeta Rica
-34.0;Antioquia-Carmen de Viboral
-340.0;Córdoba-Pueblo Nuevo
-341.0;Córdoba-Puerto Escondido
-342.0;Córdoba-Puerto Libertador
-343.0;Córdoba-Purísima
-344.0;Córdoba-Sahagún
-345.0;Córdoba-San Andrés de Sotavento
-346.0;Córdoba-San Antero
-347.0;Córdoba-San Bernardo del Viento
-348.0;Córdoba-San Carlos
-349.0;Córdoba-San José de Uré
-35.0;Antioquia-Carolina
-350.0;Córdoba-San Pelayo
-351.0;Córdoba-Tierralta
-352.0;Córdoba-Tuchín
-353.0;Córdoba-Valencia
-354.0;Cundinamarca-Venecia
-355.0;Cundinamarca-Agua de Dios
-356.0;Cundinamarca-Albán
-357.0;Cundinamarca-Anapoima
-358.0;Cundinamarca-Anolaima
-359.0;Cundinamarca-Arbeláez
-36.0;Antioquia-Caucasia
-360.0;Cundinamarca-Beltrán
-361.0;Cundinamarca-Bituima
-362.0;Cundinamarca-Bojacá
-363.0;Cundinamarca-Cabrera
-364.0;Cundinamarca-Cachipay
-365.0;Cundinamarca-Cajicá
-366.0;Cundinamarca-Caparrapí
-367.0;Cundinamarca-Cáqueza
-368.0;Cundinamarca-Carmen de Carupa
-369.0;Cundinamarca-Chaguaní
-37.0;Antioquia-Chigorodó
-370.0;Cundinamarca-Chía
-371.0;Cundinamarca-Chipaque
-372.0;Cundinamarca-Choachí
-373.0;Cundinamarca-Chocontá
-374.0;Cundinamarca-Cogua
-375.0;Cundinamarca-Cota
-376.0;Cundinamarca-Cucunubá
-377.0;Cundinamarca-El Colegio
-378.0;Cundinamarca-El Peñón
-379.0;Cundinamarca-El Rosal
-38.0;Antioquia-Cisneros
-380.0;Cundinamarca-Facatativá
-381.0;Cundinamarca-Fómeque
-382.0;Cundinamarca-Fosca
-383.0;Cundinamarca-Funza
-384.0;Cundinamarca-Fúquene
-385.0;Cundinamarca-Fusagasugá
-386.0;Cundinamarca-Gachalá
-387.0;Cundinamarca-Gachancipá
-388.0;Cundinamarca-Gachetá
-389.0;Cundinamarca-Gama
-39.0;Antioquia-Cocorná
-390.0;Cundinamarca-Girardot
-391.0;Cundinamarca-Granada
-392.0;Cundinamarca-Guachetá
-393.0;Cundinamarca-Guaduas
-394.0;Cundinamarca-Guasca
-395.0;Cundinamarca-Guataquí
-396.0;Cundinamarca-Guatavita
-397.0;Cundinamarca-Guayabal de Síquima
-398.0;Cundinamarca-Guayabetal
-399.0;Cundinamarca-Gutiérrez
-4.0;Antioquia-Abriaquí
-40.0;Antioquia-Concepción
-400.0;Cundinamarca-Jerusalén
-401.0;Cundinamarca-Junín
-402.0;Cundinamarca-La Calera
-403.0;Cundinamarca-La Mesa
-404.0;Cundinamarca-La Palma
-405.0;Cundinamarca-La Peña
-406.0;Cundinamarca-La Vega
-407.0;Cundinamarca-Lenguazaque
-408.0;Cundinamarca-Machetá
-409.0;Cundinamarca-Madrid
-41.0;Antioquia-Concordia
-410.0;Cundinamarca-Manta
-411.0;Cundinamarca-Medina
-412.0;Cundinamarca-Mosquera
-413.0;Cundinamarca-Nariño
-414.0;Cundinamarca-Nemocón
-415.0;Cundinamarca-Nilo
-416.0;Cundinamarca-Nimaima
-417.0;Cundinamarca-Nocaima
-418.0;Cundinamarca-Pacho
-419.0;Cundinamarca-Paime
-42.0;Antioquia-Copacabana
-420.0;Cundinamarca-Pandi
-421.0;Cundinamarca-Paratebueno
-422.0;Cundinamarca-Pasca
-423.0;Cundinamarca-Puerto Salgar
-424.0;Cundinamarca-Pulí
-425.0;Cundinamarca-Quebradanegra
-426.0;Cundinamarca-Quetame
-427.0;Cundinamarca-Quipile
-428.0;Cundinamarca-Apulo
-429.0;Cundinamarca-Ricaurte
-43.0;Antioquia-Dabeiba
-430.0;Cundinamarca-San Antonio del Tequendama
-431.0;Cundinamarca-San Bernardo
-432.0;Cundinamarca-San Cayetano
-433.0;Cundinamarca-San Francisco
-434.0;Cundinamarca-San Juan de Rioseco
-435.0;Cundinamarca-Sasaima
-436.0;Cundinamarca-Sesquilé
-437.0;Cundinamarca-Sibaté
-438.0;Cundinamarca-Silvania
-439.0;Cundinamarca-Simijaca
-44.0;Antioquia-Don Matias
-440.0;Cundinamarca-Soacha
-441.0;Cundinamarca-Sopó
-442.0;Cundinamarca-Subachoque
-443.0;Cundinamarca-Suesca
-444.0;Cundinamarca-Supatá
-445.0;Cundinamarca-Susa
-446.0;Cundinamarca-Sutatausa
-447.0;Cundinamarca-Tabio
-448.0;Cundinamarca-Tausa
-449.0;Cundinamarca-Tena
-45.0;Antioquia-Ebéjico
-450.0;Cundinamarca-Tenjo
-451.0;Cundinamarca-Tibacuy
-452.0;Cundinamarca-Tibirita
-453.0;Cundinamarca-Tocaima
-454.0;Cundinamarca-Tocancipá
-455.0;Cundinamarca-Topaipí
-456.0;Cundinamarca-Ubalá
-457.0;Cundinamarca-Ubaque
-458.0;Cundinamarca-Ubaté
-459.0;Cundinamarca-Une
-46.0;Antioquia-El Bagre
-460.0;Cundinamarca-Útica
-461.0;Cundinamarca-Vergara
-462.0;Cundinamarca-Vianí
-463.0;Cundinamarca-Villagómez
-464.0;Cundinamarca-Villapinzón
-465.0;Cundinamarca-Villeta
-466.0;Cundinamarca-Viotá
-467.0;Cundinamarca-Yacopí
-468.0;Cundinamarca-Zipacón
-469.0;Cundinamarca-Zipaquirá
-47.0;Antioquia-Entrerríos
-470.0;Bogotá, D.C.-Bogotá, D.C.
-471.0;Huila-Neiva
-472.0;Huila-Acevedo
-473.0;Huila-Agrado
-474.0;Huila-Aipe
-475.0;Huila-Algeciras
-476.0;Huila-Altamira
-477.0;Huila-Baraya
-478.0;Huila-Campoalegre
-479.0;Huila-Colombia
-48.0;Antioquia-Envigado
-480.0;Huila-Elías
-481.0;Huila-Garzón
-482.0;Huila-Gigante
-483.0;Huila-Guadalupe
-484.0;Huila-Hobo
-485.0;Huila-Íquira
-486.0;Huila-Isnos
-487.0;Huila-La Argentina
-488.0;Huila-La Plata
-489.0;Huila-Nátaga
-49.0;Antioquia-Fredonia
-490.0;Huila-Oporapa
-491.0;Huila-Paicol
-492.0;Huila-Palermo
-493.0;Huila-Palestina
-494.0;Huila-Pital
-495.0;Huila-Pitalito
-496.0;Huila-Rivera
-497.0;Huila-Saladoblanco
-498.0;Huila-San Agustín
-499.0;Huila-Santa María
-5.0;Antioquia-Alejandría
-50.0;Antioquia-Frontino
-500.0;Huila-Suaza
-501.0;Huila-Tarqui
-502.0;Huila-Tesalia
-503.0;Huila-Tello
-504.0;Huila-Teruel
-505.0;Huila-Timaná
-506.0;Huila-Villavieja
-507.0;Huila-Yaguará
-508.0;Magdalena-Ariguaní
-509.0;Magdalena-Chivolo
-51.0;Antioquia-Giraldo
-510.0;Magdalena-El Banco
-511.0;Magdalena-Guamal
-512.0;Magdalena-Nueva Granada
-513.0;Magdalena-Pedraza
-514.0;Magdalena-Pijiño del Carmen
-515.0;Magdalena-Plato
-516.0;Magdalena-San Sebastián de Buenavista
-517.0;Magdalena-San Zenón
-518.0;Magdalena-Santa Ana
-519.0;Magdalena-Santa Bárbara de Pinto
-52.0;Antioquia-Girardota
-520.0;Magdalena-Tenerife
-521.0;Meta-Villavicencio
-522.0;Meta-Barranca de Upía
-523.0;Meta-Cabuyaro
-524.0;Meta-Castilla La Nueva
-525.0;Meta-Cumaral
-526.0;Meta-El Calvario
-527.0;Meta-Puerto López
-528.0;Meta-Restrepo
-529.0;Meta-San Carlos de Guaroa
-53.0;Antioquia-Gómez Plata
-530.0;Meta-San Juanito
-531.0;Nariño-Albán
-532.0;Nariño-Aldana
-533.0;Nariño-Ancuya
-534.0;Nariño-Arboleda
-535.0;Nariño-Barbacoas
-536.0;Nariño-Belén
-537.0;Nariño-Buesaco
-538.0;Nariño-Colón
-539.0;Nariño-Consacá
-54.0;Antioquia-Granada
-540.0;Nariño-Contadero
-541.0;Nariño-Cuaspud
-542.0;Nariño-Cumbal
-543.0;Nariño-Cumbitara
-544.0;Nariño-Chachagüí
-545.0;Nariño-El Charco
-546.0;Nariño-El Peñol
-547.0;Nariño-El Rosario
-548.0;Nariño-El Tablón
-549.0;Nariño-El Tambo
-55.0;Antioquia-Guadalupe
-550.0;Nariño-Guachucal
-551.0;Nariño-Guaitarilla
-552.0;Nariño-Gualmatán
-553.0;Nariño-Iles
-554.0;Nariño-Imués
-555.0;Nariño-La Cruz
-556.0;Nariño-La Florida
-557.0;Nariño-La Llanada
-558.0;Nariño-La Tola
-559.0;Nariño-La Unión
-56.0;Antioquia-Guarne
-560.0;Nariño-Leiva
-561.0;Nariño-Linares
-562.0;Nariño-Los Andes
-563.0;Nariño-Magüí
-564.0;Nariño-Mallama
-565.0;Nariño-Mosquera
-566.0;Nariño-Nariño
-567.0;Nariño-Olaya Herrera
-568.0;Nariño-Ospina
-569.0;Nariño-Francisco Pizarro
-57.0;Antioquia-Guatapé
-570.0;Nariño-Policarpa
-571.0;Nariño-Providencia
-572.0;Nariño-Pupiales
-573.0;Nariño-Ricaurte
-574.0;Nariño-Roberto Payán
-575.0;Nariño-Samaniego
-576.0;Nariño-Sandoná
-577.0;Nariño-San Bernardo
-578.0;Nariño-San Lorenzo
-579.0;Nariño-San Pablo
-58.0;Antioquia-Heliconia
-580.0;Nariño-San Pedro de Cartago
-581.0;Nariño-Santa Bárbara
-582.0;Nariño-Santa Cruz
-583.0;Nariño-Sapuyes
-584.0;Nariño-Taminango
-585.0;Nariño-Tumaco
-586.0;Nariño-Túquerres
-587.0;Nariño-Yacuanquer
-588.0;Norte de Santander-El Carmen
-589.0;Norte de Santander-La Esperanza
-59.0;Antioquia-Hispania
-590.0;Norte de Santander-Ocaña
-591.0;Quindío-Armenia
-592.0;Quindío-Buenavista
-593.0;Quindío-Calarcá
-594.0;Quindío-Circasia
-595.0;Quindío-Córdoba
-596.0;Quindío-Filandia
-597.0;Quindío-Génova
-598.0;Quindío-La Tebaida
-599.0;Quindío-Montenegro
-6.0;Antioquia-Amagá
-60.0;Antioquia-Itagüí
-600.0;Quindío-Pijao
-601.0;Quindío-Quimbaya
-602.0;Quindío-Salento
-603.0;Risaralda-Pereira
-604.0;Risaralda-Apía
-605.0;Risaralda-Balboa
-606.0;Risaralda-Belén de Umbría
-607.0;Risaralda-Dosquebradas
-608.0;Risaralda-Guática
-609.0;Risaralda-La Celia
-61.0;Antioquia-Ituango
-610.0;Risaralda-La Virginia
-611.0;Risaralda-Marsella
-612.0;Risaralda-Mistrató
-613.0;Risaralda-Pueblo Rico
-614.0;Risaralda-Quinchía
-615.0;Risaralda-Santa Rosa de Cabal
-616.0;Risaralda-Santuario
-617.0;Santander-Aguada
-618.0;Santander-Albania
-619.0;Santander-Barbosa
-62.0;Antioquia-Jardín
-620.0;Santander-Barrancabermeja
-621.0;Santander-Betulia
-622.0;Santander-Bolívar
-623.0;Santander-Chima
-624.0;Santander-Chipatá
-625.0;Santander-Cimitarra
-626.0;Santander-Contratación
-627.0;Santander-El Carmen
-628.0;Santander-El Guacamayo
-629.0;Santander-El Peñón
-63.0;Antioquia-Jericó
-630.0;Santander-Florián
-631.0;Santander-Gámbita
-632.0;Santander-Girón
-633.0;Santander-Guadalupe
-634.0;Santander-Guavatá
-635.0;Santander-Güepsa
-636.0;Santander-Jesús María
-637.0;Santander-La Belleza
-638.0;Santander-Landázuri
-639.0;Santander-La Paz
-64.0;Antioquia-La Ceja
-640.0;Santander-Puente Nacional
-641.0;Santander-Puerto Parra
-642.0;Santander-Puerto Wilches
-643.0;Santander-Ríonegro
-644.0;Santander-Sabana de Torres
-645.0;Santander-San Benito
-646.0;Santander-San Vicente de Chucurí
-647.0;Santander-Santa Helena del Opón
-648.0;Santander-Simacota
-649.0;Santander-Suaita
-65.0;Antioquia-La Estrella
-650.0;Santander-Sucre
-651.0;Santander-Vélez
-652.0;Sucre-Sincelejo
-653.0;Sucre-Buenavista
-654.0;Sucre-Caimito
-655.0;Sucre-Colosó
-656.0;Sucre-Corozal
-657.0;Sucre-Coveñas
-658.0;Sucre-Chalán
-659.0;Sucre-El Roble
-66.0;Antioquia-La Pintada
-660.0;Sucre-Galeras
-661.0;Sucre-Guaranda
-662.0;Sucre-La Unión
-663.0;Sucre-Los Palmitos
-664.0;Sucre-Majagual
-665.0;Sucre-Morroa
-666.0;Sucre-Ovejas
-667.0;Sucre-Palmito
-668.0;Sucre-Sampués
-669.0;Sucre-San Benito Abad
-67.0;Antioquia-La Unión
-670.0;Sucre-San Juan de Betulia
-671.0;Sucre-San Marcos
-672.0;Sucre-San Onofre
-673.0;Sucre-San Pedro
-674.0;Sucre-Sincé
-675.0;Sucre-Sucre
-676.0;Sucre-Tolú
-677.0;Sucre-Toluviejo
-678.0;Tolima-Ibagué
-679.0;Tolima-Alpujarra
-68.0;Antioquia-Liborina
-680.0;Tolima-Alvarado
-681.0;Tolima-Ambalema
-682.0;Tolima-Anzoátegui
-683.0;Tolima-Armero
-684.0;Tolima-Ataco
-685.0;Tolima-Cajamarca
-686.0;Tolima-Carmen de Apicalá
-687.0;Tolima-Casabianca
-688.0;Tolima-Chaparral
-689.0;Tolima-Coello
-69.0;Antioquia-Maceo
-690.0;Tolima-Coyaima
-691.0;Tolima-Cunday
-692.0;Tolima-Dolores
-693.0;Tolima-Espinal
-694.0;Tolima-Falan
-695.0;Tolima-Flandes
-696.0;Tolima-Fresno
-697.0;Tolima-Guamo
-698.0;Tolima-Herveo
-699.0;Tolima-Honda
-7.0;Antioquia-Amalfi
-70.0;Antioquia-Marinilla
-700.0;Tolima-Icononzo
-701.0;Tolima-Lérida
-702.0;Tolima-Líbano
-703.0;Tolima-Mariquita
-704.0;Tolima-Melgar
-705.0;Tolima-Murillo
-706.0;Tolima-Natagaima
-707.0;Tolima-Ortega
-708.0;Tolima-Palocabildo
-709.0;Tolima-Piedras
-71.0;Antioquia-Montebello
-710.0;Tolima-Planadas
-711.0;Tolima-Prado
-712.0;Tolima-Purificación
-713.0;Tolima-Ríoblanco
-714.0;Tolima-Roncesvalles
-715.0;Tolima-Rovira
-716.0;Tolima-Saldaña
-717.0;Tolima-San Antonio
-718.0;Tolima-San Luis
-719.0;Tolima-Santa Isabel
-72.0;Antioquia-Murindó
-720.0;Tolima-Suárez
-721.0;Tolima-Valle de San Juan
-722.0;Tolima-Venadillo
-723.0;Tolima-Villahermosa
-724.0;Tolima-Villarrica
-725.0;Valle del Cauca-Argelia
-726.0;Valle del Cauca-Cali
-727.0;Valle del Cauca-Alcalá
-728.0;Valle del Cauca-Andalucía
-729.0;Valle del Cauca-Ansermanuevo
-73.0;Antioquia-Mutatá
-730.0;Valle del Cauca-Bolívar
-731.0;Valle del Cauca-Buga
-732.0;Valle del Cauca-Bugalagrande
-733.0;Valle del Cauca-Caicedonia
-734.0;Valle del Cauca-Calima
-735.0;Valle del Cauca-Candelaria
-736.0;Valle del Cauca-Cartago
-737.0;Valle del Cauca-Dagua
-738.0;Valle del Cauca-El Águila
-739.0;Valle del Cauca-El Cairo
-74.0;Antioquia-Nariño
-740.0;Valle del Cauca-El Cerrito
-741.0;Valle del Cauca-El Dovio
-742.0;Valle del Cauca-Florida
-743.0;Valle del Cauca-Ginebra
-744.0;Valle del Cauca-Guacarí
-745.0;Valle del Cauca-Jamundí
-746.0;Valle del Cauca-La Cumbre
-747.0;Valle del Cauca-La Unión
-748.0;Valle del Cauca-La Victoria
-749.0;Valle del Cauca-Obando
-75.0;Antioquia-Necoclí
-750.0;Valle del Cauca-Palmira
-751.0;Valle del Cauca-Pradera
-752.0;Valle del Cauca-Restrepo
-753.0;Valle del Cauca-Ríofrío
-754.0;Valle del Cauca-Roldanillo
-755.0;Valle del Cauca-San Pedro
-756.0;Valle del Cauca-Sevilla
-757.0;Valle del Cauca-Toro
-758.0;Valle del Cauca-Trujillo
-759.0;Valle del Cauca-Tuluá
-76.0;Antioquia-Nechí
-760.0;Valle del Cauca-Ulloa
-761.0;Valle del Cauca-Versalles
-762.0;Valle del Cauca-Vijes
-763.0;Valle del Cauca-Yotoco
-764.0;Valle del Cauca-Yumbo
-765.0;Valle del Cauca-Zarzal
-766.0;Vichada-Santa Rosalía
-767.0;Nariño-Tangua
-768.0;Caquetá-Albania
-769.0;Caquetá-Belén de Los Andaquíes
-77.0;Antioquia-Olaya
-770.0;Caquetá-Cartagena del Chairá
-771.0;Caquetá-Curillo
-772.0;Caquetá-El Doncello
-773.0;Caquetá-El Paujil
-774.0;Caquetá-Montañita
-775.0;Caquetá-Milán
-776.0;Caquetá-Morelia
-777.0;Caquetá-Puerto Rico
-778.0;Caquetá-San José del Fragua
-779.0;Caquetá-San Vicente del Caguán
-78.0;Antioquia-Peñol
-780.0;Caquetá-Solano
-781.0;Caquetá-Solita
-782.0;Caquetá-Valparaíso
-783.0;Caquetá-Florencia
-784.0;Cauca-Piamonte
-785.0;Cauca-San Sebastián
-786.0;Cauca-Santa Rosa
-787.0;Guainía-Sin decisión político administrativa 2
-788.0;Guainía-Inírida
-789.0;Guainía-Barranco Mina
-79.0;Antioquia-Peque
-790.0;Guainía-San Felipe
-791.0;Guaviare-San José del Guaviare
-792.0;Guaviare-Calamar
-793.0;Guaviare-El Retorno
-794.0;Guaviare-Miraflores
-795.0;Meta-Acacías
-796.0;Meta-Cubarral
-797.0;Meta-El Castillo
-798.0;Meta-El Dorado
-799.0;Meta-Fuente de Oro
-8.0;Antioquia-Andes
-80.0;Antioquia-Pueblorrico
-800.0;Meta-Granada
-801.0;Meta-Guamal
-802.0;Meta-Mapiripán
-803.0;Meta-Mesetas
-804.0;Meta-La Macarena
-805.0;Meta-Uribe
-806.0;Meta-Lejanías
-807.0;Meta-Puerto Concordia
-808.0;Meta-Puerto Gaitán
-809.0;Meta-Puerto Lleras
-81.0;Antioquia-Puerto Berrío
-810.0;Meta-Puerto Rico
-811.0;Meta-San Juan de Arama
-812.0;Meta-San Martín
-813.0;Meta-Vistahermosa
-814.0;Nariño-Pasto
-815.0;Nariño-Córdoba
-816.0;Nariño-Funes
-817.0;Nariño-Ipiales
-818.0;Nariño-Potosí
-819.0;Nariño-Puerres
-82.0;Antioquia-Puerto Nare
-820.0;Putumayo-Mocoa
-821.0;Putumayo-Colón
-822.0;Putumayo-Orito
-823.0;Putumayo-Puerto Asís
-824.0;Putumayo-Puerto Caicedo
-825.0;Putumayo-Puerto Guzmán
-826.0;Putumayo-Puerto Leguízamo
-827.0;Putumayo-Sibundoy
-828.0;Putumayo-San Francisco
-829.0;Putumayo-San Miguel
-83.0;Antioquia-Puerto Triunfo
-830.0;Putumayo-Santiago
-831.0;Putumayo-Valle del Guamuez
-832.0;Putumayo-Villagarzón
-833.0;Vaupés-Mitú
-834.0;Vaupés-Carurú
-835.0;Vaupés-Sin decisión político administrativa 3
-836.0;Vichada-Cumaribo
-837.0;Arauca-Arauca
-838.0;Arauca-Arauquita
-839.0;Arauca-Cravo Norte
-84.0;Antioquia-Remedios
-840.0;Arauca-Fortul
-841.0;Arauca-Puerto Rondón
-842.0;Arauca-Saravena
-843.0;Arauca-Tame
-844.0;Atlántico-Barranquilla
-845.0;Atlántico-Baranoa
-846.0;Atlántico-Campo de La Cruz
-847.0;Atlántico-Candelaria
-848.0;Atlántico-Galapa
-849.0;Atlántico-Juan de Acosta
-85.0;Antioquia-Retiro
-850.0;Atlántico-Luruaco
-851.0;Atlántico-Malambo
-852.0;Atlántico-Manatí
-853.0;Atlántico-Palmar de Varela
-854.0;Atlántico-Piojó
-855.0;Atlántico-Polonuevo
-856.0;Atlántico-Ponedera
-857.0;Atlántico-Puerto Colombia
-858.0;Atlántico-Repelón
-859.0;Atlántico-Sabanagrande
-86.0;Antioquia-Ríonegro
-860.0;Atlántico-Sabanalarga
-861.0;Atlántico-Santa Lucía
-862.0;Atlántico-Santo Tomás
-863.0;Atlántico-Soledad
-864.0;Atlántico-Suán
-865.0;Atlántico-Tubará
-866.0;Atlántico-Usiacurí
-867.0;Bolívar-Cartagena de Indias
-868.0;Bolívar-Arjona
-869.0;Bolívar-Arroyohondo
-87.0;Antioquia-Sabanalarga
-870.0;Bolívar-Calamar
-871.0;Bolívar-Clemencia
-872.0;Bolívar-Mahates
-873.0;Bolívar-San Cristóbal
-874.0;Bolívar-San Estanislao
-875.0;Bolívar-Santa Catalina
-876.0;Bolívar-Santa Rosa
-877.0;Bolívar-Soplaviento
-878.0;Bolívar-Turbaco
-879.0;Bolívar-Turbana
-88.0;Antioquia-Sabaneta
-880.0;Bolívar-Villanueva
-881.0;Boyacá-Tunja
-882.0;Boyacá-Almeida
-883.0;Boyacá-Aquitania
-884.0;Boyacá-Belén
-885.0;Boyacá-Berbeo
-886.0;Boyacá-Betéitiva
-887.0;Boyacá-Boavita
-888.0;Boyacá-Boyacá
-889.0;Boyacá-Busbanzá
-89.0;Antioquia-Salgar
-890.0;Boyacá-Campohermoso
-891.0;Boyacá-Cerinza
-892.0;Boyacá-Chinavita
-893.0;Boyacá-Chiscas
-894.0;Boyacá-Chita
-895.0;Boyacá-Chivatá
-896.0;Boyacá-Ciénega
-897.0;Boyacá-Cómbita
-898.0;Boyacá-Corrales
-899.0;Boyacá-Covarachía
-9.0;Antioquia-Angelópolis
-90.0;Antioquia-San Andrés
-900.0;Boyacá-Cubará
-901.0;Boyacá-Cuítiva
-902.0;Boyacá-Duitama
-903.0;Boyacá-El Cocuy
-904.0;Boyacá-El Espino
-905.0;Boyacá-Firavitoba
-906.0;Boyacá-Floresta
-907.0;Boyacá-Gámeza
-908.0;Boyacá-Garagoa
-909.0;Boyacá-Guacamayas
-91.0;Antioquia-San Carlos
-910.0;Boyacá-Guicán
-911.0;Boyacá-Iza
-912.0;Boyacá-Jenesano
-913.0;Boyacá-Jericó
-914.0;Boyacá-Labranzagrande
-915.0;Boyacá-La Uvita
-916.0;Boyacá-Macanal
-917.0;Boyacá-Miraflores
-918.0;Boyacá-Mongua
-919.0;Boyacá-Monguí
-92.0;Antioquia-San Francisco
-920.0;Boyacá-Motavita
-921.0;Boyacá-Nobsa
-922.0;Boyacá-Oicatá
-923.0;Boyacá-Pachavita
-924.0;Boyacá-Páez
-925.0;Boyacá-Paipa
-926.0;Boyacá-Pajarito
-927.0;Boyacá-Panqueba
-928.0;Boyacá-Paya
-929.0;Boyacá-Paz de Río
-93.0;Antioquia-San Jerónimo
-930.0;Boyacá-Pesca
-931.0;Boyacá-Pisva
-932.0;Boyacá-Ramiriquí
-933.0;Boyacá-Rondón
-934.0;Boyacá-San Eduardo
-935.0;Boyacá-San Mateo
-936.0;Boyacá-Santa Rosa de Viterbo
-937.0;Boyacá-Sativanorte
-938.0;Boyacá-Sativasur
-939.0;Boyacá-Siachoque
-94.0;Antioquia-San José de La Montaña
-940.0;Boyacá-Soatá
-941.0;Boyacá-Socotá
-942.0;Boyacá-Socha
-943.0;Boyacá-Sogamoso
-944.0;Boyacá-Sotaquirá
-945.0;Boyacá-Soracá
-946.0;Boyacá-Susacón
-947.0;Boyacá-Tasco
-948.0;Boyacá-Tibaná
-949.0;Boyacá-Tibasosa
-95.0;Antioquia-San Juan de Urabá
-950.0;Boyacá-Tipacoque
-951.0;Boyacá-Toca
-952.0;Boyacá-Tópaga
-953.0;Boyacá-Tota
-954.0;Boyacá-Tuta
-955.0;Boyacá-Tutazá
-956.0;Boyacá-Viracachá
-957.0;Boyacá-Zetaquira
-958.0;Casanare-Yopal
-959.0;Casanare-Aguazul
-96.0;Antioquia-San Luis
-960.0;Casanare-Chámeza
-961.0;Casanare-Hato Corozal
-962.0;Casanare-La Salina
-963.0;Casanare-Nunchía
-964.0;Casanare-Paz de Ariporo
-965.0;Casanare-Pore
-966.0;Casanare-Recetor
-967.0;Casanare-Sácama
-968.0;Casanare-San Luis de Palenque
-969.0;Casanare-Támara
-97.0;Antioquia-San Pedro
-970.0;Casanare-Trinidad
-971.0;Cesar-Valledupar
-972.0;Cesar-Agustín Codazzi
-973.0;Cesar-El Copey
-974.0;Cesar-González
-975.0;Cesar-Manaure Balcón del Cesar
-976.0;Cesar-Pueblo Bello
-977.0;Cesar-La Paz
-978.0;Cesar-San Diego
-979.0;La Guajira-Ríohacha
-98.0;Antioquia-San Pedro de Urabá
-980.0;La Guajira-Albania
-981.0;La Guajira-Barrancas
-982.0;La Guajira-Dibulla
-983.0;La Guajira-Distracción
-984.0;La Guajira-El Molino
-985.0;La Guajira-Fonseca
-986.0;La Guajira-Hato Nuevo
-987.0;La Guajira-La Jagua del Pilar
-988.0;La Guajira-Maicao
-989.0;La Guajira-Manaure
-99.0;Antioquia-San Rafael
-990.0;La Guajira-San Juan del Cesar
-991.0;La Guajira-Uribia
-992.0;La Guajira-Urumita
-993.0;La Guajira-Villanueva
-994.0;Magdalena-Concordia
-995.0;Magdalena-Santa Marta
-996.0;Magdalena-Algarrobo
-997.0;Magdalena-Aracataca
-998.0;Magdalena-Cerro de San Antonio
-999.0;Magdalena-Ciénaga
+1.0;Amazonas-Puerto Nariño
+10.0;Amazonas-Territorio Indígena La Victoria
+100.0;Antioquia-Salgar
+1000.0;Santander-Landázuri
+1001.0;Santander-La Paz
+1002.0;Santander-Lebrija
+1003.0;Santander-Los Santos
+1004.0;Santander-Macaravita
+1005.0;Santander-Málaga
+1006.0;Santander-Matanza
+1007.0;Santander-Mogotes
+1008.0;Santander-Molagavita
+1009.0;Santander-Ocamonte
+101.0;Antioquia-San Andrés
+1010.0;Santander-Oiba
+1011.0;Santander-Onzaga
+1012.0;Santander-Palmar
+1013.0;Santander-Palmas del Socorro
+1014.0;Santander-Páramo
+1015.0;Santander-Piedecuesta
+1016.0;Santander-Pinchote
+1017.0;Santander-Puente Nacional
+1018.0;Santander-Puerto Parra
+1019.0;Santander-Puerto Wilches
+102.0;Antioquia-San Carlos
+1020.0;Santander-Ríonegro
+1021.0;Santander-Sabana de Torres
+1022.0;Santander-San Andrés
+1023.0;Santander-San Benito
+1024.0;Santander-San Gil
+1025.0;Santander-San Joaquín
+1026.0;Santander-San José de Miranda
+1027.0;Santander-San Miguel
+1028.0;Santander-San Vicente de Chucurí
+1029.0;Santander-Santa Bárbara
+103.0;Antioquia-San Francisco
+1030.0;Santander-Santa Helena del Opón
+1031.0;Santander-Simacota
+1032.0;Santander-Socorro
+1033.0;Santander-Suaita
+1034.0;Santander-Sucre
+1035.0;Santander-Suratá
+1036.0;Santander-Tona
+1037.0;Santander-Valle de San José
+1038.0;Santander-Vélez
+1039.0;Santander-Vetas
+104.0;Antioquia-San Jerónimo
+1040.0;Santander-Villanueva
+1041.0;Santander-Zapatoca
+1042.0;Sucre-Sincelejo
+1043.0;Sucre-Buenavista
+1044.0;Sucre-Caimito
+1045.0;Sucre-Colosó
+1046.0;Sucre-Corozal
+1047.0;Sucre-Coveñas
+1048.0;Sucre-Chalán
+1049.0;Sucre-El Roble
+105.0;Antioquia-San José de La Montaña
+1050.0;Sucre-Galeras
+1051.0;Sucre-Guaranda
+1052.0;Sucre-La Unión
+1053.0;Sucre-Los Palmitos
+1054.0;Sucre-Majagual
+1055.0;Sucre-Morroa
+1056.0;Sucre-Ovejas
+1057.0;Sucre-Palmito
+1058.0;Sucre-Sampués
+1059.0;Sucre-San Benito Abad
+106.0;Antioquia-San Juan de Urabá
+1060.0;Sucre-San Juan de Betulia
+1061.0;Sucre-San Marcos
+1062.0;Sucre-San Onofre
+1063.0;Sucre-San Pedro
+1064.0;Sucre-Sincé
+1065.0;Sucre-Sucre
+1066.0;Sucre-Tolú
+1067.0;Sucre-Toluviejo
+1068.0;Sucre-Coveñas
+1069.0;Sucre-San Onofre
+107.0;Antioquia-San Luis
+1070.0;Sucre-Tolú
+1071.0;Tolima-Ibagué
+1072.0;Tolima-Alpujarra
+1073.0;Tolima-Alvarado
+1074.0;Tolima-Ambalema
+1075.0;Tolima-Anzoátegui
+1076.0;Tolima-Armero
+1077.0;Tolima-Ataco
+1078.0;Tolima-Cajamarca
+1079.0;Tolima-Carmen de Apicalá
+108.0;Antioquia-San Pedro
+1080.0;Tolima-Casabianca
+1081.0;Tolima-Chaparral
+1082.0;Tolima-Coello
+1083.0;Tolima-Coyaima
+1084.0;Tolima-Cunday
+1085.0;Tolima-Dolores
+1086.0;Tolima-Espinal
+1087.0;Tolima-Falan
+1088.0;Tolima-Flandes
+1089.0;Tolima-Fresno
+109.0;Antioquia-San Pedro de Urabá
+1090.0;Tolima-Guamo
+1091.0;Tolima-Herveo
+1092.0;Tolima-Honda
+1093.0;Tolima-Icononzo
+1094.0;Tolima-Lérida
+1095.0;Tolima-Líbano
+1096.0;Tolima-Mariquita
+1097.0;Tolima-Melgar
+1098.0;Tolima-Murillo
+1099.0;Tolima-Natagaima
+11.0;Amazonas-Territorio Indígena Yaigojé Apaporis
+110.0;Antioquia-San Rafael
+1100.0;Tolima-Ortega
+1101.0;Tolima-Palocabildo
+1102.0;Tolima-Piedras
+1103.0;Tolima-Planadas
+1104.0;Tolima-Prado
+1105.0;Tolima-Purificación
+1106.0;Tolima-Ríoblanco
+1107.0;Tolima-Roncesvalles
+1108.0;Tolima-Rovira
+1109.0;Tolima-Saldaña
+111.0;Antioquia-San Roque
+1110.0;Tolima-San Antonio
+1111.0;Tolima-San Luis
+1112.0;Tolima-Santa Isabel
+1113.0;Tolima-Suárez
+1114.0;Tolima-Valle de San Juan
+1115.0;Tolima-Venadillo
+1116.0;Tolima-Villahermosa
+1117.0;Tolima-Villarrica
+1118.0;Valle del Cauca-Argelia
+1119.0;Valle del Cauca-Cali
+112.0;Antioquia-San Vicente
+1120.0;Valle del Cauca-Alcalá
+1121.0;Valle del Cauca-Andalucía
+1122.0;Valle del Cauca-Ansermanuevo
+1123.0;Valle del Cauca-Bolívar
+1124.0;Valle del Cauca-Buenaventura
+1125.0;Valle del Cauca-Buga
+1126.0;Valle del Cauca-Bugalagrande
+1127.0;Valle del Cauca-Caicedonia
+1128.0;Valle del Cauca-Calima
+1129.0;Valle del Cauca-Candelaria
+113.0;Antioquia-Santa Bárbara
+1130.0;Valle del Cauca-Cartago
+1131.0;Valle del Cauca-Dagua
+1132.0;Valle del Cauca-El Águila
+1133.0;Valle del Cauca-El Cairo
+1134.0;Valle del Cauca-El Cerrito
+1135.0;Valle del Cauca-El Dovio
+1136.0;Valle del Cauca-Florida
+1137.0;Valle del Cauca-Ginebra
+1138.0;Valle del Cauca-Guacarí
+1139.0;Valle del Cauca-Jamundí
+114.0;Antioquia-Santa Rosa de Osos
+1140.0;Valle del Cauca-La Cumbre
+1141.0;Valle del Cauca-La Unión
+1142.0;Valle del Cauca-La Victoria
+1143.0;Valle del Cauca-Obando
+1144.0;Valle del Cauca-Palmira
+1145.0;Valle del Cauca-Pradera
+1146.0;Valle del Cauca-Restrepo
+1147.0;Valle del Cauca-Ríofrío
+1148.0;Valle del Cauca-Roldanillo
+1149.0;Valle del Cauca-San Pedro
+115.0;Antioquia-Santo Domingo
+1150.0;Valle del Cauca-Sevilla
+1151.0;Valle del Cauca-Toro
+1152.0;Valle del Cauca-Trujillo
+1153.0;Valle del Cauca-Tuluá
+1154.0;Valle del Cauca-Ulloa
+1155.0;Valle del Cauca-Versalles
+1156.0;Valle del Cauca-Vijes
+1157.0;Valle del Cauca-Yotoco
+1158.0;Valle del Cauca-Yumbo
+1159.0;Valle del Cauca-Zarzal
+116.0;Antioquia-Santuario
+1160.0;Valle del Cauca-Buenaventura
+1161.0;Valle del Cauca-Buenaventura
+1162.0;Vaupés-Mitú
+1163.0;Vaupés-Carurú
+1164.0;Vaupés-Taraira
+1165.0;Vaupés-Territorio Indígena del Río Tiquié
+1166.0;Vaupés-Territorio Indígena de Papunahua
+1167.0;Vaupés-Territorio Indígena del Papurí
+1168.0;Vaupés-Sin decisión político administrativa 3
+1169.0;Vaupés-Territorio Indígena del Río Pirá Para
+117.0;Antioquia-Segovia
+1170.0;Vaupés-Territorio Indígena del Vaupés
+1171.0;Vichada-Puerto Carreño
+1172.0;Vichada-La Primavera
+1173.0;Vichada-Santa Rosalía
+1174.0;Vichada-Cumaribo
+1175.0;Área en Litigio-Área en Litigio
+118.0;Antioquia-Sonsón
+119.0;Antioquia-Sopetrán
+12.0;Amazonas-Territorio Indígena PANI
+120.0;Antioquia-Támesis
+121.0;Antioquia-Tarazá
+122.0;Antioquia-Tarso
+123.0;Antioquia-Titiribí
+124.0;Antioquia-Toledo
+125.0;Antioquia-Turbo
+126.0;Antioquia-Uramita
+127.0;Antioquia-Urrao
+128.0;Antioquia-Valdivia
+129.0;Antioquia-Valparaíso
+13.0;Antioquia-Medellín
+130.0;Antioquia-Vegachí
+131.0;Antioquia-Venecia
+132.0;Antioquia-Vigía del Fuerte
+133.0;Antioquia-Yalí
+134.0;Antioquia-Yarumal
+135.0;Antioquia-Yolombó
+136.0;Antioquia-Yondó
+137.0;Antioquia-Zaragoza
+138.0;Antioquia-Arboletes
+139.0;Antioquia-Necoclí
+14.0;Antioquia-Abejorral
+140.0;Antioquia-San Juan de Urabá
+141.0;Antioquia-Turbo
+142.0;Arauca-Arauca
+143.0;Arauca-Arauquita
+144.0;Arauca-Cravo Norte
+145.0;Arauca-Fortul
+146.0;Arauca-Puerto Rondón
+147.0;Arauca-Saravena
+148.0;Arauca-Tame
+149.0;Atlántico-Barranquilla
+15.0;Antioquia-Abriaquí
+150.0;Atlántico-Baranoa
+151.0;Atlántico-Campo de La Cruz
+152.0;Atlántico-Candelaria
+153.0;Atlántico-Galapa
+154.0;Atlántico-Juan de Acosta
+155.0;Atlántico-Luruaco
+156.0;Atlántico-Malambo
+157.0;Atlántico-Manatí
+158.0;Atlántico-Palmar de Varela
+159.0;Atlántico-Piojó
+16.0;Antioquia-Alejandría
+160.0;Atlántico-Polonuevo
+161.0;Atlántico-Ponedera
+162.0;Atlántico-Puerto Colombia
+163.0;Atlántico-Repelón
+164.0;Atlántico-Sabanagrande
+165.0;Atlántico-Sabanalarga
+166.0;Atlántico-Santa Lucía
+167.0;Atlántico-Santo Tomás
+168.0;Atlántico-Soledad
+169.0;Atlántico-Suán
+17.0;Antioquia-Amagá
+170.0;Atlántico-Tubará
+171.0;Atlántico-Usiacurí
+172.0;Atlántico-Barranquilla
+173.0;Atlántico-Juan de Acosta
+174.0;Atlántico-Piojó
+175.0;Atlántico-Puerto Colombia
+176.0;Atlántico-Tubará
+177.0;Bogotá, D.C.-Bogotá, D.C.
+178.0;Bolívar-Cartagena de Indias
+179.0;Bolívar-Achí
+18.0;Antioquia-Amalfi
+180.0;Bolívar-Altos del Rosario
+181.0;Bolívar-Arenal
+182.0;Bolívar-Arjona
+183.0;Bolívar-Arroyohondo
+184.0;Bolívar-Barranco de Loba
+185.0;Bolívar-Calamar
+186.0;Bolívar-Cantagallo
+187.0;Bolívar-Cicuco
+188.0;Bolívar-Córdoba
+189.0;Bolívar-Clemencia
+19.0;Antioquia-Andes
+190.0;Bolívar-El Carmen de Bolívar
+191.0;Bolívar-El Guamo
+192.0;Bolívar-El Peñón
+193.0;Bolívar-Hatillo de Loba
+194.0;Bolívar-Magangué
+195.0;Bolívar-Mahates
+196.0;Bolívar-Margarita
+197.0;Bolívar-María La Baja
+198.0;Bolívar-Montecristo
+199.0;Bolívar-Mompós
+2.0;Amazonas-Sin decisión político administrativa 1
+20.0;Antioquia-Angelópolis
+200.0;Bolívar-Morales
+201.0;Bolívar-Norosí
+202.0;Bolívar-Pinillos
+203.0;Bolívar-Regidor
+204.0;Bolívar-Ríoviejo
+205.0;Bolívar-San Cristóbal
+206.0;Bolívar-San Estanislao
+207.0;Bolívar-San Fernando
+208.0;Bolívar-San Jacinto
+209.0;Bolívar-San Jacinto del Cauca
+21.0;Antioquia-Angostura
+210.0;Bolívar-San Juan Nepomuceno
+211.0;Bolívar-San Martín de Loba
+212.0;Bolívar-San Pablo
+213.0;Bolívar-Santa Catalina
+214.0;Bolívar-Santa Rosa
+215.0;Bolívar-Santa Rosa del Sur
+216.0;Bolívar-Simití
+217.0;Bolívar-Soplaviento
+218.0;Bolívar-Talaigua Nuevo
+219.0;Bolívar-Tiquisio
+22.0;Antioquia-Anorí
+220.0;Bolívar-Turbaco
+221.0;Bolívar-Turbana
+222.0;Bolívar-Villanueva
+223.0;Bolívar-Zambrano
+224.0;Bolívar-Cartagena de Indias
+225.0;Bolívar-Santa Catalina
+226.0;Bolívar-Turbana
+227.0;Boyacá-Tunja
+228.0;Boyacá-Almeida
+229.0;Boyacá-Aquitania
+23.0;Antioquia-Santa Fe de Antioquia
+230.0;Boyacá-Arcabuco
+231.0;Boyacá-Belén
+232.0;Boyacá-Berbeo
+233.0;Boyacá-Betéitiva
+234.0;Boyacá-Boavita
+235.0;Boyacá-Boyacá
+236.0;Boyacá-Briceño
+237.0;Boyacá-Buenavista
+238.0;Boyacá-Busbanzá
+239.0;Boyacá-Caldas
+24.0;Antioquia-Anzá
+240.0;Boyacá-Campohermoso
+241.0;Boyacá-Cerinza
+242.0;Boyacá-Chinavita
+243.0;Boyacá-Chiquinquirá
+244.0;Boyacá-Chiscas
+245.0;Boyacá-Chita
+246.0;Boyacá-Chitaraque
+247.0;Boyacá-Chivatá
+248.0;Boyacá-Ciénega
+249.0;Boyacá-Cómbita
+25.0;Antioquia-Apartadó
+250.0;Boyacá-Coper
+251.0;Boyacá-Corrales
+252.0;Boyacá-Covarachía
+253.0;Boyacá-Cubará
+254.0;Boyacá-Cucaita
+255.0;Boyacá-Cuítiva
+256.0;Boyacá-Chíquiza
+257.0;Boyacá-Chivor
+258.0;Boyacá-Duitama
+259.0;Boyacá-El Cocuy
+26.0;Antioquia-Arboletes
+260.0;Boyacá-El Espino
+261.0;Boyacá-Firavitoba
+262.0;Boyacá-Floresta
+263.0;Boyacá-Gachantivá
+264.0;Boyacá-Gámeza
+265.0;Boyacá-Garagoa
+266.0;Boyacá-Guacamayas
+267.0;Boyacá-Guateque
+268.0;Boyacá-Guayatá
+269.0;Boyacá-Guicán
+27.0;Antioquia-Argelia
+270.0;Boyacá-Iza
+271.0;Boyacá-Jenesano
+272.0;Boyacá-Jericó
+273.0;Boyacá-Labranzagrande
+274.0;Boyacá-La Capilla
+275.0;Boyacá-La Victoria
+276.0;Boyacá-La Uvita
+277.0;Boyacá-Villa de Leiva
+278.0;Boyacá-Macanal
+279.0;Boyacá-Maripí
+28.0;Antioquia-Armenia
+280.0;Boyacá-Miraflores
+281.0;Boyacá-Mongua
+282.0;Boyacá-Monguí
+283.0;Boyacá-Moniquirá
+284.0;Boyacá-Motavita
+285.0;Boyacá-Muzo
+286.0;Boyacá-Nobsa
+287.0;Boyacá-Nuevo Colón
+288.0;Boyacá-Oicatá
+289.0;Boyacá-Otanche
+29.0;Antioquia-Barbosa
+290.0;Boyacá-Pachavita
+291.0;Boyacá-Páez
+292.0;Boyacá-Paipa
+293.0;Boyacá-Pajarito
+294.0;Boyacá-Panqueba
+295.0;Boyacá-Pauna
+296.0;Boyacá-Paya
+297.0;Boyacá-Paz de Río
+298.0;Boyacá-Pesca
+299.0;Boyacá-Pisva
+3.0;Amazonas-Leticia
+30.0;Antioquia-Belmira
+300.0;Boyacá-Puerto Boyacá
+301.0;Boyacá-Quípama
+302.0;Boyacá-Ramiriquí
+303.0;Boyacá-Ráquira
+304.0;Boyacá-Rondón
+305.0;Boyacá-Saboyá
+306.0;Boyacá-Sáchica
+307.0;Boyacá-Samacá
+308.0;Boyacá-San Eduardo
+309.0;Boyacá-San José de Pare
+31.0;Antioquia-Bello
+310.0;Boyacá-San Luis de Gaceno
+311.0;Boyacá-San Mateo
+312.0;Boyacá-San Miguel de Sema
+313.0;Boyacá-San Pablo de Borbur
+314.0;Boyacá-Santana
+315.0;Boyacá-Santa María
+316.0;Boyacá-Santa Rosa de Viterbo
+317.0;Boyacá-Santa Sofía
+318.0;Boyacá-Sativanorte
+319.0;Boyacá-Sativasur
+32.0;Antioquia-Betania
+320.0;Boyacá-Siachoque
+321.0;Boyacá-Soatá
+322.0;Boyacá-Socotá
+323.0;Boyacá-Socha
+324.0;Boyacá-Sogamoso
+325.0;Boyacá-Somondoco
+326.0;Boyacá-Sora
+327.0;Boyacá-Sotaquirá
+328.0;Boyacá-Soracá
+329.0;Boyacá-Susacón
+33.0;Antioquia-Betulia
+330.0;Boyacá-Sutamarchán
+331.0;Boyacá-Sutatenza
+332.0;Boyacá-Tasco
+333.0;Boyacá-Tenza
+334.0;Boyacá-Tibaná
+335.0;Boyacá-Tibasosa
+336.0;Boyacá-Tinjacá
+337.0;Boyacá-Tipacoque
+338.0;Boyacá-Toca
+339.0;Boyacá-Togüí
+34.0;Antioquia-Ciudad Bolívar
+340.0;Boyacá-Tópaga
+341.0;Boyacá-Tota
+342.0;Boyacá-Tununguá
+343.0;Boyacá-Turmequé
+344.0;Boyacá-Tuta
+345.0;Boyacá-Tutazá
+346.0;Boyacá-Úmbita
+347.0;Boyacá-Ventaquemada
+348.0;Boyacá-Viracachá
+349.0;Boyacá-Zetaquira
+35.0;Antioquia-Briceño
+350.0;Caldas-Manizales
+351.0;Caldas-Aguadas
+352.0;Caldas-Anserma
+353.0;Caldas-Aranzazu
+354.0;Caldas-Belalcazar
+355.0;Caldas-Chinchiná
+356.0;Caldas-Filadelfia
+357.0;Caldas-La Dorada
+358.0;Caldas-La Merced
+359.0;Caldas-Manzanares
+36.0;Antioquia-Buriticá
+360.0;Caldas-Marmato
+361.0;Caldas-Marquetalia
+362.0;Caldas-Marulanda
+363.0;Caldas-Neira
+364.0;Caldas-Norcasia
+365.0;Caldas-Pácora
+366.0;Caldas-Palestina
+367.0;Caldas-Pensilvania
+368.0;Caldas-Ríosucio
+369.0;Caldas-Risaralda
+37.0;Antioquia-Cáceres
+370.0;Caldas-Salamina
+371.0;Caldas-Samaná
+372.0;Caldas-San José
+373.0;Caldas-Supia
+374.0;Caldas-Victoria
+375.0;Caldas-Villamaría
+376.0;Caldas-Viterbo
+377.0;Caquetá-Albania
+378.0;Caquetá-Belén de Los Andaquíes
+379.0;Caquetá-Cartagena del Chairá
+38.0;Antioquia-Caicedo
+380.0;Caquetá-Curillo
+381.0;Caquetá-El Doncello
+382.0;Caquetá-El Paujil
+383.0;Caquetá-Montañita
+384.0;Caquetá-Milán
+385.0;Caquetá-Morelia
+386.0;Caquetá-Puerto Rico
+387.0;Caquetá-San José del Fragua
+388.0;Caquetá-San Vicente del Caguán
+389.0;Caquetá-Solano
+39.0;Antioquia-Caldas
+390.0;Caquetá-Solita
+391.0;Caquetá-Valparaíso
+392.0;Caquetá-Florencia
+393.0;Casanare-Sabanalarga
+394.0;Casanare-Villanueva
+395.0;Casanare-Yopal
+396.0;Casanare-Aguazul
+397.0;Casanare-Chámeza
+398.0;Casanare-Hato Corozal
+399.0;Casanare-La Salina
+4.0;Amazonas-Territorio Indígena Mirití Paraná
+40.0;Antioquia-Campamento
+400.0;Casanare-Maní
+401.0;Casanare-Monterrey
+402.0;Casanare-Nunchía
+403.0;Casanare-Orocué
+404.0;Casanare-Paz de Ariporo
+405.0;Casanare-Pore
+406.0;Casanare-Recetor
+407.0;Casanare-Sácama
+408.0;Casanare-San Luis de Palenque
+409.0;Casanare-Támara
+41.0;Antioquia-Cañasgordas
+410.0;Casanare-Tauramena
+411.0;Casanare-Trinidad
+412.0;Cauca-Popayán
+413.0;Cauca-Almaguer
+414.0;Cauca-Argelia
+415.0;Cauca-Balboa
+416.0;Cauca-Buenos Aires
+417.0;Cauca-Cajibío
+418.0;Cauca-Caldono
+419.0;Cauca-Caloto
+42.0;Antioquia-Caracolí
+420.0;Cauca-Corinto
+421.0;Cauca-El Tambo
+422.0;Cauca-Florencia
+423.0;Cauca-Guachené
+424.0;Cauca-Guapi
+425.0;Cauca-Inzá
+426.0;Cauca-Jambaló
+427.0;Cauca-La Sierra
+428.0;Cauca-La Vega
+429.0;Cauca-López
+43.0;Antioquia-Caramanta
+430.0;Cauca-Mercaderes
+431.0;Cauca-Miranda
+432.0;Cauca-Morales
+433.0;Cauca-Padilla
+434.0;Cauca-Páez
+435.0;Cauca-Patía
+436.0;Cauca-Piamonte
+437.0;Cauca-Piendamó
+438.0;Cauca-Puerto Tejada
+439.0;Cauca-Puracé
+44.0;Antioquia-Carepa
+440.0;Cauca-Rosas
+441.0;Cauca-San Sebastián
+442.0;Cauca-Santander de Quilichao
+443.0;Cauca-Santa Rosa
+444.0;Cauca-Silvia
+445.0;Cauca-Sotará
+446.0;Cauca-Suárez
+447.0;Cauca-Timbío
+448.0;Cauca-Timbiquí
+449.0;Cauca-Toribío
+45.0;Antioquia-Carmen de Viboral
+450.0;Cauca-Totoró
+451.0;Cauca-Villa Rica
+452.0;Cauca-Sucre
+453.0;Cauca-Bolívar
+454.0;Cauca-López
+455.0;Cauca-Timbiquí
+456.0;Cauca-Guapi
+457.0;Cesar-Valledupar
+458.0;Cesar-Aguachica
+459.0;Cesar-Agustín Codazzi
+46.0;Antioquia-Carolina
+460.0;Cesar-Astrea
+461.0;Cesar-Becerril
+462.0;Cesar-Bosconia
+463.0;Cesar-Chimichagua
+464.0;Cesar-Chiriguaná
+465.0;Cesar-Curumaní
+466.0;Cesar-El Copey
+467.0;Cesar-El Paso
+468.0;Cesar-Gamarra
+469.0;Cesar-González
+47.0;Antioquia-Caucasia
+470.0;Cesar-La Gloria
+471.0;Cesar-La Jagua de Ibirico
+472.0;Cesar-Manaure Balcón del Cesar
+473.0;Cesar-Pailitas
+474.0;Cesar-Pelaya
+475.0;Cesar-Pueblo Bello
+476.0;Cesar-Rio de Oro
+477.0;Cesar-La Paz
+478.0;Cesar-San Alberto
+479.0;Cesar-San Diego
+48.0;Antioquia-Chigorodó
+480.0;Cesar-San Martín
+481.0;Cesar-Tamalameque
+482.0;Chocó-Valledupar
+483.0;Chocó-Acandí
+484.0;Chocó-Alto Baudó
+485.0;Chocó-Atrato
+486.0;Chocó-Bagadó
+487.0;Chocó-Nuquí
+488.0;Chocó-Bajo Baudó
+489.0;Chocó-Bojayá
+49.0;Antioquia-Cisneros
+490.0;Chocó-El Cantón del San Pablo
+491.0;Chocó-Carmen del Darién
+492.0;Chocó-Cértegui
+493.0;Chocó-Condoto
+494.0;Chocó-El Carmen
+495.0;Chocó-El Litoral del San Juán
+496.0;Chocó-Istmina
+497.0;Chocó-Juradó
+498.0;Chocó-Lloró
+499.0;Chocó-Medio Atrato
+5.0;Amazonas-Territorio Indígena Bajo Río Caquetá
+50.0;Antioquia-Cocorná
+500.0;Chocó-Medio Baudó
+501.0;Chocó-Medio San Juan
+502.0;Chocó-Nóvita
+503.0;Chocó-Bahía Solano
+504.0;Chocó-Rio Iró
+505.0;Chocó-Rio Quito
+506.0;Chocó-Ríosucio
+507.0;Chocó-San José del Palmar
+508.0;Chocó-Sipí
+509.0;Chocó-Tadó
+51.0;Antioquia-Concepción
+510.0;Chocó-Unguía
+511.0;Chocó-Unión Panamericana
+512.0;Chocó-Acandí
+513.0;Chocó-Nuquí
+514.0;Chocó-Bajo Baudó
+515.0;Chocó-El Litoral del San Juán
+516.0;Chocó-Juradó
+517.0;Chocó-Bahía Solano
+518.0;Chocó-Unguía
+519.0;Cundinamarca-Venecia
+52.0;Antioquia-Concordia
+520.0;Cundinamarca-Agua de Dios
+521.0;Cundinamarca-Albán
+522.0;Cundinamarca-Anapoima
+523.0;Cundinamarca-Anolaima
+524.0;Cundinamarca-Arbeláez
+525.0;Cundinamarca-Beltrán
+526.0;Cundinamarca-Bituima
+527.0;Cundinamarca-Bojacá
+528.0;Cundinamarca-Cabrera
+529.0;Cundinamarca-Cachipay
+53.0;Antioquia-Copacabana
+530.0;Cundinamarca-Cajicá
+531.0;Cundinamarca-Caparrapí
+532.0;Cundinamarca-Cáqueza
+533.0;Cundinamarca-Carmen de Carupa
+534.0;Cundinamarca-Chaguaní
+535.0;Cundinamarca-Chía
+536.0;Cundinamarca-Chipaque
+537.0;Cundinamarca-Choachí
+538.0;Cundinamarca-Chocontá
+539.0;Cundinamarca-Cogua
+54.0;Antioquia-Dabeiba
+540.0;Cundinamarca-Cota
+541.0;Cundinamarca-Cucunubá
+542.0;Cundinamarca-El Colegio
+543.0;Cundinamarca-El Peñón
+544.0;Cundinamarca-El Rosal
+545.0;Cundinamarca-Facatativá
+546.0;Cundinamarca-Fómeque
+547.0;Cundinamarca-Fosca
+548.0;Cundinamarca-Funza
+549.0;Cundinamarca-Fúquene
+55.0;Antioquia-Don Matias
+550.0;Cundinamarca-Fusagasugá
+551.0;Cundinamarca-Gachalá
+552.0;Cundinamarca-Gachancipá
+553.0;Cundinamarca-Gachetá
+554.0;Cundinamarca-Gama
+555.0;Cundinamarca-Girardot
+556.0;Cundinamarca-Granada
+557.0;Cundinamarca-Guachetá
+558.0;Cundinamarca-Guaduas
+559.0;Cundinamarca-Guasca
+56.0;Antioquia-Ebéjico
+560.0;Cundinamarca-Guataquí
+561.0;Cundinamarca-Guatavita
+562.0;Cundinamarca-Guayabal de Síquima
+563.0;Cundinamarca-Guayabetal
+564.0;Cundinamarca-Gutiérrez
+565.0;Cundinamarca-Jerusalén
+566.0;Cundinamarca-Junín
+567.0;Cundinamarca-La Calera
+568.0;Cundinamarca-La Mesa
+569.0;Cundinamarca-La Palma
+57.0;Antioquia-El Bagre
+570.0;Cundinamarca-La Peña
+571.0;Cundinamarca-La Vega
+572.0;Cundinamarca-Lenguazaque
+573.0;Cundinamarca-Machetá
+574.0;Cundinamarca-Madrid
+575.0;Cundinamarca-Manta
+576.0;Cundinamarca-Medina
+577.0;Cundinamarca-Mosquera
+578.0;Cundinamarca-Nariño
+579.0;Cundinamarca-Nemocón
+58.0;Antioquia-Entrerríos
+580.0;Cundinamarca-Nilo
+581.0;Cundinamarca-Nimaima
+582.0;Cundinamarca-Nocaima
+583.0;Cundinamarca-Pacho
+584.0;Cundinamarca-Paime
+585.0;Cundinamarca-Pandi
+586.0;Cundinamarca-Paratebueno
+587.0;Cundinamarca-Pasca
+588.0;Cundinamarca-Puerto Salgar
+589.0;Cundinamarca-Pulí
+59.0;Antioquia-Envigado
+590.0;Cundinamarca-Quebradanegra
+591.0;Cundinamarca-Quetame
+592.0;Cundinamarca-Quipile
+593.0;Cundinamarca-Apulo
+594.0;Cundinamarca-Ricaurte
+595.0;Cundinamarca-San Antonio del Tequendama
+596.0;Cundinamarca-San Bernardo
+597.0;Cundinamarca-San Cayetano
+598.0;Cundinamarca-San Francisco
+599.0;Cundinamarca-San Juan de Rioseco
+6.0;Amazonas-Territorio Indígena Arica
+60.0;Antioquia-Fredonia
+600.0;Cundinamarca-Sasaima
+601.0;Cundinamarca-Sesquilé
+602.0;Cundinamarca-Sibaté
+603.0;Cundinamarca-Silvania
+604.0;Cundinamarca-Simijaca
+605.0;Cundinamarca-Soacha
+606.0;Cundinamarca-Sopó
+607.0;Cundinamarca-Subachoque
+608.0;Cundinamarca-Suesca
+609.0;Cundinamarca-Supatá
+61.0;Antioquia-Frontino
+610.0;Cundinamarca-Susa
+611.0;Cundinamarca-Sutatausa
+612.0;Cundinamarca-Tabio
+613.0;Cundinamarca-Tausa
+614.0;Cundinamarca-Tena
+615.0;Cundinamarca-Tenjo
+616.0;Cundinamarca-Tibacuy
+617.0;Cundinamarca-Tibirita
+618.0;Cundinamarca-Tocaima
+619.0;Cundinamarca-Tocancipá
+62.0;Antioquia-Giraldo
+620.0;Cundinamarca-Topaipí
+621.0;Cundinamarca-Ubalá
+622.0;Cundinamarca-Ubaque
+623.0;Cundinamarca-Ubaté
+624.0;Cundinamarca-Une
+625.0;Cundinamarca-Útica
+626.0;Cundinamarca-Vergara
+627.0;Cundinamarca-Vianí
+628.0;Cundinamarca-Villagómez
+629.0;Cundinamarca-Villapinzón
+63.0;Antioquia-Girardota
+630.0;Cundinamarca-Villeta
+631.0;Cundinamarca-Viotá
+632.0;Cundinamarca-Yacopí
+633.0;Cundinamarca-Zipacón
+634.0;Cundinamarca-Zipaquirá
+635.0;Córdoba-Montería
+636.0;Córdoba-Ayapel
+637.0;Córdoba-Buenavista
+638.0;Córdoba-Canalete
+639.0;Córdoba-Cereté
+64.0;Antioquia-Gómez Plata
+640.0;Córdoba-Chima
+641.0;Córdoba-Chinú
+642.0;Córdoba-Ciénaga de Oro
+643.0;Córdoba-Cotorra
+644.0;Córdoba-La Apartada
+645.0;Córdoba-Lorica
+646.0;Córdoba-Los Córdobas
+647.0;Córdoba-Momil
+648.0;Córdoba-Montelíbano
+649.0;Córdoba-Moñitos
+65.0;Antioquia-Granada
+650.0;Córdoba-Planeta Rica
+651.0;Córdoba-Pueblo Nuevo
+652.0;Córdoba-Puerto Escondido
+653.0;Córdoba-Puerto Libertador
+654.0;Córdoba-Purísima
+655.0;Córdoba-Sahagún
+656.0;Córdoba-San Andrés de Sotavento
+657.0;Córdoba-San Antero
+658.0;Córdoba-San Bernardo del Viento
+659.0;Córdoba-San Carlos
+66.0;Antioquia-Guadalupe
+660.0;Córdoba-San José de Uré
+661.0;Córdoba-San Pelayo
+662.0;Córdoba-Tierralta
+663.0;Córdoba-Tuchín
+664.0;Córdoba-Valencia
+665.0;Córdoba-Los Córdobas
+666.0;Córdoba-Moñitos
+667.0;Córdoba-Puerto Escondido
+668.0;Córdoba-San Antero
+669.0;Córdoba-San Bernardo del Viento
+67.0;Antioquia-Guarne
+670.0;Guainía-Barranco Mina
+671.0;Guainía-Territorio Indígena del Alto Guainía
+672.0;Guainía-Territorio Indígena  Isana y Surubí
+673.0;Guainía-Territorio Indígena del Medio Guainía
+674.0;Guainía-Territorio Indígena del Bajo Guainía
+675.0;Guainía-Territorio Ancestral  Atabapo e Inírida
+676.0;Guainía-Sin decisión político administrativa 2
+677.0;Guainía-Inírida
+678.0;Guaviare-San José del Guaviare
+679.0;Guaviare-Calamar
+68.0;Antioquia-Guatapé
+680.0;Guaviare-El Retorno
+681.0;Guaviare-Miraflores
+682.0;Huila-Neiva
+683.0;Huila-Acevedo
+684.0;Huila-Agrado
+685.0;Huila-Aipe
+686.0;Huila-Algeciras
+687.0;Huila-Altamira
+688.0;Huila-Baraya
+689.0;Huila-Campoalegre
+69.0;Antioquia-Heliconia
+690.0;Huila-Colombia
+691.0;Huila-Elías
+692.0;Huila-Garzón
+693.0;Huila-Gigante
+694.0;Huila-Guadalupe
+695.0;Huila-Hobo
+696.0;Huila-Íquira
+697.0;Huila-Isnos
+698.0;Huila-La Argentina
+699.0;Huila-La Plata
+7.0;Amazonas-Territorio Indígena CIMTAR
+70.0;Antioquia-Hispania
+700.0;Huila-Nátaga
+701.0;Huila-Oporapa
+702.0;Huila-Paicol
+703.0;Huila-Palermo
+704.0;Huila-Palestina
+705.0;Huila-Pital
+706.0;Huila-Pitalito
+707.0;Huila-Rivera
+708.0;Huila-Saladoblanco
+709.0;Huila-San Agustín
+71.0;Antioquia-Itagüí
+710.0;Huila-Santa María
+711.0;Huila-Suaza
+712.0;Huila-Tarqui
+713.0;Huila-Tesalia
+714.0;Huila-Tello
+715.0;Huila-Teruel
+716.0;Huila-Timaná
+717.0;Huila-Villavieja
+718.0;Huila-Yaguará
+719.0;La Guajira-Ríohacha
+72.0;Antioquia-Ituango
+720.0;La Guajira-Albania
+721.0;La Guajira-Barrancas
+722.0;La Guajira-Dibulla
+723.0;La Guajira-Distracción
+724.0;La Guajira-El Molino
+725.0;La Guajira-Fonseca
+726.0;La Guajira-Hato Nuevo
+727.0;La Guajira-La Jagua del Pilar
+728.0;La Guajira-Maicao
+729.0;La Guajira-Manaure
+73.0;Antioquia-Jardín
+730.0;La Guajira-San Juan del Cesar
+731.0;La Guajira-Uribia
+732.0;La Guajira-Urumita
+733.0;La Guajira-Villanueva
+734.0;La Guajira-Ríohacha
+735.0;La Guajira-Dibulla
+736.0;La Guajira-Manaure
+737.0;La Guajira-Uribia
+738.0;Magdalena-Concordia
+739.0;Magdalena-Santa Marta
+74.0;Antioquia-Jericó
+740.0;Magdalena-Algarrobo
+741.0;Magdalena-Aracataca
+742.0;Magdalena-Ariguaní
+743.0;Magdalena-Cerro de San Antonio
+744.0;Magdalena-Chivolo
+745.0;Magdalena-Ciénaga
+746.0;Magdalena-El Banco
+747.0;Magdalena-El Piñón
+748.0;Magdalena-El Retén
+749.0;Magdalena-Fundación
+75.0;Antioquia-La Ceja
+750.0;Magdalena-Guamal
+751.0;Magdalena-Nueva Granada
+752.0;Magdalena-Pedraza
+753.0;Magdalena-Pijiño del Carmen
+754.0;Magdalena-Pivijay
+755.0;Magdalena-Plato
+756.0;Magdalena-Puebloviejo
+757.0;Magdalena-Remolino
+758.0;Magdalena-Sabanas de San Ángel
+759.0;Magdalena-Salamina
+76.0;Antioquia-La Estrella
+760.0;Magdalena-San Sebastián de Buenavista
+761.0;Magdalena-San Zenón
+762.0;Magdalena-Santa Ana
+763.0;Magdalena-Santa Bárbara de Pinto
+764.0;Magdalena-Sitionuevo
+765.0;Magdalena-Tenerife
+766.0;Magdalena-Zapayán
+767.0;Magdalena-Zona Bananera
+768.0;Magdalena-Santa Marta
+769.0;Magdalena-Ciénaga
+77.0;Antioquia-La Pintada
+770.0;Magdalena-Puebloviejo
+771.0;Magdalena-Sitionuevo
+772.0;Meta-Villavicencio
+773.0;Meta-Acacías
+774.0;Meta-Barranca de Upía
+775.0;Meta-Cabuyaro
+776.0;Meta-Castilla La Nueva
+777.0;Meta-Cubarral
+778.0;Meta-Cumaral
+779.0;Meta-El Calvario
+78.0;Antioquia-La Unión
+780.0;Meta-El Castillo
+781.0;Meta-El Dorado
+782.0;Meta-Fuente de Oro
+783.0;Meta-Granada
+784.0;Meta-Guamal
+785.0;Meta-Mapiripán
+786.0;Meta-Mesetas
+787.0;Meta-La Macarena
+788.0;Meta-Uribe
+789.0;Meta-Lejanías
+79.0;Antioquia-Liborina
+790.0;Meta-Puerto Concordia
+791.0;Meta-Puerto Gaitán
+792.0;Meta-Puerto López
+793.0;Meta-Puerto Lleras
+794.0;Meta-Puerto Rico
+795.0;Meta-Restrepo
+796.0;Meta-San Carlos de Guaroa
+797.0;Meta-San Juan de Arama
+798.0;Meta-San Juanito
+799.0;Meta-San Martín
+8.0;Amazonas-Territorio Indígena UITIBOC-ASOAINTAM
+80.0;Antioquia-Maceo
+800.0;Meta-Vistahermosa
+801.0;Nariño-Pasto
+802.0;Nariño-Albán
+803.0;Nariño-Aldana
+804.0;Nariño-Ancuya
+805.0;Nariño-Arboleda
+806.0;Nariño-Barbacoas
+807.0;Nariño-Belén
+808.0;Nariño-Buesaco
+809.0;Nariño-Colón
+81.0;Antioquia-Marinilla
+810.0;Nariño-Consacá
+811.0;Nariño-Contadero
+812.0;Nariño-Córdoba
+813.0;Nariño-Cuaspud
+814.0;Nariño-Cumbal
+815.0;Nariño-Cumbitara
+816.0;Nariño-Chachagüí
+817.0;Nariño-El Charco
+818.0;Nariño-El Peñol
+819.0;Nariño-El Rosario
+82.0;Antioquia-Montebello
+820.0;Nariño-El Tablón
+821.0;Nariño-El Tambo
+822.0;Nariño-Funes
+823.0;Nariño-Guachucal
+824.0;Nariño-Guaitarilla
+825.0;Nariño-Gualmatán
+826.0;Nariño-Iles
+827.0;Nariño-Imués
+828.0;Nariño-Ipiales
+829.0;Nariño-La Cruz
+83.0;Antioquia-Murindó
+830.0;Nariño-La Florida
+831.0;Nariño-La Llanada
+832.0;Nariño-La Tola
+833.0;Nariño-La Unión
+834.0;Nariño-Leiva
+835.0;Nariño-Linares
+836.0;Nariño-Los Andes
+837.0;Nariño-Magüí
+838.0;Nariño-Mallama
+839.0;Nariño-Mosquera
+84.0;Antioquia-Mutatá
+840.0;Nariño-Nariño
+841.0;Nariño-Olaya Herrera
+842.0;Nariño-Ospina
+843.0;Nariño-Francisco Pizarro
+844.0;Nariño-Policarpa
+845.0;Nariño-Potosí
+846.0;Nariño-Providencia
+847.0;Nariño-Puerres
+848.0;Nariño-Pupiales
+849.0;Nariño-Ricaurte
+85.0;Antioquia-Nariño
+850.0;Nariño-Roberto Payán
+851.0;Nariño-Samaniego
+852.0;Nariño-Sandoná
+853.0;Nariño-San Bernardo
+854.0;Nariño-San Lorenzo
+855.0;Nariño-San Pablo
+856.0;Nariño-San Pedro de Cartago
+857.0;Nariño-Santa Bárbara
+858.0;Nariño-Santa Cruz
+859.0;Nariño-Sapuyes
+86.0;Antioquia-Necoclí
+860.0;Nariño-Taminango
+861.0;Nariño-Tangua
+862.0;Nariño-Tumaco
+863.0;Nariño-Túquerres
+864.0;Nariño-Yacuanquer
+865.0;Nariño-El Charco
+866.0;Nariño-La Tola
+867.0;Nariño-Mosquera
+868.0;Nariño-Olaya Herrera
+869.0;Nariño-Francisco Pizarro
+87.0;Antioquia-Nechí
+870.0;Nariño-Santa Bárbara
+871.0;Nariño-Tumaco
+872.0;Norte de Santander-Cúcuta
+873.0;Norte de Santander-Ábrego
+874.0;Norte de Santander-Arboledas
+875.0;Norte de Santander-Bochalema
+876.0;Norte de Santander-Bucarasica
+877.0;Norte de Santander-Cácota
+878.0;Norte de Santander-Cáchira
+879.0;Norte de Santander-Chinácota
+88.0;Antioquia-Olaya
+880.0;Norte de Santander-Chitagá
+881.0;Norte de Santander-Convención
+882.0;Norte de Santander-Cucutilla
+883.0;Norte de Santander-Durania
+884.0;Norte de Santander-El Carmen
+885.0;Norte de Santander-El Tarra
+886.0;Norte de Santander-El Zulia
+887.0;Norte de Santander-Gramalote
+888.0;Norte de Santander-Hacarí
+889.0;Norte de Santander-Herrán
+89.0;Antioquia-Peñol
+890.0;Norte de Santander-Labateca
+891.0;Norte de Santander-La Esperanza
+892.0;Norte de Santander-La Playa
+893.0;Norte de Santander-Los Patios
+894.0;Norte de Santander-Lourdes
+895.0;Norte de Santander-Mutiscua
+896.0;Norte de Santander-Ocaña
+897.0;Norte de Santander-Pamplona
+898.0;Norte de Santander-Pamplonita
+899.0;Norte de Santander-Puerto Santander
+9.0;Amazonas-Territorio Indígena de La Chorrera
+90.0;Antioquia-Peque
+900.0;Norte de Santander-Ragonvalia
+901.0;Norte de Santander-Salazar
+902.0;Norte de Santander-San Calixto
+903.0;Norte de Santander-San Cayetano
+904.0;Norte de Santander-Santiago
+905.0;Norte de Santander-Sardinata
+906.0;Norte de Santander-Silos
+907.0;Norte de Santander-Teorama
+908.0;Norte de Santander-Tibú
+909.0;Norte de Santander-Toledo
+91.0;Antioquia-Pueblorrico
+910.0;Norte de Santander-Villa Caro
+911.0;Norte de Santander-Villa del Rosario
+912.0;Putumayo-Mocoa
+913.0;Putumayo-Colón
+914.0;Putumayo-Orito
+915.0;Putumayo-Puerto Asís
+916.0;Putumayo-Puerto Caicedo
+917.0;Putumayo-Puerto Guzmán
+918.0;Putumayo-Puerto Leguízamo
+919.0;Putumayo-Sibundoy
+92.0;Antioquia-Puerto Berrío
+920.0;Putumayo-San Francisco
+921.0;Putumayo-San Miguel
+922.0;Putumayo-Santiago
+923.0;Putumayo-Valle del Guamuez
+924.0;Putumayo-Villagarzón
+925.0;Quindío-Armenia
+926.0;Quindío-Buenavista
+927.0;Quindío-Calarcá
+928.0;Quindío-Circasia
+929.0;Quindío-Córdoba
+93.0;Antioquia-Puerto Nare
+930.0;Quindío-Filandia
+931.0;Quindío-Génova
+932.0;Quindío-La Tebaida
+933.0;Quindío-Montenegro
+934.0;Quindío-Pijao
+935.0;Quindío-Quimbaya
+936.0;Quindío-Salento
+937.0;Risaralda-Pereira
+938.0;Risaralda-Apía
+939.0;Risaralda-Balboa
+94.0;Antioquia-Puerto Triunfo
+940.0;Risaralda-Belén de Umbría
+941.0;Risaralda-Dosquebradas
+942.0;Risaralda-Guática
+943.0;Risaralda-La Celia
+944.0;Risaralda-La Virginia
+945.0;Risaralda-Marsella
+946.0;Risaralda-Mistrató
+947.0;Risaralda-Pueblo Rico
+948.0;Risaralda-Quinchía
+949.0;Risaralda-Santa Rosa de Cabal
+95.0;Antioquia-Remedios
+950.0;Risaralda-Santuario
+951.0;San Andres y Providencia-San Andrés
+952.0;San Andres y Providencia-Providencia y Santa Catalina
+953.0;San Andres y Providencia-San Andrés
+954.0;San Andres y Providencia-Providencia y Santa Catalina
+955.0;Santander-Bucaramanga
+956.0;Santander-Aguada
+957.0;Santander-Albania
+958.0;Santander-Aratoca
+959.0;Santander-Barbosa
+96.0;Antioquia-Retiro
+960.0;Santander-Barichara
+961.0;Santander-Barrancabermeja
+962.0;Santander-Betulia
+963.0;Santander-Bolívar
+964.0;Santander-Cabrera
+965.0;Santander-California
+966.0;Santander-Capitanejo
+967.0;Santander-Carcasí
+968.0;Santander-Cepitá
+969.0;Santander-Cerrito
+97.0;Antioquia-Ríonegro
+970.0;Santander-Charalá
+971.0;Santander-Charta
+972.0;Santander-Chima
+973.0;Santander-Chipatá
+974.0;Santander-Cimitarra
+975.0;Santander-Concepción
+976.0;Santander-Confines
+977.0;Santander-Contratación
+978.0;Santander-Coromoro
+979.0;Santander-Curití
+98.0;Antioquia-Sabanalarga
+980.0;Santander-El Carmen
+981.0;Santander-El Guacamayo
+982.0;Santander-El Peñón
+983.0;Santander-El Playón
+984.0;Santander-Encino
+985.0;Santander-Enciso
+986.0;Santander-Florián
+987.0;Santander-Floridablanca
+988.0;Santander-Galán
+989.0;Santander-Gámbita
+99.0;Antioquia-Sabaneta
+990.0;Santander-Girón
+991.0;Santander-Guaca
+992.0;Santander-Guadalupe
+993.0;Santander-Guapotá
+994.0;Santander-Guavatá
+995.0;Santander-Güepsa
+996.0;Santander-Hato
+997.0;Santander-Jesús María
+998.0;Santander-Jordán
+999.0;Santander-La Belleza
