@@ -3,7 +3,7 @@
     "file": "AREAS-INTEGRACION-AMAZONIA-DEPARTAMENTOS-DASH-2107.csv",
     "codes": "codigos_depto.txt",
     "description": "Departamentos de Colombia",
-    "gis":"process/data/gis/ColombiaDepartamentos_RAISG_16062025",
+    "gis":"docs/process/data/gis/ColombiaDepartamentos_RAISG_16062025",
     "columns":["id_gee","id_area","departamento"],
     "barchart":"departamento"
   },
@@ -11,7 +11,7 @@
     "file": "AREAS-INTEGRACION-AMAZONIA-MUNICIPIOS-DASH-2107.csv", 
     "codes": "codigos_municipio.txt",
     "description": "Municipios de Colombia",
-    "gis":"process/data/gis/ColombiaMunicipios_RAISG_16062025",
+    "gis":"docs/process/data/gis/ColombiaMunicipios_RAISG_16062025",
     "columns":["id_gee","id_area","departamento","municipio"],
     "barchart":"municipio"
   },
@@ -19,7 +19,7 @@
     "file": "AREAS-INTEGRACION-MASCARA-DASH-2107.csv",
     "codes": "codigos_mascara.txt", 
     "description": "Intersección ANP TIS",
-    "gis":"process/data/gis/mascara_tis_anps_RAISG_03072025",
+    "gis":"docs/process/data/gis/mascara_tis_anps_RAISG_03072025",
     "columns":["id_gee","id_area","anp nal","anp nacional","TI"],
     "barchart":"TI"
   },
@@ -27,7 +27,7 @@
     "file": "AREAS-INTEGRACION-TIS-DASH-2107.csv",
     "codes": "codigos_tis.txt",
     "description": "Territorios Indígenas",
-    "gis":"process/data/gis/tis_RAISG_16062025",
+    "gis":"docs/process/data/gis/tis_RAISG_16062025",
     "columns":["id_gee","id_area","nombre"],
     "barchart":"nombre"
   },
@@ -35,7 +35,7 @@
     "file": "AREAS-INTEGRACION-AMAZONIA-ANP-DEPTO-DASH-2107.csv",
     "codes": "codigos_anp_depto.txt",
     "description": "ANP DEPARTAMENTAL",
-    "gis":"process/data/gis/ANP_DEPARTAMENTAL_RAISG",
+    "gis":"docs/process/data/gis/ANP_DEPARTAMENTAL_RAISG",
     "columns":["id_gee","id_area","nombre"],
     "barchart":"nombre"
   },
@@ -43,7 +43,7 @@
     "file": "AREAS-INTEGRACION-AMAZONIA-ANP-NAL-DASH-2107.csv",
     "codes": "codigos_anp_nal.txt",
     "description": "ANP NACIONAL",
-    "gis":"process/data/gis/ANP_NACIONAL_RAISG",
+    "gis":"docs/process/data/gis/ANP_NACIONAL_RAISG",
     "columns":["id_gee","id_area","nombre"],
     "barchart":"nombre"
   }
