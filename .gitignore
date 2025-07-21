@@ -1,3 +1,12 @@
+# capas GIS
+dashboard_v2/process/data/gis/ColombiaMunicipios16062025.shp
+dashboard_v2/process/data/gis/ColombiaMunicipios16062025.shx
+dashboard_v2/process/data/gis/ColombiaMunicipios16062025.dbf
+dashboard_v2/process/data/gis/ColombiaMunicipios16062025.cpg
+dashboard_v2/process/data/gis/ColombiaMunicipios16062025.prj
+dashboard_v2/process/data/gis/ColombiaMunicipios16062025.sbn
+dashboard_v2/process/data/gis/ColombiaMunicipios16062025.sbx
+
 # Python cache files
 __pycache__/
 *.pyc
