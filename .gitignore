@@ -21,3 +21,22 @@ Thumbs.db
 # Temporary files
 *.tmp
 *.temp
+
+# Shapefile components (large files moved to separate folder)
+**/shapefiles/
+*.shp
+*.shx
+*.dbf
+*.prj
+*.sbn
+*.sbx
+*.cpg
+*.xml
+*.qmd
+*.fix
+
+# Large ZIP files
+*.zip
+
+# Conversion script output
+conversion_report.json

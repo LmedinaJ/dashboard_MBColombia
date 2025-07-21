@@ -1595,7 +1595,7 @@ class AmazonDashboard {
             return;
         }
         
-        const shapefilePath = this.dataSources[this.currentDataSource].gis;
+        const geojsonPath = this.dataSources[this.currentDataSource].gis;
         
         try {
             // Remove existing layer if any
@@ -1603,28 +1603,64 @@ class AmazonDashboard {
                 this.map.removeLayer(this.mapLayer);
             }
             
-            // Try multiple loading approaches for better compatibility
+            console.log(`Loading GeoJSON: ${geojsonPath}`);
             
-            try {
-                // First try component-based loading (most reliable)
-                await this.loadComponentShapefile(shapefilePath);
-            } catch (componentError) {
-                // Fallback to ZIP loading if it exists
-                const zipPath = `./${shapefilePath}.zip`;
-                try {
-                    await this.loadZipShapefile(zipPath);
-                } catch (zipError) {
-                    // Last resort: try Leaflet.shapefile plugin
-                    if (L.shapefile) {
-                        await this.loadWithLeafletShapefile(zipPath);
-                    } else {
-                        throw new Error('All loading methods failed');
+            // Load GeoJSON directly (much simpler than shapefiles!)
+            await this.loadGeoJSON(geojsonPath);
+            
+        } catch (error) {
+            console.warn('GeoJSON loading failed, continuing without map:', error);
+            this.createDataVisualization();
+        }
+    }
+
+    async loadGeoJSON(geojsonPath) {
+        try {
+            console.log(`Fetching GeoJSON from: ${geojsonPath}`);
+            
+            // Fetch the GeoJSON file
+            const response = await fetch(`./${geojsonPath}`);
+            if (!response.ok) {
+                throw new Error(`Failed to load GeoJSON: ${response.status} ${response.statusText}`);
+            }
+            
+            const geojsonData = await response.json();
+            console.log(`GeoJSON loaded: ${geojsonData.features.length} features`);
+            
+            // Create Leaflet GeoJSON layer
+            this.mapLayer = L.geoJSON(geojsonData, {
+                style: {
+                    fillColor: '#3388ff',
+                    weight: 2,
+                    opacity: 1,
+                    color: 'white',
+                    dashArray: '3',
+                    fillOpacity: 0.7
+                },
+                onEachFeature: (feature, layer) => {
+                    // Add popup functionality
+                    this.createEnhancedPopup(feature, layer);
+                }
+            });
+            
+            // Add layer to map
+            if (this.mapLayer) {
+                this.mapLayer.addTo(this.map);
+                
+                // Fit map to show all features
+                if (this.mapLayer.getLayers && this.mapLayer.getLayers().length > 0) {
+                    if (typeof this.mapLayer.getBounds === 'function') {
+                        this.map.fitBounds(this.mapLayer.getBounds());
                     }
                 }
+                
+                // Process the data for visualization
+                this.processGeoJSON(geojsonData);
             }
             
         } catch (error) {
-            this.createDataVisualization();
+            console.error('Error loading GeoJSON:', error);
+            throw error;
         }
     }
 
@@ -2311,7 +2347,7 @@ class AmazonDashboard {
 
     loadCorrespondingGisLayer() {
         // Load the GIS layer corresponding to the current data source
-        // The loadShapefile function automatically uses the current data source's GIS path
+        // The loadShapefile function now loads GeoJSON files instead of shapefiles
         this.loadShapefile();
     }
 
