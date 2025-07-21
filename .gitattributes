@@ -1,9 +1,5 @@
 *.shp filter=lfs diff=lfs merge=lfs -text
 *.zip filter=lfs diff=lfs merge=lfs -text
-docs/process/data/gis/geojson/*.geojson filter=lfs diff=lfs merge=lfs -text
-*.geojson filter=lfs diff=lfs merge=lfs -text
+# Only keep the largest files in LFS (>100MB)
 docs/process/data/gis/geojson/regiones_clasic_col3.geojson filter=lfs diff=lfs merge=lfs -text
-docs/process/data/gis/geojson/mascara_tis_anps_RAISG_03072025.geojson filter=lfs diff=lfs merge=lfs -text
-docs/process/data/gis/geojson/ANP_DEPARTAMENTAL.geojson filter=lfs diff=lfs merge=lfs -text
-docs/process/data/gis/geojson/ANP_NACIONAL.geojson filter=lfs diff=lfs merge=lfs -text
-docs/process/data/gis/geojson/tis_16062025.geojson filter=lfs diff=lfs merge=lfs -text
+docs/process/data/gis/geojson/mascara_tis_anps_03072025.geojson filter=lfs diff=lfs merge=lfs -text
