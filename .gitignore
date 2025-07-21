@@ -40,3 +40,5 @@ Thumbs.db
 
 # Conversion script output
 conversion_report.json
+
+# Note: Large GeoJSON files are now handled by Git LFS
