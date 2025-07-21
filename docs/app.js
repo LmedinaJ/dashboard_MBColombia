@@ -530,6 +530,23 @@ class AmazonDashboard {
         }).addTo(this.map);
     }
 
+    clearMapLayers() {
+        // Clear all GIS layers from the map
+        if (this.mapLayer) {
+            this.map.removeLayer(this.mapLayer);
+            this.mapLayer = null;
+        }
+        
+        // Also clear any other layers that might exist
+        this.map.eachLayer((layer) => {
+            // Keep the base tile layer, remove everything else
+            if (layer instanceof L.TileLayer) {
+                return; // Keep tile layers
+            }
+            this.map.removeLayer(layer);
+        });
+    }
+
     setupCharts() {
         // Check if mobile device
         const isMobile = window.innerWidth <= 768;
@@ -1599,9 +1616,7 @@ class AmazonDashboard {
         
         try {
             // Remove existing layer if any
-            if (this.mapLayer) {
-                this.map.removeLayer(this.mapLayer);
-            }
+            this.clearMapLayers();
             
             console.log(`Loading GeoJSON: ${geojsonPath}`);
             
