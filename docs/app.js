@@ -1618,12 +1618,31 @@ class AmazonDashboard {
         try {
             console.log(`Fetching GeoJSON from: ${geojsonPath}`);
             
-            // Use jsDelivr CDN for GitHub LFS files
-            const githubRepo = 'LmedinaJ/dashboard_MBColombia';
-            const jsdelivrUrl = `https://cdn.jsdelivr.net/gh/${githubRepo}@main/${geojsonPath}`;
+            let response;
             
-            // Fetch the GeoJSON file
-            const response = await fetch(jsdelivrUrl);
+            // Try different approaches based on environment
+            if (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1') {
+                // Local development - try local file first
+                response = await fetch(`./${geojsonPath}`);
+            } else {
+                // GitHub Pages - use GitHub Releases for large files
+                const githubRepo = 'LmedinaJ/dashboard_MBColombia';
+                const releaseTag = 'v1.0.0-geojson';
+                const fileName = geojsonPath.split('/').pop(); // Extract filename from path
+                const releaseUrl = `https://github.com/${githubRepo}/releases/download/${releaseTag}/${fileName}`;
+                
+                console.log(`Trying GitHub Release URL: ${releaseUrl}`);
+                
+                try {
+                    response = await fetch(releaseUrl);
+                    if (!response.ok) {
+                        throw new Error(`Release file not found: ${response.status}`);
+                    }
+                } catch (error) {
+                    console.warn('GitHub Release failed, trying local path:', error);
+                    response = await fetch(`./${geojsonPath}`);
+                }
+            }
             if (!response.ok) {
                 throw new Error(`Failed to load GeoJSON: ${response.status} ${response.statusText}`);
             }
