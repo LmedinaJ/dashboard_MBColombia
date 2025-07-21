@@ -1610,7 +1610,7 @@ class AmazonDashboard {
                 await this.loadComponentShapefile(shapefilePath);
             } catch (componentError) {
                 // Fallback to ZIP loading if it exists
-                const zipPath = `${shapefilePath}.zip`;
+                const zipPath = `./${shapefilePath}.zip`;
                 try {
                     await this.loadZipShapefile(zipPath);
                 } catch (zipError) {
@@ -1859,8 +1859,10 @@ class AmazonDashboard {
         this.mapLayer.addTo(this.map);
         
         // Fit map to show all markers
-        if (this.mapLayer.getLayers().length > 0) {
-            this.map.fitBounds(this.mapLayer.getBounds());
+        if (this.mapLayer && this.mapLayer.getLayers && this.mapLayer.getLayers().length > 0) {
+            if (typeof this.mapLayer.getBounds === 'function') {
+                this.map.fitBounds(this.mapLayer.getBounds());
+            }
         }
     }
 
