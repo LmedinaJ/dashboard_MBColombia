@@ -1618,8 +1618,12 @@ class AmazonDashboard {
         try {
             console.log(`Fetching GeoJSON from: ${geojsonPath}`);
             
+            // Use jsDelivr CDN for GitHub LFS files
+            const githubRepo = 'LmedinaJ/dashboard_MBColombia';
+            const jsdelivrUrl = `https://cdn.jsdelivr.net/gh/${githubRepo}@main/${geojsonPath}`;
+            
             // Fetch the GeoJSON file
-            const response = await fetch(`./${geojsonPath}`);
+            const response = await fetch(jsdelivrUrl);
             if (!response.ok) {
                 throw new Error(`Failed to load GeoJSON: ${response.status} ${response.statusText}`);
             }
