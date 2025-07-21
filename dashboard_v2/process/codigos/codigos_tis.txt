@@ -1,0 +1,896 @@
+1.0;536;Resguardo Indígena Guayuyaco
+10.0;61;Resguardo Indígena Cuiva de Los Iguanitos
+100.0;466;Resguardo Indígena Embera Guayabal de Partado
+101.0;193;Resguardo Indígena Embera de Caimanero de Jampapa
+102.0;220;Resguardo Indígena Guahibo de El Vigia
+103.0;875;Resguardo Indígena Guahibo de Campo Alegre y Ripi
+104.0;813;Resguardo Indígena Guahibo -Puinave de Laguna Cur
+105.0;815;Resguardo Indígena Piapoco de Murcielago - Altami
+106.0;554;Resguardo Indígena El Tablero
+107.0;840;Resguardo Indígena El Hacha
+108.0;246;Resguardo Indígena Puinave y Piapoco de Guaco Baj
+109.0;462;Resguardo Indígena Piapoco y Guahibo de Minitas -
+11.0;774;Resguardo Indígena Embera del Rio Nuqui
+110.0;589;Resguardo Indígena Guahibo  de Carpintero-  Palom
+111.0;750;Resguardo Indígena Piapoco de Pueblo Nuevo - Lagu
+112.0;484;Resguardo Indígena Embera de Chimurro y Nendo
+113.0;316;Resguardo Indígena Embera del Rio Bebarama
+114.0;155;Resguardo Indígena Embera de Chuscal y Tuguridoci
+115.0;775;Resguardo Indígena Embera de Puerto Alegre y La D
+116.0;222;Resguardo Indígena Wayuu de San Francisco
+117.0;358;Resguardo Indígena Wayuu de Trupiogacho y La Mese
+118.0;399;Resguardo Indígena Wayuu de Provincial
+119.0;500;Resguardo Indígena Motilon Bari
+12.0;869;Resguardo Indígena Embera de los Rios Jurubida, C
+120.0;473;Resguardo Indígena de Corocoro
+121.0;483;Resguardo Indígena de Cusumbe - Agua Blanca
+122.0;578;Resguardo Indígena Guayaberos de Barrancon
+123.0;429;Resguardo Indígena Witoto de Amenanae (Charco del
+124.0;571;Resguardo Indígena Inga De Niñeras
+125.0;131;Resguardo Indígena Embera  Aguaclara Y Bella Luz
+126.0;286;Resguardo Indígena Piapoco de Kawaneruba
+127.0;365;Resguardo Indígena Embera de Santa Cecilia de la
+128.0;535;Resguardo Indígena Waunana de Guayacan Santa Rosa
+129.0;310;Resguardo Indígena Embera de Guaguando
+13.0;360;Resguardo Indígena Katio
+130.0;347;Resguardo Indígena Embera Embera y Piapoco de los
+131.0;250;Resguardo Indígena Tama Del Caguan
+132.0;881;Resguardo Indígena de Calenturas
+133.0;263;Resguardo Indígena Rio Atabapo
+134.0;492;Resguardo Indígena de la Cuenca Media Y Alta del
+135.0;513;Resguardo Indígena Bajo Rio Guainia Y Rio Negro
+136.0;519;Resguardo Indígena Rio Cuiari e Isana
+137.0;834;Resguardo Indígena Curripaco de Tonina, Sejal, Sa
+138.0;835;Resguardo Indígena Curripaco de la Parte Alta del
+139.0;839;Resguardo Indígena Guahibo de Chololobo Matatu
+14.0;362;Resguardo Indígena Paez de Agua Negra
+140.0;361;Resguardo Indígena Coreguaje de Getucha
+141.0;807;Resguardo Indígena Embera Buchado Amparrado
+142.0;101;Resguardo Indígena Embera del Rio Ame
+143.0;430;Resguardo Indígena Embera de los Rios Dominic,  L
+144.0;438;Resguardo Indígena Embera de los Rios Pavarando y
+145.0;54;Resguardo Indígena Guahibo de Guacamayas y Maipor
+146.0;393;Resguardo Indígena Paez Quintana
+147.0;591;Resguardo Indígena Awa de la Turbia
+148.0;514;Resguardo Indígena Paez De La Gaitanía
+149.0;622;Resguardo Indígena Guahibo de Caño Guaripa
+15.0;566;Resguardo Indígena Macahuan (Cusay o La Colorada)
+150.0;517;Resguardo Indígena de Ambalo
+151.0;37;Resguardo Indígena De Cumbal
+152.0;471;Resguardo Indígena Sikuani De Iwiwi
+153.0;509;Resguardo Indígena de Totoro
+154.0;595;Resguardo Indígena Sikuani de Awaliba
+155.0;268;Resguardo Indígena Paez del Portal
+156.0;701;Resguardo Indígena Saracure Y Rio Cada
+157.0;110;Resguardo Indígena Paez de Novirao
+158.0;882;Resguardo Indígena De Muellamuez
+159.0;183;Resguardo Indígena Embera de la Quebrada Chique-R
+16.0;582;Resguardo Indígena Cuna del Rio Cuti
+160.0;256;Resguardo Indígena Embera del Rio Purricha
+161.0;527;Resguardo Indígena Awa de Gualcalá
+162.0;542;Resguardo Indígena Awa de Ramos - Mongon - Manchu
+163.0;689;Resguardo Indígena Embera - Catio del Rio Chajera
+164.0;187;Resguardo Indígena Zenu Del Volao
+165.0;227;Resguardo Indígena de Jebala
+166.0;829;Resguardo Indígena Guahibo de Wacoyo de los Caser
+167.0;733;Resguardo Indígena Embera de Wanchirado
+168.0;724;Resguardo Indígena de Purace
+169.0;760;Resguardo Indígena Embera de Hurtado y Tegavera
+17.0;778;Resguardo Indígena Embera del Rio Pangui
+170.0;198;Resguardo Indígena Embera de los Rios Jengado-Apa
+171.0;865;Resguardo Indígena Embera de Corede en el Alto de
+172.0;877;Resguardo Indígena Saliva de El Medano
+173.0;857;Resguardo Indígena Paez de Poblazon
+174.0;218;Resguardo Indígena Embera de Pueblito de la Quebr
+175.0;224;Resguardo Indígena Embera - Eperara de Ordo-Sivir
+176.0;336;Resguardo Indígena Embera La Jagua - Guachal y Ag
+177.0;354;Resguardo Indígena Waunana de Santa Rosa De Ijua
+178.0;363;Resguardo Indígena Waunana de Buenavista
+179.0;503;Resguardo Indígena Waunana de Nuevo Pitalito
+18.0;780;Resguardo Indígena Katio (Rio Tanela)
+180.0;260;Resguardo Indígena Emebera Yarumal y El Barranco
+181.0;367;Resguardo Indígena Cañon Del Sanquinini
+182.0;654;Resguardo Indígena Embera de Jagual Rio Chintado
+183.0;786;Resguardo Indígena Embera de La Raya
+184.0;799;Resguardo Indígena Embera de Peña Blanca - Rio T
+185.0;739;Resguardo Indígena Tikuna de los Rios Cotuhe y Pu
+186.0;47;Resguardo Indígena Coreguaje de Maticurú
+187.0;746;Resguardo Indígena Huitoto de Lagarto Cocha
+188.0;51;Resguardo Indígena Siona Santa Cruz De Pinuña Bl
+189.0;267;Resguardo Indígena Coreguaje de El Triunfo
+19.0;791;Resguardo Indígena Embera asentada en la Zona Inf
+190.0;448;Resguardo Indígena Awa de Pingullo Sardinero
+191.0;451;Resguardo Indígena Sikuani de Waliani
+192.0;2;Resguardo Indígena Guahibo-Amorua Caño Mesetas D
+193.0;189;Carlosama
+194.0;481;Resguardo Indígena Awa de El Gran Sabalo
+195.0;505;Resguardo Indígena Awa de Cuchilla Palmar
+196.0;671;Resguardo Indígena Waunana del Rio Docordo y  Cas
+197.0;777;Resguardo Indígena Embera del Rio Pavasa y la Que
+198.0;18;Resguardo Indígena Paez de La Paila - Naya
+199.0;486;Resguardo Indígena Awa de Pialapi - Pueblo Viejo
+2.0;475;Resguardo Indígena Kofan
+20.0;794;Resguardo Indígena Embera - Cholo Del Rio Guangü
+200.0;523;Resguardo Indígena Paez de Tumburao
+201.0;202;Resguardo Indígena Piapoco de Cali-Barranquilla
+202.0;392;Resguardo Indígena Piapoco de Flores-Sombrero
+203.0;458;Resguardo Indígena Piapoco de Chocon
+204.0;201;Resguardo Indígena Lagos el Dorado, Lagos del Pas
+205.0;368;Resguardo Indígena Sikuani y Puinave de Cumaral -
+206.0;450;Resguardo Indígena Piapoco / Sikuani-Guahibo de C
+207.0;453;Resguardo Indígena Piapoco de Concordia
+208.0;594;Resguardo Indígena Arara, Bacati, Cararu y Lagos
+209.0;743;Resguardo Indígena de Venezuela O Panure
+21.0;872;Resguardo Indígena Saliva asentada en el Paraje E
+210.0;219;Resguardo Indígena Embera-Katio de La Cristalina
+211.0;831;Resguardo Indígena Inga-Kamsa De Mocoa
+212.0;15;Resguardo Indígena Guahibo de Matecandela
+213.0;132;Resguardo Indígena Wayuu de el Caimito, La Ceiba,
+214.0;439;Resguardo Indígena Embera-Katio  de Amparrado Alt
+215.0;467;Resguardo Indígena Awa de Guelmambi - Caraño
+216.0;553;Resguardo Indígena Saliba de Macucuana
+217.0;116;Resguardo Indígena Tama - Paez La Gabriela
+218.0;705;Resguardo Indígena Wayuu de la Alta Y Media Guaji
+219.0;350;Resguardo Indígena de Paso Ancho
+22.0;876;Resguardo Indígena Salilva de los parajes de San
+220.0;561;Resguardo Indígena Awa de Cuasbi - Paldubi
+221.0;758;Resguardo Indígena Embera El Veintiuno
+222.0;497;Resguardo Indígena Awa de Nulpe Medio-Alto y Rio
+223.0;495;Resguardo Indígena Awa Kwaiker de Cuasbi - La Fal
+224.0;586;Resguardo Indígena Awa de Guadual, Cumbas, Magui,
+225.0;792;Resguardo Indígena San Jose De Lipa o Caño Color
+226.0;579;Resguardo Indígena Witoto de Agua Negra
+227.0;64;Resguardo Indígena Tucano de La Yuquera
+228.0;297;Resguardo Indígena Tucano de Barranquillita
+229.0;851;Resguardo Indígena Coreguaje de Consara - Mecaya
+23.0;896;RI Guahibo-Sicuani asentada en Paraje La Llanura *
+230.0;118;Resguardo Indígena Wayuu Cuatro De Noviembre
+231.0;162;Resguardo Indígena Wiwa Arzario de Campo Alegre
+232.0;182;Resguardo Indígena Pijao de Recinto Palmarosa
+233.0;318;Resguardo Indígena Embera - Katio de Valle De Per
+234.0;81;Resguardo Indígena Embera-Katio de Jenaturado
+235.0;496;Resguardo Indigensa Pijao de Anacarco
+236.0;228;Resguardo Indígena Tunebo de Sabanas de Curipao
+237.0;703;Resguardo Indígena Waunana de Papayo
+238.0;472;Resguardo Indígena Pijao de La Tatacoa
+239.0;11;Resguardo Indígena Guahibo de Cuiloto II
+24.0;740;Resguardo Indígena Caño Ovejas - Betania y Coroc
+240.0;85;Resguardo Indígena Guahibo de La Esperanza
+241.0;353;Resguardo Embera Katio de Cañaverales - Antado
+242.0;576;Resguardo Indígena Hitnu Cuiba Grupo Macahuan de
+243.0;738;Resguardo Indígena Yukuna-Cubeo de Curare Los Ing
+244.0;327;Resguardo Indígena Murui - Witoto de Aguas Negras
+245.0;414;Resguardo Indígena Paez de La Siberia
+246.0;845;Resguardo Indígena Guayabero de Barranco Colorado
+247.0;533;Resguardo Indígena Pijao, Tucano y Piratapuyo Lla
+248.0;74;Resguardo Indígena Embera Katio El Cedrito
+249.0;115;Resguardo Indígena Paez de La Esperanza
+25.0;235;Resguardo Indígena Guahibo de Caño Negro
+250.0;529;Resguardo Indígena Inga de Cecilia Cocha
+251.0;52;Resguardo Indígena Arhuaca de Businchama
+252.0;417;Resguardo Indígena Pijao de Totarco Tamarindo
+253.0;287;Resguardo Indígena Wayu Pizia de Las Delicias
+254.0;24;Resguardo Indígena Murri-pantanos
+255.0;39;Resguardo Indígena Paez de Bache
+256.0;71;Resguardo Indígena Pijao Santa Marta - Palmar
+257.0;89;Resguardo Indígena Embera - Katio deTagual  - La
+258.0;266;Resguardo Indígena Embera - Katio de Chontadural
+259.0;332;Resguardo Indígena Pijao de Chenche Socorro Los G
+26.0;58;Resguardo Indígena Huitoto - El Quince
+260.0;501;Resguardo Indígena Embera-Katio de Majoré- Ambur
+261.0;521;Resguardo Indígena Awa de Pipalta - Palbi - Yagua
+262.0;632;Resguardo Indígena Embera de Wasiruma
+263.0;744;Resguardo Indígena Eperara Siapidara de San Agust
+264.0;752;Resguardo Indígena Awa Piedra Sellada - Quebrada
+265.0;781;Resguardo Indígena Embera (Chami) de los Niasa
+266.0;879;Resguardo Indígena Awa Gran Rosario
+267.0;557;Resguardo Indígena Emebera-Katio de Jaidezavi
+268.0;873;Resguardo Indígena La Asuncion
+269.0;214;Resguardo Indígena Muruy El Progreso
+27.0;159;Resguardo Indígena inga de San Antonio Del Fragua
+270.0;234;Resguardo Indígena Paez Altamira
+271.0;410;Resguardo Indígena Inga-Calarca
+272.0;456;Resguardo Indígena Guanano de Charco Caiman
+273.0;498;Resguardo Indígena Inga La Paya
+274.0;847;Resguardo Indígena Guayabero de La Sal
+275.0;208;Resguardo Indígena Embera-Katio La Cerinda
+276.0;271;Resguardo Indígena Paez El Guayabal
+277.0;544;Resguardo Indígena San Jose del Rio
+278.0;841;Resguardo Indígena Cocama Isla De Ronda
+279.0;5;Resguardo Indígena Pijao Guaipa Centro
+28.0;856;Resguardo Indígena Jai Dukama
+280.0;72;Resguardo Indígena Pijao Bateas
+281.0;73;Resguardo Indígena Pijao San Miguel
+282.0;120;Resguardo Indígena Paez - Las Mercedes
+283.0;175;Resguardo Indígena Sikuani - El Zamuro
+284.0;300;Resguardo Indígena Sikuani de Muco - Mayoragua
+285.0;301;Resguardo Indígena Pijao de Totarco Dinde Tradici
+286.0;369;Resguardo Indígena Pijao de Santa Marta Diamante
+287.0;549;Resguardo Indígena Yukpa de Menkue, Misaya y La P
+288.0;593;Resguardo Indígena Pijao Nueva Esperanza
+289.0;745;Resguardo Indígena Awa El Sande
+29.0;3;Resguardo Indígena Salivas y Piapocos  de Corozal
+290.0;29;Resguardo Indígena de Totarco Niple
+291.0;123;Resguardo Indígena Pijao Totarco - Piedras
+292.0;238;Resguardo Indígena Pijao de Potrerito Doyare
+293.0;291;Resguardo Indígena de Totarco Dinde Independiente
+294.0;355;Resguardo Indígena Wayuu de Potrerito
+295.0;82;Resguardo Indígena Pijao de Chenche Buenos Aires
+296.0;207;Resguardo Indígena Pijao San Miguel
+297.0;248;Resguardo Indígena Pijao Guatavita Tua
+298.0;26;Resguardo Indígena Pijao Las Palmas
+299.0;44;Resguardo Indígena Pijao El Tambo
+3.0;836;Resguardo Indígena Embera-Katio Rio Andagueda
+30.0;150;Resguardo Indígena Achagua y Piapoco (El Turpial
+300.0;77;Resguardo Indígena Pijao Palma Alta
+301.0;285;Resguardo Indígena Guambiano de La Maria
+302.0;295;Resguardo Indígena Pijao Tres Esquinas
+303.0;304;Resguardo Indígena Tamirco
+304.0;366;Resguardo Indígena  Pijao de Aico
+305.0;550;Resguardo Indígena Pijao de Pocharco
+306.0;883;Resguardo Indígena Pijao La Sortija
+307.0;884;Resguardo Indígena Pijao Nicolas Ramirez
+308.0;173;Resguardo Indígena Coreguaje de San Miguel
+309.0;528;Resguardo Indígena Guayabero La Fuga
+31.0;445;Resguardo Indígena Cuaiquuier de los parajes Cuam
+310.0;255;Resguardo Indígena inga de La Leona
+311.0;257;Resguardo Indígena Inga de San Rafael
+312.0;675;Resguardo Indígena Nukak Maku
+313.0;127;Resguardo Indígena Embera Chami de Altomira
+314.0;328;Resguardo Indígena Embera - Chami Peñas Del Olvi
+315.0;330;Resguardo Indígena Embera de Paina
+316.0;334;Resguardo Indígena Embera de La Lomita
+317.0;452;Resguardo Indígena Embera-Katio de La Puria
+318.0;104;Resguardo Indígena Embera de Nusido
+319.0;113;Resguardo Indígena Embera-Chami Loma de Citabara,
+32.0;465;Resguardo Indígena Guahibo de Los Rios Tomo y Los
+320.0;211;Resguardo Indígena Uwa de Cibariza
+321.0;277;Resguardo Indígena Uwa de Playas De Bojaba
+322.0;108;Resguardo Indígena Embera de San Jose Amia De Pat
+323.0;119;Resguardo Indígena Wayuu de Monte Harmon
+324.0;128;Resguardo Indígena Embera de Puerto Libia Tripica
+325.0;215;Resguardo Indígena Embera de Puerto Antioquia
+326.0;253;Resguardo Indígena Emebera-Katio de Santa Maria -
+327.0;281;Resguardo Indígena Embera Chami Dachi Drua Chami
+328.0;376;Resguardo Indígena Vania Chami de Argelia
+329.0;415;Resguardo Indígena Guahibo La Isla
+33.0;532;Rios Tomo Y Weberi
+330.0;418;Resguardo Indígena Paez de Huellas
+331.0;507;Resguardo Indígena Embera- Katio de Choromando Al
+332.0;645;Resguardo Indígena Embera de los Rios Pato y Jeng
+333.0;655;Resguardo Indígena Emebra - Katio de Chaquenoda
+334.0;796;Resguardo Indígena Embera del Rio Bebara
+335.0;860;Resguardo Indígena Embera  de Pichicora, Chicue y
+336.0;12;Resguardo Indígena El Refugio
+337.0;45;Resguardo Indígena Cubeo Yavilla II
+338.0;636;Resguardo Indígena Yaigoje - Rio Apaporis
+339.0;23;Resguardo Indígena Kofan-Inga de Yarinal - San Ma
+34.0;545;Resguardo Indígena Saliva Corregimiento de Santa
+340.0;27;Resguardo Indígena Santa Rosa Del Guamuez
+341.0;149;Resguardo Indígena Santa Rosa Sucumbios y El Divi
+342.0;380;Resguardo Indígena Kofan Campoalegre del Afilador
+343.0;134;Resguardo Indígena Camentza Biya
+344.0;216;Resguardo Indígena Guayabero de La Maria
+345.0;247;Resguardo Indígena de Puerto Viejo y Puerto Esper
+346.0;372;Resguardo Indígena Wananos, Carapanas, Cubeos y P
+347.0;853;Resguardo Indígena Puinave y Sikuani de Laguna Ni
+348.0;894;RI Puinave y Curripaco de Morichal Viejo - Santa *
+349.0;163;Resguardo Indígena Pijao Castilla Angosturas
+35.0;546;Resguardo Indígena Yuco de Socorpa
+350.0;331;Resguardo Indígena Pijao El Vergel
+351.0;620;Resguardo Indígena Tunebo de Chaparral y Barro Ne
+352.0;659;Resguardo Indígena Embera de los Rios Tungina Y A
+353.0;317;Resguardo Indígena Paez de La Gaitana
+354.0;111;Resguardo Indígena Embera Miasa De Partado
+355.0;133;Resguardo Indígena Embera-Chami Drua Do
+356.0;170;Resguardo Indígena Pijao Chenche Media Luna
+357.0;264;Resguardo Indígena Guahibo de Cajaros
+358.0;341;Resguardo Indígena Uwa de Valles Del Sol
+359.0;345;Resguardo Indígena Guahibo de Bayoneros
+36.0;583;Resguardo Indígena Yuco de Iroka
+360.0;388;Resguardo Indígena Paez de las Brisas (Nasa Kwe´
+361.0;389;Resguardo Indígena Embera de Mungarado
+362.0;446;Resguardo Indígena Awa  de Piguambi Palangala
+363.0;504;Resguardo Indígena Embera-Katio de Andabu
+364.0;559;Resguardo Indígena Yaberarado
+365.0;741;Resguardo Indígena Embera Katio de Guarandó Carr
+366.0;783;Resguardo Indígena Eperara-Siapidara de Isla Del
+367.0;784;Resguardo Indígena Embera de Peranchito
+368.0;785;Resguardo Indígena Embera de Perancho
+369.0;870;Resguardo Indígena Rincon De Anchique
+37.0;756;Resguardo Indígena Embera del Rio Domingodo
+370.0;151;Resguardo Indígena Pijao de Los Angeles
+371.0;200;Resguardo Indígena de Chenche Buenos Aires
+372.0;240;Resguardo Indígena Wayuu de Mañature
+373.0;294;Resguardo Indígena Pijao de Potrerito
+374.0;315;Resguardo Indígena Pijao de San Diego
+375.0;371;Resguardo Indígena Pijao de Pocara
+376.0;385;Resguardo Indígena Pijao de Guasimal
+377.0;474;Resguardo Indígena Pijao Santa Marta Inspeccion
+378.0;512;Resguardo Indígena Pijao de Hilarquito
+379.0;892;RI Sikuani De Vencedor, Piriri, Guamito, Matanegr*
+38.0;364;Resguardo Indígena Embera-Katio y Waunana del Rio
+380.0;57;Resguardo Indígena Pijao de Pacande
+381.0;144;Resguardo Indígena Pijao Yaco Molana
+382.0;302;Resguardo Indígena Embera Katio de Abejero
+383.0;541;Resguardo Indígena Eperara Siapidara de Sanquiang
+384.0;577;Resguardo Indígena Paez de Parraga  - Nasa tha
+385.0;491;Resguardo Indígena Paez Los Planes
+386.0;10;Resguardo Indígena Ticuna de San Juan de Los Pare
+387.0;91;Resguardo Indígena Inga de Albania
+388.0;520;Resguardo Indígena Embera Katio de San Pablo El P
+389.0;383;Resguardo Indígena Eperara Siapidara  de San Juan
+39.0;426;Resguardo Indígena Embera del Rio Torreido
+390.0;56;Resguardo Indígena Pijao de Mesa De Ortega
+391.0;140;Resguardo Indígena Pijao Diamante
+392.0;174;Resguardo Indígena Wayuu de Una'Apüchon
+393.0;252;Resgusardo Indígena Paez de La Cristalina  - Kwes
+394.0;276;Resguardo Indígena U´wa de Laguna Tranquila
+395.0;411;Resguardo Indígena Wayu El Soldado Parate Bien
+396.0;447;Resguardo Indígena Pijao de San Antonio de Calarm
+397.0;524;Resguardo Indígena Pijao Rincon Bodega
+398.0;773;Resguardo Indígena Pijao de Zaragoza Tamarindo
+399.0;805;Resguardo Indígena Embera de Mondó Mondocito
+4.0;793;Resguardo Indígena Embera La Iguana
+40.0;736;Resguardo Indígena Embera-Catio del Rio Mumbu
+400.0;806;Resguardo Indígena Embera de Tarena
+401.0;40;Resguardo Indígena Piapoco de Cananama
+402.0;59;Resguardo Indígena Pijao de Chaquira
+403.0;428;Resguardo Indígena Wayuu de Okochi
+404.0;485;Resguardo Indígena Awa de El Cedro, Las Peñas, L
+405.0;537;Resguardo Indígena Pijao de Pueblo Nuevo
+406.0;543;Resguardo Indígena Embera Katio de San Lorenzo
+407.0;555;Resguardo Indígena Yukpa de Caño Padilla
+408.0;797;Resguardo Indígena Embera-Chami de La Cristalina
+409.0;864;Resguardo Indígena Emebera de los Rios Bete, Auro
+41.0;154;Resguardo Indígena Embera - Katio de los Ríos Sa
+410.0;868;Resguardo Indígena Embera de Dearade Biakirude
+411.0;28;Resguardo Indígena Embera y Waunan de "Nussí Pur
+412.0;179;Resguardo Indígena Yukpa de El Rosario, Bellavist
+413.0;679;Resguardo Indígena Embera Chami y Zenu De La Palm
+414.0;800;Resguardo Indígena Trua Integrado Del Charco
+415.0;68;Resguardo Indígena Sikuani, Siriano, Carapano, De
+416.0;339;Resuardo Indígena de Chaluayaco
+417.0;480;Resguardo Indígena Kofan de Ukumari Kankhe
+418.0;597;Resguardo Indígena Inga Villa Catalina de Puerto
+419.0;518;Resguardo Indígena Curripaco y otras de Tierra Al
+42.0;278;Resguardo Indígena Waunana de Cabeceras o Puerto
+420.0;609;Resguardo Unido U´Wa Cubara De Tunebo
+421.0;93;Resguardo Indígena Embera - Catio de "El Pital" -
+422.0;157;Resguardo Indígena Embera Katio de Chidima - Tolo
+423.0;181;Resguardo Indígena Embera de El Piñal
+424.0;230;Resguardo Indígena Embera Katio de Sanandocito
+425.0;478;Resguardo Indígena Paez de Calderas
+426.0;715;Resguardo Indígena Paez de Jambalo
+427.0;737;Resguardo Indígena Katio de Tokolloro
+428.0;6;Resguardo Indígena Wayuu de El Cerro De Hatonuevo
+429.0;7;Resguardo Indígena Pijao Mercadillo
+43.0;526;Resguardo Indígena Waunana - Paraje de Tiosilidio
+430.0;95;Resguardo Indígena Embera Chami de Doxura
+431.0;168;Resguardo Indígena Embera Chami  de Gitó Dokabú
+432.0;205;Resguardo Indígena Pijao de Quebraditas
+433.0;236;Resguardo Indígena Embera de Sirena Berrecuy
+434.0;631;Resguardo Indígena Embera Chami de Cristiania
+435.0;714;Resguardo Indígena Embera (Eperara-Siapidara) de
+436.0;802;Resguardo Indígena Embera de Bochoroma Bochoromac
+437.0;871;Resguardo Indígena Yanacona de San Agustin
+438.0;69;Resguardo Indígena Pijao Barzaloza
+439.0;143;Resguardo Indígena Pijao Palermo
+44.0;580;Resguardo Indígena Waunana  de Burujon o La Unió
+440.0;239;Resguardo Indígena Pijao de Olirco
+441.0;288;Resguardo Indígena Pijao La Flecha Altozano
+442.0;323;Resguardo Indígena Pijao Guaipa Uno
+443.0;378;Resguardo Indígena Pijao de Imba
+444.0;567;Resguardo Indígena Embera de Bajo Grande
+445.0;584;Resguardo Indígena Awa de Tronqueria, Pulgande y
+446.0;638;Resguardo Indígena Embera De Lanas
+447.0;663;Resguardo Indígena Embera de Trapiche del Rio Pep
+448.0;696;Resguardo Indígena Embera (Eperara - Siapidara) d
+449.0;734;Resguardo Indígena Embera Katio de Gegora, Quipar
+45.0;817;Resguardo Indígena Emebera Calle Santa Rosa
+450.0;809;Resguardo Indígena Embera de Alto Rio Bojaya
+451.0;306;Resguardo Indígena Coreguaje de El Porvenir Kanan
+452.0;585;Resguardo Indígena Paez de Zit-Set Del Quecal
+453.0;603;Resguardo Indígena Ticuna y Cocoma de La Playa
+454.0;197;Resguardo Indígena Embera Chami Dachi Drua Mundi
+455.0;348;Resguardo Indígena Embera (Chami) Nabera Drua
+456.0;434;Resguardo Indígena Zenú de Pablo Muera
+457.0;463;Resguardo Indígena Sikuani de Nueva Esperanza del
+458.0;494;Resguardo Indígena Awa de  Alto Cartagena
+459.0;547;Resguardo Indígena Awa de Cuaiquer Integrado La M
+46.0;420;Resguardo Indigian Siona de Buenavista
+460.0;759;Resguardo Indígena Embera de Guadualito
+461.0;788;Resguardo Indígena Embera Almorzadero, San Isidro
+462.0;803;Resguardo Indígena Embera de  Alto Bonito Vira Vi
+463.0;621;Resguardo Indígena de Guambia
+464.0;83;Resguardo Indígena Embera de Villa Nueva Juna
+465.0;490;Resguardo Indígena Wayuu de Cerrodeo
+466.0;633;Resguardo Indígena Kokonuco y Yanacona de Paletar
+467.0;660;Resguardo Indígena Embera-Katio (Chami) Cope Del
+468.0;782;Resguardo Indígena Sikuani de Punta Bandera
+469.0;893;RI Awa Chagui Chimbuza Vegas San Antonio Candiyas*
+47.0;457;Resguardo Indígena Guahibo del Rio Siare o Barran
+470.0;158;Resguardo Indígena El Itilla
+471.0;269;Resguardo Indígena Murui Muinane de Santa Rita
+472.0;552;Resguardo Indígena Pijao de Los Pijaos
+473.0;488;Resguardo Inga de San Miguel De La Castellana
+474.0;43;Resguardo Indígena Embera Drua
+475.0;126;Resguardo Indígena Coribi Bedado
+476.0;130;Resguardo Indígena de Patio Bonito
+477.0;243;Resguardo Indígena Awa de Chinguirito Mira
+478.0;275;Resguardo Indígena de Polindara
+479.0;299;Resguardo Indígena Wayuu Rodeito - El Pozo
+48.0;477;Resguardo Indígena Barranco Ceiba Y Laguna Aragua
+480.0;303;Resguardo Indígena Guambiano Nuevo Amanecer La Me
+481.0;340;Resguardo Indígena Embera  de Do Imamma Tuma y Be
+482.0;370;Resguardo Indígena Chigorodo Memba
+483.0;502;Resguardo Indígena Paez de Toez
+484.0;534;Resguardo Indígena Embera (Eperara Siapidara) Cho
+485.0;581;Resguardo Indígena Awa de Kejuambi Feliciana
+486.0;598;Resguardo Indígena Embera Chami de Escopetera-Pir
+487.0;640;Resguardo Indígena Waunana de Bellavista y Union
+488.0;646;Resguardo Indigena Paez de Kokonuco
+489.0;661;Resguardo Indígena Emebera Chami de La Mirla
+49.0;798;Resguardo indígena Guayaberos de Macuare
+490.0;683;Resguardo Indígena Paez de La Laguna Siberia
+491.0;742;Resguardo Indígena Embera de Pared y Parecito
+492.0;787;Resguardo Indígena Embera de Mamey De Dipurdu
+493.0;804;Resguardo Indígena Embera Katio de Sabaletera San
+494.0;812;Resguardo Indígena Waunan de Puerto Chichiliano
+495.0;832;Resguardo Indígena Awa de Honda Rio Guiza
+496.0;838;Resguardo Indígena Unificado Chami
+497.0;859;Resguardo Indígena Embera de Opogado Doguado
+498.0;878;Resguardo Indígena Awa de Saunde Guiguay
+499.0;880;Resguardo Indígena Awa de Nunalbi Alto Ulbi
+5.0;186;Resguardo Indígena Waunana - Paraje de San Antoni
+50.0;891;RI Guahibo y Cuiva  Rio Tuparro y los Caños Malic
+500.0;647;Resguardo Indígena Embera-Katio de Polines
+501.0;20;Resguardo Indígena Embera Catio de Choromando Baj
+502.0;209;Resguardo Indígena Pijao de Cocana
+503.0;244;Resguardo Indígena Paez de La Cilia o La Calera
+504.0;522;Resguardo Indígena Pijao de Bocas De Tetuan
+505.0;525;Resguardo Indígena Embera de Urada Jiguamiando
+506.0;641;Resguardo Indígena Embera de El Salado
+507.0;694;Resguardo Indígena Embera de Puerto Libre del Rio
+508.0;719;Resguardo Indígena Waunana del Rio Dagua
+509.0;819;Resguardo Indígena Nasa Paez Juan Tama
+51.0;423;Resguardo Indígena Waunana de La Union Choco - S
+510.0;867;Resguardo Indígena de Natacoy Pijao
+511.0;33;Resguardo Indígena Embera Chami La Argelia
+512.0;79;Resguardo Indígena Awa de Damasco Vides
+513.0;152;Resguardo Indígena Inga San Joaquin
+514.0;413;Resguardo Indígena de Puerto Nare
+515.0;538;Resguardo Indígena Inga de La Floresta - La Espa
+516.0;818;Resguardo Indígena pasto de Nuevo Horizonte
+517.0;830;Resguardo Indígena Inga De Mocoa
+518.0;833;Resguardo Indígena Embera-Katio de La Julia
+519.0;78;Resguardo Indígena Inga De Wasipanga
+52.0;313;Resguardo Indígena Tinajas
+520.0;344;Resguardo Indígena Awa De Cañaveral
+521.0;382;Resguardo Indígena Awa De Los Guaduales
+522.0;391;Resguardo Indígena Siona de Vegas de Santana
+523.0;425;Resguardo Indígena Paez de Alto Lorenzo
+524.0;469;Resguardo Indígena Embera Chami La Italia
+525.0;574;Resguardo Indígena Paez de el Libano
+526.0;600;Resguardo Indígena Ticuna, Cocama de Puerto Triun
+527.0;605;Resguardo Indígena San Luis
+528.0;613;Resguardo Indígena Paez de Nasa Kiwe
+529.0;825;Resguardo Indígena Inga De Aponte
+53.0;356;Resguardo Indígena Guahibo de Caño Claro
+530.0;837;Resguardo Indígena Coreguaje de Jacome
+531.0;843;Resguardo Indígena Witoto de Tukunare
+532.0;855;Resguardo Indígena Selva De Mataven
+533.0;13;Resguardo Indígena Paez de La Florida
+534.0;665;Resguardo Indígena Paez de El Descanso
+535.0;685;Resguardo Indígena Paez de La Aguadita
+536.0;747;Resguardo Indígena Inga de Blasiaku
+537.0;846;Resguardo Indígena Paez de El Porvenir - La Barri
+538.0;66;Resguardo Indígena Piaroa De Cachicamo
+539.0;210;Resguardo Indígena Awa De Caicedonia
+54.0;531;Resguardo Indígena Guahibo de Valdivia
+540.0;337;Resguardo Indígena Embera Chami de Simorna
+541.0;572;Resguardo Indígena Awa de Bellavista
+542.0;771;Resguardo Indígena Embera Chami de Alto Orito
+543.0;32;Resguardo Indígena Awa de Selva Verde
+544.0;97;Resguardo Indígena Awa de San Andres - Las Vegas
+545.0;129;Resguardo Indígena Tucan de Caño Giriza y Puerto
+546.0;335;Resguardo Indígena de Alpamanga
+547.0;634;Resguardo Indígena Inga de Wasipungo
+548.0;387;Resguardo Indígena Pijao de Balsillas
+549.0;343;Resguardo Indígena GUAMBIANA LA BONANZA
+55.0;489;Resguardo Indígena Embera del Rio Jarapeto
+550.0;464;Resguardo Indígena Eperara - Siapidaara de Quebra
+551.0;516;Resguardo Indígena Eperara Siapidara de Maiz Blan
+552.0;564;Resguardo Indígena Eperara Siapidaara de Morrito
+553.0;493;Resguardo Indígena Nasa Paez De Musse Ukwe
+554.0;166;Resguardo Indígena Pijao Balsillas Limon
+555.0;280;Resguardo Indígena Wayuu de Tocoromana, Loma Fres
+556.0;440;Resguardo Indígena Nasa Paez de Yu Yik Kwe
+557.0;84;Resguardo Indígena Embera Chami de Bernardino Pan
+558.0;664;Resguardo Indígena Embera-Chami La Maria (Marceli
+559.0;754;Resguardo Indígena Pijao de Beltran
+56.0;138;Resguardo Indígena Embera de los Rios Valle y Bor
+560.0;86;Resguardo Indígena Cubeo, Tukano, Wanano y Pirata
+561.0;811;Resguardo Indígena Piedra Sagrada La Gran Familia
+562.0;854;Resguardo Indígena Puinave y Piapoco de Paujil
+563.0;618;Resguardo Indígena Coreguaje de Aguanegra
+564.0;890;RI Paez de Santa Rosa Juanambu, Campo Alegre, Alp*
+565.0;563;Resguardo Indígena Awa de El Espingo
+566.0;717;Resguardo Indígena Triunfo Cristal Paez
+567.0;16;Resguardo Indígena Pijao Floral Tradicional
+568.0;146;Resguardo Indígena Nasa Paez de Cxayu'Ce Fxiw
+569.0;373;Resguardo Indígena de Canime
+57.0;141;Resguardo Indígena Saliva El Suspiro - El Rincon
+570.0;454;Resguardo Indígena Nasa Embera Chami deLa Delfina
+571.0;511;Resguardo Indígena Awa de Planadas De Telembi
+572.0;637;Resguardo Indígena Paez de Corinto
+573.0;706;Resguardo Indígena Predio Putumayo
+574.0;161;Resguardo Indígena Zenú de Los Almendros
+575.0;624;Resguardo Indígena Embera Katio de Sever
+576.0;658;Resguardo Indígena Embera-Katio de Jaikerazavi
+577.0;199;Resguardo Indígena Yanacona de Guachicono
+578.0;795;Resguardo Indígena Eperara Siapadara de Playa Ben
+579.0;823;Resguardo Indígena Eperara Siapadara de Playita S
+58.0;866;Resguardo Indígena El Saladillo
+580.0;565;Resguardo Indígena Yukpa de Laguna - El Coso - Ci
+581.0;712;Resguardo Indígena Wayuu de Mayalitas, Bangañita
+582.0;615;Resguardo Indígena Embera-Katio de Iwagado
+583.0;482;Resguardo Indígena Awa de Playa Larga
+584.0;569;Resguardo Indígena Quillacinga de Refugio Del Sol
+585.0;261;Resguardo Indígena de Puerto Monfort
+586.0;25;Resguardo Indígena Nasa Paez de Jerusalen - San L
+587.0;570;Resguardo Indígena Awa de Peña La Alegria
+588.0;652;Resguardo Indígena Pijao de Chenche Balsillas
+589.0;326;Resguardo Indígena Pijao Zanja Honda
+59.0;30;Resguardo Indígena Guahibo de Caño Bachaco
+590.0;176;Resguardo Indígena Embera Gegenado
+591.0;178;Resguardo Indígena Pijao Rincon Velu
+592.0;619;Resguardo Indígena Zenú de San Andres De Sotaven
+593.0;735;Resguardo Indígena Embera Katio de El Silencio
+594.0;329;Resguardo Indígena Embera Katio de El Fiera
+595.0;539;Resguardo Indígena Embera Chami Dachi Agore Drua
+596.0;551;Resguardo Indígena Awa de Santa Rosita
+597.0;575;Resguardo Indígena Awa de Inda Guacaray
+598.0;642;Resguardo Indígena Pijao de Chenche Amayarco
+599.0;499;Resguardo Indígena Cofan de Bocana de Luzon
+6.0;592;Resguardo Indígena Motilona Bari (Barira) de Cata
+60.0;41;Resguardo Indígena Guahibo Genareros  - ( denomin
+600.0;262;Resguardo Indígena Yanacona de Villa Maria De Ana
+601.0;590;Witack Kiwe
+602.0;112;Resguardo Indígena Inkal Awa
+603.0;530;Resguardo Indígena Uitiboc
+604.0;562;Resguardo Indígena Siona De Bajo Casacunte
+605.0;691;Resguardo Indígena Coreguaje de Hericha
+606.0;70;Resguardo Indígena Embera Chami Bajo Caceres
+607.0;601;Resguardo Indígena Pijao de Lomas de Hilarco
+608.0;623;Resguardo Indígena Waunana Chagpien -  Rio Tordo
+609.0;629;Resguardo Indígena Paez de Kwet Wala (Piedra Gran
+61.0;48;Resguardo Indígena Guahibo - Roqueros  El Dorado
+610.0;776;Resguardo Indígena Embera de los Rios Catru, Duba
+611.0;635;Resguardo Indígena Katio-Embera del Paraje El Doc
+612.0;716;Resguardo Indígena del Rio La Playa
+613.0;283;Resguardo Indígena Pijao de Guadualito
+614.0;92;Resguardo Indígena Paez de Nasa Chamb
+615.0;172;Resguardo Indígena Awa de Agua Blanca
+616.0;895;RI Coreguaje Asentada en la Regiones De Puerto Na*
+617.0;672;Resguardo Indígena El Tigre
+618.0;96;Resguardo Indígena Pueblo Kokonuco
+619.0;307;Resguardo Indígena Nasa Kiwe Tekh Ksxaw
+62.0;121;Resguardo Indígena Guahibo - Parreros
+620.0;596;Resguardo Indígena Misak de San Antonio
+621.0;779;Resguardo Indígena Nasa (Paez) El Peñon
+622.0;374;Resguardo Indígena Misak Piscitau
+623.0;386;Resguardo Indígena El Oso
+624.0;693;Resguardo Indígena Embera-Katio de Playalta, El V
+625.0;692;Resguardo Indígena Coreguaje de Gorgonia
+626.0;487;Resguardo Indígena Inga-Kichwa La Perecera
+627.0;558;Resguardo Indígena Rumiyaco
+628.0;588;Resguardo Indígena Nasa Hu
+629.0;8;Resguardo Indígena Muisca de Fonqueta y Cerca de
+63.0;314;Resguardo Indígena Embera-Katio Quebrada Cañaver
+630.0;142;Resguardo Indígena Velu Centro
+631.0;195;Resguardo Indígena Nasa de Chimborazo
+632.0;245;Resguardo Indígena Embera Dobida Dogibi
+633.0;309;Resguardo Indígena Chenche Buenavista
+634.0;324;Resguardo Indígena Meche San Cayetano
+635.0;684;Resguardo Indígena Embera Katio de Pescadito
+636.0;107;Resguardo Indígena Vegas De Segovia
+637.0;844;Resguardo Indígena Guahibo de Alto Unuma
+638.0;556;Resguardo Indígena Embera Chami La Libertad 2
+639.0;568;Resguardo Indígena Nasa Banderas del Recaibo
+64.0;325;Resguardo Indígena Guahibo Puyeros
+640.0;232;Resguardo Indígena Maguaré
+641.0;626;Resguardo Indígena Lomas De Guaguarco
+642.0;63;Resguardo Indígena de Guarapamba
+643.0;169;Resguardo Indígena Chicuambe Las Brisas
+644.0;206;Resguardo Indígena Embera Katio El Dieciocho
+645.0;676;Resguardo Indígena Awa de Inda Zabaleta
+646.0;432;Resguardo Indígena Zenu del Alto San Jorge
+647.0;296;Resguardo Indígena Pasto de Funes
+648.0;704;Resguardo Indígena Embera-Katio de Honduras
+649.0;60;Resguardo Indígena Awa Ñambi Piedra Verde
+65.0;338;Resguardo Indígena Guahibo Macarieros
+650.0;431;Resguardo Indígena Nasa La Nueva Esperanza
+651.0;725;Resguardo Indígena Embera (Eperara) Rio Naya
+652.0;862;Resguardo Indígena Embera Paso Rio Salado
+653.0;46;Resguardo Indígena Yanacona El Moral
+654.0;137;Resguardo Indígena Kuitua
+655.0;171;Resguardo Indígena Yanacona de San Juan
+656.0;311;Resguardo Indígena Pasto De Iles
+657.0;319;Resguardo Indígena Yaporogos Taira
+658.0;377;Resguardo Indígena Eperara Siapidara de Nueva Bel
+659.0;822;Resguardo Indígena Nasa, Pueblo Nuevo Ceral
+66.0;874;Resguardo Indígena Guahibo Julieros y Velasqueros
+660.0;274;Resguardo Indígena Gualeras
+661.0;753;Resguardo Indígena Aco Viejo Patio Bonito
+662.0;772;Resguardo Indígena Nataroco
+663.0;105;Resguardo Indígena Campoalegre
+664.0;139;Resguardo Indígena Wopomuin Junain Maikou
+665.0;165;Resguardo Indígena Anaba
+666.0;476;Resguardo Indígena Chimbagal
+667.0;17;Resguardo Indígena Inga De Colon
+668.0;828;Resguardo Indígena Sibundoy (Kamëntsa Biya De Si
+669.0;827;Resguardo Indígena de Yunguillo
+67.0;748;Resguardo Indígena Embera del Rio Icho y Quebrada
+670.0;688;Resguardo Indígena Embera Chami La Albania
+671.0;75;Resguardo Indígena Inga De San Andres
+672.0;861;Resguardo Indígena Kamentsa - Inga de San Francis
+673.0;117;Resguardo Indígena Puerto Belgica
+674.0;203;Resguardo Indígena Laguna Pejendino
+675.0;270;Resguardo Indígena Nasa de Cerro Tijeras
+676.0;352;Resguardo Indígena Nuevo Espinal
+677.0;379;Resguardo Indígena Karabijua
+678.0;755;Resguardo Indígena Nanurco
+679.0;90;Resguardo Indígena Nasa de Kitek Kiwe
+68.0;749;Resguardo Indígena Embera del Rio Negua
+680.0;212;Resguardo Indígena Karabidrua
+681.0;397;Resguardo Indígena Flor Del Monte
+682.0;653;Resguardo Indígena Witoto del Paraje Monochoa
+683.0;681;Resguardo Indígena Witoto del paraje de Puerto Za
+684.0;510;Resguardo Indígena Nasa We' Sx Kiwe La Gaitana
+685.0;848;Resguardo Indígena Naexil Put
+686.0;65;Resguardo Indígena Embera Chami Cacique Queragama
+687.0;290;Resguardo Indígena Pueblo Viejo Santa Rita La Min
+688.0;19;Resguardo Indígena Alberto Pushaina
+689.0;424;Resguardo Indígena Bidukar - La Mecenia
+69.0;9;Resguardo Indígena Waunana del Rio Pichima
+690.0;76;Resguardo Indígena El Noventa
+691.0;42;Resguardo Indígena La Lucha
+692.0;94;Resguardo Indígena Carupia
+693.0;226;Resguardo Indígena El Rosal
+694.0;433;Resguardo Indígena Dai Umadamia
+695.0;540;Resguardo Indígena Nacuanedorro Tuparro
+696.0;31;Resguardo Indígena Chenche Zaragoza
+697.0;135;Resguardo Indígena San Jose De Isnos
+698.0;160;Resguardo Indígena Chenche Angostura
+699.0;164;Resguardo Indígena Senú Los Almendros
+7.0;816;Resguardo Indígena Waunana de Chachajo
+70.0;560;Resguardo Indígena Waunana del Rio Taparal
+700.0;305;Resguardo Indígena Muisca De Cota
+701.0;351;Resguardo Indígena Embera Katio de Sohaibado
+702.0;627;Resguardo Indígena Embera - Chami de la Sucia - H
+703.0;721;Resguardo Indígena Pijao de La Tutira Bonanza
+704.0;191;Resguardo Indígena Ancore Drua
+705.0;826;Resguardo Indígena Inga De San Pedro
+706.0;427;Resguardo Indigena Naexal Lajt
+707.0;607;Resguardo Indígena de Comeyafu
+708.0;616;Resguardo Indigena Puerto Córdoba
+709.0;279;Resguardo Indígena Awia Tuparro
+71.0;153;Resguardo Indígena Guahibo de Caño La Hormiga
+710.0;88;Resguardo Indígena Awa Mayasquer
+711.0;390;Resguardo Indígena Omaga
+712.0;125;Resguardo Indígena Korodo-Ite
+713.0;1;Resguardo Indígena Tamaquito II
+714.0;223;Resguardo Indígena Fiil Vist La Gran Perdiz
+715.0;233;Resguardo Indígena Puerto Claver
+716.0;416;Resguardo Indígena Puerta Del Macizo
+717.0;375;Resguardo Indígena Inga De Santiago
+718.0;177;Resguardo Indígena El Aguila
+719.0;673;Resguardo Indígena Paez de La Concepcion
+72.0;606;Resguardo Indígena Ticuna y Yagua de Santa Sofia
+720.0;308;Resguardo Indígena San Antonio 2
+721.0;394;Resguardo Indígena Raices De Oriente
+722.0;34;Resguardo Indígena Nuevo Horizonte
+723.0;273;Resguardo Indígena Zince La 18
+724.0;292;Resguardo Indígena Leonardo Jose Campanario
+725.0;643;Resguardo Indígena Altos Del Tigre
+726.0;53;Resguardo Indígena Kanalitojo
+727.0;611;Resguardo Indígena Quizgo (Kizgo)
+728.0;667;Resguardo Indígena Guambiano y Paez de La Reforma
+729.0;657;Resguardo Indígena Nasa Paez La Estación Talaga
+73.0;459;Resguardo Indígena Guahibo de las Lagunas Egua y
+730.0;231;Resguardo Indígena Dochama
+731.0;548;Resguardo Indígena Cerrito Bongo
+732.0;4;Resguardo Indígena La Sardina
+733.0;258;Resguardo Indígena Frontino
+734.0;711;Resguardo Indígena Caiman Nuevo
+735.0;801;Resguardo Indígena Muchidó
+736.0;14;Resguardo Indígena Gran Tescual
+737.0;106;Resguardo Indígena Doquera
+738.0;419;Resguardo Indígena Nukanchipa Alpa Amukunapa Wasi
+739.0;617;Resguardo Indigena de Camaritagua
+74.0;573;Resguardo Indígena Embera del Rio Napipi
+740.0;62;Resguardo Indígena Inkal Watzal Awa
+741.0;682;Resguardo Indígena Andoke Del Paraje De Aduche
+742.0;124;Resguardo Indígena Caña Brava
+743.0;241;Resguardo Indígena Tierra Nueva (As Pejenas) - Cu
+744.0;649;Resguardo Rumiyaco
+745.0;651;Resguardo Indígena Paez De Las Mercedes
+746.0;136;Resguardo Indígena Daidrua
+747.0;192;Resguardo Indígena Fiw Paez
+748.0;678;Resguardo Indígena Embera-Katio de Las Playas
+749.0;789;Resguardo Indígena Paez de Las Delicias
+75.0;858;Resguardo Indígena Embera de Alto Rio Cuia
+750.0;322;Resguardo Indígena Intillagta (Hijos Del Sol)
+751.0;630;Resguardo Indígena Mesas De San Juan
+752.0;722;Resguardo Indígena Sikuani de Domo Planas
+753.0;35;Resguardo Indígena Sumain Wayuu Uuliana
+754.0;221;Resguardo Indígena Calara San Martin
+755.0;666;Resguardo Indígena Chami de Totumal
+756.0;36;Resguardo Indígena Itti Takke
+757.0;102;Resguardo Indígena Tata Drua
+758.0;284;Resguardo Indígena San Miguel
+759.0;674;Resguardo Indígena Embera - Chami de Suratena
+76.0;412;Resguardo Indígena Wayuu de El Zaino, Guayabito y
+760.0;298;Resguardo Indígena Inti Yaku
+761.0;196;Resguardo Indígena Nukat Maleiwua (Bendicion De D
+762.0;225;Resguardo Indígena Numain Maleiwa (Tierra De Dios
+763.0;229;Resguardo Indígena Chenche Agua Fria
+764.0;357;Resguardo Indígena Muchajagua del pueblo Zenu
+765.0;625;Resguardo Indígena Nasa Paez de Llano Buco - Bukj
+766.0;38;Resguardo Indígena Casica Ibanasca
+767.0;333;Resguardo Indígena Karamandu
+768.0;650;Resguardo Indígena Inga de Las Brisas
+769.0;251;Resguardo Indígena Murui Monilla Amena
+77.0;184;Resguardo Indígena Cuayquer o Awa del Alto Albi
+770.0;850;Resguardo Indígena F+Ruide Naira+
+771.0;656;Resguardo Indígena Inga de Yurayaco
+772.0;790;Resguardo Indígena Papallaqta
+773.0;608;Resguardo Indígena Nonuya de Villazul
+774.0;359;Resguardo Indígena Mhuysqa Chuta Fa Aba "Los Hijo
+775.0;731;Resguardo Indígena Puerto Samaria
+776.0;732;Resguardo Indígena La Chinita
+777.0;67;Resguardo Indígena Quintin Lame
+778.0;100;Resguardo Indígena Rio Alto De San Juan
+779.0;282;Resguardo Indígena La Mayera
+78.0;204;Resguardo Indígena Tunebo De Angosturas
+780.0;699;Resguardo Indigena Kankuamo
+781.0;237;Resguardo Indígena Kurmadó-Marsella
+782.0;461;Resguardo Indígena Awá La Turbia
+783.0;728;Resguardo Indígena Huitoto - Paraje de Witora O H
+784.0;729;Resguardo Indígena Coreguaje de Jerico-Consaya
+785.0;730;Resguardo Indígena Huitoto de Coropoya
+786.0;99;Resguardo Indígena Musu Runakuna
+787.0;602;Resguardo Indígena de los Rios Miriti Parana (La
+788.0;479;Resguardo Indígena Yachay Wasi
+789.0;55;Resguardo Indígena Rumiñawi
+79.0;349;Resguardo Indígena Waunana de Puado, La Lerma, Ma
+790.0;435;Resguardo Indígena La Victoria
+791.0;670;Resguardo Indígena Inga de Mandiyaco
+792.0;87;Resguardo Indígena Kofan Santiago De Cali
+793.0;114;Resguardo Indígena Yanacona El Paraiso
+794.0;145;Resguardo Indígena Ancestral y Sitios Sagrados de
+795.0;259;Resguardo Indígena Integrado Eden Cartagena
+796.0;398;Resguardo Indígena Guelmambi El Bombo
+797.0;648;Resguardo Indígena Awa de Palmar Imbi
+798.0;109;Resguardo Indígena Santa Barbara
+799.0;190;Resguardo Indígena Pitulumana I y II
+8.0;842;Resguardo Indígena La Pascua
+80.0;455;Resguardo Indígena Guahibo de Merey - La Veraita
+800.0;396;Resguardo Indígena Dachi Nabe Drua
+801.0;677;Resguardo Indígena Nasa Cxhab Wala Luucx
+802.0;751;Resguardo Indígena Kogui - Malayo y Arhuaco
+803.0;98;Resguardo Indígena Ukwe Kiwe del pueblo Nasa
+804.0;436;Resguardo Indígena Unión Wouunan Noonan
+805.0;700;Resguardo Indígena Pickwe Ikh
+806.0;194;Resguardo Indígena Karabi Drua
+807.0;312;Resguardo Indígena Vinollanogrande
+808.0;320;Resguardo Indígena Kiloka Playa Verde
+809.0;686;Resguardo Indígena Nasa Paez Huila
+81.0;808;Resguardo Indígena Embera del Alto Rio Tagachi
+810.0;709;Resguardo Indígena de Arquia
+811.0;727;Resguardo Indígena Chimilas O Cacahueros (Issa Or
+812.0;167;Resguardo Indígena El Arenal
+813.0;22;Resguardo Indigena Dachi Joma
+814.0;50;Resguardo Indígena Wuna´Apuchon Loma Fresca
+815.0;147;Resguardo Indígena La Montaña
+816.0;180;Resguardo Indígena El Pando
+817.0;213;Resguardo Indigena El Redentor De Marañonal
+818.0;662;Resguardo Indígena Arhuaca O Ijke (Arhuaco De La
+819.0;687;Resguardo Indígena Awa de Tortugaña,Telembi, Pun
+82.0;863;Resguardo Indígena Embera de Alto Rio Buey
+820.0;723;Resguardo Indígena Paez de Guadualito
+821.0;49;Resguardo Indígena Naara Kajmanta
+822.0;381;Resguardo Indígena Pijao de Oro
+823.0;443;Resguardo Indígena Chiasalu
+824.0;444;Resguardo Indígena Dachi Bedea
+825.0;690;Resguardo Indígena Paez de Pathyú
+826.0;695;Resguardo Indígena Morichito y Caño Mochuelo
+827.0;708;Resguardo Indígena Nasa Paez Potrerito
+828.0;718;Resguardo Indígena Paez de Canoas
+829.0;720;Resguardo Indígena Embera-Chami de Sabaleta
+83.0;508;Resguardo Indígena Guahibo de Guacamayas-Mamiyare
+830.0;21;Resguardo Indígena Florida Kawinanae
+831.0;122;Resguardo Indigena Centorgua
+832.0;342;Resguardo Indígena Chiquinima
+833.0;346;Resguardo Indígena Wasapana Dagua
+834.0;698;Resguardo Indígena Tiitanho Nijaamu - La Libertad
+835.0;272;Resguardo Indígena Inchi Iaku
+836.0;321;Resguardo Indígena Inga Rigcharikuna "Nuevo Despe
+837.0;384;Resguardo Indígena Cofan Tssenene
+838.0;442;Resguardo Indígena Day Drua Las Palmeras
+839.0;610;Resguardo Indígena Ticuna de Mocagua, Macedonia,
+84.0;156;Resguardo Indígena del Paraje de El Venado
+840.0;680;Resguardo Indígena Guahibo Del Paraje De Caño Ja
+841.0;820;Resguardo Indígena Ticuna de Arara
+842.0;849;Resguardo Indígena Bekocha Guajira
+843.0;441;Resguardo Indígena Awa La Cabaña
+844.0;852;Resguardo Indígena Huitoto De Jirijiri
+845.0;293;Resguardo Indígena Bajo Santa Helena
+846.0;604;Resguardo Indígena Ticuna de San Antonio de Los L
+847.0;612;Resguardo Indígena Ticuna Nazaret
+848.0;80;Resguardo Indígena San Gabriel
+849.0;614;Resguardo Indígena Ticuna, Cocama y Yagua - Ticoy
+85.0;242;Resguardo Indígena Bachaco BuenaVista
+850.0;707;Resguardo Indígena Yanacona de Santa Marta
+851.0;254;Resguardo Indígena Gran Putumayo
+852.0;639;Resguardo Indígena Inga de Puerto Limon
+853.0;668;Resguardo Indígena Inga De San Miguel
+854.0;710;Resguardo Indígena Inga de Descanse
+855.0;824;Resguardo Indígena Inga De Condagua
+856.0;599;Resguardo Indígena Ticuna-Huitoto  Kilometro 6 Y
+857.0;217;Resguardo Indígena Nasa Tkwima Thewë´Sx
+858.0;265;Resguardo Indígena Selvas Del Putumayo
+859.0;395;Resguardo Indígena Yanacona Descanse
+86.0;249;Resguardo Indígena Puinave y Curripaco de los Par
+860.0;421;Resguardo Indigena Inga Suma Iuiai
+861.0;761;Resguardo Indígena La Bandera del Pueblo Pijao
+862.0;765;Resguardo Indígena Paez de Quichaya
+863.0;766;Resguardo Indígena Guambiano de Nam Misak
+864.0;768;Resguardo Indígena Tsawilonia del pueblo Sikuani
+865.0;769;Resguardo Indígena Los Angeles del pueblo Nasa
+866.0;770;Resguardo Indígena Jose de los Santos del pueblo
+867.0;885;Resguardo Indígena Buena Vista Meche
+868.0;886;Resguardo Indígena Paez y Guambiano de La Gaitana
+869.0;887;Resguardo Indígena Pijao de Vuelta Del Rio
+87.0;422;Resguardo Indígena Puinave-Tucano-Curripaco-Cubeo
+870.0;888;Resguardo Indígena Tumbichucue
+871.0;400;Resguardo Indígena Embera Katio de Cuti
+872.0;401;Resguardo Indígena Kerakar
+873.0;402;Resguardo Indígena Alto Peñalisa
+874.0;403;Resguardo Indígena Irrualu
+875.0;404;Resguardo Indígena de La Trina
+876.0;406;Resguardo Indígena Runakuna Kutin Urkuman Quin
+877.0;409;Resguardo Indígena Zenú Brojolá
+878.0;405;Resguardo Indígena San Pedro Alcantara de la Saba
+879.0;407;Resguardo Indígena Chimaluú
+88.0;460;Resguardo Indigrena de los parajes de Caranacoa- *
+880.0;408;Resguardo Indígena La Libertad
+881.0;726;Resguardo Indígena Nasa Paez - Pickwe Tha Fiw
+882.0;185;Resguardo Indígena Los Guajireros
+883.0;628;Resguardo Indígena Embera de Dokerazavi
+884.0;697;Resguardo Indígena Awa de Pulgande Campo Alegre
+885.0;713;Resguardo Indígena Kwe´Sx Yu Kiwe
+886.0;762;Resguardo Indígena Cofán Villanueva del Pueblo C
+887.0;763;Resguardo Indígena de Coreguaje de la Esperanza
+888.0;764;Resguardo Indígena Vaupes
+889.0;767;Resguardo Indígena Nasa Kiwe Use Nueva Palestina
+89.0;515;Resguardo Indígena de los parajes de Coayare - El
+890.0;821;Resguardo Indígena Telar Luz Del Amanecer
+891.0;644;Resguardo Indígena Paez de Villa Lucia
+892.0;702;Resguardo Indígena Paez Ondas Del Cafre
+893.0;889;Resguardo Indígena Coreguaje de La Teofila
+894.0;669;Resguardo Indígena Ishu Awa
+895.0;103;Resguardo Embera Drua
+896.0;437;Resguardo Indígena San Sebastian del Pueblo Pasto
+9.0;810;Resguardo indígena Embera Rios Uva Pogue, Quebrad
+90.0;449;Resguardo Indígena Guahibo y Puinave de Carrizal
+91.0;814;Resguardo Indígena Guahibo-Piapoco de Arrecifal
+92.0;506;Resguardo Indígena Chami - (Eriom Garrapatas)
+93.0;148;Resguardo Indígena Guahibo de La Esmeralda
+94.0;468;Resguardo Indígena Embera Katio del Rio Murindo
+95.0;470;Resguardo Indígena Waunana de Santa Maria De Pang
+96.0;188;Resguardo Indígena Waunana del Rio Orpua
+97.0;587;Resguardo Indígena Waunana del Rio Curiche
+98.0;757;Resguardo Indígena Embera de Motordo
+99.0;289;Resguardo Indígena Wayuu de Lomamato

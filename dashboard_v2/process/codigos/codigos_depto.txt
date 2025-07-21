@@ -1,0 +1,34 @@
+1.0;1;Amazonas
+10.0;10;Caquetá
+11.0;11;Casanare
+12.0;12;Cauca
+13.0;13;Cesar
+14.0;14;Chocó
+15.0;15;Córdoba
+16.0;16;Cundinamarca
+17.0;17;Guainía
+18.0;18;Guaviare
+19.0;19;Huila
+2.0;2;Antioquia
+20.0;20;La Guajira
+21.0;21;Magdalena
+22.0;22;Meta
+23.0;23;Nariño
+24.0;24;Norte de Santander
+25.0;25;Putumayo
+26.0;26;Quindío
+27.0;27;Risaralda
+28.0;28;San Andres y Providencia
+29.0;29;Santander
+3.0;3;Arauca
+30.0;30;Sucre
+31.0;31;Tolima
+32.0;32;Valle del Cauca
+33.0;33;Vaupés
+34.0;34;Vichada
+4.0;4;Área en Litigio
+5.0;5;Atlántico
+6.0;6;Bogotá, D.C.
+7.0;7;Bolívar
+8.0;8;Boyacá
+9.0;9;Caldas

@@ -1,0 +1,122 @@
+1.0;120;Corales de Profundidad
+10.0;91;Los Flamencos
+100.0;107;El Malmo
+101.0;114;Rios Blanco y Negro
+102.0;116;Rio Algodonal
+103.0;4;Bosque Oriental de Bogota
+104.0;10;Rio Anchicaya
+105.0;11;Rio Leon
+106.0;12;El Cerro Dapa Carisucio
+107.0;13;Quebradas El Penon y San Juan
+108.0;15;Rio Melendez
+109.0;16;La Elvira
+11.0;97;Cienaga Grande de Santa Marta
+110.0;33;Cuchilla del Minero
+111.0;48;Serrania La Lindosa - Angosturas II
+112.0;49;Cuenca Alta del Rio Jirocasaca
+113.0;54;Cuenca Alta del Rio Cali
+114.0;66;De Urrao
+115.0;96;Carauta
+116.0;51;Paramo El Atravesado
+117.0;1;Cabo Manglares Bajo Mira y Frontera
+118.0;57;Cinaruco
+119.0;111;Area Marina Protegida de la Reserva de Biosfera Seaflower
+12.0;109;Los Colorados
+120.0;27;Las Cuencas Hidrograficas del Rio Blanco y Quebrada Olivares
+121.0;35;Cuenca del Rio Cravo Sur
+122.0;67;De la Cuenca Hidrografica de los Rios Escalerete y San Cipriano
+13.0;112;Guanenta Alto Rio Fonce
+14.0;103;Galeras
+15.0;40;Yuruparí - Malpelo
+16.0;28;Isla de la Corota
+17.0;82;Plantas Medicinales Orito - Ingi Ande
+18.0;110;Nukak
+19.0;3;Gorgona
+2.0;122;Cordillera Beata
+20.0;9;Cueva de los Guacharos
+21.0;29;Rio Pure
+22.0;55;Yaigoje Apaporis
+23.0;106;Cahuinari
+24.0;2;Isla de Salamanca
+25.0;20;Tayrona
+26.0;31;Los Katios
+27.0;34;Utria
+28.0;46;Tinigua
+29.0;88;Nevado del Huila
+3.0;121;Colinas y Lomas Submarinas de la Cuenca Pacífico Norte
+30.0;8;Sierra Nevada de Santa Marta
+31.0;19;Las Orquideas
+32.0;50;Munchique
+33.0;59;Farallones de Cali
+34.0;65;Selva de Florencia
+35.0;26;Amacayacu
+36.0;115;Serrania de los Churumbelos  - Auka Wasi
+37.0;7;Old Providence Mc Bean Lagoon
+38.0;21;Los Corales del Rosario y de San Bernardo
+39.0;32;Paramillo
+4.0;119;Serranía El Capricho, Mirolindo y Cerritos
+40.0;41;La Paya
+41.0;42;Los Nevados
+42.0;52;Sanquianga
+43.0;75;Purace
+44.0;77;La Serrania de Chiribiquete
+45.0;80;Sierra de la Macarena
+46.0;87;Complejo Volcanico Dona Juana Cascabel
+47.0;94;Las Hermosas - Gloria Valencia de Castano
+48.0;95;Macuira
+49.0;98;Pisba
+5.0;78;Puinawai
+50.0;108;Uramba Bahia Malaga
+51.0;113;El Tuparro
+52.0;117;Bahia Portete - Kaurrele
+53.0;5;Sumapaz
+54.0;24;Alto Fragua - Indi Wasi
+55.0;37;Catatumbo Bari
+56.0;56;Tama
+57.0;62;Cordillera de los Picachos
+58.0;69;El Cocuy
+59.0;79;Chingaza
+6.0;17;Acandi  Playon Y Playona
+60.0;81;Serrania de los Yariguies
+61.0;102;Tatama
+62.0;118;Serranía de Manacacías
+63.0;63;Los Estoraques
+64.0;85;Quebrada La Nona
+65.0;6;Cerro Vanguardia
+66.0;14;Cuenca Hidrografica de la Quebrada la Tablona
+67.0;18;Paramo Grande
+68.0;22;Darien
+69.0;23;La Planada
+7.0;58;Iguaque
+70.0;25;Cerro Quinini
+71.0;30;Cuenca Alta del Cano Vanguardia
+72.0;36;Rios Zabaletas y Cerrito
+73.0;38;Parque el Higueron
+74.0;39;Cuchilla de Sucuncuca
+75.0;43;Rio Dagua
+76.0;44;Rio Rucio
+77.0;45;Rio Tejo
+78.0;47;La Bolsa
+79.0;53;Cuenca Alta del Rio Nembi
+8.0;64;El Corchal El Mono Hernandez
+80.0;60;Rio Bobo y Buesaquillo
+81.0;61;Rio Morales
+82.0;68;El Hortigal
+83.0;70;Rio Guabas
+84.0;71;Cuenca Alta del Rio Mocoa
+85.0;72;Cuenca del Rio Tame
+86.0;73;Quebrada La Valenzuela
+87.0;74;Rios Chorrera y Concepcion
+88.0;83;Quebrada Guadualito y El Negrito
+89.0;84;Serrania de Coraza y Montes de Maria
+9.0;76;Otun Quimbaya
+90.0;86;Rio Nare
+91.0;89;Rio  Amaime
+92.0;90;Quebrada Honda y Canos Parrado y Buque
+93.0;92;Cuenca Alta del Cano Alonso
+94.0;93;Laguna La Cocha Cerro Patascoy
+95.0;99;Mistela
+96.0;100;Sierra el Peligro
+97.0;101;Rio Guadalajara
+98.0;104;Cuenca Alta del Rio Satoca
+99.0;105;Rio San Francisco

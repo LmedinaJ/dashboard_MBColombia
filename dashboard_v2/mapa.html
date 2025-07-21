@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, user-scalable=yes">
+    <title>🗺️ Mapa de Pruebas - Integración Amazónica</title>
+    <link rel="stylesheet" href="styles.css">
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <!-- Leaflet JavaScript -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <!-- Shapefile plugin for Leaflet -->
+    <script src="https://unpkg.com/shapefile@0.6.6/dist/shapefile.min.js"></script>
+    <!-- Alternative: Leaflet.shapefile plugin -->
+    <script src="https://unpkg.com/leaflet.shapefile@0.3.1/dist/leaflet.shapefile.js"></script>
+</head>
+<body>
+    <div class="container">
+        <!-- Header Simplificado -->
+        <header class="header">
+            <h1>🗺️ Mapa de Pruebas - Integración Amazónica</h1>
+            <p class="subtitle">Pruebas de funcionalidad de popups y datos espaciales</p>
+        </header>
+
+        <!-- Solo control de fuente de datos -->
+        <div class="controls-panel">
+            <div class="control-group">
+                <label for="dataSource">📊 Fuente de Datos:</label>
+                <select id="dataSource">
+                    <option value="">Cargando fuentes...</option>
+                </select>
+                <button id="refreshBtn" class="btn-refresh">🔄 Actualizar</button>
+            </div>
+        </div>
+
+        <!-- Solo la sección del mapa -->
+        <main class="dashboard-content">
+            <section class="map-section">
+                <h2>🗺️ Visualización Geoespacial</h2>
+                <div class="map-container">
+                    <div class="map-controls">
+                        <div class="map-control-group">
+                            <label for="mapGisLayer">Capa GIS:</label>
+                            <select id="mapGisLayer">
+                                <option value="">Seleccionar capa...</option>
+                            </select>
+                        </div>
+                        <div class="map-control-group">
+                            <label for="mapYear">Año:</label>
+                            <select id="mapYear">
+                                <option value="2024">2024</option>
+                            </select>
+                        </div>
+                        <div class="map-control-group">
+                            <label for="mapCoverage">Cobertura:</label>
+                            <select id="mapCoverage">
+                                <option value="">Todas las coberturas</option>
+                            </select>
+                        </div>
+                        <div class="map-control-group">
+                            <button id="mapRefresh" class="btn-map">🔄 Actualizar Mapa</button>
+                        </div>
+                    </div>
+                    <div id="mapContainer" class="map-view" style="height: 600px;">
+                        <!-- Leaflet map will be initialized here -->
+                    </div>
+                    <div class="map-legend" id="mapLegend">
+                        <h4>Leyenda</h4>
+                        <div class="legend-items" id="legendItems">
+                            <!-- Legend items will be populated dynamically -->
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </main>
+
+        <!-- Loading Indicator -->
+        <div id="loadingIndicator" class="loading">
+            <div class="spinner"></div>
+            <p>Cargando datos...</p>
+        </div>
+
+        <!-- Filter Loading Indicator -->
+        <div id="filterLoadingIndicator" class="filter-loading hidden">
+            <div class="filter-spinner"></div>
+            <span>Aplicando filtros...</span>
+        </div>
+    </div>
+
+    <!-- JavaScript -->
+    <script src="app.js"></script>
+</body>
+</html>

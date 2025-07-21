@@ -1,0 +1,1663 @@
+1.0;161;Parque Ecologico Humedal Charco  Oasis
+10.0;234;Barbas  Bremen
+100.0;296;Tarcara
+1000.0;664;Villa Tatiana
+1001.0;675;Berlín
+1002.0;686;Perú
+1003.0;697;Jardín Colibrí una Escuela de Vida
+1004.0;699;Las Marías
+1005.0;713;El León
+1006.0;717;La Algarabía
+1007.0;722;Villa Fátima
+1008.0;728;Las Orquídeas
+1009.0;729;Bateas- Cañadas de la Sucia
+101.0;300;La Linda
+1010.0;731;Ecoshezuá
+1011.0;733;El Caracolí
+1012.0;740;Reserva El Tamarín
+1013.0;756;Caracolí
+1014.0;757;Peñalisa
+1015.0;758;El Limón
+1016.0;769;Catón Lote 4
+1017.0;773;El Paraíso de Azucar Buena
+1018.0;42;Tenasucá De Pedro Palo
+1019.0;134;San Nicolás 2
+102.0;301;El Popal
+1020.0;455;Villa María Teresa
+1021.0;462;La Bretaña
+1022.0;477;La Cabaña
+1023.0;521;El Jardín
+1024.0;600;Hágora Santa Marta
+1025.0;616;Santa Inés
+1026.0;619;El Frailejón
+1027.0;682;Potozí
+1028.0;736;El Jardín
+1029.0;782;Huasipungo
+103.0;302;Sabinas
+1030.0;801;Ernesto Jiménez Lozada
+1031.0;808;El Garzón
+1032.0;811;San Andrés
+1033.0;827;Río Nevado
+1034.0;838;La Montañita
+1035.0;840;La Trigueña y Las Delicias
+1036.0;841;Las Peñas
+1037.0;844;Villa Pensión
+1038.0;852;Potosí
+1039.0;855;La Reforestación
+104.0;327;Los Ceibotes
+1040.0;867;El Ensueño
+1041.0;868;Mi Terruño
+1042.0;877;El Bosque Seco de Jacob Moisés Luque
+1043.0;11;Parcela 6 de la Parcelación La Josefina
+1044.0;25;Parcela No. 12 Parcelación Las Brisas
+1045.0;444;Jurásico
+1046.0;453;Travesías
+1047.0;499;La Montaña Mágica El Poleo
+1048.0;504;El Edén
+1049.0;512;Taibará
+105.0;337;El Palomar
+1050.0;519;Berlín
+1051.0;650;Colina De Cristal - Finca El Clavo
+1052.0;684;Cañas Bravas
+1053.0;752;Las Piñas
+1054.0;766;El Tablón
+1055.0;883;Ave María
+1056.0;893;San Nicolás
+1057.0;902;De La Imaginación
+1058.0;918;Caracolí
+1059.0;920;La Mesenia Paramillo-El Desierto
+106.0;401;Laureles, Maracaibo y las Delicias
+1060.0;925;Corazón De La Montaña
+1061.0;939;Estación Biológica Jaguar Del Carrizal
+1062.0;944;El Ensueño 2
+1063.0;949;La Semilla Jardín Botánico
+1064.0;999;Colina De Montefrío
+1065.0;645;Bioparque Moncora 3
+1066.0;947;Área de Protección Cañas Aceite y Acitito Hacienda La Gloria
+1067.0;969;Fundación Reserva La Esperanza
+1068.0;985;Ecofinca Kañarí
+1069.0;1006;Tinamú
+107.0;123;La Gloria
+1070.0;1008;Las Orquídeas
+1071.0;1010;Parque Amazónico Inti Wasi
+1072.0;1022;El Trébol
+1073.0;1028;Estrella De Agua
+1074.0;1035;Cañón De Los Guácharos
+1075.0;1040;Núcleo De Reservas Akae - Tucunare
+1076.0;1041;Núcleo De Reservas Akae - Mata Tigre
+1077.0;1043;Núcleo De Reservas Akae - La Pintada
+1078.0;1045;Núcleo De Reservas Akae - La Esmeralda
+1079.0;1046;Núcleo De Reservas Akae - Akae
+108.0;202;El Diamante
+1080.0;1047;Núcleo De Reservas Akae - Mataguarito
+1081.0;1049;Núcleo de Reservas Akae- Arecua
+1082.0;1050;Núcleo de Reservas Akae- El Cocuy
+1083.0;1051;Núcleo de Reservas Akae- La Habana
+1084.0;1052;Núcleo de Reservas Akae- Araguato
+1085.0;1054;Núcleo de Reservas Akae- Hato Grande
+1086.0;1055;Núcleo de Reservas Akae- El Perú
+1087.0;1060;El Nido del Cóndor
+1088.0;1063;Los Árboles
+1089.0;1081;Lote Número 1 Las Nubes
+109.0;111;Vallecita
+1090.0;1090;Ecoparque La Manigua
+1091.0;1042;Núcleo De Reservas Akae - El Hormiguero
+1092.0;1044;Núcleo De Reservas Akae - Pescadero
+1093.0;1053;Núcleo de Reservas Akae- Santa Rosita
+1094.0;1110;Sie Quye, Agüita De Sietecueros
+1095.0;1122;Chamicero de Perijá
+1096.0;1128;Lejanías A
+1097.0;1138;El Colmillo
+1098.0;1157;San Judas
+1099.0;1171;Reserva Ambiwasi
+11.0;254;Campoalegre
+110.0;124;Vallelargo
+1100.0;1173;Fortuna
+1101.0;1174;Reserva Guayabero Cocodrilo
+1102.0;1181;Pauxi-Pauxi Los Alpes
+1103.0;1182;Pauxi-Pauxi El Progreso
+1104.0;1183;Clavellinas
+1105.0;1187;Buenos Aires de Apartadó
+1106.0;1189;La Fabiola
+1107.0;1190;La Argentina
+1108.0;1195;El Refugio De Vida Silvestre ? Bocoré
+1109.0;1196;Bélgica
+111.0;127;Cerrobravo
+1110.0;1197;Auromira Corralitos
+1111.0;1201;El Hebrón
+1112.0;1202;Conchucua
+1113.0;1204;Pauxi Pauxi Las Brisas
+1114.0;1207;Reserva El Portete
+1115.0;1212;El Cananguchal
+1116.0;1213;El Playón y Buenos Aires
+1117.0;1214;El Sinú
+1118.0;565;La Mansión
+1119.0;626;El Motilón
+112.0;128;El Contento las Palmas
+1120.0;1116;Inka Anam
+1121.0;1215;Guasguarillo
+1122.0;1216;Natura Madrigal 2
+1123.0;1218;Reserva Natural Mesenia Paramillo - Predio Los Colibríes
+1124.0;1219;Cima
+1125.0;1221;El Chorlo
+1126.0;1223;Los Arboles De Las Mesitas
+1127.0;1225;Asopprai
+1128.0;1226;Tahamies
+1129.0;1227;Palogrande
+113.0;129;Soledad las Nubes
+1130.0;1228;La Montañita
+1131.0;1229;Villarosa
+1132.0;1230;La Trigueña y Las Delicias
+1133.0;1231;Las Peñas
+1134.0;1235;Villa Pensión
+1135.0;1236;La Reserva
+1136.0;1237;La Zoconita
+1137.0;1238;Gualamana  y Gualamana II
+1138.0;1239;La Esperanza
+1139.0;1240;Buenavista
+114.0;132;Las Damas
+1140.0;1241;El Horizonte
+1141.0;1242;La Luisa
+1142.0;1243;La Emelia
+1143.0;1244;Potosí
+1144.0;1245;Villa Juliana
+1145.0;1247;La Reforestación
+1146.0;1248;Los Andes
+1147.0;1249;Itaca
+1148.0;1250;Lote De Gastos
+1149.0;1251;Madhú 3
+115.0;135;Uno
+1150.0;1252;La Guaca B
+1151.0;1253;El Zumbador
+1152.0;1254;Reserva Natural Madhú 1
+1153.0;1255;Cocorasecret
+1154.0;1256;El Pinar 2
+1155.0;1257;El Pinar 1
+1156.0;1258;El Pinar 3
+1157.0;1259;La Rivera
+1158.0;1261;La Trinidad
+1159.0;1262;El Horizonte
+116.0;142;La Cima I Cima II y Altamira Maupaz
+1160.0;1263;El Ensueño
+1161.0;1264;Mi Terruño
+1162.0;1267;El Presente
+1163.0;1269;Yuruparí
+1164.0;1270;Aguas Blancas-Santa Helena-Mushaisa
+1165.0;1271;El Boral
+1166.0;1272;Corocora
+1167.0;1273;El Silencio
+1168.0;1274;La Carranchina
+1169.0;1275;Matambo 2
+117.0;153;El Palmar y la Secreta
+1170.0;1276;El Bosque Seco de Jacob Moisés Luque
+1171.0;1277;El Nacedero
+1172.0;1278;Reserva Alvarado
+1173.0;1279;Estero Matemarrano
+1174.0;1280;Morrocoy 1
+1175.0;1281;La Fe
+1176.0;1282;Ave María
+1177.0;1283;El Cedral
+1178.0;1284;Raicero
+1179.0;1285;La Esperanza
+118.0;154;Bremen Lote 16 y la Rinconada Lote 15
+1180.0;1286;La Portuguesa
+1181.0;1287;Pozo Azul
+1182.0;1288;Miralejos
+1183.0;1289;Morrocoy 2
+1184.0;1290;Morrocoy 3
+1185.0;1295;Aya-S
+1186.0;1297;Monte Makuna
+1187.0;1299;Reserva Natural Rodamonte
+1188.0;1300;San Juan de Tinije
+1189.0;1301;El Limonal y San Pedro
+119.0;156;Esmeralda
+1190.0;1302;Yalconia
+1191.0;1303;Matapalito
+1192.0;1304;De La Imaginación
+1193.0;1305;La Pareja 1
+1194.0;1306;La Pareja 2
+1195.0;1307;Villa de Simón
+1196.0;1308;La Cristalina
+1197.0;1309;Fundo Raudal De Flor Amarillo
+1198.0;1310;La Herradurita
+1199.0;1311;La Volga
+12.0;305;Alto del Nudo
+120.0;157;Olla Grande, la Esmeralda y el Nahir
+1200.0;1312;Matambo 3
+1201.0;1313;La Florida
+1202.0;662;El Jardín
+1203.0;1198;La Voragine
+1204.0;1224;Mamakunapa
+1205.0;1266;Nakua
+1206.0;1268;La Comarca
+1207.0;1292;La Independencia
+1208.0;1294;La Vega
+1209.0;1296;Canaguay
+121.0;159;El Retiro, la Cascada, el Mantel la Mesa la Meseta y la Isla el Durazno
+1210.0;1298;La Uvita
+1211.0;1316;La Albania
+1212.0;1317;Reserva Natural Cantares
+1213.0;1318;La Esmeralda
+1214.0;1319;Guacamayo
+1215.0;1320;Villa Alejandra
+1216.0;1321;La Esperanza
+1217.0;1322;Caracolí
+1218.0;1323;Bellavista
+1219.0;1324;La Mesenia Paramillo-El Desierto
+122.0;269;Pozo Azul
+1220.0;1325;Guacharacas del Cusiana
+1221.0;1326;Nuevo Mejico
+1222.0;1327;La Miranda
+1223.0;1328;El Cairo
+1224.0;1329;Corazón De La Montaña
+1225.0;1330;Ariel Campestre Juisingueka
+1226.0;1331;El Rosario
+1227.0;1332;Laguna Lote Rural
+1228.0;1333;Reserva Natural El Olinguito
+1229.0;1334;Munnai El Amor Mas Puro
+123.0;418;La Tebaida
+1230.0;1335;Finca Demostrativa Don Miguel
+1231.0;1336;El Socorro
+1232.0;1338;La Samaria
+1233.0;1339;Santa Elena
+1234.0;1340;La Holanda
+1235.0;1341;Frutos De Agua
+1236.0;1342;El Olivo II
+1237.0;1343;Altahona-Castro
+1238.0;1344;El Orgasmo
+1239.0;1345;La Esperanza
+124.0;126;Bellavista
+1240.0;1346;Estación Biológica Jaguar Del Carrizal
+1241.0;1347;Buenos Aires
+1242.0;1348;La Loma De Dos Quebradas
+1243.0;1349;El Olivo
+1244.0;1350;Puerta de Chontales
+1245.0;1351;El Ensueño 2
+1246.0;1352;La Venturosa
+1247.0;1353;Tahami Quirama
+1248.0;1354;Área de Protección Cañas Aceite y Acitito Hacienda La Gloria
+1249.0;1355;La Mosca
+125.0;257;De Bitaco
+1250.0;1356;La Semilla Jardín Botánico
+1251.0;1359;Las Mercedes
+1252.0;1360;El Silencio
+1253.0;1361;La Baita
+1254.0;1362;Buenavista
+1255.0;1363;Charanga
+1256.0;1364;Siempre Vivo
+1257.0;1365;Refugio De Las Aves
+1258.0;1366;El Caiman
+1259.0;1367;Las Palmeras
+126.0;413;Playas
+1260.0;1368;San Francisco
+1261.0;1369;Romero B y Cia
+1262.0;1370;Birmania
+1263.0;1371;Cuchavira
+1264.0;1374;La Palestina
+1265.0;1375;Fundación Reserva La Esperanza
+1266.0;1376;Cha Ma Chia
+1267.0;1377;El Zoque
+1268.0;1378;Buenos Aires
+1269.0;1379;La Dorada
+127.0;420;Yeguas
+1270.0;1380;Manzanares
+1271.0;1381;Manakai
+1272.0;1382;Lorena
+1273.0;1383;Leguaro
+1274.0;1384;El Santuario
+1275.0;1385;El Socorro
+1276.0;1386;Conjunto De Reservas Naturales De Sumicol Sas
+1277.0;1387;Maporita
+1278.0;1388;La Fortuna
+1279.0;1389;Los Iguanitos
+128.0;1192;Santa Rosa
+1280.0;1390;Ecofinca Kañarí
+1281.0;1391;Buenos Aires
+1282.0;1392;Bellavista
+1283.0;1393;Fiba
+1284.0;1394;El Rosal
+1285.0;1395;La Estrella
+1286.0;1396;Rancho Grande
+1287.0;1397;Los Pomos
+1288.0;1402;La Ceibita
+1289.0;1403;Arcasim
+129.0;60;Reserva Hídrica El Soche - San Rafael
+1290.0;1404;La Granada
+1291.0;1405;La Cumbre Suesca
+1292.0;1406;Sierra Morena
+1293.0;1407;Lote Cinco
+1294.0;1408;La Estrella
+1295.0;1409;Bella Vista
+1296.0;1410;Reserva Natural Musinga
+1297.0;1411;Tinamú
+1298.0;1412;San Fernando
+1299.0;1413;Las Orquídeas
+13.0;747;El Gigante
+130.0;71;La Pradera
+1300.0;1414;Los Liberales
+1301.0;1415;Parque Amazónico Inti Wasi
+1302.0;1416;La Ermita
+1303.0;1417;Chaquiral
+1304.0;1418;La Estrella
+1305.0;1419;Las Brisas
+1306.0;1420;El Caujaro
+1307.0;1421;Lote #4
+1308.0;1422;Casa Roja
+1309.0;1423;Pino Hermoso
+131.0;4;Chicaque
+1310.0;1424;Agua Tremolente
+1311.0;1426;Lote Mireya
+1312.0;1428;El Crisol
+1313.0;1429;El Trébol
+1314.0;1430;1810
+1315.0;1431;Huisyzuca
+1316.0;1432;Buena Vista
+1317.0;1435;Las Palmeras
+1318.0;1437;Las Juntas
+1319.0;1439;Tupuragua
+132.0;5;Sanguare
+1320.0;1440;La Esmeralda
+1321.0;1441;Cañón De Los Guácharos
+1322.0;1442;La Indomable
+1323.0;1443;Los Laureles
+1324.0;1291;La Esperanza
+1325.0;1293;San Nicolás
+1326.0;1400;La Palmita
+1327.0;1401;Colina De Montefrío
+1328.0;1425;Las Quinquinas
+1329.0;1427;El Cóndor
+133.0;6;La Aurora
+1330.0;1433;Viracocha
+1331.0;1436;La Victoria
+1332.0;1438;El Porvenir
+1333.0;1446;Núcleo De Reservas Akae - Tucunare
+1334.0;1447;Núcleo De Reservas Akae - Mata Tigre
+1335.0;1448;Núcleo De Reservas Akae - La Holanda
+1336.0;1449;Núcleo De Reservas Akae - El Hormiguero
+1337.0;1450;Núcleo De Reservas Akae - La Pintada
+1338.0;1451;Núcleo De Reservas Akae - Pescadero
+1339.0;1452;Núcleo De Reservas Akae - La Esmeralda
+134.0;7;Las Piedras
+1340.0;1453;Núcleo De Reservas Akae - Akae
+1341.0;1454;Núcleo De Reservas Akae - Mataguarito
+1342.0;1456;Salto del Aures
+1343.0;1457;Núcleo de Reservas Akae- Arecua
+1344.0;1458;Núcleo de Reservas Akae- El Cocuy
+1345.0;1459;Núcleo de Reservas Akae- La Habana
+1346.0;1460;Núcleo de Reservas Akae- Araguato
+1347.0;1461;Núcleo de Reservas Akae- Santa Rosita
+1348.0;1462;Núcleo de Reservas Akae- Hato Grande
+1349.0;1463;Núcleo de Reservas Akae- El Perú
+135.0;8;Bosques De Chipaque
+1350.0;1464;Loros Andinos
+1351.0;1465;Bosque Colindres
+1352.0;1466;Belén
+1353.0;1467;Villa Nueva- La Esmeralda
+1354.0;1468;Abadía de Juan
+1355.0;1469;Versalles
+1356.0;1470;Entre Árboles y Micos
+1357.0;1471;El Nido del Cóndor
+1358.0;1472;Ecozentro Madre Kumbra
+1359.0;1473;Alta Gracia
+136.0;9;Santa Martha
+1360.0;1474;Los Árboles
+1361.0;1475;Pozos La Chorrera
+1362.0;1476;Paraíso Bombonas
+1363.0;1477;Ecosaravita
+1364.0;1478;El Carmen
+1365.0;1479;Buena Vista
+1366.0;1480;Los Eucaliptos
+1367.0;1481;La Calandria
+1368.0;1482;Anima La Vida
+1369.0;1483;Las Ceibas
+137.0;10;Las Veraneras
+1370.0;1485;La Y
+1371.0;1486;Anukwe
+1372.0;1487;Lote de Terreno N. 4 Las Nubes
+1373.0;1488;Lote La Esmeralda
+1374.0;1489;Maimará 1
+1375.0;1490;Macúa
+1376.0;1491;La Esperanza 1
+1377.0;1492;El Silencio
+1378.0;1493;Paraver La Esperanza
+1379.0;1494;Lote Número 1 Las Nubes
+138.0;14;La Palma de La Castellana
+1380.0;1495;La Apachita
+1381.0;1496;La Cristalina
+1382.0;1497;El Puente
+1383.0;1498;La Esperanza
+1384.0;1499;La Merced
+1385.0;1500;Finca Las Marías
+1386.0;1501;Granja Villa Luna
+1387.0;1502;El Porvenir
+1388.0;1503;Irati Dojura;La Reserva del Chachafruto
+1389.0;1504;Masheda
+139.0;16;El Rosario
+1390.0;1505;Ecoparque La Manigua
+1391.0;1506;El Trapiche
+1392.0;1507;Cerritos
+1393.0;1508;El Silencio
+1394.0;1509;La Germania
+1395.0;1510;Jerusalen
+1396.0;1512;Villa Valle
+1397.0;1513;Las Juntas
+1398.0;1514;Manaco 2
+1399.0;1515;Mareigua
+14.0;1188;Laguna de Suesca
+140.0;18;El Recuerdo
+1400.0;1516;Manaco 1
+1401.0;1517;Club Campestre de Pereira
+1402.0;1518;La Buenaventura, Granja Escuela
+1403.0;1519;Finca San Pedro
+1404.0;1520;Amazonas
+1405.0;1521;Manaco 3
+1406.0;1522;La Esperanza
+1407.0;1523;Siare
+1408.0;1524;Biologica Caoba
+1409.0;1525;El Porvenir La Luna
+141.0;20;Primavera 2
+1410.0;1526;Nacimiento del Rio Manso
+1411.0;1527;La Esperanza
+1412.0;1528;Sie Quye, Agüita De Sietecueros
+1413.0;1529;Natura Madrigal 1
+1414.0;1530;Lorica
+1415.0;1531;La Jabonera
+1416.0;1532;San Antonio
+1417.0;1533;San Vicente
+1418.0;1534;Japio Garces & Cia SCA
+1419.0;1536;Inka Anam
+142.0;21;Parcela No. 20 Boca de Monte
+1420.0;1537;Muquiche
+1421.0;1538;FAUNA DE COLOMBIA SAN ANDRES ISLA
+1422.0;1539;Sinaí
+1423.0;1540;El Barranquero
+1424.0;1541;Finca Agroecológica San Martín
+1425.0;1542;Chamicero de Perijá
+1426.0;1543;Jiménez
+1427.0;1546;La Esperanza
+1428.0;1548;Lejanías A
+1429.0;1549;La Primavera
+143.0;22;Parcela No. 16 La Josefina
+1430.0;1550;El Encanto
+1431.0;1551;Pinchaque
+1432.0;1552;El Jobito
+1433.0;1553;Los Aceites
+1434.0;1554;El Porvenir 1
+1435.0;1555;Natura Peñalta 1
+1436.0;1556;La Esperanza
+1437.0;1557;El Paraíso
+1438.0;1559;Yaya 1
+1439.0;1560;El Kiosco
+144.0;26;El Retiro
+1440.0;1562;Manantial
+1441.0;1563;Reserva Natural Dos Rios
+1442.0;1564;Monteadentro
+1443.0;1565;Peñalta 2
+1444.0;1567;Cedro Carmín
+1445.0;1568;La Montaña Risa
+1446.0;1569;El Silencio
+1447.0;1570;Oso Frontino
+1448.0;1571;La Floresta
+1449.0;1572;La Soledad
+145.0;27;El Recuerdo
+1450.0;1575;Mesón
+1451.0;1580;La Esperanza
+1452.0;1581;La Palma de Tatamá
+1453.0;1582;San Judas
+1454.0;1583;Cantaclaro
+1455.0;1584;El Encanto
+1456.0;1585;Cañon de La Hondura
+1457.0;1588;La Tierrita
+1458.0;1590;Los Titíes De San Juan III
+1459.0;1592;Las Delicias
+146.0;28;El Abejero
+1460.0;1593;Salto Del Buey
+1461.0;1594;La Piedra del Condor
+1462.0;1595;El Porvenir 2
+1463.0;1602;La Ramada
+1464.0;1603;Villa Laura
+1465.0;1604;El Encanto y Sus Encantos
+1466.0;1605;Anacardio
+1467.0;1608;Pauxi-Pauxi Los Alpes
+1468.0;1610;Clavellinas
+1469.0;1611;El Raudal
+147.0;30;El Mirador 2
+1470.0;1612;Buenavista
+1471.0;1613;Reserva Buenavista
+1472.0;1;Elan Vital;Fuerza De Vida
+1473.0;2;El Venado
+1474.0;3;Bella Vista
+1475.0;79;La Morenita
+1476.0;228;Las Mesitas
+1477.0;230;Villa Milena
+1478.0;232;Proaves Arrierito Antioqueño Bloque 2
+1479.0;233;San Nicolás 2
+148.0;31;Altos De Pedro Palo
+1480.0;235;Las Cascadas De Andrómeda
+1481.0;236;La Esmeralda
+1482.0;237;La Cumbre
+1483.0;239;El Cerrito
+1484.0;243;Monte Calicó
+1485.0;244;El Billar
+1486.0;245;La Sirena
+1487.0;246;El Cedro
+1488.0;247;Asociación De Amigos Usuarios Del Acueducto Independiente De Ocaña Adamiuain
+1489.0;248;Reserva Unsáua
+149.0;32;Palmarito Casanare
+1490.0;249;Las Dos Lunas
+1491.0;250;La Judea
+1492.0;251;El Agrado
+1493.0;259;La Esperanza 2
+1494.0;267;Reserva Natural El Arca
+1495.0;271;El Danubio
+1496.0;272;La Virginia
+1497.0;289;Las Nubes
+1498.0;290;Flia Betancur Alvarez
+1499.0;291;Terrapreta
+15.0;826;Sierra Chiquita y Humedales
+150.0;33;Santa Fe
+1500.0;387;La Argentina
+1501.0;433;El Paraíso
+1502.0;437;Refugio Del Tororoi
+1503.0;965;La Suiza
+1504.0;970;Las Margaritas
+1505.0;973;Palacea
+1506.0;974;Bioparque Moncora 3
+1507.0;975;Renasie
+1508.0;977;Reserva Natural Verdeagua
+1509.0;978;San Rafael De Guanapalo
+151.0;34;El Cedro
+1510.0;979;Colina De Cristal - Finca El Clavo
+1511.0;993;Casabrava
+1512.0;994;Princesa Ocaima
+1513.0;996;El Tutumillo
+1514.0;997;Los Guaduales
+1515.0;998;Villa Tatiana
+1516.0;1026;Faoa
+1517.0;1260;Bellavista
+1518.0;1434;Estrella De Agua
+1519.0;1484;San Francisco
+152.0;35;La Finca De Pedro Palo
+1520.0;1511;Matilde Montañez ? Páramo Del Sol
+1521.0;1535;Si Me Dejan
+1522.0;1544;Las Brisas
+1523.0;1545;Maimará 2
+1524.0;1547;La Ilusión
+1525.0;1558;Morrocoy
+1526.0;1561;El Colmillo
+1527.0;1566;Camposol La Bretaña
+1528.0;1573;El Porvenir
+1529.0;1574;Las Brisas
+153.0;36;Reserva El Caucho
+1530.0;1577;San Dimas
+1531.0;1578;Refugio del Oso
+1532.0;1579;Reserva Natural Comunitaria Galapagos
+1533.0;1586;Villamar
+1534.0;1587;La Favorita
+1535.0;1591;Villa Karina
+1536.0;1596;Lote
+1537.0;1597;Reserva Ambiwasi
+1538.0;1598;El Porvenir
+1539.0;1599;Santuario
+154.0;37;Hostal De Pedro Palo
+1540.0;1600;Fortuna
+1541.0;1601;Reserva Guayabero Cocodrilo
+1542.0;1606;Miranda
+1543.0;1607;Las Brisas
+1544.0;1609;Pauxi-Pauxi El Progreso
+1545.0;1614;Buenos Aires de Apartadó
+1546.0;1616;La Fabiola
+1547.0;1617;La Argentina
+1548.0;1618;La Constancia
+1549.0;1619;Santa Rosa
+155.0;38;Pantanillo
+1550.0;1620;El Paraíso
+1551.0;1622;El Refugio De Vida Silvestre ? Bocoré
+1552.0;1623;Bélgica
+1553.0;1624;Auromira Corralitos
+1554.0;1625;La Voragine
+1555.0;1626;El Triunfo
+1556.0;1627;Zamu Floresta
+1557.0;1629;Villa Camila
+1558.0;1630;La Albania
+1559.0;1631;La Nueva Esperanza
+156.0;41;Primavera 3
+1560.0;1632;El Pedernal
+1561.0;1633;El Diviso
+1562.0;1634;EL Danubio
+1563.0;1635;Baranoa
+1564.0;1636;El Mirador
+1565.0;1637;El Hebrón
+1566.0;1638;Los Andes
+1567.0;1639;El Paraíso
+1568.0;1640;Conchucua
+1569.0;1641;Islandia
+157.0;43;Bosques y Montes del Soche II
+1570.0;1642;Pauxi Pauxi Las Brisas
+1571.0;1643;San Lorenzo
+1572.0;1644;El Recreo
+1573.0;1645;Yataro
+1574.0;1646;Reserva El Portete
+1575.0;1647;La Argelia
+1576.0;1648;La Palestina
+1577.0;1649;El Retiro
+1578.0;1650;La Estrella
+1579.0;1651;Etiopía
+158.0;44;Primavera Deyis
+1580.0;1653;El Cananguchal
+1581.0;1654;El Playón y Buenos Aires
+1582.0;1655;El Sinú
+1583.0;1656;Guasguarillo
+1584.0;1657;Natura Madrigal 2
+1585.0;1658;El Bosque
+1586.0;1659;Reserva Natural Mesenia Paramillo - Predio Los Colibríes
+1587.0;1660;Cima
+1588.0;1661;Las Mercedes
+1589.0;231;El Cariño
+159.0;45;Primavera 5
+1590.0;308;Nazareth
+1591.0;309;Bosque Kaukita
+1592.0;310;Las Corrientes 2
+1593.0;311;El Porvenir
+1594.0;312;Las Tángaras
+1595.0;313;Reserva Natural La Holanda Espinazo Del Caballo
+1596.0;314;Nirvana
+1597.0;315;Reserva Ecoturística Villa Diosa
+1598.0;316;Bóvedas, Veguita y Tumbe
+1599.0;317;El Triunfo
+16.0;911;Complejo de Humedales Arcial, Porro y Cintura
+160.0;46;La Fernanda
+1600.0;318;El Juicio
+1601.0;319;Pava
+1602.0;320;Nueva Esperanza
+1603.0;322;Casa De Teja
+1604.0;323;Las Lomas
+1605.0;324;Mox
+1606.0;325;Buenos Aires
+1607.0;347;La Estrella
+1608.0;348;La Alejandra
+1609.0;357;Los Titíes De San Juan IV
+161.0;47;La Palma De Marbella
+1610.0;358;Mesopotamia
+1611.0;359;La Tangara
+1612.0;378;Patio Bonito
+1613.0;386;La Siria
+1614.0;391;La Prosperidad
+1615.0;396;Santuario Natural De Conciencia Cosmogénesis
+1616.0;411;La Esperanza
+1617.0;412;Bella Vista
+1618.0;435;Santa Catalina
+1619.0;458;Las Corrientes
+162.0;48;Pintura
+1620.0;469;La Tebaida
+1621.0;1399;La Ceiba
+1622.0;1576;Buenos Aires
+1623.0;1662;El Chorlo
+1624.0;1663;La Esperanza
+1625.0;140;La Esperanza
+1626.0;104;La Esperanza
+1627.0;275;La Esperanza
+1628.0;368;La Esperanza
+1629.0;436;La Esperanza
+163.0;49;Primavera 6
+1630.0;517;La Esperanza
+1631.0;531;La Esperanza
+1632.0;608;La Esperanza
+1633.0;612;La Esperanza
+1634.0;659;La Esperanza
+1635.0;847;La Esperanza
+1636.0;885;La Esperanza
+1637.0;891;La Esperanza
+1638.0;917;La Esperanza
+1639.0;938;La Esperanza
+164.0;51;Las Aves El Dorado
+1640.0;1104;La Esperanza
+1641.0;1109;La Esperanza
+1642.0;1126;La Esperanza
+1643.0;1155;La Esperanza
+1644.0;1222;La Esperanza
+1645.0;15;El Silencio
+1646.0;84;El Silencio
+1647.0;552;El Silencio
+1648.0;874;El Silencio
+1649.0;953;El Silencio
+165.0;52;El Cedro
+1650.0;1080;El Silencio
+1651.0;1092;El Silencio
+1652.0;1146;El Silencio
+1653.0;86;El Porvenir
+1654.0;189;El Porvenir
+1655.0;335;El Porvenir
+1656.0;374;El Porvenir
+1657.0;488;El Porvenir
+1658.0;568;El Porvenir
+1659.0;759;El Porvenir
+166.0;53;Los Naranjos
+1660.0;1032;El Porvenir
+1661.0;1088;El Porvenir
+1662.0;1150;El Porvenir
+1663.0;1172;El Porvenir
+167.0;54;La Reserva
+168.0;55;Sauce
+169.0;56;Reserva Miravalle
+17.0;328;Bañaderos  Cuenca Alta del Río Camarones
+170.0;57;El Umuy
+171.0;59;El Pedregal
+172.0;61;El Lucero
+173.0;62;Aves de  El Paujil
+174.0;63;La Cuchilla 2
+175.0;64;Villa del Monte
+176.0;65;Piedra Sentada
+177.0;66;La Estrella 2
+178.0;67;Bella Vista
+179.0;68;El Portal
+18.0;226;Cuchilla de San Antonio y Laguna El Coco
+180.0;73;El Cedral
+181.0;74;El Cedro
+182.0;77;La Palma
+183.0;78;La Aurora
+184.0;80;El Horadado De San Alejo
+185.0;81;Los Pinos
+186.0;82;El Viche
+187.0;88;San Rafael
+188.0;89;La Parcela 9
+189.0;90;Los Chagualos
+19.0;115;Nubes Trocha Capota
+190.0;94;La Ceja
+191.0;96;San Pedro Y El Recuerdo
+192.0;97;Oasis
+193.0;98;Puerta Dorada
+194.0;100;El Manzano
+195.0;101;Monte Redondo
+196.0;102;Betania
+197.0;105;Alto
+198.0;106;Las Mercedes
+199.0;107;Motilonal
+2.0;162;Parque Ecologico Humedal Calatrava
+20.0;117;Cuchilla Jardin Tamesis
+200.0;108;Las Guacamayas
+201.0;109;VillaLuz
+202.0;110;La Reserva
+203.0;137;La Esmeralda
+204.0;146;El Cedro
+205.0;288;Hato Venecia De Guanapalo
+206.0;294;Betania Del Lagunazo
+207.0;295;Algarrobo Del Lagunazo
+208.0;306;Aguas Calientes
+209.0;330;Conjunto De Reservas Naturales De Sumicol S.A. (Lusitania)
+21.0;118;Alto del Insor
+210.0;331;Matabrava
+211.0;343;Jabiru
+212.0;344;San Gabriel
+213.0;349;Buenaventura
+214.0;352;Los Mangos
+215.0;353;Monte Heliconia
+216.0;355;La Cosmopolitana
+217.0;361;El Vergel
+218.0;364;La Palmita
+219.0;371;La Pedregoza
+22.0;119;Rios Barroso y San Juan
+220.0;372;La Judea IV
+221.0;375;Jikuri
+222.0;377;Bosque La Linda
+223.0;380;Paway
+224.0;381;Cochahuaira
+225.0;382;El Retiro
+226.0;383;Pauxi pauxi Buenos Aires
+227.0;384;Pauxi Pauxi Las Flores y El Porvenir
+228.0;385;Pauxi pauxi predio Agua Linda
+229.0;390;La Reforma
+23.0;121;Cuchilla Cerro Plateado Alto San Jose
+230.0;393;Los Volcanes
+231.0;394;El Manantial
+232.0;395;La Esmeralda
+233.0;397;Los Tananeos
+234.0;400;Aves del Tequendama
+235.0;402;Hacienda Esmeraldas
+236.0;405;Los Cauchos
+237.0;406;Verde Esperanza
+238.0;409;EL Tesoro
+239.0;410;Providencia
+24.0;160;Divisoria Valle de Aburra Rio Cauca
+240.0;422;Hacienda Villa Mery
+241.0;423;Las Camelias
+242.0;424;Biotopo Selva Humeda
+243.0;425;Las Manguitas
+244.0;427;El Manantial
+245.0;428;El Placer
+246.0;429;La Zambera
+247.0;430;Altomira
+248.0;431;La Suiza
+249.0;432;Tomovida - Shambala
+25.0;172;Luriza
+250.0;441;El Lagunazo en Santa Clara
+251.0;443;La Chorrera
+252.0;445;La Rivera
+253.0;454;Tacarcuna
+254.0;456;Las Camelias
+255.0;460;Agua Clara
+256.0;464;Yumake
+257.0;465;El Chuscal Parte Alta
+258.0;468;De Las Aves el Dorado Cincinati lote 1
+259.0;471;Miraflores
+26.0;174;En el Territorio Colectivo del Consejo Comunitario de la Comunidad Negra de la Plata
+260.0;472;El Camino del Tesoro
+261.0;473;Guayabito
+262.0;474;El Retiro
+263.0;476;La Sonrisa
+264.0;478;El Milagro
+265.0;480;Cabildo Verde II
+266.0;481;La Lucha
+267.0;485;Providencia
+268.0;486;La Gurrera
+269.0;491;Samaria 2
+27.0;176;Enclave Subxerofitico de Atuncela
+270.0;492;Las Violetas
+271.0;493;Fuenteviva
+272.0;494;La Llanada
+273.0;495;La Lucha
+274.0;496;Altamira
+275.0;498;Montes de la Esperanza
+276.0;500;Santa Martha
+277.0;502;El Potrerito
+278.0;505;Campohermoso
+279.0;506;El Reinado
+28.0;181;Agualinda
+280.0;509;Mata de Guadua
+281.0;510;Guaia Quyca - Paba Sua
+282.0;514;El Ocarro
+283.0;515;Himalaya
+284.0;516;Anelim
+285.0;518;Santa Cruz
+286.0;520;El Tesorito
+287.0;523;Piedra Gorda
+288.0;526;Campo Hermoso
+289.0;527;Los Guaduales
+29.0;203;Rio Subachoque y Pantano de Arce
+290.0;528;El Vergel
+291.0;529;Los Clavellinos
+292.0;530;Bombay
+293.0;532;Los Paraguitos
+294.0;534;La Rivera
+295.0;538;Roca Madre
+296.0;540;Amanecer en el Palmar 1
+297.0;542;Madremonte
+298.0;543;Veronia
+299.0;544;Camino Verde
+3.0;163;Parque Ecologico Humedal Caracoli
+30.0;204;Cuchilla el Chuscal
+300.0;545;Ieiasca
+301.0;546;El Cardon
+302.0;547;La Periquera
+303.0;549;Zona de Biodiversidad El Triunfo
+304.0;550;Amanecer en el Palmar 2
+305.0;553;El Portal del Oso
+306.0;555;La Loma del Toro Pao
+307.0;556;Zona de Biodiversidad La Loma
+308.0;559;El Cerrito
+309.0;563;Agua Monte
+31.0;252;Cristalina la Mesa
+310.0;567;Sol y Luna
+311.0;571;El Recuerdo
+312.0;575;La Aldea
+313.0;579;Iguakan
+314.0;598;Betania
+315.0;617;Los Pinos
+316.0;618;La Albania
+317.0;632;Providencia
+318.0;637;La Suiza
+319.0;642;Las Margaritas
+32.0;270;Ecosistema de Sabanas Abiertas y Arbustivas y Sistemas Asociados en el Municipio de Galeras
+320.0;663;Los Guaduales
+321.0;689;La Aurora
+322.0;692;El Cedro
+323.0;712;La Reserva
+324.0;715;San Gabriel
+325.0;719;Altamira
+326.0;723;La Palma
+327.0;730;El Mirador
+328.0;775;La Esmeralda
+329.0;800;La Cueva
+33.0;298;El Meandro o Madrevieja de Guarinocito
+330.0;805;Betania
+331.0;806;La Reserva
+332.0;845;La Reserva
+333.0;863;La Rivera
+334.0;912;La Albania
+335.0;914;La Esmeralda
+336.0;927;El Rosario
+337.0;940;Buenos Aires
+338.0;952;Las Mercedes
+339.0;972;Buenos Aires
+34.0;303;Laguna de San Diego
+340.0;980;Manzanares
+341.0;986;Buenos Aires
+342.0;1034;La Esmeralda
+343.0;1152;Buenos Aires
+344.0;1203;Islandia
+345.0;1205;San Lorenzo
+346.0;1208;La Argelia
+347.0;1210;El Retiro
+348.0;1220;Las Mercedes
+349.0;69;Finca Matesanto
+35.0;307;de la Playona y la Loma de Caleta
+350.0;75;La Macarena
+351.0;93;Pullitopamba
+352.0;138;La Cumbre
+353.0;287;Santa Isabel
+354.0;293;Las Nieves El Guadual
+355.0;304;Limonal
+356.0;326;La Macarena
+357.0;332;Mano de Oso
+358.0;333;Rondalla
+359.0;334;La Raquelita
+36.0;448;Mata de la Urama
+360.0;340;El Vesubio
+361.0;341;La Voluntad De Dios
+362.0;345;Nakaima
+363.0;346;Palmeras
+364.0;351;Refugio Guajiro
+365.0;362;Veraguas
+366.0;365;De las Aves Cucarachero Chicamocha - Predio Lagunetas
+367.0;366;Maindes
+368.0;370;Pachamama
+369.0;376;San Alfonso
+37.0;449;El Bocachico
+370.0;403;Villa Andrea
+371.0;426;El Alto
+372.0;438;La Esneda
+373.0;439;Versalles
+374.0;440;El Guayabal
+375.0;479;El Laurel
+376.0;569;La Cumbre
+377.0;573;Medano Los Morrucos
+378.0;574;El Turpial
+379.0;583;Torrelavega
+38.0;450;BRUT Nativos
+380.0;584;Barakah
+381.0;588;Valladolid
+382.0;589;Finca La Valerosa
+383.0;590;Robledales
+384.0;591;El Chochal de Siecha
+385.0;593;Monayano
+386.0;597;KPL
+387.0;603;Los Alisos
+388.0;606;Fundo Palmarito
+389.0;607;Los Charcones
+39.0;451;El Chilcal
+390.0;609;Ganesh
+391.0;613;El Refugio
+392.0;620;El Palmar
+393.0;622;Conjunto de Reservas Naturales de Sumicol S.A.S. Predio La Pintada
+394.0;623;El Sauce
+395.0;624;Naturaleza Real
+396.0;625;Amalaka
+397.0;829;Versalles
+398.0;17;El Roble
+399.0;24;Los Laureles
+4.0;238;De Cuatro Microcuencas del Municipio de Inirida
+40.0;452;Laguna de Sonso o del Chircal
+400.0;70;La Laguna
+401.0;76;Patio Bonito
+402.0;92;Las Malvinas
+403.0;95;La Laguna
+404.0;191;El Triunfo
+405.0;210;La Estrella
+406.0;463;La Laguna
+407.0;513;La Cascada
+408.0;522;El Senderito
+409.0;551;Los Laureles
+41.0;489;Chinchorro
+410.0;629;Los Laureles
+411.0;630;Gualanday
+412.0;631;Lote No. 2 La Chonta
+413.0;633;La Estrella
+414.0;634;Aranzazu
+415.0;635;Mana Dulce
+416.0;636;Bosque de Niebla
+417.0;639;La Gaitana
+418.0;641;Miranda
+419.0;643;El Garcero del Medio 2
+42.0;586;Cerro Guadalupe
+420.0;647;El Gramero
+421.0;652;Urianaka
+422.0;656;La Hermosa
+423.0;657;Bella Luz
+424.0;658;El Morichal
+425.0;660;El Canto
+426.0;661;El Regalito
+427.0;673;El Silencio - La Laguna
+428.0;674;Los Mameyales
+429.0;677;Khepri
+43.0;950;El Aburrido
+430.0;679;Naser
+431.0;680;Macarena
+432.0;681;Padrote 1
+433.0;685;Flor Amarillo
+434.0;688;El Laurel y El Recreo
+435.0;690;El Encuentro
+436.0;691;Entreaguas
+437.0;693;El Entamborado
+438.0;695;Corozito
+439.0;696;Miravalles
+44.0;369;La Selva
+440.0;698;El Boral
+441.0;700;La Laguna
+442.0;703;Villa Chica
+443.0;705;Campo Bello
+444.0;706;El Tesoro
+445.0;707;Padrote
+446.0;708;Padrote 2
+447.0;716;Pinturas
+448.0;720;Montana
+449.0;721;Batatuaba
+45.0;419;Sistema Viaho Guayabal
+450.0;724;Mata de Palma
+451.0;725;La Fortuna
+452.0;726;El Boral
+453.0;732;Santuario de la Palma de Cera
+454.0;734;Semilla de Agua, Fuente de Vida
+455.0;735;El Naranjito - Nacumal
+456.0;738;La Virginia
+457.0;739;Ojo de Agua
+458.0;741;Monte Rey Vera Cruz
+459.0;743;Cubarral
+46.0;581;Pance
+460.0;788;El Triunfo
+461.0;872;El Boral
+462.0;990;La Estrella
+463.0;1005;La Estrella
+464.0;1037;Los Laureles
+465.0;1139;Manantial
+466.0;1179;Miranda
+467.0;1199;El Triunfo
+468.0;58;Campo Alegre
+469.0;164;El Danubio
+47.0;669;Pastos Marinos Sawairu
+470.0;475;El Diviso
+471.0;601;La Florida
+472.0;610;La Gloria
+473.0;676;Piedra Petaca
+474.0;683;La Florida
+475.0;687;Serrezuela
+476.0;701;Finca La Primavera
+477.0;702;Bochica
+478.0;710;Chaparral II
+479.0;711;Medialuna
+48.0;670;San Pedro
+480.0;714;Charco Azul
+481.0;718;El Peligro
+482.0;742;Campo Alegre
+483.0;744;Patio Bonito - Los Erizos
+484.0;745;La Gloria
+485.0;746;Los Colorados
+486.0;755;Garzas
+487.0;761;El Recreo
+488.0;762;Maturin
+489.0;763;La Chula
+49.0;672;Cuchilla El Varal
+490.0;764;La Torneada
+491.0;767;Puerto Lopez
+492.0;768;El Tirriagal
+493.0;770;Olway Mis Padres
+494.0;774;El Consuelo
+495.0;776;Las Carolinas
+496.0;777;Lucitania
+497.0;778;Arreboles
+498.0;779;La Guaca - Lote A
+499.0;781;Sion
+5.0;285;Humedal Maiciana Manacal
+50.0;966;Macizo El Tablazo
+500.0;783;Club Campestre el Rodeo
+501.0;784;Praga
+502.0;785;Mancame
+503.0;786;Libertad
+504.0;787;Las Garzas
+505.0;789;El Diluvio
+506.0;790;Meza de Piedra
+507.0;791;Altamira 1
+508.0;792;Altamira 2
+509.0;793;Las Palmas
+51.0;771;Bosque Seco Tropical Pozo Azul
+510.0;794;Mamaramos
+511.0;795;La Chivera
+512.0;797;Las Pampas Porvenir
+513.0;798;Xue
+514.0;799;Miramar
+515.0;802;El Bosque
+516.0;803;Arizona
+517.0;804;Rancho Nuevo
+518.0;807;El Danubio
+519.0;810;Miramar
+52.0;809;Cerro Chimayoy
+520.0;812;La Gloria
+521.0;813;La Florida
+522.0;814;Los Charcos
+523.0;815;Fundo Vida Tranquila
+524.0;816;Vista Hermosa
+525.0;909;La Florida
+526.0;1206;El Recreo
+527.0;1217;El Bosque
+528.0;50;La Iguana Verde
+529.0;408;La Cochinito
+53.0;1194;Cuchilla Buenavista
+530.0;536;El Horizonte
+531.0;604;Lote 6 Guayoco
+532.0;644;Bariloche
+533.0;753;La Provincia
+534.0;754;Santa Trinidad
+535.0;760;Tomo Futuro
+536.0;780;Rayuela
+537.0;796;Itaca
+538.0;817;Prusia
+539.0;818;Vayan Viendo
+54.0;748;Complejo Cenagoso de Zapatosa
+540.0;822;Villa Stefany
+541.0;823;El Uvito
+542.0;824;El Esparramo
+543.0;830;Semillas De Agua
+544.0;832;El Monte
+545.0;833;Los Arboles De Las Mesitas
+546.0;835;Asopprai
+547.0;836;Tahamies
+548.0;837;Palogrande
+549.0;839;Villarosa
+55.0;749;Laguna la Primavera
+550.0;846;Gualamana  y Gualamana II
+551.0;849;El Horizonte
+552.0;850;La Luisa
+553.0;851;La Emelia
+554.0;853;Villa Juliana
+555.0;856;Los Andes
+556.0;857;Lote De Gastos
+557.0;858;El Zumbador
+558.0;859;Cocorasecret
+559.0;860;El Pinar 2
+56.0;772;Cuchilla Mesa Alta
+560.0;861;El Pinar 1
+561.0;862;El Pinar 3
+562.0;865;La Trinidad
+563.0;866;El Horizonte
+564.0;869;El Presente
+565.0;871;Aguas Blancas-Santa Helena-Mushaisa
+566.0;873;Corocora
+567.0;875;La Carranchina
+568.0;876;Matambo 2
+569.0;878;El Nacedero
+57.0;173;Páramo del Duende
+570.0;879;Reserva Alvarado
+571.0;880;Estero Matemarrano
+572.0;881;Morrocoy 1
+573.0;882;La Fe
+574.0;884;Raicero
+575.0;886;La Portuguesa
+576.0;887;Pozo Azul
+577.0;888;Miralejos
+578.0;889;Morrocoy 2
+579.0;890;Morrocoy 3
+58.0;165;Laguna San Vicente
+580.0;894;Aya-S
+581.0;896;Monte Makuna
+582.0;898;Reserva Natural Rodamonte
+583.0;899;San Juan de Tinije
+584.0;900;El Limonal y San Pedro
+585.0;901;Matapalito
+586.0;903;La Pareja 1
+587.0;904;La Pareja 2
+588.0;905;La Cristalina
+589.0;906;Fundo Raudal De Flor Amarillo
+59.0;175;La Sierpe
+590.0;907;La Volga
+591.0;908;Matambo 3
+592.0;1083;La Cristalina
+593.0;363;Sacha Mama
+594.0;442;Bellavista
+595.0;831;La Bellota
+596.0;834;Mamakunapa
+597.0;864;Bellavista
+598.0;870;La Comarca
+599.0;892;La Independencia
+6.0;1038;La Corcova
+60.0;178;El Vinculo
+600.0;895;Canaguay
+601.0;897;La Uvita
+602.0;913;Reserva Natural Cantares
+603.0;915;Guacamayo
+604.0;916;Villa Alejandra
+605.0;919;Bellavista
+606.0;921;Guacharacas del Cusiana
+607.0;922;Nuevo Mejico
+608.0;923;La Miranda
+609.0;924;El Cairo
+61.0;182;Sisavita
+610.0;926;Ariel Campestre Juisingueka
+611.0;928;Laguna Lote Rural
+612.0;929;Reserva Natural El Olinguito
+613.0;930;Munnai El Amor Mas Puro
+614.0;931;Finca Demostrativa Don Miguel
+615.0;932;El Socorro
+616.0;934;La Samaria
+617.0;935;Santa Elena
+618.0;936;La Holanda
+619.0;937;El Orgasmo
+62.0;253;Verdum
+620.0;941;La Loma De Dos Quebradas
+621.0;942;El Olivo
+622.0;943;Puerta de Chontales
+623.0;945;La Venturosa
+624.0;946;Tahami Quirama
+625.0;948;La Mosca
+626.0;954;La Baita
+627.0;956;Charanga
+628.0;957;Siempre Vivo
+629.0;958;Refugio De Las Aves
+63.0;260;San Miguel de los Farallones
+630.0;959;El Caiman
+631.0;960;Las Palmeras
+632.0;961;San Francisco
+633.0;962;Romero B y Cia
+634.0;963;Birmania
+635.0;964;Cuchavira
+636.0;968;La Palestina
+637.0;971;El Zoque
+638.0;976;La Dorada
+639.0;981;Manakai
+64.0;279;Del Sistema Manglarico del Sector de la Boca de Guacamaya
+640.0;982;Lorena
+641.0;983;Conjunto De Reservas Naturales De Sumicol Sas
+642.0;984;Los Iguanitos
+643.0;987;Bellavista
+644.0;988;Fiba
+645.0;989;El Rosal
+646.0;991;Rancho Grande
+647.0;992;Los Pomos
+648.0;1000;La Ceibita
+649.0;1001;Arcasim
+65.0;329;Pan de Azucar el Consuelo
+650.0;1002;La Granada
+651.0;1003;La Cumbre Suesca
+652.0;1004;Lote Cinco
+653.0;1007;San Fernando
+654.0;1009;Los Liberales
+655.0;1011;La Ermita
+656.0;1012;Chaquiral
+657.0;1014;El Caujaro
+658.0;1015;Casa Roja
+659.0;1016;Pino Hermoso
+66.0;414;Corredor de las Alegrias
+660.0;1017;Agua Tremolente
+661.0;1019;Lote Mireya
+662.0;1021;El Crisol
+663.0;1023;1810
+664.0;1024;Huisyzuca
+665.0;1029;Las Palmeras
+666.0;1033;Tupuragua
+667.0;1036;La Indomable
+668.0;1072;San Francisco
+669.0;1209;La Palestina
+67.0;447;Cortadera
+670.0;72;Buena Vista
+671.0;85;El Carmen
+672.0;87;San Antonio
+673.0;99;Belén
+674.0;103;La Primavera
+675.0;373;La Floresta
+676.0;466;San Antonio
+677.0;558;El Paraíso
+678.0;596;Las Delicias
+679.0;694;Buenavista
+68.0;490;El Comedero
+680.0;727;San Antonio
+681.0;819;El Encanto
+682.0;821;La Floresta
+683.0;848;Buenavista
+684.0;955;Buenavista
+685.0;1018;Las Quinquinas
+686.0;1020;El Cóndor
+687.0;1025;Buena Vista
+688.0;1027;Viracocha
+689.0;1030;La Victoria
+69.0;507;Mateguadua
+690.0;1031;Las Juntas
+691.0;1056;Loros Andinos
+692.0;1057;Bosque Colindres
+693.0;1058;Belén
+694.0;1059;Entre Árboles y Micos
+695.0;1061;Ecozentro Madre Kumbra
+696.0;1062;Alta Gracia
+697.0;1064;Pozos La Chorrera
+698.0;1065;Paraíso Bombonas
+699.0;1066;Ecosaravita
+7.0;1164;Humedal Aguas Claras
+70.0;562;Vista Hermosa de Monquentiva
+700.0;1067;Buena Vista
+701.0;1068;Los Eucaliptos
+702.0;1069;La Calandria
+703.0;1070;Anima La Vida
+704.0;1071;Las Ceibas
+705.0;1073;La Y
+706.0;1074;Anukwe
+707.0;1075;Lote de Terreno N. 4 Las Nubes
+708.0;1076;Lote La Esmeralda
+709.0;1077;Maimará 1
+71.0;666;Bosque de Los Guayupes
+710.0;1078;Macúa
+711.0;1079;La Esperanza 1
+712.0;1082;La Apachita
+713.0;1084;El Puente
+714.0;1085;La Merced
+715.0;1086;Finca Las Marías
+716.0;1087;Granja Villa Luna
+717.0;1089;Irati Dojura;La Reserva del Chachafruto
+718.0;1091;Cerritos
+719.0;1093;La Germania
+72.0;668;Cascadas Altas
+720.0;1095;Villa Valle
+721.0;1096;Las Juntas
+722.0;1097;Manaco 2
+723.0;1098;Manaco 1
+724.0;1099;Club Campestre de Pereira
+725.0;1100;La Buenaventura, Granja Escuela
+726.0;1101;Finca San Pedro
+727.0;1102;Amazonas
+728.0;1103;Manaco 3
+729.0;1105;Siare
+73.0;709;Miraflores Picachos
+730.0;1106;Biologica Caoba
+731.0;1107;El Porvenir La Luna
+732.0;1108;Nacimiento del Rio Manso
+733.0;1111;La Jabonera
+734.0;1112;San Antonio
+735.0;1113;San Vicente
+736.0;1114;Japio Garces & Cia SCA
+737.0;1115;Si Me Dejan
+738.0;1117;Muquiche
+739.0;1118;FAUNA DE COLOMBIA SAN ANDRES ISLA
+74.0;628;El Dorado
+740.0;1119;Sinaí
+741.0;1120;El Barranquero
+742.0;1121;Finca Agroecológica San Martín
+743.0;1123;Jiménez
+744.0;1129;El Encanto
+745.0;1130;Pinchaque
+746.0;1131;El Jobito
+747.0;1132;Los Aceites
+748.0;1133;El Porvenir 1
+749.0;1134;Natura Peñalta 1
+75.0;255;Siberia Ceibas
+750.0;1136;Yaya 1
+751.0;1137;El Kiosco
+752.0;1140;Reserva Natural Dos Rios
+753.0;1141;Monteadentro
+754.0;1142;Peñalta 2
+755.0;1144;Cedro Carmín
+756.0;1145;La Montaña Risa
+757.0;1147;Oso Frontino
+758.0;1148;La Floresta
+759.0;1149;La Soledad
+76.0;283;Jhonny Cay Regional Park
+760.0;1151;Mesón
+761.0;1156;La Palma de Tatamá
+762.0;1158;Cantaclaro
+763.0;1159;El Encanto
+764.0;1160;Cañon de La Hondura
+765.0;1163;La Tierrita
+766.0;1165;Los Titíes De San Juan III
+767.0;1167;Las Delicias
+768.0;1168;Salto Del Buey
+769.0;1169;La Piedra del Condor
+77.0;667;Río Bravo
+770.0;1170;El Porvenir 2
+771.0;1175;La Ramada
+772.0;1176;Villa Laura
+773.0;1177;El Encanto y Sus Encantos
+774.0;1178;Anacardio
+775.0;1184;El Raudal
+776.0;1185;Buenavista
+777.0;1186;Reserva Buenavista
+778.0;1193;El Paraíso
+779.0;404;Las Brisas
+78.0;113;Cerro Bravo
+780.0;459;La Ilusión
+781.0;487;Las Brisas
+782.0;704;Las Brisas
+783.0;737;La Constancia
+784.0;1013;Las Brisas
+785.0;1094;Matilde Montañez ? Páramo Del Sol
+786.0;1124;Las Brisas
+787.0;1125;Maimará 2
+788.0;1127;La Ilusión
+789.0;1135;Morrocoy
+79.0;122;El Toro
+790.0;1143;Camposol La Bretaña
+791.0;1153;San Dimas
+792.0;1154;Refugio del Oso
+793.0;1161;Villamar
+794.0;1162;La Favorita
+795.0;1166;Villa Karina
+796.0;1180;Las Brisas
+797.0;1191;La Constancia
+798.0;171;Parque Ecológico Cerro Nutibara
+799.0;1444;La Corcova
+8.0;170;Barbas Bremen
+80.0;125;La Suiza
+800.0;1589;Humedal Aguas Claras
+801.0;225;Tibaitatá
+802.0;297;Serranía de los Churumbelos
+803.0;339;Cañón de Río Grande
+804.0;580;Ciénaga de Betancí
+805.0;461;Ciénaga de Corralito
+806.0;825;de Perijá
+807.0;665;Ciénaga los Negros
+808.0;995;UMPALA - CAÑON DEL CHICAMOCHA
+809.0;1211;Bocas del Palo
+81.0;130;El Trebol
+810.0;1315;Complejo de Humedales Arcial, Porro y Cintura
+811.0;1398;UMPALA - CAÑON DEL CHICAMOCHA
+812.0;1615;Laguna de Suesca
+813.0;1652;Bocas del Palo
+814.0;470;Serranía de los Churumbelos
+815.0;338;Humedales de Gualí Tres Esquinas y Lagunas del Funzhé
+816.0;179;Corredor de los felinos del Río Negro
+817.0;180;Complejo Cenagoso de Zarate Malibú y Veladero
+818.0;183;Serranía de los Yariguíes
+819.0;187;Bucaramanga
+82.0;186;Montes de  Oca
+820.0;194;de la Vereda Gamboa
+821.0;217;Complejo Cenagóso del Bajo Sinú
+822.0;224;Páramo de Guerrero
+823.0;229;Distrito Regional de Manejo Integrado - Sitio Ramsar del Complejo de Humedales de Ayapel
+824.0;240;DRMI de los Páramos de Guantiva y La Rusia, Bosques de Roble y sus Zonas aledañas
+825.0;242;Guásimo
+826.0;256;Alto Calima
+827.0;416;Cerros de San Nicolás
+828.0;421;Cuenca baja del Río Ranchería
+829.0;167;Ensenada de Rionegro, los Bajos Aledaños, las Ciénagas de Marimonda y el Salado
+83.0;206;Nacimiento Quebradas Honda y Calderitas
+830.0;185;Del Rio Minero y sus Zonas Aledañas
+831.0;207;Nacimiento de las Quebradas los Tiestos, La Chorrera y Hoya Fría
+832.0;214;Páramo Rabanal
+833.0;216;Manglar de la Bahía de Cispatá y Sector Aledaño del Delta Estuarino del Río Sinú
+834.0;265;Páramo de Guargua y Laguna Verde
+835.0;299;Cuchilla de Peñas Blancas y del Subia
+836.0;503;Cacica Noría
+837.0;467;Golfo de Tribugá Cabo Corrientes
+838.0;114;Cañon del Rio Alicante
+839.0;116;Sistema de Paramos y Bosques Altoandinos del Noroccidente Medio Antioqueño
+84.0;208;Pionono
+840.0;524;Cuenca  Alta del Río Atrato
+841.0;564;Ciénagas El Sapo y Hoyo Grande
+842.0;594;Serranía de Peñas Blancas
+843.0;627;Ciénaga de Chiqueros
+844.0;654;Palmar del Tití
+845.0;671;Mejué
+846.0;750;Páramo de Vida Maitamá - Sonsón
+847.0;751;Bosques, Mármoles y Pantágoras
+848.0;614;Bosque Seco de la Vertiente Oriental del río Magdalena
+849.0;828;Quitasol - La Holanda
+85.0;212;El Robledal
+850.0;854;Serranía de Minas
+851.0;166;Páramos y Bosques Altoandinos de Génova
+852.0;535;Páramo Mamapacha y Bijagual
+853.0;910;Isla Ají
+854.0;933;Bosque Seco del Occidente Antioqueño
+855.0;951;Honduras
+856.0;177;De la Cuenca Alta del Río  Quindío de Salento
+857.0;765;Serranía de Los Paraguas
+858.0;1039;Bosque Seco Alegrías y Páramo El Tibí y Miraflores
+859.0;1048;Salto Candelas
+86.0;213;Planalto
+860.0;1200;Bajo Cauca Nechí
+861.0;1246;Serranía de Minas
+862.0;1265;Enclave Subxerofitico del Patía
+863.0;1314;Isla Ají
+864.0;1232;Cerro El Tabor
+865.0;1337;Bosque Seco del Occidente Antioqueño
+866.0;1357;El Aburrido
+867.0;1358;Honduras
+868.0;1372;Macizo El Tablazo
+869.0;1445;Bosque Seco Alegrías y Páramo El Tibí y Miraflores
+87.0;215;Torre Cuatro
+870.0;388;Alto Calima
+871.0;389;HATOVIEJO
+872.0;434;Caracolí Sabanas de Manuela
+873.0;1455;Salto Candelas
+874.0;1621;Cuchilla Buenavista
+875.0;1628;Bajo Cauca Nechí
+876.0;292;Corredor de los felinos del Río Negro
+877.0;321;de la Vereda Gamboa
+878.0;446;Santurbán Arboledas
+879.0;169;Cerro la Judía
+88.0;222;Quebrada Paramillo y Queceros
+880.0;184;Serranía de las Quinchas
+881.0;197;Serranía el Peligro
+882.0;198;Unidad Biogeográfica de Siscuncí Oceta
+883.0;241;Ríonegro
+884.0;261;Corredor Biológico Guácharos Puracé
+885.0;264;Volcán Azufral Chaitan
+886.0;286;Páramo de Santurbán
+887.0;336;Santurbán Salazar de las Palmas
+888.0;356;Bosque Seco El Ceibal Mono Tití
+889.0;263;Cerro Páramo de Miraflores Rigoberto Urriago
+89.0;262;Serrania del Pinche
+890.0;120;Humedales entre los Ríos Leon y Suriquí
+891.0;168;Bosques Andinos Húmedos el Rasgón
+892.0;511;Serranía del Perijá
+893.0;582;Anaime-Chilí
+894.0;595;Páramo de las Ovejas-Tauso
+895.0;508;Cerro Pintao - Serranía del Perijá
+896.0;843;Serranía de Minas
+897.0;1234;Serranía de Minas
+898.0;112;Farallones del Citará
+899.0;139;La Copa la Copita San José
+9.0;199;Guacas Rosario
+90.0;266;Hoya Hernando
+900.0;141;Corazon California la Palma  y Soledad Potosí
+901.0;151;La Estrella la Cabaña Dulima
+902.0;155;San Cristobal Alto de la Motañuela, San Cristobal Alto de la Matañuela II, el Porvenir, Esperanza
+903.0;200;Cerros Pionono y las Águilas
+904.0;205;Páramo de El Frailejonal
+905.0;218;Páramo de Rabanal
+906.0;219;Páramos de Telecom y Merchán
+907.0;223;Futuras Generaciones de Sibaté I y II
+908.0;227;Páramo de Guargua y Laguna Verde
+909.0;417;Cuchillas de el Tigre, el Calón y la Osa
+91.0;268;La Siberia
+910.0;158;Puracé Porvenir las Violetas, Porvenir  I  Porvenir II
+911.0;209;Nacimiento del Río Bogotá
+912.0;282;Concepción
+913.0;367;La Montaña
+914.0;415;Cañones de los ríos Melcocho y Santo Domingo
+915.0;201;Cuenca Alta del Río Zaque
+916.0;585;Brisas del Rincón
+917.0;152;El Humedal y la Santísima Trinidad
+918.0;820;K´õk´õiEujã , Calle Santa Rosa Timbiqui Cauca
+919.0;842;Laguna del Cacique Guatavita y Cuchilla de Peña Blanca
+92.0;273;Palosqui
+920.0;967;Machín
+921.0;1233;Laguna del Cacique Guatavita y Cuchilla de Peña Blanca
+922.0;1373;Machín
+923.0;350;Santa Inés
+924.0;483;Jardín Botánico de la Macarena I
+925.0;13;Parcela N. 13 de la Parcelación Las Brisas
+926.0;19;La Parcela No. 3 de la Parcelación La Josefina
+927.0;133;Proaves Arrierito Antioqueño Bloque 2
+928.0;143;Monte Calicó
+929.0;147;Asociación De Amigos Usuarios Del Acueducto Independiente De Ocaña Adamiuain
+93.0;274;Tolima
+930.0;148;Reserva Unsáua
+931.0;188;Nazareth
+932.0;190;Bóvedas, Veguita y Tumbe
+933.0;192;El Juicio
+934.0;193;Pava
+935.0;195;Casa De Teja
+936.0;196;Las Lomas
+937.0;220;Los Titíes De San Juan IV
+938.0;221;La Tangara
+939.0;258;La Prosperidad
+94.0;276;El Espino Corcovado
+940.0;342;Edén de Oriente
+941.0;354;Conjunto de Reservas Naturales de Sumicol S.A. La Cabaña
+942.0;360;Finca Agroecológica El Paraíso
+943.0;407;San Martín
+944.0;23;La Cabaña
+945.0;39;El Rincón
+946.0;40;De Las Aves Colibrí Del Sol
+947.0;91;Peñas Blancas
+948.0;136;Las Cascadas De Andrómeda
+949.0;144;El Billar
+95.0;277;Santa Maria de las Lagunas
+950.0;149;Las Dos Lunas
+951.0;211;La Alejandra
+952.0;379;Rancho Camaná
+953.0;398;Las 3R´s
+954.0;399;Yurumí
+955.0;392;Hacienda El Cequión
+956.0;457;Nuevo México
+957.0;482;Valparaíso
+958.0;501;Villa María
+959.0;539;Nido de Águilas
+96.0;278;Montebello
+960.0;541;San Nicolás
+961.0;578;Corazón de Loquita
+962.0;615;De Las Aves Giles Fuertesí
+963.0;638;San Simeón
+964.0;640;Desengañito
+965.0;678;Santa Lucía
+966.0;12;Parcela N. 7 de la Parcelación La Josefina
+967.0;29;Sueños Verdes
+968.0;83;Villa María y La Marina
+969.0;131;Las Mesitas
+97.0;280;El Porvenir  el Guadual
+970.0;145;La Sirena
+971.0;150;La Judea
+972.0;484;Jardín Botánico de la Macarena II
+973.0;497;Colibrí del Sol
+974.0;525;La María 1
+975.0;533;Bugavá
+976.0;537;El Paraíso del Turpial
+977.0;548;Los Titíes de San Juan
+978.0;554;Reserva Integral y Ecoaldea Sasardí II
+979.0;557;El Páramo
+98.0;281;La Vitilia la Palma
+980.0;560;Gachaquín
+981.0;561;El Madroño
+982.0;566;El Colibrí
+983.0;570;La Cabaña
+984.0;572;Bioparque Móncora
+985.0;576;Reserva Orquídeas de la Sociedad Colombiana de Orquideología
+986.0;577;Monasterio Santa María de la Epifanía de los Monjes Benedictinos
+987.0;587;Rincón de las Vegas
+988.0;592;La Planta Eléctrica
+989.0;599;El Páramo
+99.0;284;San Lorenzo
+990.0;602;San Agustín
+991.0;605;El Maná
+992.0;611;La Sagrada Familia
+993.0;621;Reserva Biológica El Silencio
+994.0;646;Renasie
+995.0;648;Reserva Natural Verdeagua
+996.0;649;San Rafael De Guanapalo
+997.0;651;Doñana
+998.0;653;La Cabaña
+999.0;655;La Cabaña

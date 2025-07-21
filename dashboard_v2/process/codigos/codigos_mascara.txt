@@ -1,0 +1,3725 @@
+1.0;1739;;;RI-Resguardo Indígena Tamaquito II
+10.0;1748;;;RI-Resguardo Indígena Ticuna de San Juan de Los Parentes
+100.0;1838;;;RI-Resguardo Indígena Tata Drua
+1000.0;3510;;;RI-Resguardo Indígena Awa de  Alto Cartagena
+1001.0;3511;;;RI-Resguardo Indígena Embera del Rio Bebarama
+1002.0;3512;;;RI-Resguardo Indígena Embera-Chami de La Cristalina
+1003.0;3513;;;RI-Resguardo Indígena Inga Rigcharikuna "Nuevo Despertar"
+1004.0;3514;;;RI-Resguardo Indígena Inga de Descanse
+1005.0;3515;;;RI-Resguardo Indígena Inga Rigcharikuna "Nuevo Despertar"
+1006.0;3516;;;RI-Resguardo Indígena de Yunguillo
+1007.0;3517;;;RI-Resguardo Indígena Uwa de Valles Del Sol
+1008.0;3518;;;RI-Resguardo Unido U´Wa Cubara De Tunebo
+1009.0;3519;;;RI-Resguardo Indígena GUAMBIANA LA BONANZA
+101.0;1839;;;RI-Resguardo Embera Drua
+1010.0;3520;;;RI-Resguardo Indígena Misak de San Antonio
+1011.0;3521;;;RI-Resguardo Indígena Paez de Huellas
+1012.0;3522;;;RI-Resguardo Indígena Paez de Toez
+1013.0;3523;;;RI-Resguardo Indígena Embera de los Rios Pavarando y Amparrado Medio
+1014.0;3524;;;RI-Resguardo Indígena Embera de Chimurro y Nendo
+1015.0;3525;;;RI-Resguardo Indígena Cuaiquuier de los parajes Cuambi y Yaslambi
+1016.0;3526;;;RI-RI Awa Chagui Chimbuza Vegas San Antonio Candiyas Quelbi Nalbu Balsal Bajo Nembiy Chapilal Cimarron
+1017.0;3527;;;RI-Resguardo Indígena Piapoco / Sikuani-Guahibo de Chigüiro
+1018.0;3528;;;RI-Resguardo Indígena Piapoco y Guahibo de Minitas - Miralindo
+1019.0;3529;;;RI-Resguardo Indígena Piapoco de Concordia
+102.0;1840;;;RI-Resguardo Indígena Embera de Nusido
+1020.0;3530;;;RI-Resguardo Indígena Guahibo de Alto Unuma
+1021.0;3531;;;RI-Resguardo Indígena Guahibo del Rio Siare o Barranco Lindo
+1022.0;3532;;;RI-Resguardo Indígena Guahibo de Alto Unuma
+1023.0;3533;;;RI-Resguardo Indigrena de los parajes de Caranacoa-  Yuri -  Laguna Morocoto
+1024.0;3534;;;RI-Resguardo Indígena Puinave y Sikuani de Laguna Niñal, Cocuy, Loma Baja y Loma Alta del Caño Guari
+1025.0;3535;;;RI-Resguardo Indígena Piapoco y Guahibo de Minitas - Miralindo
+1026.0;3536;;;RI-Resguardo Indígena Piapoco de Pueblo Nuevo - Laguna Colorada
+1027.0;3537;;;RI-Resguardo Indígena Chimbagal
+1028.0;3538;;;RI-RI Awa Chagui Chimbuza Vegas San Antonio Candiyas Quelbi Nalbu Balsal Bajo Nembiy Chapilal Cimarron
+1029.0;3539;;;RI-Resguardo Indígena Barranco Ceiba Y Laguna Araguato
+103.0;1841;;;RI-Resguardo Indígena Campoalegre
+1030.0;3540;;;RI-Resguardo Indígena Nukak Maku
+1031.0;3541;;;RI-Resguardo Indígena Barranco Ceiba Y Laguna Araguato
+1032.0;3542;;;RI-Resguardo Indígena Guahibo Del Paraje De Caño Jabon
+1033.0;3543;;;RI-Resguardo Indígena Awa de El Gran Sabalo
+1034.0;3544;;;RI-Resguardo Indígena Awa de Honda Rio Guiza
+1035.0;3545;;;RI-Resguardo Indígena Embera de Chimurro y Nendo
+1036.0;3546;;;RI-Resguardo Indígena Embera- Katio de Choromando Alto y Medio
+1037.0;3547;;;RI-Resguardo Indígena Awa de El Cedro, Las Peñas, La Brava, Pilví y La Pintada
+1038.0;3548;;;RI-Resguardo Indígena Awa de Inda Zabaleta
+1039.0;3549;;;RI-Resguardo Indígena de la Cuenca Media Y Alta del Rio Inirida
+104.0;1842;;;RI-Resguardo Indígena Doquera
+1040.0;3550;;;RI-Resguardo Indígena Puinave y Sikuani de Laguna Niñal, Cocuy, Loma Baja y Loma Alta del Caño Guari
+1041.0;3551;;;RI-Resguardo Indígena Awa de Cuchilla Palmar
+1042.0;3552;;;RI-Resguardo Indígena Awa de Cuaiquer Integrado La Milagrosa
+1043.0;3553;;;RI-Resguardo Indígena Awa de Cuchilla Palmar
+1044.0;3554;;;RI-Resguardo Indígena Awa de Cuasbi - Paldubi
+1045.0;3555;;;RI-Resguardo Indígena Rio Cuiari e Isana
+1046.0;3556;;;RI-Resguardo Indígena Vaupes
+1047.0;3557;;;RI-Resguardo Indígena Rio Cuiari e Isana
+1048.0;3558;;;RI-Resguardo Indígena Curripaco de la Parte Alta del Rio Guainia
+1049.0;3559;;;RI-Resguardo Indígena Awa de Gualcalá
+105.0;1843;;;RI-Resguardo Indígena Vegas De Segovia
+1050.0;3560;;;RI-Resguardo Indígena Awa de Ramos - Mongon - Manchuria
+1051.0;3561;;;RI-Resguardo Indígena Uitiboc
+1052.0;3562;;;RI-Resguardo Indígena Tikuna de los Rios Cotuhe y Putumayo
+1053.0;3563;;;RI-Resguardo Indígena Awa de Ramos - Mongon - Manchuria
+1054.0;3564;;;RI-Resguardo Indígena Awa de Palmar Imbi
+1055.0;3565;;;RI-Resguardo Indígena Awa de Cuaiquer Integrado La Milagrosa
+1056.0;3566;;;RI-Resguardo Indígena Awa de Cuasbi - Paldubi
+1057.0;3567;;;RI-Resguardo Indígena Cerrito Bongo
+1058.0;3568;;;RI-Resguardo Indígena Waunana de Papayo
+1059.0;3569;;;RI-Resguardo Indígena Rumiyaco
+106.0;1844;;;RI-Resguardo Indígena Embera de San Jose Amia De Pato
+1060.0;3570;;;RI-Resguardo Indígena Nasa Hu
+1061.0;3571;;;RI-Resguardo Indígena Rumiyaco
+1062.0;3572;;;RI-Resguardo Indígena Ishu Awa
+1063.0;3573;;;RI-Resguardo Indígena Yaberarado
+1064.0;3574;;;RI-Resguardo Indígena Embera-Katio de Polines
+1065.0;3575;;;RI-Resguardo Indígena Inga De Niñeras
+1066.0;3576;;;RI-Resguardo Indígena Paez de el Libano
+1067.0;3577;;;RI-Resguardo Indígena Embera del Rio Napipi
+1068.0;3578;;;RI-Resguardo Indígena Embera de Opogado Doguado
+1069.0;3579;;;RI-Resguardo Indígena Awa de Inda Guacaray
+107.0;1845;;;RI-Resguardo Indígena Santa Barbara
+1070.0;3580;;;RI-Resguardo Indígena Awa de Inda Zabaleta
+1071.0;3581;;;RI-Resguardo Indígena Awa de Tronqueria, Pulgande y Palicito
+1072.0;3582;;;RI-Resguardo Indígena Awa de Tortugaña,Telembi, Punde, Pitadero, Bravo, Tronqueria y Zabaleta
+1073.0;3583;;;RI-Resguardo Indígena Pijao Nueva Esperanza
+1074.0;3584;;;RI-Resguardo Indígena Lomas De Guaguarco
+1075.0;3585;;;RI-Resguardo Indígena Nonuya de Villazul
+1076.0;3586;;;RI-Resguardo Indígena Andoke Del Paraje De Aduche
+1077.0;3587;;;RI-Resguardo Indígena Ticuna de Mocagua, Macedonia, El Vergel y Zaragoza
+1078.0;3588;;;RI-Resguardo Indígena Tikuna de los Rios Cotuhe y Putumayo
+1079.0;3589;;;RI-Resguardo Indígena Quizgo (Kizgo)
+108.0;1846;;;RI-Resguardo Indígena Paez de Novirao
+1080.0;3590;;;RI-Resguardo Indígena Paez de Quichaya
+1081.0;3591;;;RI-Resguardo Indígena Ticuna, Cocama y Yagua - Ticoya
+1082.0;3592;;;RI-Resguardo Indígena Tikuna de los Rios Cotuhe y Putumayo
+1083.0;3593;;;RI-Resguardo Indigena Puerto Córdoba
+1084.0;3594;;;RI-Resguardo Indígena Yaigoje - Rio Apaporis
+1085.0;3595;;;RI-Resguardo Indígena de Guambia
+1086.0;3596;;;RI-Resguardo Indígena Paez de Quichaya
+1087.0;3597;;;RI-Resguardo Indígena Yaigoje - Rio Apaporis
+1088.0;3598;;;RI-Resguardo Indígena Vaupes
+1089.0;3599;;;RI-Resguardo Indígena Embera de Jagual Rio Chintado
+109.0;1847;;;RI-Resguardo Indígena Embera Miasa De Partado
+1090.0;3600;;;RI-Resguardo Indígena Embera del Rio Domingodo
+1091.0;3601;;;RI-Resguardo Indígena El Tigre
+1092.0;3602;;;RI-Resguardo Indígena Guahibo de Alto Unuma
+1093.0;3603;;;RI-Resguardo Indígena Nukak Maku
+1094.0;3604;;;RI-Resguardo Indígena Guayabero de Barranco Colorado
+1095.0;3605;;;RI-Resguardo Indígena Nukak Maku
+1096.0;3606;;;RI-RI Puinave y Curripaco de Morichal Viejo - Santa Rosa, Cerro Cucuy, Santa Cruz, Caño Danta
+1097.0;3607;;;RI-Resguardo Indígena Awa de Inda Zabaleta
+1098.0;3608;;;RI-Resguardo Indígena Awa Gran Rosario
+1099.0;3609;;;RI-Resguardo Indígena Awa de Tortugaña,Telembi, Punde, Pitadero, Bravo, Tronqueria y Zabaleta
+11.0;1749;;;RI-Resguardo Indígena Guahibo de Cuiloto II
+110.0;1848;;;RI-Resguardo Indígena Inkal Awa
+1100.0;3610;;;RI-Resguardo Indígena Awa El Sande
+1101.0;3611;;;RI-Resguardo Indígena Saracure Y Rio Cada
+1102.0;3612;;;RI-Resguardo Indígena Guahibo de Alto Unuma
+1103.0;3613;;;RI-Resguardo Indígena Inga de Descanse
+1104.0;3614;;;RI-Resguardo Indígena de Yunguillo
+1105.0;3615;;;RI-Resguardo Indígena Huitoto - Paraje de Witora O Huitora
+1106.0;3616;;;RI-Resguardo Indígena F+Ruide Naira+
+1107.0;3617;;;RI-Resguardo Indígena Huitoto de Lagarto Cocha
+1108.0;3618;;;RI-Resguardo Indígena Witoto de Tukunare
+1109.0;3619;;;RI-Resguardo Indígena Pijao de Beltran
+111.0;1849;;;RI-Resguardo Indígena Embera-Chami Loma de Citabara, Palestina, Atarralla y La Albania
+1110.0;3620;;;RI-Resguardo Indígena de Natacoy Pijao
+1111.0;3621;;;RI-Resguardo Indígena Vaupes
+1112.0;3622;;;RI-RI Puinave y Curripaco de Morichal Viejo - Santa Rosa, Cerro Cucuy, Santa Cruz, Caño Danta
+1113.0;3623;;;RI-Resguardo Indígena Embera del Rio Nuqui
+1114.0;3624;;;RI-Resguardo Indígena Embera de Puerto Alegre y La Divisa
+1115.0;3625;;;RI-Resguardo Indígena Embera de Puerto Alegre y La Divisa
+1116.0;3626;;;RI-Resguardo Indígena Embera de los Rios Jurubida, Chori y Alto Baudo
+1117.0;3627;;;RI-Resguardo Indígena Embera del Rio Bebara
+1118.0;3628;;;RI-Resguardo Indígena Embera-Chami de La Cristalina
+1119.0;3629;;;RI-Resguardo Indígena Embera del Alto Rio Tagachi
+112.0;1850;;;RI-Resguardo Indígena Yanacona El Paraiso
+1120.0;3630;;;RI-Resguardo Indígena Embera de Alto Rio Buey
+1121.0;3631;;;RI-Resguardo Indígena Embera de Alto Rio Bojaya
+1122.0;3632;;;RI-Resguardo indígena Embera Rios Uva Pogue, Quebrada Taparal
+1123.0;3633;;;RI-Resguardo indígena Embera Rios Uva Pogue, Quebrada Taparal
+1124.0;3634;;;RI-Resguardo Indígena Embera  de Pichicora, Chicue y Punto Alegre
+1125.0;3635;;;RI-Resguardo Indígena Inga De Condagua
+1126.0;3636;;;RI-Resguardo Indígena de Yunguillo
+1127.0;3637;;;RI-Resguardo Indígena Embera-Katio Rio Andagueda
+1128.0;3638;;;RI-Resguardo Indígena Unificado Chami
+1129.0;3639;;;RI-Resguardo Indígena Embera de Alto Rio Cuia
+113.0;1851;;;RI-Resguardo Indígena Paez de La Esperanza
+1130.0;3640;;;RI-Resguardo Indígena Embera  de Pichicora, Chicue y Punto Alegre
+1131.0;3641;;;RI-Resguardo Indígena El Saladillo
+1132.0;3642;;;RI-Resguardo Indígena Salilva de los parajes de San Juanito, El Duya y Paravare
+1133.0;3643;;;RI-Resguardo Indígena Embera de Dearade Biakirude
+1134.0;3644;;;RI-Resguardo Indígena Embera de los Rios Jurubida, Chori y Alto Baudo
+1135.0;3645;DRMI-Nacimiento de las Quebradas los Tiestos, La Chorrera y Hoya Fría;;RI-Resguardo Indígena Embera-Katio Rio Andagueda
+1136.0;3646;DRMI-Nacimiento de las Quebradas los Tiestos, La Chorrera y Hoya Fría;;RI-Resguardo Indígena Unificado Chami
+1137.0;3669;RNSC-La Palma de La Castellana;;RI-Resguardo Indígena Paez Quintana
+1138.0;3670;DRMI-Complejo Cenagoso de Zarate Malibú y Veladero;;RI-Resguardo Indígena Paez Quintana
+1139.0;3671;RNSC-Parcela No. 12 Parcelación Las Brisas;;RI-Resguardo Indígena Kokonuco y Yanacona de Paletara
+114.0;1852;;;RI-Resguardo Indígena Tama - Paez La Gabriela
+1140.0;3672;RNSC-El Cedro;;RI-Resguardo Indígena Kokonuco y Yanacona de Paletara
+1141.0;3673;PNR-Sisavita;;RI-Resguardo Indígena Paez Quintana
+1142.0;3674;RFPR-Montes de  Oca;;RI-Resguardo Indígena Paez Quintana
+1143.0;1;RNSC-Elan Vital;Fuerza De Vida;;
+1144.0;2;RNSC-El Venado;;
+1145.0;3;RNSC-Bella Vista;;
+1146.0;4;RNSC-Chicaque;;
+1147.0;5;RNSC-Sanguare;;
+1148.0;6;RNSC-La Aurora;;
+1149.0;7;RNSC-Las Piedras;;
+115.0;1853;;;RI-Resguardo Indígena Puerto Belgica
+1150.0;8;RNSC-Santa Martha;;
+1151.0;9;RNSC-Las Veraneras;;
+1152.0;10;RNSC-Parcela 6 de la Parcelación La Josefina;;
+1153.0;11;RNSC-Parcela N. 7 de la Parcelación La Josefina;;
+1154.0;12;RNSC-Parcela N. 13 de la Parcelación Las Brisas;;
+1155.0;13;RNSC-La Palma de La Castellana;;
+1156.0;14;RNSC-El Silencio;;
+1157.0;15;RNSC-El Rosario;;
+1158.0;16;RNSC-El Roble;;
+1159.0;17;RNSC-El Recuerdo;;
+116.0;1854;;;RI-Resguardo Indígena Wayuu Cuatro De Noviembre
+1160.0;18;RNSC-La Parcela No. 3 de la Parcelación La Josefina;;
+1161.0;19;RNSC-Primavera 2;;
+1162.0;20;RNSC-Parcela No. 16 La Josefina;;
+1163.0;21;RNSC-La Cabaña;;
+1164.0;22;RNSC-Los Laureles;;
+1165.0;23;RNSC-El Retiro;;
+1166.0;24;RNSC-El Recuerdo;;
+1167.0;25;RNSC-El Abejero;;
+1168.0;26;RNSC-Sueños Verdes;;
+1169.0;27;RNSC-El Mirador 2;;
+117.0;1855;;;RI-Resguardo Indígena Wayuu de Monte Harmon
+1170.0;28;RNSC-Altos De Pedro Palo;;
+1171.0;29;RNSC-Palmarito Casanare;;
+1172.0;30;RNSC-Santa Fe;;
+1173.0;31;RNSC-El Cedro;;
+1174.0;32;RNSC-La Finca De Pedro Palo;;
+1175.0;33;RNSC-Reserva El Caucho;;
+1176.0;34;RNSC-Hostal De Pedro Palo;;
+1177.0;35;RNSC-Pantanillo;;
+1178.0;36;RNSC-El Rincón;;
+1179.0;37;RNSC-De Las Aves Colibrí Del Sol;;
+118.0;1856;;;RI-Resguardo Indígena Paez - Las Mercedes
+1180.0;38;RNSC-Primavera 3;;
+1181.0;39;RNSC-Tenasucá De Pedro Palo;;
+1182.0;40;RNSC-Bosques y Montes del Soche II;;
+1183.0;41;RNSC-Primavera Deyis;;
+1184.0;42;RNSC-Primavera 5;;
+1185.0;43;RNSC-La Fernanda;;
+1186.0;44;RNSC-La Palma De Marbella;;
+1187.0;45;RNSC-Pintura;;
+1188.0;46;RNSC-Primavera 6;;
+1189.0;47;RNSC-La Iguana Verde;;
+119.0;1857;;;RI-Resguardo Indígena Guahibo - Parreros
+1190.0;48;RNSC-Las Aves El Dorado;;
+1191.0;49;RNSC-El Cedro;;
+1192.0;50;RNSC-Los Naranjos;;
+1193.0;51;RNSC-La Reserva;;
+1194.0;52;RNSC-Sauce;;
+1195.0;53;RNSC-El Umuy;;
+1196.0;54;RNSC-Campo Alegre;;
+1197.0;55;RNSC-El Pedregal;;
+1198.0;56;RNSC-Reserva Hídrica El Soche - San Rafael;;
+1199.0;57;RNSC-El Lucero;;
+12.0;1750;;;RI-Resguardo Indígena El Refugio
+120.0;1858;;;RI-Resguardo Indigena Centorgua
+1200.0;58;RNSC-Aves de  El Paujil;;
+1201.0;59;RNSC-La Cuchilla 2;;
+1202.0;60;RNSC-Villa del Monte;;
+1203.0;61;RNSC-Piedra Sentada;;
+1204.0;62;RNSC-La Estrella 2;;
+1205.0;63;RNSC-Bella Vista;;
+1206.0;64;RNSC-El Portal;;
+1207.0;65;RNSC-Finca Matesanto;;
+1208.0;66;RNSC-La Laguna;;
+1209.0;67;RNSC-La Pradera;;
+121.0;1859;;;RI-Resguardo Indígena Pijao Totarco - Piedras
+1210.0;68;RNSC-Buena Vista;;
+1211.0;69;RNSC-El Cedral;;
+1212.0;70;RNSC-El Cedro;;
+1213.0;71;RNSC-La Macarena;;
+1214.0;72;RNSC-Patio Bonito;;
+1215.0;73;RNSC-La Palma;;
+1216.0;74;RNSC-La Aurora;;
+1217.0;75;RNSC-La Morenita;;
+1218.0;76;RNSC-El Horadado De San Alejo;;
+1219.0;77;RNSC-Los Pinos;;
+122.0;1860;;;RI-Resguardo Indígena Caña Brava
+1220.0;78;RNSC-El Viche;;
+1221.0;79;RNSC-Villa María y La Marina;;
+1222.0;80;RNSC-El Silencio;;
+1223.0;81;RNSC-El Carmen;;
+1224.0;82;RNSC-San Antonio;;
+1225.0;83;RNSC-San Rafael;;
+1226.0;84;RNSC-La Parcela 9;;
+1227.0;85;RNSC-Los Chagualos;;
+1228.0;86;RNSC-Peñas Blancas;;
+1229.0;87;RNSC-Las Malvinas;;
+123.0;1861;;;RI-Resguardo Indígena Korodo-Ite
+1230.0;88;RNSC-Pullitopamba;;
+1231.0;89;RNSC-La Ceja;;
+1232.0;90;RNSC-La Laguna;;
+1233.0;91;RNSC-Oasis;;
+1234.0;92;RNSC-Puerta Dorada;;
+1235.0;93;RNSC-Belén;;
+1236.0;94;RNSC-El Manzano;;
+1237.0;95;RNSC-Monte Redondo;;
+1238.0;96;RNSC-Betania;;
+1239.0;97;RNSC-La Primavera;;
+124.0;1862;;;RI-Resguardo Indígena Coribi Bedado
+1240.0;98;RNSC-La Esperanza;;
+1241.0;99;RNSC-Alto;;
+1242.0;100;RNSC-Las Mercedes;;
+1243.0;101;RNSC-Motilonal;;
+1244.0;102;RNSC-Las Guacamayas;;
+1245.0;103;RNSC-VillaLuz;;
+1246.0;104;RNSC-La Reserva;;
+1247.0;105;RFPR-Vallecita;;
+1248.0;106;RFPR-Farallones del Citará;;
+1249.0;107;RFPR-Cerro Bravo;;
+125.0;1863;;;RI-Resguardo Indígena Embera Chami de Altomira
+1250.0;108;DRMI-Cañon del Rio Alicante;;
+1251.0;109;DRMI-Nubes Trocha Capota;;
+1252.0;110;DRMI-Sistema de Paramos y Bosques Altoandinos del Noroccidente Medio Antioqueño;;
+1253.0;111;DRMI-Cuchilla Jardin Tamesis;;
+1254.0;112;DRMI-Alto del Insor;;
+1255.0;113;DRMI-Rios Barroso y San Juan;;
+1256.0;114;PNR-Humedales entre los Ríos Leon y Suriquí;;
+1257.0;115;DRMI-Cuchilla Cerro Plateado Alto San Jose;;
+1258.0;116;RFPR-El Toro;;
+1259.0;117;RFPR-La Gloria;;
+126.0;1864;;;RI-Resguardo Indígena Embera de Puerto Libia Tripicay
+1260.0;118;RFPR-Vallelargo;;
+1261.0;119;RFPR-La Suiza;;
+1262.0;120;RFPR-Bellavista;;
+1263.0;121;RFPR-Cerrobravo;;
+1264.0;122;RFPR-El Contento las Palmas;;
+1265.0;123;RFPR-El Trebol;;
+1266.0;124;RNSC-Las Mesitas;;
+1267.0;125;RFPR-Las Damas;;
+1268.0;126;RNSC-Proaves Arrierito Antioqueño Bloque 2;;
+1269.0;127;RNSC-San Nicolás 2;;
+127.0;1865;;;RI-Resguardo Indígena Tucan de Caño Giriza y Puerto La Palma
+1270.0;128;RFPR-Uno;;
+1271.0;129;RNSC-Las Cascadas De Andrómeda;;
+1272.0;130;RNSC-La Esmeralda;;
+1273.0;131;RNSC-La Cumbre;;
+1274.0;132;RFPR-La Copa la Copita San José;;
+1275.0;133;RFPR-La Esperanza;;
+1276.0;134;RFPR-Corazon California la Palma  y Soledad Potosí;;
+1277.0;135;RFPR-La Cima I Cima II y Altamira Maupaz;;
+1278.0;136;RNSC-El Billar;;
+1279.0;137;RNSC-La Sirena;;
+128.0;1866;;;RI-Resguardo Indígena de Patio Bonito
+1280.0;138;RNSC-El Cedro;;
+1281.0;139;RNSC-Las Dos Lunas;;
+1282.0;140;RNSC-La Judea;;
+1283.0;141;RFPR-La Estrella la Cabaña Dulima;;
+1284.0;142;RFPR-El Humedal y la Santísima Trinidad;;
+1285.0;143;RFPR-San Cristobal Alto de la Motañuela, San Cristobal Alto de la Matañuela II, el Porvenir, Esperanza;;
+1286.0;144;RFPR-Puracé Porvenir las Violetas, Porvenir  I  Porvenir II;;
+1287.0;145;AR-Parque Ecologico Humedal Calatrava;;
+1288.0;146;PNR-Laguna San Vicente;;
+1289.0;147;DRMI-Páramos y Bosques Altoandinos de Génova;;
+129.0;1867;;;RI-Resguardo Indígena Embera  Aguaclara Y Bella Luz Del Rio Amporá
+1290.0;148;DRMI-Ensenada de Rionegro, los Bajos Aledaños, las Ciénagas de Marimonda y el Salado;;
+1291.0;149;DCS-Barbas Bremen;;
+1292.0;150;DRMI-Luriza;;
+1293.0;151;PNR-La Sierpe;;
+1294.0;152;DRMI-De la Cuenca Alta del Río  Quindío de Salento;;
+1295.0;153;PNR-El Vinculo;;
+1296.0;154;DRMI-Corredor de los felinos del Río Negro;;
+1297.0;155;DRMI-Complejo Cenagoso de Zarate Malibú y Veladero;;
+1298.0;156;DRMI-Agualinda;;
+1299.0;157;DRMI-Serranía de los Yariguíes;;
+13.0;1751;;;RI-Resguardo Indígena Paez de La Florida
+130.0;1868;;;RI-Resguardo Indígena Wayuu de el Caimito, La Ceiba, Madre Vieja y el Paraiso "Caicemapa"
+1300.0;158;PNR-Serranía de las Quinchas;;
+1301.0;159;DRMI-Del Rio Minero y sus Zonas Aledañas;;
+1302.0;160;RFPR-Montes de  Oca;;
+1303.0;161;DRMI-Bucaramanga;;
+1304.0;162;RNSC-Nazareth;;
+1305.0;163;RNSC-El Porvenir;;
+1306.0;164;RNSC-Bóvedas, Veguita y Tumbe;;
+1307.0;165;RNSC-El Triunfo;;
+1308.0;166;RNSC-El Juicio;;
+1309.0;167;RNSC-Pava;;
+131.0;1869;;;RI-Resguardo Indígena Embera-Chami Drua Do
+1310.0;168;DRMI-de la Vereda Gamboa;;
+1311.0;169;RNSC-Casa De Teja;;
+1312.0;170;RNSC-Las Lomas;;
+1313.0;171;PNR-Serranía el Peligro;;
+1314.0;172;PNR-Unidad Biogeográfica de Siscuncí Oceta;;
+1315.0;173;DCS-Guacas Rosario;;
+1316.0;174;RFPR-Cerros Pionono y las Águilas;;
+1317.0;175;RFPR-Cuenca Alta del Río Zaque;;
+1318.0;176;RFPR-El Diamante;;
+1319.0;177;RFPR-Páramo de El Frailejonal;;
+132.0;1870;;;RI-Resguardo Indígena Camentza Biya
+1320.0;178;RFPR-Nacimiento Quebradas Honda y Calderitas;;
+1321.0;179;DRMI-Nacimiento de las Quebradas los Tiestos, La Chorrera y Hoya Fría;;
+1322.0;180;RFPR-Pionono;;
+1323.0;181;RFPR-Nacimiento del Río Bogotá;;
+1324.0;182;RNSC-La Estrella;;
+1325.0;183;RNSC-La Alejandra;;
+1326.0;184;RFPR-El Robledal;;
+1327.0;185;RFPR-Planalto;;
+1328.0;186;DRMI-Páramo Rabanal;;
+1329.0;187;RFPR-Torre Cuatro;;
+133.0;1871;;;RI-Resguardo Indígena San Jose De Isnos
+1330.0;188;DRMI-Manglar de la Bahía de Cispatá y Sector Aledaño del Delta Estuarino del Río Sinú;;
+1331.0;189;DRMI-Complejo Cenagóso del Bajo Sinú;;
+1332.0;190;RFPR-Páramo de Rabanal;;
+1333.0;191;RFPR-Páramos de Telecom y Merchán;;
+1334.0;192;RNSC-Los Titíes De San Juan IV;;
+1335.0;193;RNSC-La Tangara;;
+1336.0;194;RFPR-Quebrada Paramillo y Queceros;;
+1337.0;195;RFPR-Futuras Generaciones de Sibaté I y II;;
+1338.0;196;DRMI-Páramo de Guerrero;;
+1339.0;197;DCS-Tibaitatá;;
+134.0;1872;;;RI-Resguardo Indígena Daidrua
+1340.0;198;DRMI-Cuchilla de San Antonio y Laguna El Coco;;
+1341.0;199;RFPR-Páramo de Guargua y Laguna Verde;;
+1342.0;200;RNSC-Las Mesitas;;
+1343.0;201;DRMI-Distrito Regional de Manejo Integrado - Sitio Ramsar del Complejo de Humedales de Ayapel;;
+1344.0;202;RNSC-Villa Milena;;
+1345.0;203;RNSC-El Cariño;;
+1346.0;204;RNSC-Proaves Arrierito Antioqueño Bloque 2;;
+1347.0;205;RNSC-San Nicolás 2;;
+1348.0;206;DCS-Barbas  Bremen;;
+1349.0;207;RNSC-Las Cascadas De Andrómeda;;
+135.0;1873;;;RI-Resguardo Indígena Kuitua
+1350.0;208;RNSC-La Esmeralda;;
+1351.0;209;RNSC-La Cumbre;;
+1352.0;210;AR-De Cuatro Microcuencas del Municipio de Inirida;;
+1353.0;211;RNSC-El Cerrito;;
+1354.0;212;DRMI-DRMI de los Páramos de Guantiva y La Rusia, Bosques de Roble y sus Zonas aledañas;;
+1355.0;213;PNR-Ríonegro;;
+1356.0;214;DRMI-Guásimo;;
+1357.0;215;RNSC-Monte Calicó;;
+1358.0;216;RNSC-El Billar;;
+1359.0;217;RNSC-La Sirena;;
+136.0;1874;;;RI-Resguardo Indígena Embera de los Rios Valle y Boroboro
+1360.0;218;RNSC-El Cedro;;
+1361.0;219;RNSC-Asociación De Amigos Usuarios Del Acueducto Independiente De Ocaña Adamiuain;;
+1362.0;220;RNSC-Reserva Unsáua;;
+1363.0;221;RNSC-La Judea;;
+1364.0;222;RNSC-El Agrado;;
+1365.0;223;DRMI-Cristalina la Mesa;;
+1366.0;224;PNR-Verdum;;
+1367.0;225;DCS-Campoalegre;;
+1368.0;226;PNR-Siberia Ceibas;;
+1369.0;227;DRMI-Alto Calima;;
+137.0;1875;;;RI-Resguardo Indígena Wopomuin Junain Maikou
+1370.0;228;RFPR-De Bitaco;;
+1371.0;229;RNSC-La Prosperidad;;
+1372.0;230;RNSC-La Esperanza 2;;
+1373.0;231;PNR-San Miguel de los Farallones;;
+1374.0;232;PNR-Corredor Biológico Guácharos Puracé;;
+1375.0;233;RFPR-Serrania del Pinche;;
+1376.0;234;PNR-Cerro Páramo de Miraflores Rigoberto Urriago;;
+1377.0;235;PNR-Volcán Azufral Chaitan;;
+1378.0;236;DRMI-Páramo de Guargua y Laguna Verde;;
+1379.0;237;RFPR-Hoya Hernando;;
+138.0;1876;;;RI-Resguardo Indígena Pijao Diamante
+1380.0;238;RNSC-Reserva Natural El Arca;;
+1381.0;239;RFPR-La Siberia;;
+1382.0;240;RFPR-Pozo Azul;;
+1383.0;241;DRMI-Ecosistema de Sabanas Abiertas y Arbustivas y Sistemas Asociados en el Municipio de Galeras;;
+1384.0;242;RNSC-El Danubio;;
+1385.0;243;RNSC-La Virginia;;
+1386.0;244;RFPR-Palosqui;;
+1387.0;245;RFPR-Tolima;;
+1388.0;246;RNSC-La Esperanza;;
+1389.0;247;RFPR-El Espino Corcovado;;
+139.0;1877;;;RI-Resguardo Indígena Saliva El Suspiro - El Rincon del Socorro
+1390.0;248;RFPR-Santa Maria de las Lagunas;;
+1391.0;249;RFPR-Montebello;;
+1392.0;250;PNR-Del Sistema Manglarico del Sector de la Boca de Guacamaya;;
+1393.0;251;RFPR-El Porvenir  el Guadual;;
+1394.0;252;RFPR-La Vitilia la Palma;;
+1395.0;253;RFPR-Concepción;;
+1396.0;254;PNR-Jhonny Cay Regional Park;;
+1397.0;255;RFPR-San Lorenzo;;
+1398.0;256;AR-Humedal Maiciana Manacal;;
+1399.0;257;PNR-Páramo de Santurbán;;
+14.0;1752;;;RI-Resguardo Indígena Gran Tescual
+140.0;1878;;;RI-Resguardo Indígena Velu Centro
+1400.0;258;RNSC-Santa Isabel;;
+1401.0;259;RNSC-Hato Venecia De Guanapalo;;
+1402.0;260;RNSC-Las Nubes;;
+1403.0;261;RNSC-Flia Betancur Alvarez;;
+1404.0;262;RNSC-Terrapreta;;
+1405.0;263;DRMI-Corredor de los felinos del Río Negro;;
+1406.0;264;RNSC-Las Nieves El Guadual;;
+1407.0;265;RNSC-Betania Del Lagunazo;;
+1408.0;266;RNSC-Algarrobo Del Lagunazo;;
+1409.0;267;RFPR-Tarcara;;
+141.0;1879;;;RI-Resguardo Indígena Pijao Palermo
+1410.0;268;DCS-Serranía de los Churumbelos;;
+1411.0;269;DRMI-El Meandro o Madrevieja de Guarinocito;;
+1412.0;270;DRMI-Cuchilla de Peñas Blancas y del Subia;;
+1413.0;271;RFPR-La Linda;;
+1414.0;272;RFPR-El Popal;;
+1415.0;273;RFPR-Sabinas;;
+1416.0;274;DRMI-Laguna de San Diego;;
+1417.0;275;RNSC-Limonal;;
+1418.0;276;DCS-Alto del Nudo;;
+1419.0;277;RNSC-Aguas Calientes;;
+142.0;1880;;;RI-Resguardo Indígena Pijao Yaco Molana
+1420.0;278;DRMI-de la Playona y la Loma de Caleta;;
+1421.0;279;RNSC-Nazareth;;
+1422.0;280;RNSC-Bosque Kaukita;;
+1423.0;281;RNSC-Las Corrientes 2;;
+1424.0;282;RNSC-El Porvenir;;
+1425.0;283;RNSC-Las Tángaras;;
+1426.0;284;RNSC-Reserva Natural La Holanda Espinazo Del Caballo;;
+1427.0;285;RNSC-Reserva Ecoturística Villa Diosa;;
+1428.0;286;RNSC-El Triunfo;;
+1429.0;287;RNSC-El Juicio;;
+143.0;1881;;;RI-Resguardo Indígena Ancestral y Sitios Sagrados del Asentamiento Indígena Porvenir Meta - Aseinpome
+1430.0;288;RNSC-Pava;;
+1431.0;289;RNSC-Nueva Esperanza;;
+1432.0;290;DRMI-de la Vereda Gamboa;;
+1433.0;291;RNSC-Casa De Teja;;
+1434.0;292;RNSC-Las Lomas;;
+1435.0;293;RNSC-Mox;;
+1436.0;294;RNSC-Buenos Aires;;
+1437.0;295;RNSC-La Macarena;;
+1438.0;296;RFPR-Los Ceibotes;;
+1439.0;297;DRMI-Bañaderos  Cuenca Alta del Río Camarones;;
+144.0;1882;;;RI-Resguardo Indígena Nasa Paez de Cxayu'Ce Fxiw
+1440.0;298;PNR-Pan de Azucar el Consuelo;;
+1441.0;299;RNSC-Conjunto De Reservas Naturales De Sumicol S.A. (Lusitania);;
+1442.0;300;RNSC-Matabrava;;
+1443.0;301;RNSC-Mano de Oso;;
+1444.0;302;RNSC-Rondalla;;
+1445.0;303;RNSC-La Raquelita;;
+1446.0;304;RNSC-El Porvenir;;
+1447.0;305;PNR-Santurbán Salazar de las Palmas;;
+1448.0;306;RFPR-El Palomar;;
+1449.0;307;DRMI-Humedales de Gualí Tres Esquinas y Lagunas del Funzhé;;
+145.0;1883;;;RI-Resguardo Indígena La Montaña
+1450.0;308;DCS-Cañón de Río Grande;;
+1451.0;309;RNSC-El Vesubio;;
+1452.0;310;RNSC-La Voluntad De Dios;;
+1453.0;311;RNSC-Edén de Oriente;;
+1454.0;312;RNSC-Jabiru;;
+1455.0;313;RNSC-San Gabriel;;
+1456.0;314;RNSC-Nakaima;;
+1457.0;315;RNSC-Palmeras;;
+1458.0;316;RNSC-La Estrella;;
+1459.0;317;RNSC-La Alejandra;;
+146.0;1884;;;RI-Resguardo Indígena Guahibo de La Esmeralda
+1460.0;318;RNSC-Buenaventura;;
+1461.0;319;RNSC-Santa Inés;;
+1462.0;320;RNSC-Refugio Guajiro;;
+1463.0;321;RNSC-Los Mangos;;
+1464.0;322;RNSC-Monte Heliconia;;
+1465.0;323;RNSC-Conjunto de Reservas Naturales de Sumicol S.A. La Cabaña;;
+1466.0;324;RNSC-La Cosmopolitana;;
+1467.0;325;PNR-Bosque Seco El Ceibal Mono Tití;;
+1468.0;326;RNSC-Los Titíes De San Juan IV;;
+1469.0;327;RNSC-Mesopotamia;;
+147.0;1885;;;RI-Resguardo Indígena Santa Rosa Sucumbios y El Diviso
+1470.0;328;RNSC-La Tangara;;
+1471.0;329;RNSC-Finca Agroecológica El Paraíso;;
+1472.0;330;RNSC-El Vergel;;
+1473.0;331;RNSC-Veraguas;;
+1474.0;332;RNSC-Sacha Mama;;
+1475.0;333;RNSC-La Palmita;;
+1476.0;334;RNSC-De las Aves Cucarachero Chicamocha - Predio Lagunetas;;
+1477.0;335;RNSC-Maindes;;
+1478.0;336;RFPR-La Montaña;;
+1479.0;337;RNSC-La Esperanza;;
+148.0;1886;;;RI-Resguardo Indígena Achagua y Piapoco (El Turpial La Victoria (Umapo))
+1480.0;338;DRMI-La Selva;;
+1481.0;339;RNSC-Pachamama;;
+1482.0;340;RNSC-La Pedregoza;;
+1483.0;341;RNSC-La Judea IV;;
+1484.0;342;RNSC-La Floresta;;
+1485.0;343;RNSC-El Porvenir;;
+1486.0;344;RNSC-Jikuri;;
+1487.0;345;RNSC-San Alfonso;;
+1488.0;346;RNSC-Bosque La Linda;;
+1489.0;347;RNSC-Patio Bonito;;
+149.0;1887;;;RI-Resguardo Indígena Pijao de Los Angeles
+1490.0;348;RNSC-Rancho Camaná;;
+1491.0;349;RNSC-Paway;;
+1492.0;350;RNSC-Cochahuaira;;
+1493.0;351;RNSC-El Retiro;;
+1494.0;352;RNSC-Pauxi pauxi Buenos Aires;;
+1495.0;353;RNSC-Pauxi Pauxi Las Flores y El Porvenir;;
+1496.0;354;RNSC-Pauxi pauxi predio Agua Linda;;
+1497.0;355;RNSC-La Siria;;
+1498.0;356;RNSC-La Argentina;;
+1499.0;357;DRMI-Alto Calima;;
+15.0;1753;;;RI-Resguardo Indígena Guahibo de Matecandela
+150.0;1888;;;RI-Resguardo Indígena Inga San Joaquin
+1500.0;358;DRMI-HATOVIEJO;;
+1501.0;359;RNSC-La Reforma;;
+1502.0;360;RNSC-La Prosperidad;;
+1503.0;361;RNSC-Hacienda El Cequión;;
+1504.0;362;RNSC-Los Volcanes;;
+1505.0;363;RNSC-El Manantial;;
+1506.0;364;RNSC-La Esmeralda;;
+1507.0;365;RNSC-Santuario Natural De Conciencia Cosmogénesis;;
+1508.0;366;RNSC-Los Tananeos;;
+1509.0;367;RNSC-Las 3R´s;;
+151.0;1889;;;RI-Resguardo Indígena Guahibo de Caño La Hormiga
+1510.0;368;RNSC-Yurumí;;
+1511.0;369;RNSC-Aves del Tequendama;;
+1512.0;370;RFPR-Laureles, Maracaibo y las Delicias;;
+1513.0;371;RNSC-Hacienda Esmeraldas;;
+1514.0;372;RNSC-Villa Andrea;;
+1515.0;373;RNSC-Las Brisas;;
+1516.0;374;RNSC-Los Cauchos;;
+1517.0;375;RNSC-Verde Esperanza;;
+1518.0;376;RNSC-San Martín;;
+1519.0;377;RNSC-La Cochinito;;
+152.0;1890;;;RI-Resguardo Indígena Embera - Katio de los Ríos Salaqui-Pavarando
+1520.0;378;RNSC-EL Tesoro;;
+1521.0;379;RNSC-Providencia;;
+1522.0;380;RNSC-La Esperanza;;
+1523.0;381;RNSC-Bella Vista;;
+1524.0;382;RFPR-Playas;;
+1525.0;383;PNR-Corredor de las Alegrias;;
+1526.0;384;RFPR-Cañones de los ríos Melcocho y Santo Domingo;;
+1527.0;385;DRMI-Cerros de San Nicolás;;
+1528.0;386;RFPR-Cuchillas de el Tigre, el Calón y la Osa;;
+1529.0;387;RFPR-La Tebaida;;
+153.0;1891;;;RI-Resguardo Indígena Embera de Chuscal y Tuguridocito
+1530.0;388;DRMI-Sistema Viaho Guayabal;;
+1531.0;389;RFPR-Yeguas;;
+1532.0;390;DRMI-Cuenca baja del Río Ranchería;;
+1533.0;391;RNSC-Hacienda Villa Mery;;
+1534.0;392;RNSC-Las Camelias;;
+1535.0;393;RNSC-Biotopo Selva Humeda;;
+1536.0;394;RNSC-Las Manguitas;;
+1537.0;395;RNSC-El Alto;;
+1538.0;396;RNSC-El Manantial;;
+1539.0;397;RNSC-El Placer;;
+154.0;1892;;;RI-Resguardo Indígena del Paraje de El Venado
+1540.0;398;RNSC-La Zambera;;
+1541.0;399;RNSC-Altomira;;
+1542.0;400;RNSC-La Suiza;;
+1543.0;401;RNSC-Tomovida - Shambala;;
+1544.0;402;RNSC-El Paraíso;;
+1545.0;403;DRMI-Caracolí Sabanas de Manuela;;
+1546.0;404;RNSC-Santa Catalina;;
+1547.0;405;RNSC-La Esperanza;;
+1548.0;406;RNSC-Refugio Del Tororoi;;
+1549.0;407;RNSC-La Esneda;;
+155.0;1893;;;RI-Resguardo Indígena Embera Katio de Chidima - Tolo
+1550.0;408;RNSC-Versalles;;
+1551.0;409;RNSC-El Guayabal;;
+1552.0;410;RNSC-El Lagunazo en Santa Clara;;
+1553.0;411;RNSC-Bellavista;;
+1554.0;412;RNSC-La Chorrera;;
+1555.0;413;RNSC-Jurásico;;
+1556.0;414;RNSC-La Rivera;;
+1557.0;415;PNR-Santurbán Arboledas;;
+1558.0;416;DRMI-Mata de la Urama;;
+1559.0;417;DRMI-El Bocachico;;
+156.0;1894;;;RI-Resguardo Indígena El Itilla
+1560.0;418;DRMI-BRUT Nativos;;
+1561.0;419;DRMI-El Chilcal;;
+1562.0;420;DRMI-Laguna de Sonso o del Chircal;;
+1563.0;421;RNSC-Travesías;;
+1564.0;422;RNSC-Tacarcuna;;
+1565.0;423;RNSC-Las Camelias;;
+1566.0;424;RNSC-Nuevo México;;
+1567.0;425;RNSC-Las Corrientes;;
+1568.0;426;RNSC-La Ilusión;;
+1569.0;427;RNSC-Agua Clara;;
+157.0;1895;;;RI-Resguardo Indígena inga de San Antonio Del Fragua
+1570.0;428;DCS-Ciénaga de Corralito;;
+1571.0;429;RNSC-La Bretaña;;
+1572.0;430;RNSC-La Laguna;;
+1573.0;431;RNSC-Yumake;;
+1574.0;432;RNSC-El Chuscal Parte Alta;;
+1575.0;433;RNSC-San Antonio;;
+1576.0;434;DRMI-Golfo de Tribugá Cabo Corrientes;;
+1577.0;435;RNSC-De Las Aves el Dorado Cincinati lote 1;;
+1578.0;436;RNSC-La Tebaida;;
+1579.0;437;DCS-Serranía de los Churumbelos;;
+158.0;1896;;;RI-Resguardo Indígena Chenche Angostura
+1580.0;438;RNSC-Miraflores;;
+1581.0;439;RNSC-El Camino del Tesoro;;
+1582.0;440;RNSC-Guayabito;;
+1583.0;441;RNSC-El Retiro;;
+1584.0;442;RNSC-El Diviso;;
+1585.0;443;RNSC-La Sonrisa;;
+1586.0;444;RNSC-La Cabaña;;
+1587.0;445;RNSC-El Milagro;;
+1588.0;446;RNSC-El Laurel;;
+1589.0;447;RNSC-Cabildo Verde II;;
+159.0;1897;;;RI-Resguardo Indígena Zenú de Los Almendros
+1590.0;448;RNSC-La Lucha;;
+1591.0;449;RNSC-Valparaíso;;
+1592.0;450;RNSC-Jardín Botánico de la Macarena I;;
+1593.0;451;RNSC-Jardín Botánico de la Macarena II;;
+1594.0;452;RNSC-Providencia;;
+1595.0;453;RNSC-Las Brisas;;
+1596.0;454;RNSC-El Porvenir;;
+1597.0;455;DRMI-Chinchorro;;
+1598.0;456;PNR-El Comedero;;
+1599.0;457;RNSC-Samaria 2;;
+16.0;1754;;;RI-Resguardo Indígena Pijao Floral Tradicional
+160.0;1898;;;RI-Resguardo Indígena Wiwa Arzario de Campo Alegre
+1600.0;458;RNSC-Las Violetas;;
+1601.0;459;RNSC-La Lucha;;
+1602.0;460;RNSC-Altamira;;
+1603.0;461;RNSC-Colibrí del Sol;;
+1604.0;462;RNSC-Montes de la Esperanza;;
+1605.0;463;RNSC-Santa Martha;;
+1606.0;464;RNSC-Villa María;;
+1607.0;465;RNSC-El Potrerito;;
+1608.0;466;DRMI-Cacica Noría;;
+1609.0;467;RNSC-El Reinado;;
+161.0;1899;;;RI-Resguardo Indígena Pijao Castilla Angosturas
+1610.0;468;PNR-Mateguadua;;
+1611.0;469;PNR-Cerro Pintao - Serranía del Perijá;;
+1612.0;470;RNSC-Mata de Guadua;;
+1613.0;471;RNSC-Guaia Quyca - Paba Sua;;
+1614.0;472;RNSC-El Ocarro;;
+1615.0;473;RNSC-Himalaya;;
+1616.0;474;RNSC-Anelim;;
+1617.0;475;RNSC-La Esperanza;;
+1618.0;476;RNSC-Santa Cruz;;
+1619.0;477;RNSC-El Tesorito;;
+162.0;1900;;;RI-Resguardo Indígena Senú Los Almendros
+1620.0;478;RNSC-El Jardín;;
+1621.0;479;RNSC-Piedra Gorda;;
+1622.0;480;DRMI-Cuenca  Alta del Río Atrato;;
+1623.0;481;RNSC-La María 1;;
+1624.0;482;RNSC-Campo Hermoso;;
+1625.0;483;RNSC-Los Guaduales;;
+1626.0;484;RNSC-El Vergel;;
+1627.0;485;RNSC-Bombay;;
+1628.0;486;RNSC-La Esperanza;;
+1629.0;487;RNSC-Los Paraguitos;;
+163.0;1901;;;RI-Resguardo Indígena Anaba
+1630.0;488;RNSC-Bugavá;;
+1631.0;489;RNSC-La Rivera;;
+1632.0;490;DRMI-Páramo Mamapacha y Bijagual;;
+1633.0;491;RNSC-El Paraíso del Turpial;;
+1634.0;492;RNSC-Roca Madre;;
+1635.0;493;RNSC-Nido de Águilas;;
+1636.0;494;RNSC-Amanecer en el Palmar 1;;
+1637.0;495;RNSC-San Nicolás;;
+1638.0;496;RNSC-Madremonte;;
+1639.0;497;RNSC-Veronia;;
+164.0;1902;;;RI-Resguardo Indígena Pijao Balsillas Limon
+1640.0;498;RNSC-Camino Verde;;
+1641.0;499;RNSC-Ieiasca;;
+1642.0;500;RNSC-El Cardon;;
+1643.0;501;RNSC-La Periquera;;
+1644.0;502;RNSC-Los Titíes de San Juan;;
+1645.0;503;RNSC-Amanecer en el Palmar 2;;
+1646.0;504;RNSC-Los Laureles;;
+1647.0;505;RNSC-El Silencio;;
+1648.0;506;RNSC-El Portal del Oso;;
+1649.0;507;RNSC-Reserva Integral y Ecoaldea Sasardí II;;
+165.0;1903;;;RI-Resguardo Indígena El Arenal
+1650.0;508;RNSC-La Loma del Toro Pao;;
+1651.0;509;RNSC-Zona de Biodiversidad La Loma;;
+1652.0;510;RNSC-El Páramo;;
+1653.0;511;RNSC-El Paraíso;;
+1654.0;512;RNSC-El Cerrito;;
+1655.0;513;RNSC-Gachaquín;;
+1656.0;514;RNSC-El Madroño;;
+1657.0;515;RNSC-Agua Monte;;
+1658.0;516;RNSC-La Mansión;;
+1659.0;517;RNSC-El Colibrí;;
+166.0;1904;;;RI-Resguardo Indígena Embera Chami  de Gitó Dokabú
+1660.0;518;RNSC-Sol y Luna;;
+1661.0;519;RNSC-Corazón de Loquita;;
+1662.0;520;RNSC-Iguakan;;
+1663.0;521;DRMI-Pance;;
+1664.0;522;PNR-Anaime-Chilí;;
+1665.0;523;RNSC-Torrelavega;;
+1666.0;524;RNSC-Barakah;;
+1667.0;525;DRMI-Cerro Guadalupe;;
+1668.0;526;RNSC-Rincón de las Vegas;;
+1669.0;527;RNSC-Valladolid;;
+167.0;1905;;;RI-Resguardo Indígena Chicuambe Las Brisas
+1670.0;528;RNSC-Robledales;;
+1671.0;529;RNSC-El Chochal de Siecha;;
+1672.0;530;RNSC-La Planta Eléctrica;;
+1673.0;531;RNSC-Monayano;;
+1674.0;532;PNR-Páramo de las Ovejas-Tauso;;
+1675.0;533;RNSC-Las Delicias;;
+1676.0;534;RNSC-KPL;;
+1677.0;535;RNSC-Betania;;
+1678.0;536;RNSC-Hágora Santa Marta;;
+1679.0;537;RNSC-Los Alisos;;
+168.0;1906;;;RI-Resguardo Indígena Pijao Chenche Media Luna
+1680.0;538;RNSC-La Esperanza;;
+1681.0;539;RNSC-Ganesh;;
+1682.0;540;RNSC-La Sagrada Familia;;
+1683.0;541;RNSC-El Refugio;;
+1684.0;542;DRMI-Bosque Seco de la Vertiente Oriental del río Magdalena;;
+1685.0;543;RNSC-De Las Aves Giles Fuertesí;;
+1686.0;544;RNSC-Santa Inés;;
+1687.0;545;RNSC-Los Pinos;;
+1688.0;546;RNSC-El Frailejón;;
+1689.0;547;RNSC-El Palmar;;
+169.0;1907;;;RI-Resguardo Indígena Yanacona de San Juan
+1690.0;548;RNSC-Reserva Biológica El Silencio;;
+1691.0;549;RNSC-El Sauce;;
+1692.0;550;RNSC-Naturaleza Real;;
+1693.0;551;RNSC-Amalaka;;
+1694.0;552;RNSC-El Motilón;;
+1695.0;553;RNSC-Los Laureles;;
+1696.0;554;RNSC-Gualanday;;
+1697.0;555;RNSC-Lote No. 2 La Chonta;;
+1698.0;556;RNSC-Providencia;;
+1699.0;557;RNSC-La Estrella;;
+17.0;1755;;;RI-Resguardo Indígena Inga De Colon
+170.0;1908;;;RI-Resguardo Indígena Awa de Agua Blanca
+1700.0;558;RNSC-Aranzazu;;
+1701.0;559;RNSC-Mana Dulce;;
+1702.0;560;RNSC-Bosque de Niebla;;
+1703.0;561;RNSC-La Suiza;;
+1704.0;562;RNSC-San Simeón;;
+1705.0;563;RNSC-La Gaitana;;
+1706.0;564;RNSC-Desengañito;;
+1707.0;565;RNSC-Miranda;;
+1708.0;566;RNSC-Las Margaritas;;
+1709.0;567;RNSC-El Garcero del Medio 2;;
+171.0;1909;;;RI-Resguardo Indígena Coreguaje de San Miguel
+1710.0;568;RNSC-Bariloche;;
+1711.0;569;RNSC-Bioparque Moncora 3;;
+1712.0;570;RNSC-Renasie;;
+1713.0;571;RNSC-El Gramero;;
+1714.0;572;RNSC-Reserva Natural Verdeagua;;
+1715.0;573;RNSC-San Rafael De Guanapalo;;
+1716.0;574;RNSC-Colina De Cristal - Finca El Clavo;;
+1717.0;575;RNSC-Urianaka;;
+1718.0;576;RNSC-La Cabaña;;
+1719.0;577;RNSC-La Cabaña;;
+172.0;1910;;;RI-Resguardo Indígena Wayuu de Una'Apüchon
+1720.0;578;RNSC-La Hermosa;;
+1721.0;579;RNSC-Bella Luz;;
+1722.0;580;RNSC-El Morichal;;
+1723.0;581;RNSC-La Esperanza;;
+1724.0;582;RNSC-El Canto;;
+1725.0;583;RNSC-El Regalito;;
+1726.0;584;RNSC-El Jardín;;
+1727.0;585;RNSC-Villa Tatiana;;
+1728.0;586;DCS-Ciénaga los Negros;;
+1729.0;587;PNR-Bosque de Los Guayupes;;
+173.0;1911;;;RI-Resguardo Indígena Sikuani - El Zamuro
+1730.0;588;RFPR-Río Bravo;;
+1731.0;589;PNR-Cascadas Altas;;
+1732.0;590;DRMI-Pastos Marinos Sawairu;;
+1733.0;591;DRMI-San Pedro;;
+1734.0;592;DRMI-Mejué;;
+1735.0;593;DRMI-Cuchilla El Varal;;
+1736.0;594;RNSC-El Silencio - La Laguna;;
+1737.0;595;RNSC-Los Mameyales;;
+1738.0;596;RNSC-Berlín;;
+1739.0;597;RNSC-Khepri;;
+174.0;1912;;;RI-Resguardo Indígena Embera Gegenado
+1740.0;598;RNSC-Santa Lucía;;
+1741.0;599;RNSC-Naser;;
+1742.0;600;RNSC-Macarena;;
+1743.0;601;RNSC-Padrote 1;;
+1744.0;602;RNSC-Potozí;;
+1745.0;603;RNSC-La Florida;;
+1746.0;604;RNSC-Perú;;
+1747.0;605;RNSC-Serrezuela;;
+1748.0;606;RNSC-El Laurel y El Recreo;;
+1749.0;607;RNSC-La Aurora;;
+175.0;1913;;;RI-Resguardo Indígena El Aguila
+1750.0;608;RNSC-Entreaguas;;
+1751.0;609;RNSC-El Cedro;;
+1752.0;610;RNSC-El Entamborado;;
+1753.0;611;RNSC-Buenavista;;
+1754.0;612;RNSC-Corozito;;
+1755.0;613;RNSC-Miravalles;;
+1756.0;614;RNSC-Jardín Colibrí una Escuela de Vida;;
+1757.0;615;RNSC-El Boral;;
+1758.0;616;RNSC-Las Marías;;
+1759.0;617;RNSC-La Laguna;;
+176.0;1914;;;RI-Resguardo Indígena Pijao Rincon Velu
+1760.0;618;RNSC-Finca La Primavera;;
+1761.0;619;RNSC-Bochica;;
+1762.0;620;RNSC-Villa Chica;;
+1763.0;621;RNSC-Las Brisas;;
+1764.0;622;RNSC-Campo Bello;;
+1765.0;623;RNSC-El Tesoro;;
+1766.0;624;RNSC-Padrote;;
+1767.0;625;RNSC-Padrote 2;;
+1768.0;626;PNR-Miraflores Picachos;;
+1769.0;627;RNSC-Chaparral II;;
+177.0;1915;;;RI-Resguardo Indígena Yukpa de El Rosario, Bellavista y Yucatan
+1770.0;628;RNSC-La Reserva;;
+1771.0;629;RNSC-El León;;
+1772.0;630;RNSC-Charco Azul;;
+1773.0;631;RNSC-San Gabriel;;
+1774.0;632;RNSC-La Algarabía;;
+1775.0;633;RNSC-El Peligro;;
+1776.0;634;RNSC-Altamira;;
+1777.0;635;RNSC-Montana;;
+1778.0;636;RNSC-Batatuaba;;
+1779.0;637;RNSC-Villa Fátima;;
+178.0;1916;;;RI-Resguardo Indígena El Pando
+1780.0;638;RNSC-La Palma;;
+1781.0;639;RNSC-El Boral;;
+1782.0;640;RNSC-San Antonio;;
+1783.0;641;RNSC-Las Orquídeas;;
+1784.0;642;RNSC-Bateas- Cañadas de la Sucia;;
+1785.0;643;RNSC-El Mirador;;
+1786.0;644;RNSC-Ecoshezuá;;
+1787.0;645;RNSC-Santuario de la Palma de Cera;;
+1788.0;646;RNSC-El Caracolí;;
+1789.0;647;RNSC-Semilla de Agua, Fuente de Vida;;
+179.0;1917;;;RI-Resguardo Indígena Embera de El Piñal
+1790.0;648;RNSC-El Jardín;;
+1791.0;649;RNSC-La Constancia;;
+1792.0;650;RNSC-Ojo de Agua;;
+1793.0;651;RNSC-Reserva El Tamarín;;
+1794.0;652;RNSC-Monte Rey Vera Cruz;;
+1795.0;653;RNSC-Campo Alegre;;
+1796.0;654;RNSC-Cubarral;;
+1797.0;655;RNSC-Patio Bonito - Los Erizos;;
+1798.0;656;RNSC-La Gloria;;
+1799.0;657;RNSC-Los Colorados;;
+18.0;1756;;;RI-Resguardo Indígena Paez de La Paila - Naya
+180.0;1918;;;RI-Resguardo Indígena Pijao de Recinto Palmarosa
+1800.0;658;DCS-El Gigante;;
+1801.0;659;DRMI-Complejo Cenagoso de Zapatosa;;
+1802.0;660;DRMI-Laguna la Primavera;;
+1803.0;661;DRMI-Bosques, Mármoles y Pantágoras;;
+1804.0;662;RNSC-Las Piñas;;
+1805.0;663;RNSC-La Provincia;;
+1806.0;664;RNSC-Santa Trinidad;;
+1807.0;665;RNSC-Garzas;;
+1808.0;666;RNSC-Caracolí;;
+1809.0;667;RNSC-Peñalisa;;
+181.0;1919;;;RI-Resguardo Indígena Embera de la Quebrada Chique-Rio Tangui
+1810.0;668;RNSC-El Limón;;
+1811.0;669;RNSC-El Porvenir;;
+1812.0;670;RNSC-Tomo Futuro;;
+1813.0;671;RNSC-Maturin;;
+1814.0;672;RNSC-La Chula;;
+1815.0;673;RNSC-La Torneada;;
+1816.0;674;DRMI-Serranía de Los Paraguas;;
+1817.0;675;RNSC-Olway Mis Padres;;
+1818.0;676;DRMI-Bosque Seco Tropical Pozo Azul;;
+1819.0;677;DRMI-Cuchilla Mesa Alta;;
+182.0;1920;;;RI-Resguardo Indígena Cuayquer o Awa del Alto Albi
+1820.0;678;RNSC-El Paraíso de Azucar Buena;;
+1821.0;679;RNSC-La Esmeralda;;
+1822.0;680;RNSC-Las Carolinas;;
+1823.0;681;RNSC-Lucitania;;
+1824.0;682;RNSC-La Guaca - Lote A;;
+1825.0;683;RNSC-Rayuela;;
+1826.0;684;RNSC-Sion;;
+1827.0;685;RNSC-Huasipungo;;
+1828.0;686;RNSC-Praga;;
+1829.0;687;RNSC-Mancame;;
+183.0;1921;;;RI-Resguardo Indígena Los Guajireros
+1830.0;688;RNSC-Libertad;;
+1831.0;689;RNSC-El Triunfo;;
+1832.0;690;RNSC-El Diluvio;;
+1833.0;691;RNSC-Meza de Piedra;;
+1834.0;692;RNSC-Altamira 1;;
+1835.0;693;RNSC-Altamira 2;;
+1836.0;694;RNSC-Las Palmas;;
+1837.0;695;RNSC-Mamaramos;;
+1838.0;696;RNSC-Itaca;;
+1839.0;697;RNSC-Las Pampas Porvenir;;
+184.0;1922;;;RI-Resguardo Indígena Waunana - Paraje de San Antonio de Togorama
+1840.0;698;RNSC-Miramar;;
+1841.0;699;RNSC-Ernesto Jiménez Lozada;;
+1842.0;700;RNSC-El Bosque;;
+1843.0;701;RNSC-Arizona;;
+1844.0;702;RNSC-Rancho Nuevo;;
+1845.0;703;RNSC-Betania;;
+1846.0;704;RNSC-La Reserva;;
+1847.0;705;RNSC-El Danubio;;
+1848.0;706;DRMI-Cerro Chimayoy;;
+1849.0;707;RNSC-Miramar;;
+185.0;1923;;;RI-Resguardo Indígena Zenu Del Volao
+1850.0;708;RNSC-San Andrés;;
+1851.0;709;RNSC-La Gloria;;
+1852.0;710;RNSC-La Florida;;
+1853.0;711;RNSC-Los Charcos;;
+1854.0;712;RNSC-Fundo Vida Tranquila;;
+1855.0;713;RNSC-Vista Hermosa;;
+1856.0;714;RNSC-Prusia;;
+1857.0;715;RNSC-Vayan Viendo;;
+1858.0;716;RFPR-K´õk´õiEujã , Calle Santa Rosa Timbiqui Cauca;;
+1859.0;717;RNSC-La Floresta;;
+186.0;1924;;;RI-Resguardo Indígena Waunana del Rio Orpua
+1860.0;718;RNSC-Villa Stefany;;
+1861.0;719;RNSC-El Uvito;;
+1862.0;720;RNSC-El Esparramo;;
+1863.0;721;DCS-de Perijá;;
+1864.0;722;DCS-Sierra Chiquita y Humedales;;
+1865.0;723;RNSC-Río Nevado;;
+1866.0;724;DRMI-Quitasol - La Holanda;;
+1867.0;725;RNSC-Versalles;;
+1868.0;726;RNSC-Semillas De Agua;;
+1869.0;727;RNSC-La Bellota;;
+187.0;1925;;;RI-Carlosama
+1870.0;728;RNSC-El Monte;;
+1871.0;729;RNSC-Los Arboles De Las Mesitas;;
+1872.0;730;RNSC-Mamakunapa;;
+1873.0;731;RNSC-Asopprai;;
+1874.0;732;RNSC-Tahamies;;
+1875.0;733;RNSC-La Montañita;;
+1876.0;734;RNSC-Villarosa;;
+1877.0;735;RNSC-La Trigueña y Las Delicias;;
+1878.0;736;RNSC-Las Peñas;;
+1879.0;737;RFPR-Laguna del Cacique Guatavita y Cuchilla de Peña Blanca;;
+188.0;1926;;;RI-Resguardo Indígena Pitulumana I y II
+1880.0;738;RNSC-Villa Pensión;;
+1881.0;739;RNSC-La Reserva;;
+1882.0;740;RNSC-Gualamana  y Gualamana II;;
+1883.0;741;RNSC-La Esperanza;;
+1884.0;742;RNSC-Buenavista;;
+1885.0;743;RNSC-El Horizonte;;
+1886.0;744;RNSC-La Luisa;;
+1887.0;745;RNSC-La Emelia;;
+1888.0;746;RNSC-Villa Juliana;;
+1889.0;747;DRMI-Serranía de Minas;;
+189.0;1927;;;RI-Resguardo Indígena Ancore Drua
+1890.0;748;RNSC-La Reforestación;;
+1891.0;749;RNSC-Los Andes;;
+1892.0;750;RNSC-Lote De Gastos;;
+1893.0;751;RNSC-El Zumbador;;
+1894.0;752;RNSC-Cocorasecret;;
+1895.0;753;RNSC-El Pinar 2;;
+1896.0;754;RNSC-El Pinar 1;;
+1897.0;755;RNSC-El Pinar 3;;
+1898.0;756;RNSC-La Rivera;;
+1899.0;757;RNSC-Bellavista;;
+19.0;1757;;;RI-Resguardo Indígena Alberto Pushaina
+190.0;1928;;;RI-Resguardo Indígena Fiw Paez
+1900.0;758;RNSC-La Trinidad;;
+1901.0;759;RNSC-El Horizonte;;
+1902.0;760;RNSC-El Ensueño;;
+1903.0;761;RNSC-Mi Terruño;;
+1904.0;762;RNSC-El Presente;;
+1905.0;763;RNSC-La Comarca;;
+1906.0;764;RNSC-Aguas Blancas-Santa Helena-Mushaisa;;
+1907.0;765;RNSC-El Boral;;
+1908.0;766;RNSC-Corocora;;
+1909.0;767;RNSC-El Silencio;;
+191.0;1929;;;RI-Resguardo Indígena Embera de Caimanero de Jampapa
+1910.0;768;RNSC-La Carranchina;;
+1911.0;769;RNSC-Matambo 2;;
+1912.0;770;RNSC-El Bosque Seco de Jacob Moisés Luque;;
+1913.0;771;RNSC-El Nacedero;;
+1914.0;772;RNSC-Reserva Alvarado;;
+1915.0;773;RNSC-Estero Matemarrano;;
+1916.0;774;RNSC-Morrocoy 1;;
+1917.0;775;RNSC-La Fe;;
+1918.0;776;RNSC-Ave María;;
+1919.0;777;RNSC-Raicero;;
+192.0;1930;;;RI-Resguardo Indígena Karabi Drua
+1920.0;778;RNSC-La Esperanza;;
+1921.0;779;RNSC-Miralejos;;
+1922.0;780;RNSC-Morrocoy 2;;
+1923.0;781;RNSC-Morrocoy 3;;
+1924.0;782;RNSC-La Esperanza;;
+1925.0;783;RNSC-La Independencia;;
+1926.0;784;RNSC-San Nicolás;;
+1927.0;785;RNSC-Aya-S;;
+1928.0;786;RNSC-Canaguay;;
+1929.0;787;RNSC-Monte Makuna;;
+193.0;1931;;;RI-Resguardo Indígena Nasa de Chimborazo
+1930.0;788;RNSC-La Uvita;;
+1931.0;789;RNSC-Reserva Natural Rodamonte;;
+1932.0;790;RNSC-San Juan de Tinije;;
+1933.0;791;RNSC-El Limonal y San Pedro;;
+1934.0;792;RNSC-Matapalito;;
+1935.0;793;RNSC-De La Imaginación;;
+1936.0;794;RNSC-La Pareja 1;;
+1937.0;795;RNSC-La Pareja 2;;
+1938.0;796;RNSC-Fundo Raudal De Flor Amarillo;;
+1939.0;797;RNSC-La Volga;;
+194.0;1932;;;RI-Resguardo Indígena Nukat Maleiwua (Bendicion De Dios)
+1940.0;798;RNSC-Matambo 3;;
+1941.0;799;RNSC-La Florida;;
+1942.0;800;DRMI-Isla Ají;;
+1943.0;801;DCS-Complejo de Humedales Arcial, Porro y Cintura;;
+1944.0;802;RNSC-La Albania;;
+1945.0;803;RNSC-Reserva Natural Cantares;;
+1946.0;804;RNSC-La Esmeralda;;
+1947.0;805;RNSC-Guacamayo;;
+1948.0;806;RNSC-Villa Alejandra;;
+1949.0;807;RNSC-La Esperanza;;
+195.0;1933;;;RI-Resguardo Indígena Embera Chami Dachi Drua Mundi
+1950.0;808;RNSC-Caracolí;;
+1951.0;809;RNSC-Bellavista;;
+1952.0;810;RNSC-La Mesenia Paramillo-El Desierto;;
+1953.0;811;RNSC-Guacharacas del Cusiana;;
+1954.0;812;RNSC-Nuevo Mejico;;
+1955.0;813;RNSC-La Miranda;;
+1956.0;814;RNSC-El Cairo;;
+1957.0;815;RNSC-Corazón De La Montaña;;
+1958.0;816;RNSC-Ariel Campestre Juisingueka;;
+1959.0;817;RNSC-El Rosario;;
+196.0;1934;;;RI-Resguardo Indígena Embera de los Rios Jengado-Apartado
+1960.0;818;RNSC-Laguna Lote Rural;;
+1961.0;819;RNSC-Reserva Natural El Olinguito;;
+1962.0;820;RNSC-Munnai El Amor Mas Puro;;
+1963.0;821;RNSC-Finca Demostrativa Don Miguel;;
+1964.0;822;RNSC-El Socorro;;
+1965.0;823;DRMI-Bosque Seco del Occidente Antioqueño;;
+1966.0;824;RNSC-La Samaria;;
+1967.0;825;RNSC-Santa Elena;;
+1968.0;826;RNSC-La Holanda;;
+1969.0;827;RNSC-El Orgasmo;;
+197.0;1935;;;RI-Resguardo Indígena Yanacona de Guachicono
+1970.0;828;RNSC-Estación Biológica Jaguar Del Carrizal;;
+1971.0;829;RNSC-Buenos Aires;;
+1972.0;830;RNSC-La Loma De Dos Quebradas;;
+1973.0;831;RNSC-El Olivo;;
+1974.0;832;RNSC-Puerta de Chontales;;
+1975.0;833;RNSC-El Ensueño 2;;
+1976.0;834;RNSC-La Venturosa;;
+1977.0;835;RNSC-Área de Protección Cañas Aceite y Acitito Hacienda La Gloria;;
+1978.0;836;RNSC-La Mosca;;
+1979.0;837;RNSC-La Semilla Jardín Botánico;;
+198.0;1936;;;RI-Resguardo Indígena de Chenche Buenos Aires
+1980.0;838;DRMI-Honduras;;
+1981.0;839;RNSC-Las Mercedes;;
+1982.0;840;RNSC-El Silencio;;
+1983.0;841;RNSC-La Baita;;
+1984.0;842;RNSC-Buenavista;;
+1985.0;843;RNSC-Charanga;;
+1986.0;844;RNSC-Siempre Vivo;;
+1987.0;845;RNSC-Refugio De Las Aves;;
+1988.0;846;RNSC-El Caiman;;
+1989.0;847;RNSC-Romero B y Cia;;
+199.0;1937;;;RI-Resguardo Indígena Lagos el Dorado, Lagos del Paso y El Remanso
+1990.0;848;RNSC-Birmania;;
+1991.0;849;RNSC-La Suiza;;
+1992.0;850;DRMI-Macizo El Tablazo;;
+1993.0;851;RFPR-Machín;;
+1994.0;852;RNSC-Las Margaritas;;
+1995.0;853;RNSC-El Zoque;;
+1996.0;854;RNSC-Buenos Aires;;
+1997.0;855;RNSC-Palacea;;
+1998.0;856;RNSC-Bioparque Moncora 3;;
+1999.0;857;RNSC-La Dorada;;
+2.0;1740;;;RI-Resguardo Indígena Guahibo-Amorua Caño Mesetas Dagua y Murcielago
+20.0;1758;;;RI-Resguardo Indígena Embera Catio de Choromando Bajo y la Lejia "Monzhomando"
+200.0;1938;;;RI-Resguardo Indígena Piapoco de Cali-Barranquilla
+2000.0;858;RNSC-Reserva Natural Verdeagua;;
+2001.0;859;RNSC-San Rafael De Guanapalo;;
+2002.0;860;RNSC-Colina De Cristal - Finca El Clavo;;
+2003.0;861;RNSC-Manzanares;;
+2004.0;862;RNSC-Manakai;;
+2005.0;863;RNSC-Lorena;;
+2006.0;864;RNSC-Conjunto De Reservas Naturales De Sumicol Sas;;
+2007.0;865;RNSC-Los Iguanitos;;
+2008.0;866;RNSC-Ecofinca Kañarí;;
+2009.0;867;RNSC-Buenos Aires;;
+201.0;1939;;;RI-Resguardo Indígena Laguna Pejendino
+2010.0;868;RNSC-Bellavista;;
+2011.0;869;RNSC-Fiba;;
+2012.0;870;RNSC-El Rosal;;
+2013.0;871;RNSC-La Estrella;;
+2014.0;872;RNSC-Los Pomos;;
+2015.0;873;RNSC-Casabrava;;
+2016.0;874;RNSC-Princesa Ocaima;;
+2017.0;875;DCS-UMPALA - CAÑON DEL CHICAMOCHA;;
+2018.0;876;RNSC-Los Guaduales;;
+2019.0;877;RNSC-Colina De Montefrío;;
+202.0;1940;;;RI-Resguardo Indígena Tunebo De Angosturas
+2020.0;878;RNSC-La Ceibita;;
+2021.0;879;RNSC-Arcasim;;
+2022.0;880;RNSC-La Granada;;
+2023.0;881;RNSC-La Cumbre Suesca;;
+2024.0;882;RNSC-Lote Cinco;;
+2025.0;883;RNSC-La Estrella;;
+2026.0;884;RNSC-Tinamú;;
+2027.0;885;RNSC-San Fernando;;
+2028.0;886;RNSC-Los Liberales;;
+2029.0;887;RNSC-Parque Amazónico Inti Wasi;;
+203.0;1941;;;RI-Resguardo Indígena Pijao de Quebraditas
+2030.0;888;RNSC-La Ermita;;
+2031.0;889;RNSC-Chaquiral;;
+2032.0;890;RNSC-Las Brisas;;
+2033.0;891;RNSC-El Caujaro;;
+2034.0;892;RNSC-Casa Roja;;
+2035.0;893;RNSC-Pino Hermoso;;
+2036.0;894;RNSC-Agua Tremolente;;
+2037.0;895;RNSC-Las Quinquinas;;
+2038.0;896;RNSC-Lote Mireya;;
+2039.0;897;RNSC-El Cóndor;;
+204.0;1942;;;RI-Resguardo Indígena Embera Katio El Dieciocho
+2040.0;898;RNSC-El Crisol;;
+2041.0;899;RNSC-El Trébol;;
+2042.0;900;RNSC-Huisyzuca;;
+2043.0;901;RNSC-Buena Vista;;
+2044.0;902;RNSC-Faoa;;
+2045.0;903;RNSC-Estrella De Agua;;
+2046.0;904;RNSC-Las Palmeras;;
+2047.0;905;RNSC-La Victoria;;
+2048.0;906;RNSC-Las Juntas;;
+2049.0;907;RNSC-Tupuragua;;
+205.0;1943;;;RI-Resguardo Indígena Pijao San Miguel
+2050.0;908;RNSC-La Esmeralda;;
+2051.0;909;RNSC-Cañón De Los Guácharos;;
+2052.0;910;RNSC-La Indomable;;
+2053.0;911;RNSC-Los Laureles;;
+2054.0;912;AR-La Corcova;;
+2055.0;913;DRMI-Bosque Seco Alegrías y Páramo El Tibí y Miraflores;;
+2056.0;914;RNSC-Núcleo De Reservas Akae - Tucunare;;
+2057.0;915;RNSC-Núcleo De Reservas Akae - Mata Tigre;;
+2058.0;916;RNSC-Núcleo De Reservas Akae - El Hormiguero;;
+2059.0;917;RNSC-Núcleo De Reservas Akae - La Pintada;;
+206.0;1944;;;RI-Resguardo Indígena Embera-Katio La Cerinda
+2060.0;918;RNSC-Núcleo De Reservas Akae - Pescadero;;
+2061.0;919;RNSC-Núcleo De Reservas Akae - La Esmeralda;;
+2062.0;920;RNSC-Núcleo De Reservas Akae - Akae;;
+2063.0;921;RNSC-Núcleo De Reservas Akae - Mataguarito;;
+2064.0;922;RNSC-Núcleo de Reservas Akae- Arecua;;
+2065.0;923;RNSC-Núcleo de Reservas Akae- El Cocuy;;
+2066.0;924;RNSC-Núcleo de Reservas Akae- La Habana;;
+2067.0;925;RNSC-Núcleo de Reservas Akae- Araguato;;
+2068.0;926;RNSC-Núcleo de Reservas Akae- Santa Rosita;;
+2069.0;927;RNSC-Núcleo de Reservas Akae- Hato Grande;;
+207.0;1945;;;RI-Resguardo Indígena Pijao de Cocana
+2070.0;928;RNSC-Núcleo de Reservas Akae- El Perú;;
+2071.0;929;RNSC-Loros Andinos;;
+2072.0;930;RNSC-Bosque Colindres;;
+2073.0;931;RNSC-Belén;;
+2074.0;932;RNSC-Entre Árboles y Micos;;
+2075.0;933;RNSC-El Nido del Cóndor;;
+2076.0;934;RNSC-Ecozentro Madre Kumbra;;
+2077.0;935;RNSC-Alta Gracia;;
+2078.0;936;RNSC-Los Árboles;;
+2079.0;937;RNSC-Pozos La Chorrera;;
+208.0;1946;;;RI-Resguardo Indígena Awa De Caicedonia
+2080.0;938;RNSC-Paraíso Bombonas;;
+2081.0;939;RNSC-Ecosaravita;;
+2082.0;940;RNSC-Buena Vista;;
+2083.0;941;RNSC-Los Eucaliptos;;
+2084.0;942;RNSC-La Calandria;;
+2085.0;943;RNSC-Anima La Vida;;
+2086.0;944;RNSC-Las Ceibas;;
+2087.0;945;RNSC-San Francisco;;
+2088.0;946;RNSC-La Y;;
+2089.0;947;RNSC-Lote de Terreno N. 4 Las Nubes;;
+209.0;1947;;;RI-Resguardo Indígena Uwa de Cibariza
+2090.0;948;RNSC-Maimará 1;;
+2091.0;949;RNSC-Macúa;;
+2092.0;950;RNSC-La Esperanza 1;;
+2093.0;951;RNSC-Lote Número 1 Las Nubes;;
+2094.0;952;RNSC-La Apachita;;
+2095.0;953;RNSC-La Cristalina;;
+2096.0;954;RNSC-El Puente;;
+2097.0;955;RNSC-La Merced;;
+2098.0;956;RNSC-Finca Las Marías;;
+2099.0;957;RNSC-Granja Villa Luna;;
+21.0;1759;;;RI-Resguardo Indígena Florida Kawinanae
+210.0;1948;;;RI-Resguardo Indígena Karabidrua
+2100.0;958;RNSC-Irati Dojura;La Reserva del Chachafruto;;
+2101.0;959;RNSC-Ecoparque La Manigua;;
+2102.0;960;RNSC-Cerritos;;
+2103.0;961;RNSC-El Silencio;;
+2104.0;962;RNSC-La Germania;;
+2105.0;963;RNSC-Matilde Montañez ? Páramo Del Sol;;
+2106.0;964;RNSC-Villa Valle;;
+2107.0;965;RNSC-Las Juntas;;
+2108.0;966;RNSC-Manaco 2;;
+2109.0;967;RNSC-Manaco 1;;
+211.0;1949;;;RI-Resguardo Indigena El Redentor De Marañonal
+2110.0;968;RNSC-Club Campestre de Pereira;;
+2111.0;969;RNSC-La Buenaventura, Granja Escuela;;
+2112.0;970;RNSC-Finca San Pedro;;
+2113.0;971;RNSC-Amazonas;;
+2114.0;972;RNSC-Manaco 3;;
+2115.0;973;RNSC-La Esperanza;;
+2116.0;974;RNSC-Siare;;
+2117.0;975;RNSC-Biologica Caoba;;
+2118.0;976;RNSC-El Porvenir La Luna;;
+2119.0;977;RNSC-Nacimiento del Rio Manso;;
+212.0;1950;;;RI-Resguardo Indígena Muruy El Progreso
+2120.0;978;RNSC-La Esperanza;;
+2121.0;979;RNSC-Sie Quye, Agüita De Sietecueros;;
+2122.0;980;RNSC-San Antonio;;
+2123.0;981;RNSC-San Vicente;;
+2124.0;982;RNSC-Japio Garces & Cia SCA;;
+2125.0;983;RNSC-Si Me Dejan;;
+2126.0;984;RNSC-Inka Anam;;
+2127.0;985;RNSC-Muquiche;;
+2128.0;986;RNSC-Sinaí;;
+2129.0;987;RNSC-El Barranquero;;
+213.0;1951;;;RI-Resguardo Indígena Embera de Puerto Antioquia
+2130.0;988;RNSC-Finca Agroecológica San Martín;;
+2131.0;989;RNSC-Chamicero de Perijá;;
+2132.0;990;RNSC-Jiménez;;
+2133.0;991;RNSC-Las Brisas;;
+2134.0;992;RNSC-Maimará 2;;
+2135.0;993;RNSC-La Esperanza;;
+2136.0;994;RNSC-La Ilusión;;
+2137.0;995;RNSC-Lejanías A;;
+2138.0;996;RNSC-El Encanto;;
+2139.0;997;RNSC-Pinchaque;;
+214.0;1952;;;RI-Resguardo Indígena Guayabero de La Maria
+2140.0;998;RNSC-El Jobito;;
+2141.0;999;RNSC-Los Aceites;;
+2142.0;1000;RNSC-El Porvenir 1;;
+2143.0;1001;RNSC-Natura Peñalta 1;;
+2144.0;1002;RNSC-Morrocoy;;
+2145.0;1003;RNSC-Yaya 1;;
+2146.0;1004;RNSC-El Kiosco;;
+2147.0;1005;RNSC-El Colmillo;;
+2148.0;1006;RNSC-Manantial;;
+2149.0;1007;RNSC-Reserva Natural Dos Rios;;
+215.0;1953;;;RI-Resguardo Indígena Nasa Tkwima Thewë´Sx
+2150.0;1008;RNSC-Monteadentro;;
+2151.0;1009;RNSC-Peñalta 2;;
+2152.0;1010;RNSC-Camposol La Bretaña;;
+2153.0;1011;RNSC-Cedro Carmín;;
+2154.0;1012;RNSC-La Montaña Risa;;
+2155.0;1013;RNSC-El Silencio;;
+2156.0;1014;RNSC-Oso Frontino;;
+2157.0;1015;RNSC-La Floresta;;
+2158.0;1016;RNSC-La Soledad;;
+2159.0;1017;RNSC-El Porvenir;;
+216.0;1954;;;RI-Resguardo Indígena Embera de Pueblito de la Quebrada Querá
+2160.0;1018;RNSC-Mesón;;
+2161.0;1019;RNSC-Buenos Aires;;
+2162.0;1020;RNSC-San Dimas;;
+2163.0;1021;RNSC-Refugio del Oso;;
+2164.0;1022;RNSC-La Esperanza;;
+2165.0;1023;RNSC-La Palma de Tatamá;;
+2166.0;1024;RNSC-San Judas;;
+2167.0;1025;RNSC-El Encanto;;
+2168.0;1026;RNSC-Cañon de La Hondura;;
+2169.0;1027;RNSC-Villamar;;
+217.0;1955;;;RI-Resguardo Indígena Embera-Katio de La Cristalina
+2170.0;1028;RNSC-La Favorita;;
+2171.0;1029;RNSC-La Tierrita;;
+2172.0;1030;RNSC-Los Titíes De San Juan III;;
+2173.0;1031;RNSC-Villa Karina;;
+2174.0;1032;RNSC-Las Delicias;;
+2175.0;1033;RNSC-Salto Del Buey;;
+2176.0;1034;RNSC-La Piedra del Condor;;
+2177.0;1035;RNSC-El Porvenir 2;;
+2178.0;1036;RNSC-Reserva Ambiwasi;;
+2179.0;1037;RNSC-El Porvenir;;
+218.0;1956;;;RI-Resguardo Indígena Guahibo de El Vigia
+2180.0;1038;RNSC-Reserva Guayabero Cocodrilo;;
+2181.0;1039;RNSC-La Ramada;;
+2182.0;1040;RNSC-Villa Laura;;
+2183.0;1041;RNSC-El Encanto y Sus Encantos;;
+2184.0;1042;RNSC-Anacardio;;
+2185.0;1043;RNSC-Miranda;;
+2186.0;1044;RNSC-Las Brisas;;
+2187.0;1045;RNSC-Pauxi-Pauxi Los Alpes;;
+2188.0;1046;RNSC-Pauxi-Pauxi El Progreso;;
+2189.0;1047;RNSC-Clavellinas;;
+219.0;1957;;;RI-Resguardo Indígena Calara San Martin
+2190.0;1048;RNSC-El Raudal;;
+2191.0;1049;RNSC-Buenavista;;
+2192.0;1050;RNSC-Reserva Buenavista;;
+2193.0;1051;RNSC-Buenos Aires de Apartadó;;
+2194.0;1052;DCS-Laguna de Suesca;;
+2195.0;1053;RNSC-La Fabiola;;
+2196.0;1054;RNSC-La Argentina;;
+2197.0;1055;RNSC-La Constancia;;
+2198.0;1056;RNSC-Santa Rosa;;
+2199.0;1057;RNSC-El Paraíso;;
+22.0;1760;;;RI-Resguardo Indigena Dachi Joma
+220.0;1958;;;RI-Resguardo Indígena Wayuu de San Francisco
+2200.0;1058;DRMI-Cuchilla Buenavista;;
+2201.0;1059;RNSC-El Refugio De Vida Silvestre ? Bocoré;;
+2202.0;1060;RNSC-Bélgica;;
+2203.0;1061;RNSC-Auromira Corralitos;;
+2204.0;1062;RNSC-La Voragine;;
+2205.0;1063;RNSC-El Triunfo;;
+2206.0;1064;DRMI-Bajo Cauca Nechí;;
+2207.0;1065;RNSC-El Hebrón;;
+2208.0;1066;RNSC-Conchucua;;
+2209.0;1067;RNSC-Islandia;;
+221.0;1959;;;RI-Resguardo Indígena Fiil Vist La Gran Perdiz
+2210.0;1068;RNSC-Pauxi Pauxi Las Brisas;;
+2211.0;1069;RNSC-San Lorenzo;;
+2212.0;1070;RNSC-El Recreo;;
+2213.0;1071;RNSC-Reserva El Portete;;
+2214.0;1072;RNSC-La Palestina;;
+2215.0;1073;RNSC-El Retiro;;
+2216.0;1074;RNSC-El Cananguchal;;
+2217.0;1075;RNSC-El Playón y Buenos Aires;;
+2218.0;1076;RNSC-El Sinú;;
+2219.0;1077;RNSC-Guasguarillo;;
+222.0;1960;;;RI-Resguardo Indígena Embera - Eperara de Ordo-Siviru-Aguaclara
+2220.0;1078;RNSC-Natura Madrigal 2;;
+2221.0;1079;RNSC-El Bosque;;
+2222.0;1080;RNSC-Reserva Natural Mesenia Paramillo - Predio Los Colibríes;;
+2223.0;1081;RNSC-Las Mercedes;;
+2224.0;1082;RNSC-El Chorlo;;
+2225.0;1083;RNSC-La Esperanza;;
+2226.0;1084;RNSC-Los Arboles De Las Mesitas;;
+2227.0;1085;RNSC-Mamakunapa;;
+2228.0;1086;RNSC-Asopprai;;
+2229.0;1087;RNSC-Tahamies;;
+223.0;1961;;;RI-Resguardo Indígena Numain Maleiwa (Tierra De Dios)
+2230.0;1088;RNSC-Palogrande;;
+2231.0;1089;RNSC-La Montañita;;
+2232.0;1090;RNSC-Villarosa;;
+2233.0;1091;RNSC-La Trigueña y Las Delicias;;
+2234.0;1092;RNSC-Las Peñas;;
+2235.0;1093;DRMI-Cerro El Tabor;;
+2236.0;1094;RFPR-Laguna del Cacique Guatavita y Cuchilla de Peña Blanca;;
+2237.0;1095;PNR-Serranía de Minas;;
+2238.0;1096;RNSC-La Reserva;;
+2239.0;1097;RNSC-La Zoconita;;
+224.0;1962;;;RI-Resguardo Indígena El Rosal
+2240.0;1098;RNSC-Gualamana  y Gualamana II;;
+2241.0;1099;RNSC-La Esperanza;;
+2242.0;1100;RNSC-Buenavista;;
+2243.0;1101;RNSC-El Horizonte;;
+2244.0;1102;RNSC-La Luisa;;
+2245.0;1103;RNSC-La Emelia;;
+2246.0;1104;RNSC-Potosí;;
+2247.0;1105;RNSC-Villa Juliana;;
+2248.0;1106;DRMI-Serranía de Minas;;
+2249.0;1107;RNSC-La Reforestación;;
+225.0;1963;;;RI-Resguardo Indígena de Jebala
+2250.0;1108;RNSC-Los Andes;;
+2251.0;1109;RNSC-Itaca;;
+2252.0;1110;RNSC-Lote De Gastos;;
+2253.0;1111;RNSC-Madhú 3;;
+2254.0;1112;RNSC-La Guaca B;;
+2255.0;1113;RNSC-El Zumbador;;
+2256.0;1114;RNSC-Reserva Natural Madhú 1;;
+2257.0;1115;RNSC-El Pinar 2;;
+2258.0;1116;RNSC-El Pinar 1;;
+2259.0;1117;RNSC-El Pinar 3;;
+226.0;1964;;;RI-Resguardo Indígena Tunebo de Sabanas de Curipao
+2260.0;1118;RNSC-Bellavista;;
+2261.0;1119;RNSC-La Trinidad;;
+2262.0;1120;RNSC-El Horizonte;;
+2263.0;1121;RNSC-Mi Terruño;;
+2264.0;1122;DRMI-Enclave Subxerofitico del Patía;;
+2265.0;1123;RNSC-Nakua;;
+2266.0;1124;RNSC-El Presente;;
+2267.0;1125;RNSC-La Comarca;;
+2268.0;1126;RNSC-Yuruparí;;
+2269.0;1127;RNSC-Aguas Blancas-Santa Helena-Mushaisa;;
+227.0;1965;;;RI-Resguardo Indígena Chenche Agua Fria
+2270.0;1128;RNSC-El Boral;;
+2271.0;1129;RNSC-Corocora;;
+2272.0;1130;RNSC-La Carranchina;;
+2273.0;1131;RNSC-Matambo 2;;
+2274.0;1132;RNSC-El Bosque Seco de Jacob Moisés Luque;;
+2275.0;1133;RNSC-El Nacedero;;
+2276.0;1134;RNSC-Reserva Alvarado;;
+2277.0;1135;RNSC-Estero Matemarrano;;
+2278.0;1136;RNSC-Morrocoy 1;;
+2279.0;1137;RNSC-La Fe;;
+228.0;1966;;;RI-Resguardo Indígena Embera Katio de Sanandocito
+2280.0;1138;RNSC-Ave María;;
+2281.0;1139;RNSC-El Cedral;;
+2282.0;1140;RNSC-Raicero;;
+2283.0;1141;RNSC-La Esperanza;;
+2284.0;1142;RNSC-La Portuguesa;;
+2285.0;1143;RNSC-Pozo Azul;;
+2286.0;1144;RNSC-Miralejos;;
+2287.0;1145;RNSC-Morrocoy 2;;
+2288.0;1146;RNSC-Morrocoy 3;;
+2289.0;1147;RNSC-La Esperanza;;
+229.0;1967;;;RI-Resguardo Indígena Dochama
+2290.0;1148;RNSC-La Independencia;;
+2291.0;1149;RNSC-San Nicolás;;
+2292.0;1150;RNSC-La Vega;;
+2293.0;1151;RNSC-Aya-S;;
+2294.0;1152;RNSC-Canaguay;;
+2295.0;1153;RNSC-Monte Makuna;;
+2296.0;1154;RNSC-La Uvita;;
+2297.0;1155;RNSC-Reserva Natural Rodamonte;;
+2298.0;1156;RNSC-San Juan de Tinije;;
+2299.0;1157;RNSC-El Limonal y San Pedro;;
+23.0;1761;;;RI-Resguardo Indígena Kofan-Inga de Yarinal - San Marcelino, Amaron
+230.0;1968;;;RI-Resguardo Indígena Maguaré
+2300.0;1158;RNSC-Yalconia;;
+2301.0;1159;RNSC-Matapalito;;
+2302.0;1160;RNSC-La Pareja 1;;
+2303.0;1161;RNSC-La Pareja 2;;
+2304.0;1162;RNSC-Villa de Simón;;
+2305.0;1163;RNSC-La Cristalina;;
+2306.0;1164;RNSC-Fundo Raudal De Flor Amarillo;;
+2307.0;1165;RNSC-La Herradurita;;
+2308.0;1166;RNSC-La Volga;;
+2309.0;1167;RNSC-Matambo 3;;
+231.0;1969;;;RI-Resguardo Indígena Puerto Claver
+2310.0;1168;RNSC-La Florida;;
+2311.0;1169;DRMI-Isla Ají;;
+2312.0;1170;DCS-Complejo de Humedales Arcial, Porro y Cintura;;
+2313.0;1171;RNSC-La Albania;;
+2314.0;1172;RNSC-Reserva Natural Cantares;;
+2315.0;1173;RNSC-La Esmeralda;;
+2316.0;1174;RNSC-Guacamayo;;
+2317.0;1175;RNSC-Villa Alejandra;;
+2318.0;1176;RNSC-La Esperanza;;
+2319.0;1177;RNSC-Caracolí;;
+232.0;1970;;;RI-Resguardo Indígena Paez Altamira
+2320.0;1178;RNSC-Bellavista;;
+2321.0;1179;RNSC-Guacharacas del Cusiana;;
+2322.0;1180;RNSC-Nuevo Mejico;;
+2323.0;1181;RNSC-La Miranda;;
+2324.0;1182;RNSC-Corazón De La Montaña;;
+2325.0;1183;RNSC-Ariel Campestre Juisingueka;;
+2326.0;1184;RNSC-El Rosario;;
+2327.0;1185;RNSC-Laguna Lote Rural;;
+2328.0;1186;RNSC-Reserva Natural El Olinguito;;
+2329.0;1187;RNSC-Munnai El Amor Mas Puro;;
+233.0;1971;;;RI-Resguardo Indígena Guahibo de Caño Negro
+2330.0;1188;RNSC-Finca Demostrativa Don Miguel;;
+2331.0;1189;RNSC-El Socorro;;
+2332.0;1190;DRMI-Bosque Seco del Occidente Antioqueño;;
+2333.0;1191;RNSC-La Samaria;;
+2334.0;1192;RNSC-Santa Elena;;
+2335.0;1193;RNSC-La Holanda;;
+2336.0;1194;RNSC-Frutos De Agua;;
+2337.0;1195;RNSC-El Olivo II;;
+2338.0;1196;RNSC-Altahona-Castro;;
+2339.0;1197;RNSC-El Orgasmo;;
+234.0;1972;;;RI-Resguardo Indígena Embera de Sirena Berrecuy
+2340.0;1198;RNSC-La Esperanza;;
+2341.0;1199;RNSC-Estación Biológica Jaguar Del Carrizal;;
+2342.0;1200;RNSC-Buenos Aires;;
+2343.0;1201;RNSC-La Loma De Dos Quebradas;;
+2344.0;1202;RNSC-El Olivo;;
+2345.0;1203;RNSC-Puerta de Chontales;;
+2346.0;1204;RNSC-La Venturosa;;
+2347.0;1205;RNSC-Tahami Quirama;;
+2348.0;1206;RNSC-Área de Protección Cañas Aceite y Acitito Hacienda La Gloria;;
+2349.0;1207;RNSC-La Mosca;;
+235.0;1973;;;RI-Resguardo Indígena Kurmadó-Marsella
+2350.0;1208;RNSC-La Semilla Jardín Botánico;;
+2351.0;1209;DRMI-El Aburrido;;
+2352.0;1210;DRMI-Honduras;;
+2353.0;1211;RNSC-Las Mercedes;;
+2354.0;1212;RNSC-La Baita;;
+2355.0;1213;RNSC-Buenavista;;
+2356.0;1214;RNSC-Charanga;;
+2357.0;1215;RNSC-Siempre Vivo;;
+2358.0;1216;RNSC-Refugio De Las Aves;;
+2359.0;1217;RNSC-El Caiman;;
+236.0;1974;;;RI-Resguardo Indígena Pijao de Potrerito Doyare
+2360.0;1218;RNSC-San Francisco;;
+2361.0;1219;RNSC-Romero B y Cia;;
+2362.0;1220;RNSC-Birmania;;
+2363.0;1221;RNSC-Cuchavira;;
+2364.0;1222;DRMI-Macizo El Tablazo;;
+2365.0;1223;RFPR-Machín;;
+2366.0;1224;RNSC-La Palestina;;
+2367.0;1225;RNSC-Fundación Reserva La Esperanza;;
+2368.0;1226;RNSC-Cha Ma Chia;;
+2369.0;1227;RNSC-Buenos Aires;;
+237.0;1975;;;RI-Resguardo Indígena Pijao de Olirco
+2370.0;1228;RNSC-La Dorada;;
+2371.0;1229;RNSC-Manzanares;;
+2372.0;1230;RNSC-Manakai;;
+2373.0;1231;RNSC-Lorena;;
+2374.0;1232;RNSC-Leguaro;;
+2375.0;1233;RNSC-El Santuario;;
+2376.0;1234;RNSC-El Socorro;;
+2377.0;1235;RNSC-Conjunto De Reservas Naturales De Sumicol Sas;;
+2378.0;1236;RNSC-Maporita;;
+2379.0;1237;RNSC-La Fortuna;;
+238.0;1976;;;RI-Resguardo Indígena Wayuu de Mañature
+2380.0;1238;RNSC-Los Iguanitos;;
+2381.0;1239;RNSC-Ecofinca Kañarí;;
+2382.0;1240;RNSC-Buenos Aires;;
+2383.0;1241;RNSC-Bellavista;;
+2384.0;1242;RNSC-Fiba;;
+2385.0;1243;RNSC-El Rosal;;
+2386.0;1244;RNSC-La Estrella;;
+2387.0;1245;RNSC-Rancho Grande;;
+2388.0;1246;RNSC-Los Pomos;;
+2389.0;1247;DCS-UMPALA - CAÑON DEL CHICAMOCHA;;
+239.0;1977;;;RI-Resguardo Indígena Tierra Nueva (As Pejenas) - Cuiloto Marrero
+2390.0;1248;RNSC-La Ceiba;;
+2391.0;1249;RNSC-La Palmita;;
+2392.0;1250;RNSC-Colina De Montefrío;;
+2393.0;1251;RNSC-La Ceibita;;
+2394.0;1252;RNSC-Arcasim;;
+2395.0;1253;RNSC-La Granada;;
+2396.0;1254;RNSC-La Cumbre Suesca;;
+2397.0;1255;RNSC-Sierra Morena;;
+2398.0;1256;RNSC-Lote Cinco;;
+2399.0;1257;RNSC-La Estrella;;
+24.0;1762;;;RI-Resguardo Indígena Murri-pantanos
+240.0;1978;;;RI-Resguardo Indígena Bachaco BuenaVista
+2400.0;1258;RNSC-Bella Vista;;
+2401.0;1259;RNSC-Reserva Natural Musinga;;
+2402.0;1260;RNSC-Tinamú;;
+2403.0;1261;RNSC-San Fernando;;
+2404.0;1262;RNSC-Las Orquídeas;;
+2405.0;1263;RNSC-Los Liberales;;
+2406.0;1264;RNSC-Parque Amazónico Inti Wasi;;
+2407.0;1265;RNSC-Chaquiral;;
+2408.0;1266;RNSC-La Estrella;;
+2409.0;1267;RNSC-Las Brisas;;
+241.0;1979;;;RI-Resguardo Indígena Awa de Chinguirito Mira
+2410.0;1268;RNSC-El Caujaro;;
+2411.0;1269;RNSC-Lote #4;;
+2412.0;1270;RNSC-Casa Roja;;
+2413.0;1271;RNSC-Agua Tremolente;;
+2414.0;1272;RNSC-Las Quinquinas;;
+2415.0;1273;RNSC-Lote Mireya;;
+2416.0;1274;RNSC-El Cóndor;;
+2417.0;1275;RNSC-El Crisol;;
+2418.0;1276;RNSC-El Trébol;;
+2419.0;1277;RNSC-Huisyzuca;;
+242.0;1980;;;RI-Resguardo Indígena Paez de La Cilia o La Calera
+2420.0;1278;RNSC-Buena Vista;;
+2421.0;1279;RNSC-Viracocha;;
+2422.0;1280;RNSC-Las Palmeras;;
+2423.0;1281;RNSC-La Victoria;;
+2424.0;1282;RNSC-Las Juntas;;
+2425.0;1283;RNSC-Tupuragua;;
+2426.0;1284;RNSC-La Esmeralda;;
+2427.0;1285;RNSC-Cañón De Los Guácharos;;
+2428.0;1286;RNSC-La Indomable;;
+2429.0;1287;RNSC-Los Laureles;;
+243.0;1981;;;RI-Resguardo Indígena Embera Dobida Dogibi
+2430.0;1288;AR-La Corcova;;
+2431.0;1289;DRMI-Bosque Seco Alegrías y Páramo El Tibí y Miraflores;;
+2432.0;1290;RNSC-Núcleo De Reservas Akae - Tucunare;;
+2433.0;1291;RNSC-Núcleo De Reservas Akae - Mata Tigre;;
+2434.0;1292;RNSC-Núcleo De Reservas Akae - La Holanda;;
+2435.0;1293;RNSC-Núcleo De Reservas Akae - El Hormiguero;;
+2436.0;1294;RNSC-Núcleo De Reservas Akae - La Pintada;;
+2437.0;1295;RNSC-Núcleo De Reservas Akae - Pescadero;;
+2438.0;1296;RNSC-Núcleo De Reservas Akae - La Esmeralda;;
+2439.0;1297;RNSC-Núcleo De Reservas Akae - Akae;;
+244.0;1982;;;RI-Resguardo Indígena Puinave y Piapoco de Guaco Bajo - Guaco Alto
+2440.0;1298;RNSC-Núcleo De Reservas Akae - Mataguarito;;
+2441.0;1299;DRMI-Salto Candelas;;
+2442.0;1300;RNSC-Salto del Aures;;
+2443.0;1301;RNSC-Núcleo de Reservas Akae- Arecua;;
+2444.0;1302;RNSC-Núcleo de Reservas Akae- El Cocuy;;
+2445.0;1303;RNSC-Núcleo de Reservas Akae- La Habana;;
+2446.0;1304;RNSC-Núcleo de Reservas Akae- Araguato;;
+2447.0;1305;RNSC-Núcleo de Reservas Akae- Santa Rosita;;
+2448.0;1306;RNSC-Núcleo de Reservas Akae- Hato Grande;;
+2449.0;1307;RNSC-Núcleo de Reservas Akae- El Perú;;
+245.0;1983;;;RI-Resguardo Indígena de Puerto Viejo y Puerto Esperanza
+2450.0;1308;RNSC-Loros Andinos;;
+2451.0;1309;RNSC-Bosque Colindres;;
+2452.0;1310;RNSC-Belén;;
+2453.0;1311;RNSC-Villa Nueva- La Esmeralda;;
+2454.0;1312;RNSC-Abadía de Juan;;
+2455.0;1313;RNSC-Versalles;;
+2456.0;1314;RNSC-Entre Árboles y Micos;;
+2457.0;1315;RNSC-El Nido del Cóndor;;
+2458.0;1316;RNSC-Ecozentro Madre Kumbra;;
+2459.0;1317;RNSC-Alta Gracia;;
+246.0;1984;;;RI-Resguardo Indígena Pijao Guatavita Tua
+2460.0;1318;RNSC-Pozos La Chorrera;;
+2461.0;1319;RNSC-Paraíso Bombonas;;
+2462.0;1320;RNSC-Ecosaravita;;
+2463.0;1321;RNSC-El Carmen;;
+2464.0;1322;RNSC-Buena Vista;;
+2465.0;1323;RNSC-Los Eucaliptos;;
+2466.0;1324;RNSC-La Calandria;;
+2467.0;1325;RNSC-Anima La Vida;;
+2468.0;1326;RNSC-Las Ceibas;;
+2469.0;1327;RNSC-La Y;;
+247.0;1985;;;RI-Resguardo Indígena Puinave y Curripaco de los Parajes Remanso - Chorro Bocon
+2470.0;1328;RNSC-Anukwe;;
+2471.0;1329;RNSC-Lote de Terreno N. 4 Las Nubes;;
+2472.0;1330;RNSC-Lote La Esmeralda;;
+2473.0;1331;RNSC-Maimará 1;;
+2474.0;1332;RNSC-Macúa;;
+2475.0;1333;RNSC-La Esperanza 1;;
+2476.0;1334;RNSC-El Silencio;;
+2477.0;1335;RNSC-Paraver La Esperanza;;
+2478.0;1336;RNSC-Lote Número 1 Las Nubes;;
+2479.0;1337;RNSC-La Apachita;;
+248.0;1986;;;RI-Resguardo Indígena Tama Del Caguan
+2480.0;1338;RNSC-La Cristalina;;
+2481.0;1339;RNSC-El Puente;;
+2482.0;1340;RNSC-La Esperanza;;
+2483.0;1341;RNSC-La Merced;;
+2484.0;1342;RNSC-Finca Las Marías;;
+2485.0;1343;RNSC-Granja Villa Luna;;
+2486.0;1344;RNSC-El Porvenir;;
+2487.0;1345;RNSC-Irati Dojura;La Reserva del Chachafruto;;
+2488.0;1346;RNSC-Masheda;;
+2489.0;1347;RNSC-Ecoparque La Manigua;;
+249.0;1987;;;RI-Resguardo Indígena Murui Monilla Amena
+2490.0;1348;RNSC-Cerritos;;
+2491.0;1349;RNSC-El Silencio;;
+2492.0;1350;RNSC-La Germania;;
+2493.0;1351;RNSC-Jerusalen;;
+2494.0;1352;RNSC-Villa Valle;;
+2495.0;1353;RNSC-Las Juntas;;
+2496.0;1354;RNSC-Manaco 2;;
+2497.0;1355;RNSC-Mareigua;;
+2498.0;1356;RNSC-Manaco 1;;
+2499.0;1357;RNSC-Club Campestre de Pereira;;
+25.0;1763;;;RI-Resguardo Indígena Nasa Paez de Jerusalen - San Luis - Alto Picudito
+250.0;1988;;;RI-Resgusardo Indígena Paez de La Cristalina  - Kwes Kiwe Nasa
+2500.0;1358;RNSC-La Buenaventura, Granja Escuela;;
+2501.0;1359;RNSC-Finca San Pedro;;
+2502.0;1360;RNSC-Amazonas;;
+2503.0;1361;RNSC-Manaco 3;;
+2504.0;1362;RNSC-La Esperanza;;
+2505.0;1363;RNSC-Siare;;
+2506.0;1364;RNSC-Biologica Caoba;;
+2507.0;1365;RNSC-El Porvenir La Luna;;
+2508.0;1366;RNSC-Nacimiento del Rio Manso;;
+2509.0;1367;RNSC-La Esperanza;;
+251.0;1989;;;RI-Resguardo Indígena Emebera-Katio de Santa Maria -  El Charcon
+2510.0;1368;RNSC-Natura Madrigal 1;;
+2511.0;1369;RNSC-Lorica;;
+2512.0;1370;RNSC-La Jabonera;;
+2513.0;1371;RNSC-San Antonio;;
+2514.0;1372;RNSC-San Vicente;;
+2515.0;1373;RNSC-Japio Garces & Cia SCA;;
+2516.0;1374;RNSC-Si Me Dejan;;
+2517.0;1375;RNSC-Muquiche;;
+2518.0;1376;RNSC-FAUNA DE COLOMBIA SAN ANDRES ISLA;;
+2519.0;1377;RNSC-Sinaí;;
+252.0;1990;;;RI-Resguardo Indígena Gran Putumayo
+2520.0;1378;RNSC-El Barranquero;;
+2521.0;1379;RNSC-Finca Agroecológica San Martín;;
+2522.0;1380;RNSC-Jiménez;;
+2523.0;1381;RNSC-Las Brisas;;
+2524.0;1382;RNSC-Maimará 2;;
+2525.0;1383;RNSC-La Esperanza;;
+2526.0;1384;RNSC-La Ilusión;;
+2527.0;1385;RNSC-La Primavera;;
+2528.0;1386;RNSC-El Encanto;;
+2529.0;1387;RNSC-Pinchaque;;
+253.0;1991;;;RI-Resguardo Indígena inga de La Leona
+2530.0;1388;RNSC-El Jobito;;
+2531.0;1389;RNSC-Los Aceites;;
+2532.0;1390;RNSC-El Porvenir 1;;
+2533.0;1391;RNSC-Natura Peñalta 1;;
+2534.0;1392;RNSC-La Esperanza;;
+2535.0;1393;RNSC-El Paraíso;;
+2536.0;1394;RNSC-Morrocoy;;
+2537.0;1395;RNSC-Yaya 1;;
+2538.0;1396;RNSC-El Kiosco;;
+2539.0;1397;RNSC-El Colmillo;;
+254.0;1992;;;RI-Resguardo Indígena Embera del Rio Purricha
+2540.0;1398;RNSC-Manantial;;
+2541.0;1399;RNSC-Reserva Natural Dos Rios;;
+2542.0;1400;RNSC-Monteadentro;;
+2543.0;1401;RNSC-Peñalta 2;;
+2544.0;1402;RNSC-Camposol La Bretaña;;
+2545.0;1403;RNSC-Cedro Carmín;;
+2546.0;1404;RNSC-La Montaña Risa;;
+2547.0;1405;RNSC-El Silencio;;
+2548.0;1406;RNSC-Oso Frontino;;
+2549.0;1407;RNSC-La Floresta;;
+255.0;1993;;;RI-Resguardo Indígena Inga de San Rafael
+2550.0;1408;RNSC-La Soledad;;
+2551.0;1409;RNSC-El Porvenir;;
+2552.0;1410;RNSC-Las Brisas;;
+2553.0;1411;RNSC-Mesón;;
+2554.0;1412;RNSC-Buenos Aires;;
+2555.0;1413;RNSC-San Dimas;;
+2556.0;1414;RNSC-Refugio del Oso;;
+2557.0;1415;RNSC-Reserva Natural Comunitaria Galapagos;;
+2558.0;1416;RNSC-La Esperanza;;
+2559.0;1417;RNSC-La Palma de Tatamá;;
+256.0;1994;;;RI-Resguardo Indígena Frontino
+2560.0;1418;RNSC-San Judas;;
+2561.0;1419;RNSC-Cantaclaro;;
+2562.0;1420;RNSC-El Encanto;;
+2563.0;1421;RNSC-Cañon de La Hondura;;
+2564.0;1422;RNSC-Villamar;;
+2565.0;1423;RNSC-La Favorita;;
+2566.0;1424;RNSC-La Tierrita;;
+2567.0;1425;AR-Humedal Aguas Claras;;
+2568.0;1426;RNSC-Los Titíes De San Juan III;;
+2569.0;1427;RNSC-Villa Karina;;
+257.0;1995;;;RI-Resguardo Indígena Integrado Eden Cartagena
+2570.0;1428;RNSC-Las Delicias;;
+2571.0;1429;RNSC-Salto Del Buey;;
+2572.0;1430;RNSC-La Piedra del Condor;;
+2573.0;1431;RNSC-El Porvenir 2;;
+2574.0;1432;RNSC-Lote;;
+2575.0;1433;RNSC-Reserva Ambiwasi;;
+2576.0;1434;RNSC-El Porvenir;;
+2577.0;1435;RNSC-Santuario;;
+2578.0;1436;RNSC-Fortuna;;
+2579.0;1437;RNSC-Reserva Guayabero Cocodrilo;;
+258.0;1996;;;RI-Resguardo Indígena Emebera Yarumal y El Barranco
+2580.0;1438;RNSC-La Ramada;;
+2581.0;1439;RNSC-Villa Laura;;
+2582.0;1440;RNSC-El Encanto y Sus Encantos;;
+2583.0;1441;RNSC-Anacardio;;
+2584.0;1442;RNSC-Miranda;;
+2585.0;1443;RNSC-Las Brisas;;
+2586.0;1444;RNSC-El Raudal;;
+2587.0;1445;RNSC-Buenavista;;
+2588.0;1446;RNSC-Reserva Buenavista;;
+2589.0;1447;DCS-Laguna de Suesca;;
+259.0;1997;;;RI-Resguardo Indígena de Puerto Monfort
+2590.0;1448;RNSC-La Fabiola;;
+2591.0;1449;RNSC-La Argentina;;
+2592.0;1450;RNSC-La Constancia;;
+2593.0;1451;RNSC-Santa Rosa;;
+2594.0;1452;RNSC-El Paraíso;;
+2595.0;1453;DRMI-Cuchilla Buenavista;;
+2596.0;1454;RNSC-El Refugio De Vida Silvestre ? Bocoré;;
+2597.0;1455;RNSC-Bélgica;;
+2598.0;1456;RNSC-Auromira Corralitos;;
+2599.0;1457;RNSC-La Voragine;;
+26.0;1764;;;RI-Resguardo Indígena Pijao Las Palmas
+260.0;1998;;;RI-Resguardo Indígena Yanacona de Villa Maria De Anamu
+2600.0;1458;RNSC-El Triunfo;;
+2601.0;1459;RNSC-Zamu Floresta;;
+2602.0;1460;DRMI-Bajo Cauca Nechí;;
+2603.0;1461;RNSC-Villa Camila;;
+2604.0;1462;RNSC-La Albania;;
+2605.0;1463;RNSC-La Nueva Esperanza;;
+2606.0;1464;RNSC-El Pedernal;;
+2607.0;1465;RNSC-El Diviso;;
+2608.0;1466;RNSC-EL Danubio;;
+2609.0;1467;RNSC-Baranoa;;
+261.0;1999;;;RI-Resguardo Indígena Rio Atabapo
+2610.0;1468;RNSC-El Mirador;;
+2611.0;1469;RNSC-El Hebrón;;
+2612.0;1470;RNSC-Los Andes;;
+2613.0;1471;RNSC-El Paraíso;;
+2614.0;1472;RNSC-Conchucua;;
+2615.0;1473;RNSC-Islandia;;
+2616.0;1474;RNSC-San Lorenzo;;
+2617.0;1475;RNSC-El Recreo;;
+2618.0;1476;RNSC-Yataro;;
+2619.0;1477;RNSC-Reserva El Portete;;
+262.0;2000;;;RI-Resguardo Indígena Guahibo de Cajaros
+2620.0;1478;RNSC-La Argelia;;
+2621.0;1479;RNSC-La Palestina;;
+2622.0;1480;RNSC-El Retiro;;
+2623.0;1481;RNSC-La Estrella;;
+2624.0;1482;RNSC-Etiopía;;
+2625.0;1483;DCS-Bocas del Palo;;
+2626.0;1484;RNSC-El Cananguchal;;
+2627.0;1485;RNSC-El Playón y Buenos Aires;;
+2628.0;1486;RNSC-El Sinú;;
+2629.0;1487;RNSC-Guasguarillo;;
+263.0;2001;;;RI-Resguardo Indígena Selvas Del Putumayo
+2630.0;1488;RNSC-Natura Madrigal 2;;
+2631.0;1489;RNSC-El Bosque;;
+2632.0;1490;RNSC-Reserva Natural Mesenia Paramillo - Predio Los Colibríes;;
+2633.0;1491;RNSC-Cima;;
+2634.0;1492;RNSC-Las Mercedes;;
+2635.0;1493;RNSC-El Chorlo;;
+2636.0;1494;RNSC-La Esperanza;;
+2637.0;2816;RNSC-Las Veraneras;;
+2638.0;2817;RNSC-La Voluntad De Dios;;
+2639.0;2818;RNSC-Parcela N. 7 de la Parcelación La Josefina;;
+264.0;2002;;;RI-Resguardo Indígena Embera - Katio de Chontadural - Cañero
+2640.0;2819;RNSC-Las Orquídeas;;
+2641.0;2820;RNSC-La Palma de La Castellana;;
+2642.0;2821;DRMI-Complejo Cenagoso de Zarate Malibú y Veladero;;
+2643.0;2822;RNSC-El Silencio;;
+2644.0;2823;RFPR-Cerros Pionono y las Águilas;;
+2645.0;2824;RNSC-Parcela No. 16 La Josefina;;
+2646.0;2825;RNSC-Los Tananeos;;
+2647.0;2826;RNSC-Altos De Pedro Palo;;
+2648.0;2827;RNSC-Palmarito Casanare;;
+2649.0;2828;RNSC-Altos De Pedro Palo;;
+265.0;2003;;;RI-Resguardo Indígena Coreguaje de El Triunfo
+2650.0;2829;RNSC-La Reserva;;
+2651.0;2830;RNSC-Hostal De Pedro Palo;;
+2652.0;2831;RNSC-Piedra Sentada;;
+2653.0;2832;RNSC-El Rincón;;
+2654.0;2833;RNSC-Bella Vista;;
+2655.0;2834;RNSC-Bosques y Montes del Soche II;;
+2656.0;2835;RNSC-Pintura;;
+2657.0;2836;RNSC-Bosques y Montes del Soche II;;
+2658.0;2837;RNSC-Las Aves El Dorado;;
+2659.0;2838;RNSC-El Umuy;;
+266.0;2004;;;RI-Resguardo Indígena Paez del Portal
+2660.0;2839;RNSC-Los Tananeos;;
+2661.0;2840;RNSC-Aves de  El Paujil;;
+2662.0;2841;RNSC-Bella Vista;;
+2663.0;2842;RNSC-Aves de  El Paujil;;
+2664.0;2843;RNSC-Buena Vista;;
+2665.0;2844;RNSC-La Cuchilla 2;;
+2666.0;2845;AR-Parque Ecologico Humedal Calatrava;;
+2667.0;2846;RNSC-Piedra Sentada;;
+2668.0;2847;RNSC-Bella Vista;;
+2669.0;2848;RNSC-Buena Vista;;
+267.0;2005;;;RI-Resguardo Indígena Murui Muinane de Santa Rita
+2670.0;2849;RNSC-Patio Bonito;;
+2671.0;2850;RNSC-Patio Bonito;;
+2672.0;2851;RNSC-Yurumí;;
+2673.0;2852;RNSC-Peñas Blancas;;
+2674.0;2853;DRMI-Sistema de Paramos y Bosques Altoandinos del Noroccidente Medio Antioqueño;;
+2675.0;2854;RNSC-Peñas Blancas;;
+2676.0;2855;RFPR-La Gloria;;
+2677.0;2856;RNSC-Pullitopamba;;
+2678.0;2857;RNSC-La Laguna;;
+2679.0;2858;RNSC-La Laguna;;
+268.0;2006;;;RI-Resguardo Indígena Nasa de Cerro Tijeras
+2680.0;2859;RNSC-Belén;;
+2681.0;2860;RNSC-San Pedro Y El Recuerdo;;
+2682.0;2861;RFPR-El Robledal;;
+2683.0;2862;RFPR-Cerro Bravo;;
+2684.0;2863;RNSC-Clavellinas;;
+2685.0;2864;RFPR-Cerro Bravo;;
+2686.0;2865;RNSC-La Voragine;;
+2687.0;2866;RFPR-La Suiza;;
+2688.0;2867;RNSC-Las Nieves El Guadual;;
+2689.0;2868;RFPR-Cerrobravo;;
+269.0;2007;;;RI-Resguardo Indígena Paez El Guayabal
+2690.0;2869;DRMI-Laguna de San Diego;;
+2691.0;2870;RFPR-Cerrobravo;;
+2692.0;2871;RNSC-Aguas Calientes;;
+2693.0;2872;RFPR-Soledad las Nubes;;
+2694.0;2873;RNSC-La Esperanza;;
+2695.0;2874;RNSC-La Esmeralda;;
+2696.0;2875;AR-Parque Ecologico Humedal Calatrava;;
+2697.0;2876;RNSC-Asociación De Amigos Usuarios Del Acueducto Independiente De Ocaña Adamiuain;;
+2698.0;2877;PNR-Páramo de Santurbán;;
+2699.0;2878;RNSC-Reserva Unsáua;;
+27.0;1765;;;RI-Resguardo Indígena Santa Rosa Del Guamuez
+270.0;2008;;;RI-Resguardo Indígena Inchi Iaku
+2700.0;2879;RNSC-La Esperanza;;
+2701.0;2880;RFPR-El Palmar y la Secreta;;
+2702.0;2881;RFPR-Concepción;;
+2703.0;2882;RFPR-El Palmar y la Secreta;;
+2704.0;2883;DRMI-Alto Calima;;
+2705.0;2884;RFPR-Bremen Lote 16 y la Rinconada Lote 15;;
+2706.0;2885;RNSC-La Esperanza;;
+2707.0;2886;RFPR-Esmeralda;;
+2708.0;2887;RNSC-La Esperanza;;
+2709.0;2888;RFPR-El Retiro, la Cascada, el Mantel la Mesa la Meseta y la Isla el Durazno;;
+271.0;2009;;;RI-Resguardo Indígena Zince La 18
+2710.0;2889;RNSC-La Esperanza;;
+2711.0;2890;DRMI-Divisoria Valle de Aburra Rio Cauca;;
+2712.0;2891;RNSC-La Esperanza;;
+2713.0;2892;AR-Parque Ecologico Humedal Calatrava;;
+2714.0;2893;DRMI-Luriza;;
+2715.0;2894;AR-Parque Ecologico Humedal Caracoli;;
+2716.0;2895;DRMI-Cacica Noría;;
+2717.0;2896;RNSC-El Danubio;;
+2718.0;2897;RNSC-La Esperanza;;
+2719.0;2898;PNR-Bosques Andinos Húmedos el Rasgón;;
+272.0;2010;;;RI-Resguardo Indígena Gualeras
+2720.0;2899;RNSC-Meza de Piedra;;
+2721.0;2900;PNR-Cerro la Judía;;
+2722.0;2901;RNSC-La Esperanza;;
+2723.0;2902;AR-Parque Ecológico Cerro Nutibara;;
+2724.0;2903;RNSC-La Esperanza;;
+2725.0;2904;DRMI-En el Territorio Colectivo del Consejo Comunitario de la Comunidad Negra de la Plata;;
+2726.0;2905;RNSC-La Esperanza;;
+2727.0;2906;DRMI-Enclave Subxerofitico de Atuncela;;
+2728.0;2907;RNSC-La Esperanza;;
+2729.0;2908;DRMI-Agualinda;;
+273.0;2011;;;RI-Resguardo Indígena de Polindara
+2730.0;2909;RNSC-Casa De Teja;;
+2731.0;2910;DRMI-Agualinda;;
+2732.0;2911;DCS-Guacas Rosario;;
+2733.0;2912;DRMI-Serranía de los Yariguíes;;
+2734.0;2913;RNSC-Casa De Teja;;
+2735.0;2914;PNR-Serranía de las Quinchas;;
+2736.0;2915;RNSC-El Triunfo;;
+2737.0;2916;RNSC-Bóvedas, Veguita y Tumbe;;
+2738.0;2917;PNR-Unidad Biogeográfica de Siscuncí Oceta;;
+2739.0;2918;DRMI-Nacimiento de las Quebradas los Tiestos, La Chorrera y Hoya Fría;;
+274.0;2012;;;RI-Resguardo Indígena U´wa de Laguna Tranquila
+2740.0;2919;RNSC-La Mesenia Paramillo-El Desierto;;
+2741.0;2920;DRMI-Nacimiento de las Quebradas los Tiestos, La Chorrera y Hoya Fría;;
+2742.0;2921;RNSC-El Crisol;;
+2743.0;2922;DRMI-Nacimiento de las Quebradas los Tiestos, La Chorrera y Hoya Fría;;
+2744.0;2923;RNSC-Reserva Natural Mesenia Paramillo - Predio Los Colibríes;;
+2745.0;2924;RFPR-El Robledal;;
+2746.0;2925;RNSC-La Mansión;;
+2747.0;2926;RFPR-El Robledal;;
+2748.0;2927;RNSC-Fundo Palmarito;;
+2749.0;2928;RFPR-El Robledal;;
+275.0;2013;;;RI-Resguardo Indígena Uwa de Playas De Bojaba
+2750.0;2929;RNSC-La Portuguesa;;
+2751.0;2930;RFPR-El Robledal;;
+2752.0;2931;RNSC-La Argelia;;
+2753.0;2932;RFPR-El Robledal;;
+2754.0;2933;RNSC-Reserva Natural El Olinguito;;
+2755.0;2934;RFPR-El Robledal;;
+2756.0;2935;RNSC-La Ermita;;
+2757.0;2936;RFPR-El Robledal;;
+2758.0;2937;RNSC-La Cristalina;;
+2759.0;2938;RFPR-El Robledal;;
+276.0;2014;;;RI-Resguardo Indígena Waunana de Cabeceras o Puerto Pizario
+2760.0;2939;RNSC-Reserva Natural Mesenia Paramillo - Predio Los Colibríes;;
+2761.0;2940;RFPR-Planalto;;
+2762.0;2941;RNSC-Lote No. 2 La Chonta;;
+2763.0;2942;DRMI-Manglar de la Bahía de Cispatá y Sector Aledaño del Delta Estuarino del Río Sinú;;
+2764.0;2943;RNSC-Vista Hermosa;;
+2765.0;2944;DRMI-Manglar de la Bahía de Cispatá y Sector Aledaño del Delta Estuarino del Río Sinú;;
+2766.0;2945;RNSC-Las Brisas;;
+2767.0;2946;RNSC-Los Titíes De San Juan IV;;
+2768.0;2947;RNSC-Rayuela;;
+2769.0;2948;RFPR-Quebrada Paramillo y Queceros;;
+277.0;2015;;;RI-Resguardo Indígena Awia Tuparro
+2770.0;2949;RNSC-Rayuela;;
+2771.0;2950;RNSC-Proaves Arrierito Antioqueño Bloque 2;;
+2772.0;2951;RNSC-Praga;;
+2773.0;2952;RNSC-Las Dos Lunas;;
+2774.0;2953;RNSC-Las Nieves El Guadual;;
+2775.0;2954;PNR-Verdum;;
+2776.0;2955;RNSC-Semillas De Agua;;
+2777.0;2956;DCS-Campoalegre;;
+2778.0;2957;RNSC-Semillas De Agua;;
+2779.0;2958;RNSC-La Esperanza 2;;
+278.0;2016;;;RI-Resguardo Indígena Wayuu de Tocoromana, Loma Fresca y Chentico - "Perratpu"
+2780.0;2959;RNSC-La Ilusión;;
+2781.0;2960;PNR-Cerro Páramo de Miraflores Rigoberto Urriago;;
+2782.0;2961;RNSC-Las Orquídeas;;
+2783.0;2962;RNSC-La Esperanza;;
+2784.0;2963;RNSC-La Guaca - Lote A;;
+2785.0;2964;RNSC-La Esperanza;;
+2786.0;2965;DRMI-Bosque Seco Alegrías y Páramo El Tibí y Miraflores;;
+2787.0;2966;RNSC-La Esperanza;;
+2788.0;2967;RNSC-Loros Andinos;;
+2789.0;2968;PNR-Del Sistema Manglarico del Sector de la Boca de Guacamaya;;
+279.0;2017;;;RI-Resguardo Indígena Embera Chami Dachi Drua Chami
+2790.0;2969;RNSC-Santa Isabel;;
+2791.0;2970;PNR-Del Sistema Manglarico del Sector de la Boca de Guacamaya;;
+2792.0;2971;RFPR-La Montaña;;
+2793.0;2972;RFPR-Concepción;;
+2794.0;2973;RNSC-La Llanada;;
+2795.0;2974;RFPR-Concepción;;
+2796.0;2975;RNSC-Las Palmeras;;
+2797.0;2976;PNR-Páramo de Santurbán;;
+2798.0;2977;RNSC-La Montaña Mágica El Poleo;;
+2799.0;2978;PNR-Páramo de Santurbán;;
+28.0;1766;;;RI-Resguardo Indígena Embera y Waunan de "Nussí Purrú"
+280.0;2018;;;RI-Resguardo Indígena La Mayera
+2800.0;2979;RNSC-Zona de Biodiversidad El Triunfo;;
+2801.0;2980;RNSC-Santa Isabel;;
+2802.0;2981;RNSC-Jikuri;;
+2803.0;2982;RNSC-Santa Isabel;;
+2804.0;2983;RNSC-Villa María Teresa;;
+2805.0;2984;RNSC-Santa Isabel;;
+2806.0;2985;RNSC-La Cascada;;
+2807.0;2986;RNSC-Santa Isabel;;
+2808.0;2987;RNSC-Los Paraguitos;;
+2809.0;2988;RNSC-Santa Isabel;;
+281.0;2019;;;RI-Resguardo Indígena Pijao de Guadualito
+2810.0;2989;RNSC-La Fortuna;;
+2811.0;2990;RNSC-Santa Isabel;;
+2812.0;2991;RNSC-Cocorasecret;;
+2813.0;2992;RNSC-Santa Isabel;;
+2814.0;2993;RNSC-El Cairo;;
+2815.0;2994;RNSC-Santa Isabel;;
+2816.0;2995;RNSC-Pino Hermoso;;
+2817.0;2996;RNSC-Santa Isabel;;
+2818.0;2997;RNSC-Estrella De Agua;;
+2819.0;2998;RNSC-Santa Isabel;;
+282.0;2020;;;RI-Resguardo Indígena San Miguel
+2820.0;2999;RNSC-Los Árboles;;
+2821.0;3000;RNSC-Las Nieves El Guadual;;
+2822.0;3001;RNSC-Lote La Esmeralda;;
+2823.0;3002;RNSC-Las Nieves El Guadual;;
+2824.0;3003;RNSC-El Silencio;;
+2825.0;3004;RNSC-Las Nieves El Guadual;;
+2826.0;3005;RNSC-El Retiro;;
+2827.0;3006;RNSC-Algarrobo Del Lagunazo;;
+2828.0;3007;RFPR-El Popal;;
+2829.0;3008;RNSC-Algarrobo Del Lagunazo;;
+283.0;2021;;;RI-Resguardo Indígena Guambiano de La Maria
+2830.0;3009;RNSC-Ecoparque La Manigua;;
+2831.0;3010;DCS-Serranía de los Churumbelos;;
+2832.0;3011;RNSC-La Chorrera;;
+2833.0;3012;DCS-Serranía de los Churumbelos;;
+2834.0;3013;RNSC-Jardín Colibrí una Escuela de Vida;;
+2835.0;3014;RFPR-El Popal;;
+2836.0;3015;RNSC-Nirvana;;
+2837.0;3016;RFPR-El Popal;;
+2838.0;3017;DRMI-Páramo Mamapacha y Bijagual;;
+2839.0;3018;RFPR-El Popal;;
+284.0;2022;;;RI-Resguardo Indígena Piapoco de Kawaneruba
+2840.0;3019;RNSC-El Horizonte;;
+2841.0;3020;RFPR-El Popal;;
+2842.0;3021;RNSC-El Porvenir;;
+2843.0;3022;RFPR-El Popal;;
+2844.0;3023;RNSC-La Cumbre;;
+2845.0;3024;RFPR-El Popal;;
+2846.0;3025;RNSC-La Cabaña;;
+2847.0;3026;RFPR-El Popal;;
+2848.0;3027;RNSC-El Recuerdo;;
+2849.0;3028;RFPR-El Popal;;
+285.0;2023;;;RI-Resguardo Indígena Wayu Pizia de Las Delicias
+2850.0;3029;RNSC-Bioparque Móncora;;
+2851.0;3030;RFPR-El Popal;;
+2852.0;3031;RNSC-Medano Los Morrucos;;
+2853.0;3032;RFPR-El Popal;;
+2854.0;3033;RNSC-El Turpial;;
+2855.0;3034;RFPR-El Popal;;
+2856.0;3035;RNSC-La Aldea;;
+2857.0;3036;RFPR-El Popal;;
+2858.0;3037;RNSC-Reserva Orquídeas de la Sociedad Colombiana de Orquideología;;
+2859.0;3038;RFPR-El Popal;;
+286.0;2024;;;RI-Resguardo Indígena Pijao La Flecha Altozano
+2860.0;3039;RNSC-Monasterio Santa María de la Epifanía de los Monjes Benedictinos;;
+2861.0;3040;RFPR-El Popal;;
+2862.0;3041;DCS-Ciénaga de Betancí;;
+2863.0;3042;RFPR-El Popal;;
+2864.0;3043;RNSC-El Páramo;;
+2865.0;3044;RFPR-El Popal;;
+2866.0;3045;RNSC-Catón Lote 4;;
+2867.0;3046;RFPR-El Popal;;
+2868.0;3047;RNSC-Arreboles;;
+2869.0;3048;RFPR-El Popal;;
+287.0;2025;;;RI-Resguardo Indígena Wayuu de Lomamato
+2870.0;3049;RNSC-Huasipungo;;
+2871.0;3050;RFPR-El Popal;;
+2872.0;3051;RNSC-El Tutumillo;;
+2873.0;3052;RFPR-El Popal;;
+2874.0;3053;RNSC-El Silencio;;
+2875.0;3054;RFPR-El Popal;;
+2876.0;3055;RNSC-Ecoparque La Manigua;;
+2877.0;3056;RFPR-El Popal;;
+2878.0;3057;RNSC-Refugio del Oso;;
+2879.0;3058;RFPR-El Popal;;
+288.0;2026;;;RI-Resguardo Indígena Pueblo Viejo Santa Rita La Mina
+2880.0;3059;RNSC-Pauxi-Pauxi Los Alpes;;
+2881.0;3060;RFPR-El Popal;;
+2882.0;3061;RNSC-Pauxi-Pauxi El Progreso;;
+2883.0;3062;RFPR-El Popal;;
+2884.0;3063;RNSC-Clavellinas;;
+2885.0;3064;RFPR-El Popal;;
+2886.0;3065;RNSC-Pauxi Pauxi Las Brisas;;
+2887.0;3066;RFPR-Sabinas;;
+2888.0;3067;RNSC-Aguas Calientes;;
+2889.0;3068;DRMI-Laguna de San Diego;;
+289.0;2027;;;RI-Resguardo Indígena de Totarco Dinde Independiente
+2890.0;3069;RNSC-Aguas Calientes;;
+2891.0;3070;RNSC-Aguas Calientes;;
+2892.0;3071;RNSC-La Cabaña;;
+2893.0;3072;DRMI-de la Playona y la Loma de Caleta;;
+2894.0;3073;RNSC-Refugio Guajiro;;
+2895.0;3074;DRMI-de la Playona y la Loma de Caleta;;
+2896.0;3075;RNSC-La Cosmopolitana;;
+2897.0;3076;RNSC-Las Corrientes 2;;
+2898.0;3077;RNSC-Las Corrientes;;
+2899.0;3078;RNSC-Las Tángaras;;
+29.0;1767;;;RI-Resguardo Indígena de Totarco Niple
+290.0;2028;;;RI-Resguardo Indígena Leonardo Jose Campanario
+2900.0;3079;RNSC-Vista Hermosa;;
+2901.0;3080;RNSC-Bóvedas, Veguita y Tumbe;;
+2902.0;3081;RNSC-La Esmeralda;;
+2903.0;3082;RNSC-Conjunto De Reservas Naturales De Sumicol S.A. (Lusitania);;
+2904.0;3083;RNSC-Nakaima;;
+2905.0;3084;RNSC-Matabrava;;
+2906.0;3085;RNSC-El Presente;;
+2907.0;3086;RNSC-Mano de Oso;;
+2908.0;3087;RNSC-El Presente;;
+2909.0;3088;RNSC-La Voluntad De Dios;;
+291.0;2029;;;RI-Resguardo Indígena Bajo Santa Helena
+2910.0;3089;RNSC-El Camino del Tesoro;;
+2911.0;3090;RNSC-La Voluntad De Dios;;
+2912.0;3091;RNSC-El Tesoro;;
+2913.0;3092;RNSC-Edén de Oriente;;
+2914.0;3093;RNSC-Villa Andrea;;
+2915.0;3094;RNSC-San Gabriel;;
+2916.0;3095;RNSC-Veraguas;;
+2917.0;3096;RNSC-Nakaima;;
+2918.0;3097;RNSC-Conjunto De Reservas Naturales De Sumicol Sas;;
+2919.0;3098;RNSC-Palmeras;;
+292.0;2030;;;RI-Resguardo Indígena Pijao de Potrerito
+2920.0;3099;RNSC-Altomira;;
+2921.0;3100;RNSC-Refugio Guajiro;;
+2922.0;3101;RNSC-La Cosmopolitana;;
+2923.0;3102;RNSC-Los Mangos;;
+2924.0;3103;RNSC-La Favorita;;
+2925.0;3104;RNSC-Veraguas;;
+2926.0;3105;RNSC-Villa Andrea;;
+2927.0;3106;RNSC-De las Aves Cucarachero Chicamocha - Predio Lagunetas;;
+2928.0;3107;DRMI-El Aburrido;;
+2929.0;3108;DRMI-La Selva;;
+293.0;2031;;;RI-Resguardo Indígena Pijao Tres Esquinas
+2930.0;3109;PNR-El Comedero;;
+2931.0;3110;DRMI-La Selva;;
+2932.0;3111;RNSC-Campo Bello;;
+2933.0;3112;DRMI-La Selva;;
+2934.0;3113;PNR-Serranía de Minas;;
+2935.0;3114;DRMI-La Selva;;
+2936.0;3115;RNSC-La Palma de Tatamá;;
+2937.0;3116;DRMI-La Selva;;
+2938.0;3117;RNSC-San Judas;;
+2939.0;3118;DRMI-La Selva;;
+294.0;2032;;;RI-Resguardo Indígena Pasto de Funes
+2940.0;3119;RNSC-Corazón De La Montaña;;
+2941.0;3120;DRMI-La Selva;;
+2942.0;3121;RNSC-Fiba;;
+2943.0;3122;RNSC-Pachamama;;
+2944.0;3123;RNSC-San Alfonso;;
+2945.0;3124;RNSC-Pauxi pauxi Buenos Aires;;
+2946.0;3125;RNSC-El Silencio;;
+2947.0;3126;DRMI-Alto Calima;;
+2948.0;3127;RNSC-La Llanada;;
+2949.0;3128;DRMI-Alto Calima;;
+295.0;2033;;;RI-Resguardo Indígena Tucano de Barranquillita
+2950.0;3129;RNSC-Las Palmeras;;
+2951.0;3130;RNSC-La Reforma;;
+2952.0;3131;RNSC-Betania;;
+2953.0;3132;RNSC-Hacienda El Cequión;;
+2954.0;3133;RNSC-San Dimas;;
+2955.0;3134;RNSC-Los Tananeos;;
+2956.0;3135;RNSC-Tahamies;;
+2957.0;3136;RNSC-Los Tananeos;;
+2958.0;3137;RNSC-El Rosal;;
+2959.0;3138;RNSC-Los Tananeos;;
+296.0;2034;;;RI-Resguardo Indígena Inti Yaku
+2960.0;3139;RNSC-La Estrella;;
+2961.0;3140;RNSC-Los Tananeos;;
+2962.0;3141;RNSC-Rancho Grande;;
+2963.0;3142;RNSC-Los Tananeos;;
+2964.0;3143;RNSC-Los Pomos;;
+2965.0;3144;RNSC-Los Tananeos;;
+2966.0;3145;RNSC-Las Juntas;;
+2967.0;3146;RNSC-Los Tananeos;;
+2968.0;3147;RNSC-Tupuragua;;
+2969.0;3148;RNSC-Los Tananeos;;
+297.0;2035;;;RI-Resguardo Indígena Wayuu Rodeito - El Pozo
+2970.0;3149;RNSC-Núcleo De Reservas Akae - Mataguarito;;
+2971.0;3150;RNSC-Los Tananeos;;
+2972.0;3151;DRMI-Salto Candelas;;
+2973.0;3152;RNSC-Los Tananeos;;
+2974.0;3153;RNSC-Lote de Terreno N. 4 Las Nubes;;
+2975.0;3154;RNSC-Villa Andrea;;
+2976.0;3155;PNR-Mateguadua;;
+2977.0;3156;RNSC-Villa Andrea;;
+2978.0;3157;RNSC-La Gloria;;
+2979.0;3158;RNSC-Villa Andrea;;
+298.0;2036;;;RI-Resguardo Indígena Sikuani de Muco - Mayoragua
+2980.0;3159;DRMI-El Aburrido;;
+2981.0;3160;RNSC-La Suiza;;
+2982.0;3161;RNSC-Campo Hermoso;;
+2983.0;3162;RNSC-La Suiza;;
+2984.0;3163;RNSC-Conjunto De Reservas Naturales De Sumicol Sas;;
+2985.0;3164;RNSC-Versalles;;
+2986.0;3165;DRMI-Páramo de Vida Maitamá - Sonsón;;
+2987.0;3166;RNSC-Versalles;;
+2988.0;3167;RNSC-Club Campestre el Rodeo;;
+2989.0;3168;RNSC-Versalles;;
+299.0;2037;;;RI-Resguardo Indígena Pijao de Totarco Dinde Tradicional
+2990.0;3169;RNSC-Pozo Azul;;
+2991.0;3170;RNSC-Versalles;;
+2992.0;3171;RNSC-De La Imaginación;;
+2993.0;3172;RNSC-Versalles;;
+2994.0;3173;RNSC-Lejanías A;;
+2995.0;3174;RNSC-El Lagunazo en Santa Clara;;
+2996.0;3175;RNSC-Gualanday;;
+2997.0;3176;RNSC-La Chorrera;;
+2998.0;3177;RNSC-Miravalles;;
+2999.0;3178;RNSC-La Chorrera;;
+3.0;1741;;;RI-Resguardo Indígena Salivas y Piapocos  de Corozal y Tapaojo
+30.0;1768;;;RI-Resguardo Indígena Guahibo de Caño Bachaco
+300.0;2038;;;RI-Resguardo Indígena Embera Katio de Abejero
+3000.0;3179;RNSC-Jardín Colibrí una Escuela de Vida;;
+3001.0;3180;RNSC-La Laguna;;
+3002.0;3181;DRMI-Golfo de Tribugá Cabo Corrientes;;
+3003.0;3182;RNSC-Yumake;;
+3004.0;3183;RNSC-Himalaya;;
+3005.0;3184;RNSC-La Tebaida;;
+3006.0;3185;RNSC-La Ilusión;;
+3007.0;3186;RNSC-El Camino del Tesoro;;
+3008.0;3187;DRMI-Bosque Seco de la Vertiente Oriental del río Magdalena;;
+3009.0;3188;RNSC-El Porvenir;;
+301.0;2039;;;RI-Resguardo Indígena Guambiano Nuevo Amanecer La Meseta
+3010.0;3189;RNSC-Paraver La Esperanza;;
+3011.0;3190;RNSC-Samaria 2;;
+3012.0;3191;RNSC-Providencia;;
+3013.0;3192;RNSC-Montes de la Esperanza;;
+3014.0;3193;RNSC-El Paraíso del Turpial;;
+3015.0;3194;RNSC-Santa Martha;;
+3016.0;3195;RNSC-Miravalles;;
+3017.0;3196;DRMI-Cacica Noría;;
+3018.0;3197;RNSC-La Esperanza;;
+3019.0;3198;RNSC-El Edén;;
+302.0;2040;;;RI-Resguardo Indígena Tamirco
+3020.0;3199;RNSC-La Granada;;
+3021.0;3200;RNSC-El Ocarro;;
+3022.0;3201;RNSC-Miranda;;
+3023.0;3202;RNSC-El Ocarro;;
+3024.0;3203;RNSC-El Refugio De Vida Silvestre ? Bocoré;;
+3025.0;3204;RNSC-Los Guaduales;;
+3026.0;3205;RNSC-Amanecer en el Palmar 1;;
+3027.0;3206;RNSC-Los Clavellinos;;
+3028.0;3207;RNSC-La Esperanza;;
+3029.0;3208;RNSC-Bombay;;
+303.0;2041;;;RI-Resguardo Indígena Muisca De Cota
+3030.0;3209;RNSC-Los Charcos;;
+3031.0;3210;RNSC-La Rivera;;
+3032.0;3211;RNSC-Amanecer en el Palmar 1;;
+3033.0;3212;PNR-Vista Hermosa de Monquentiva;;
+3034.0;3213;RNSC-La Esperanza;;
+3035.0;3214;DRMI-Ciénagas El Sapo y Hoyo Grande;;
+3036.0;3215;RNSC-La Esperanza;;
+3037.0;3216;RNSC-Iguakan;;
+3038.0;3217;PNR-Páramo de las Ovejas-Tauso;;
+3039.0;3218;RFPR-Brisas del Rincón;;
+304.0;2042;;;RI-Resguardo Indígena Nasa Kiwe Tekh Ksxaw
+3040.0;3219;RNSC-La Esperanza;;
+3041.0;3220;DRMI-Cerro Guadalupe;;
+3042.0;3221;RNSC-La Esperanza;;
+3043.0;3222;RNSC-Finca La Valerosa;;
+3044.0;3223;RNSC-La Esperanza;;
+3045.0;3224;DRMI-Serranía de Peñas Blancas;;
+3046.0;3225;RNSC-La Esperanza;;
+3047.0;3226;RNSC-La Florida;;
+3048.0;3227;RNSC-La Esperanza;;
+3049.0;3228;RNSC-San Agustín;;
+305.0;2043;;;RI-Resguardo Indígena San Antonio 2
+3050.0;3229;RNSC-La Esperanza;;
+3051.0;3230;RNSC-Los Alisos;;
+3052.0;3231;RNSC-La Granada;;
+3053.0;3232;RNSC-Lote 6 Guayoco;;
+3054.0;3233;RNSC-Meza de Piedra;;
+3055.0;3234;RNSC-El Maná;;
+3056.0;3235;RNSC-La Esperanza;;
+3057.0;3236;RNSC-Los Charcones;;
+3058.0;3237;RNSC-La Esperanza;;
+3059.0;3238;RNSC-Naturaleza Real;;
+306.0;2044;;;RI-Resguardo Indígena Chenche Buenavista
+3060.0;3239;RNSC-La Granada;;
+3061.0;3240;DRMI-Ciénaga de Chiqueros;;
+3062.0;3241;RNSC-La Esperanza;;
+3063.0;3242;PNR-El Dorado;;
+3064.0;3243;RNSC-La Esperanza;;
+3065.0;3244;RNSC-Providencia;;
+3066.0;3245;RNSC-Sie Quye, Agüita De Sietecueros;;
+3067.0;3246;RNSC-San Simeón;;
+3068.0;3247;RNSC-El Recreo;;
+3069.0;3248;RNSC-San Simeón;;
+307.0;2045;;;RI-Resguardo Indígena Embera de Guaguando
+3070.0;3249;RNSC-La Cueva;;
+3071.0;3250;RNSC-San Simeón;;
+3072.0;3251;RNSC-Potosí;;
+3073.0;3252;RNSC-San Simeón;;
+3074.0;3253;RNSC-La Comarca;;
+3075.0;3254;RNSC-San Simeón;;
+3076.0;3255;RNSC-Pozo Azul;;
+3077.0;3256;RNSC-San Simeón;;
+3078.0;3257;RNSC-La Esperanza;;
+3079.0;3258;RNSC-San Simeón;;
+308.0;2046;;;RI-Resguardo Indígena Pasto De Iles
+3080.0;3259;DCS-Bocas del Palo;;
+3081.0;3260;RNSC-San Simeón;;
+3082.0;3261;RNSC-Cima;;
+3083.0;3262;RNSC-San Simeón;;
+3084.0;3263;RNSC-Finca Agroecológica San Martín;;
+3085.0;3264;RNSC-San Simeón;;
+3086.0;3265;RNSC-Lejanías A;;
+3087.0;3266;RNSC-Desengañito;;
+3088.0;3267;RNSC-Olway Mis Padres;;
+3089.0;3268;RNSC-Desengañito;;
+309.0;2047;;;RI-Resguardo Indígena Vinollanogrande
+3090.0;3269;RNSC-Área de Protección Cañas Aceite y Acitito Hacienda La Gloria;;
+3091.0;3270;RNSC-El Garcero del Medio 2;;
+3092.0;3271;RNSC-Colina De Montefrío;;
+3093.0;3272;RNSC-El Gramero;;
+3094.0;3273;RNSC-Colina De Cristal - Finca El Clavo;;
+3095.0;3274;RNSC-San Rafael De Guanapalo;;
+3096.0;3275;RNSC-Colina De Cristal - Finca El Clavo;;
+3097.0;3276;DRMI-Palmar del Tití;;
+3098.0;3277;RNSC-La Esperanza;;
+3099.0;3278;RNSC-El Regalito;;
+31.0;1769;;;RI-Resguardo Indígena Chenche Zaragoza
+310.0;2048;;;RI-Resguardo Indígena Tinajas
+3100.0;3279;RNSC-La Granada;;
+3101.0;3280;RNSC-Cañas Bravas;;
+3102.0;3281;RNSC-Meza de Piedra;;
+3103.0;3282;RNSC-Flor Amarillo;;
+3104.0;3283;RNSC-Meza de Piedra;;
+3105.0;3284;RNSC-Perú;;
+3106.0;3285;RNSC-Las Brisas;;
+3107.0;3286;RNSC-Perú;;
+3108.0;3287;RNSC-Bélgica;;
+3109.0;3288;RNSC-El Encuentro;;
+311.0;2049;;;RI-Resguardo Indígena Pijao de San Diego
+3110.0;3289;RNSC-Bochica;;
+3111.0;3290;RNSC-Entreaguas;;
+3112.0;3291;DRMI-Macizo El Tablazo;;
+3113.0;3292;RNSC-El Boral;;
+3114.0;3293;RNSC-Los Arboles De Las Mesitas;;
+3115.0;3294;RNSC-El Boral;;
+3116.0;3295;RNSC-Si Me Dejan;;
+3117.0;3296;RNSC-La Laguna;;
+3118.0;3297;RNSC-San Juan de Tinije;;
+3119.0;3298;RNSC-Bochica;;
+312.0;2050;;;RI-Resguardo Indígena Embera del Rio Bebarama
+3120.0;3299;RNSC-Villa Juliana;;
+3121.0;3300;RNSC-Bochica;;
+3122.0;3301;RNSC-El Trapiche;;
+3123.0;3302;RNSC-Medialuna;;
+3124.0;3303;RNSC-La Esperanza;;
+3125.0;3304;RNSC-Pinturas;;
+3126.0;3305;RNSC-La Esperanza;;
+3127.0;3306;RNSC-Batatuaba;;
+3128.0;3307;RNSC-Los Arboles De Las Mesitas;;
+3129.0;3308;RNSC-El Caracolí;;
+313.0;2051;;;RI-Resguardo Indígena Paez de La Gaitana
+3130.0;3309;RNSC-La Baita;;
+3131.0;3310;RNSC-El Naranjito - Nacumal;;
+3132.0;3311;RNSC-La Esperanza;;
+3133.0;3312;RNSC-Santa Trinidad;;
+3134.0;3313;RNSC-La Florida;;
+3135.0;3314;RNSC-El Tablón;;
+3136.0;3315;RNSC-La Esperanza;;
+3137.0;3316;RNSC-El Consuelo;;
+3138.0;3317;DRMI-Bosque Seco Alegrías y Páramo El Tibí y Miraflores;;
+3139.0;3318;RNSC-Rayuela;;
+314.0;2052;;;RI-Resguardo Indígena Embera - Katio de Valle De Perdidas
+3140.0;3319;RNSC-Xue;;
+3141.0;3320;RNSC-Meza de Piedra;;
+3142.0;3321;RNSC-El Encanto;;
+3143.0;3322;RNSC-Altamira 2;;
+3144.0;3323;RNSC-Miramar;;
+3145.0;3324;RNSC-La Chivera;;
+3146.0;3325;DRMI-Bosque Seco Alegrías y Páramo El Tibí y Miraflores;;
+3147.0;3326;RNSC-Miramar;;
+3148.0;3327;RNSC-Chamicero de Perijá;;
+3149.0;3328;RNSC-Rancho Nuevo;;
+315.0;2053;;;RI-Resguardo Indígena Yaporogos Taira
+3150.0;3329;DRMI-Bosque Seco Alegrías y Páramo El Tibí y Miraflores;;
+3151.0;3330;RNSC-La Reserva;;
+3152.0;3331;RNSC-Núcleo de Reservas Akae- El Perú;;
+3153.0;3332;RNSC-El Garzón;;
+3154.0;3333;DRMI-Bosque Seco Alegrías y Páramo El Tibí y Miraflores;;
+3155.0;3334;RNSC-Villa Stefany;;
+3156.0;3335;RNSC-Las Mercedes;;
+3157.0;3336;DCS-de Perijá;;
+3158.0;3337;DRMI-Bosque Seco Alegrías y Páramo El Tibí y Miraflores;;
+3159.0;3338;DCS-de Perijá;;
+316.0;2054;;;RI-Resguardo Indígena Kiloka Playa Verde
+3160.0;3339;RNSC-El Silencio;;
+3161.0;3340;RNSC-El Pinar 2;;
+3162.0;3341;RNSC-Lote De Gastos;;
+3163.0;3342;RNSC-La Independencia;;
+3164.0;3343;RNSC-Buenos Aires;;
+3165.0;3344;RNSC-La Florida;;
+3166.0;3345;RNSC-Tahami Quirama;;
+3167.0;3346;RNSC-La Florida;;
+3168.0;3347;RNSC-Fundación Reserva La Esperanza;;
+3169.0;3348;RNSC-La Florida;;
+317.0;2055;;;RI-Resguardo Indígena Inga Rigcharikuna "Nuevo Despertar"
+3170.0;3349;RNSC-Villa Tatiana;;
+3171.0;3350;RNSC-La Florida;;
+3172.0;3351;RNSC-FAUNA DE COLOMBIA SAN ANDRES ISLA;;
+3173.0;3352;RNSC-La Florida;;
+3174.0;3353;RNSC-Cantaclaro;;
+3175.0;3354;RNSC-La Florida;;
+3176.0;3355;RNSC-Fortuna;;
+3177.0;3356;RNSC-La Florida;;
+3178.0;3357;RNSC-1810;;
+3179.0;3358;RNSC-Bellavista;;
+318.0;2056;;;RI-Resguardo Indígena Intillagta (Hijos Del Sol)
+3180.0;3359;RNSC-El Cairo;;
+3181.0;3360;RNSC-La Mesenia Paramillo-El Desierto;;
+3182.0;3361;RNSC-Las Brisas;;
+3183.0;3362;RNSC-Guacharacas del Cusiana;;
+3184.0;3363;RNSC-El Cairo;;
+3185.0;3364;RNSC-La Baita;;
+3186.0;3365;RNSC-Charanga;;
+3187.0;3366;RNSC-Las Palmeras;;
+3188.0;3367;DRMI-Serranía de Minas;;
+3189.0;3368;RNSC-San Francisco;;
+319.0;2057;;;RI-Resguardo Indígena Pijao Guaipa Uno
+3190.0;3369;DRMI-Serranía de Minas;;
+3191.0;3370;RNSC-La Palestina;;
+3192.0;3371;DRMI-Serranía de Minas;;
+3193.0;3372;RNSC-Los Iguanitos;;
+3194.0;3373;RNSC-Ecofinca Kañarí;;
+3195.0;3374;RNSC-Agua Tremolente;;
+3196.0;3375;RNSC-Nuevo Mejico;;
+3197.0;3376;RNSC-El Trébol;;
+3198.0;3377;RNSC-El Porvenir 2;;
+3199.0;3378;RNSC-La Esmeralda;;
+32.0;1770;;;RI-Resguardo Indígena Awa de Selva Verde
+320.0;2058;;;RI-Resguardo Indígena Meche San Cayetano
+3200.0;3379;RNSC-Núcleo De Reservas Akae - La Esmeralda;;
+3201.0;3380;RNSC-La Indomable;;
+3202.0;3381;RNSC-El Porvenir 2;;
+3203.0;3382;RNSC-La Indomable;;
+3204.0;3383;RNSC-El Refugio De Vida Silvestre ? Bocoré;;
+3205.0;3384;RNSC-Núcleo De Reservas Akae - Tucunare;;
+3206.0;3385;RNSC-Cerritos;;
+3207.0;3386;RNSC-Núcleo de Reservas Akae- Arecua;;
+3208.0;3387;RNSC-Núcleo de Reservas Akae- El Cocuy;;
+3209.0;3388;RNSC-Entre Árboles y Micos;;
+321.0;2059;;;RI-Resguardo Indígena Guahibo Puyeros
+3210.0;3389;RNSC-Granja Villa Luna;;
+3211.0;3390;RNSC-Alta Gracia;;
+3212.0;3391;RNSC-Los Árboles;;
+3213.0;3392;RNSC-Los Árboles;;
+3214.0;3393;RNSC-Los Eucaliptos;;
+3215.0;3394;RNSC-Los Eucaliptos;;
+3216.0;3395;RNSC-Anima La Vida;;
+3217.0;3396;RNSC-La Apachita;;
+3218.0;3397;RNSC-La Argentina;;
+3219.0;3398;RNSC-Club Campestre de Pereira;;
+322.0;2060;;;RI-Resguardo Indígena Pijao Zanja Honda
+3220.0;3399;RNSC-Amazonas;;
+3221.0;3400;RNSC-La Buenaventura, Granja Escuela;;
+3222.0;3401;RNSC-Pinchaque;;
+3223.0;3402;RNSC-El Porvenir La Luna;;
+3224.0;3403;RNSC-El Porvenir 1;;
+3225.0;3405;RNSC-La Esperanza;;
+3226.0;3406;RNSC-Inka Anam;;
+3227.0;3407;RNSC-La Esperanza;;
+3228.0;3408;RNSC-Reserva Natural Comunitaria Galapagos;;
+3229.0;3409;RNSC-El Raudal;;
+323.0;2061;;;RI-Resguardo Indígena Murui - Witoto de Aguas Negras
+3230.0;3410;RNSC-El Rosario;;
+3231.0;3411;DRMI-Bajo Cauca Nechí;;
+3232.0;3412;RNSC-Lote #4;;
+3233.0;3413;RNSC-Islandia;;
+3234.0;3414;RNSC-La Rivera;;
+3235.0;3415;RNSC-Islandia;;
+3236.0;3416;RNSC-Buenos Aires de Apartadó;;
+3237.0;3417;DRMI-Serranía de Minas;;
+3238.0;3418;RNSC-Buena Vista;;
+3239.0;3419;RNSC-Bellavista;;
+324.0;2062;;;RI-Resguardo Indígena Embera - Chami Peñas Del Olvido
+3240.0;3420;RNSC-El Porvenir La Luna;;
+3241.0;3421;RNSC-Bellavista;;
+3242.0;3422;RNSC-El Porvenir 1;;
+3243.0;3423;RNSC-La Esperanza;;
+3244.0;3424;RNSC-Nuevo Mejico;;
+3245.0;3425;RNSC-Núcleo De Reservas Akae - Mata Tigre;;
+3246.0;3426;RNSC-Núcleo De Reservas Akae - Mataguarito;;
+3247.0;3427;RNSC-Bosque Colindres;;
+3248.0;3428;DCS-Bocas del Palo;;
+3249.0;3429;RNSC-Manaco 2;;
+325.0;2063;;;RI-Resguardo Indígena Embera Katio de El Fiera
+3250.0;3430;RNSC-Manaco 3;;
+3251.0;3683;RNSC-San Pedro Y El Recuerdo;;
+3252.0;3684;RFPR-El Robledal;;
+3253.0;3685;RNSC-La Mansión;;
+3254.0;3686;RNSC-Reserva Unsáua;;
+3255.0;3687;RNSC-El Danubio;;
+3256.0;3688;RNSC-La Esperanza;;
+3257.0;3689;DRMI-Divisoria Valle de Aburra Rio Cauca;;
+3258.0;3690;DRMI-Enclave Subxerofitico de Atuncela;;
+3259.0;3691;RNSC-La Esperanza;;
+326.0;2064;;;RI-Resguardo Indígena Embera de Paina
+3260.0;3692;RFPR-El Robledal;;
+3261.0;3693;RNSC-La Mansión;;
+3262.0;3694;RNSC-Fundo Palmarito;;
+3263.0;3695;RNSC-La Esperanza;;
+3264.0;3696;RNSC-Rancho Nuevo;;
+3265.0;3697;DRMI-Bosque Seco Alegrías y Páramo El Tibí y Miraflores;;
+3266.0;3698;RNSC-Algarrobo Del Lagunazo;;
+3267.0;3699;RFPR-El Popal;;
+3268.0;3700;RNSC-Ecoparque La Manigua;;
+3269.0;3701;RFPR-El Popal;;
+327.0;2065;;;RI-Resguardo Indígena Pijao El Vergel
+3270.0;3702;RNSC-El Porvenir;;
+3271.0;3703;RNSC-La Cumbre;;
+3272.0;3704;RFPR-El Popal;;
+3273.0;3705;RNSC-La Cumbre;;
+3274.0;3706;RNSC-La Cabaña;;
+3275.0;3707;RFPR-El Popal;;
+3276.0;3708;RNSC-El Recuerdo;;
+3277.0;3709;RNSC-El Turpial;;
+3278.0;3710;RFPR-El Popal;;
+3279.0;3711;RNSC-Bioparque Móncora;;
+328.0;2066;;;RI-Resguardo Indígena Pijao de Chenche Socorro Los Guayabos
+3280.0;3712;DCS-Ciénaga de Betancí;;
+3281.0;3713;RFPR-El Popal;;
+3282.0;3714;RNSC-El Turpial;;
+3283.0;3715;RNSC-La Aldea;;
+3284.0;3716;RNSC-Versalles;;
+3285.0;3717;DRMI-Páramo de Vida Maitamá - Sonsón;;
+3286.0;3718;RNSC-Pozo Azul;;
+3287.0;3719;RNSC-Cañas Bravas;;
+3288.0;3720;RNSC-Flor Amarillo;;
+3289.0;3721;RNSC-Meza de Piedra;;
+329.0;2067;;;RI-Resguardo Indígena Karamandu
+3290.0;3722;RNSC-El Encuentro;;
+3291.0;3723;RNSC-Bochica;;
+3292.0;3724;RNSC-El Trapiche;;
+3293.0;1556;;ANU-Los Estoraques;
+3294.0;1603;;DNMI-Area Marina Protegida de la Reserva de Biosfera Seaflower;
+3295.0;1495;;DNMI-Cabo Manglares Bajo Mira y Frontera;
+3296.0;1550;;DNMI-Cinaruco;
+3297.0;1717;AR-Humedal Aguas Claras;DNMI-Cinaruco;
+3298.0;1613;;DNMI-Colinas y Lomas Submarinas de la Cuenca Pacífico Norte;
+3299.0;2713;;PNN-Alto Fragua - Indi Wasi;RI-Resguardo Indígena Paez de La Esperanza
+33.0;1771;;;RI-Resguardo Indígena Embera Chami La Argelia
+330.0;2068;;;RI-Resguardo Indígena Embera de La Lomita
+3300.0;2714;;PNN-Alto Fragua - Indi Wasi;RI-Resguardo Indígena Inga de Yurayaco
+3301.0;2715;;PNN-Alto Fragua - Indi Wasi;RI-Resguardo Indígena Inga De San Miguel
+3302.0;1518;;PNN-Alto Fragua - Indi Wasi;
+3303.0;2716;;PNN-Amacayacu;RI-Resguardo Indígena Uitiboc
+3304.0;2717;;PNN-Amacayacu;RI-Resguardo Indígena Ticuna de Mocagua, Macedonia, El Vergel y Zaragoza
+3305.0;2718;;PNN-Amacayacu;RI-Resguardo Indígena Ticuna Nazaret
+3306.0;2719;;PNN-Amacayacu;RI-Resguardo Indígena Ticuna, Cocama y Yagua - Ticoya
+3307.0;2720;;PNN-Amacayacu;RI-Resguardo Indígena Tikuna de los Rios Cotuhe y Putumayo
+3308.0;2721;;PNN-Amacayacu;RI-Resguardo Indígena Ticuna de Arara
+3309.0;3647;;PNN-Amacayacu;RI-Resguardo Indígena Ticuna de Mocagua, Macedonia, El Vergel y Zaragoza
+331.0;2069;;;RI-Resguardo Indígena de Alpamanga
+3310.0;3648;;PNN-Amacayacu;RI-Resguardo Indígena Ticuna, Cocama y Yagua - Ticoya
+3311.0;3649;;PNN-Amacayacu;RI-Resguardo Indígena Ticuna de Mocagua, Macedonia, El Vergel y Zaragoza
+3312.0;3650;;PNN-Amacayacu;RI-Resguardo Indígena Tikuna de los Rios Cotuhe y Putumayo
+3313.0;1520;;PNN-Amacayacu;
+3314.0;2815;;PNN-Bahia Portete - Kaurrele;RI-Resguardo Indígena Wayuu de la Alta Y Media Guajira
+3315.0;1609;;PNN-Bahia Portete - Kaurrele;
+3316.0;2800;;PNN-Cahuinari;RI-Resguardo Indígena de los Rios Miriti Parana (La Pedrera)
+3317.0;2801;;PNN-Cahuinari;RI-Resguardo Indígena Predio Putumayo
+3318.0;2802;;PNN-Cahuinari;RI-Resguardo Indígena Yukuna-Cubeo de Curare Los Ingleses
+3319.0;1598;;PNN-Cahuinari;
+332.0;2070;;;RI-Resguardo Indígena Embera La Jagua - Guachal y Agua Clara
+3320.0;2734;;PNN-Catatumbo Bari;RI-Resguardo Indígena Motilon Bari
+3321.0;2735;;PNN-Catatumbo Bari;RI-Resguardo Indígena Motilona Bari (Barira) de Catalaura
+3322.0;1530;;PNN-Catatumbo Bari;
+3323.0;1572;;PNN-Chingaza;
+3324.0;1623;DRMI-Cuchilla el Chuscal;PNN-Chingaza;
+3325.0;1651;RNSC-Verde Esperanza;PNN-Chingaza;
+3326.0;1652;RNSC-La Cochinito;PNN-Chingaza;
+3327.0;1653;RNSC-EL Tesoro;PNN-Chingaza;
+3328.0;1654;RFPR-Playas;PNN-Chingaza;
+3329.0;1656;PNR-Corredor de las Alegrias;PNN-Chingaza;
+333.0;2071;;;RI-Resguardo Indígena Embera Chami de Simorna
+3330.0;1657;RFPR-Cañones de los ríos Melcocho y Santo Domingo;PNN-Chingaza;
+3331.0;1660;RNSC-Hacienda Villa Mery;PNN-Chingaza;
+3332.0;3436;;PNN-Chingaza;
+3333.0;3450;;PNN-Chingaza;
+3334.0;3452;;PNN-Chingaza;
+3335.0;3458;;PNN-Chingaza;
+3336.0;3459;;PNN-Chingaza;
+3337.0;3463;DRMI-Cuchilla el Chuscal;PNN-Chingaza;
+3338.0;2784;;PNN-Complejo Volcanico Dona Juana Cascabel;RI-Resguardo Indígena Yanacona Descanse
+3339.0;2785;;PNN-Complejo Volcanico Dona Juana Cascabel;RI-Resguardo Indígena Inga de Descanse
+334.0;2072;;;RI-Resguardo Indígena Guahibo Macarieros
+3340.0;2786;;PNN-Complejo Volcanico Dona Juana Cascabel;RI-Resguardo Indígena Inga De Aponte
+3341.0;2787;;PNN-Complejo Volcanico Dona Juana Cascabel;RI-Resguardo Indígena de Yunguillo
+3342.0;2788;;PNN-Complejo Volcanico Dona Juana Cascabel;RI-Resguardo Indígena Sibundoy (Kamëntsa Biya De Sibundoy)
+3343.0;3404;RNSC-San Antonio;PNN-Complejo Volcanico Dona Juana Cascabel;RI-Resguardo Indígena Yanacona Descanse
+3344.0;1580;;PNN-Complejo Volcanico Dona Juana Cascabel;
+3345.0;1716;RNSC-San Antonio;PNN-Complejo Volcanico Dona Juana Cascabel;
+3346.0;1612;;PNN-Corales de Profundidad;
+3347.0;1555;;PNN-Cordillera de los Picachos;
+3348.0;1645;RNSC-El Retiro;PNN-Cordillera de los Picachos;
+3349.0;1503;;PNN-Cueva de los Guacharos;
+335.0;2073;;;RI-Resuardo Indígena de Chaluayaco
+3350.0;2760;;PNN-El Cocuy;RI-Resguardo Indígena Tunebo De Angosturas
+3351.0;2761;;PNN-El Cocuy;RI-Resguardo Indígena Uwa de Cibariza
+3352.0;2762;;PNN-El Cocuy;RI-Resguardo Indígena Tunebo de Sabanas de Curipao
+3353.0;2763;;PNN-El Cocuy;RI-Resguardo Indígena U´wa de Laguna Tranquila
+3354.0;2764;;PNN-El Cocuy;RI-Resguardo Indígena Uwa de Valles Del Sol
+3355.0;2765;;PNN-El Cocuy;RI-Resguardo Unido U´Wa Cubara De Tunebo
+3356.0;3655;;PNN-El Cocuy;RI-Resguardo Indígena Uwa de Cibariza
+3357.0;3656;;PNN-El Cocuy;RI-Resguardo Unido U´Wa Cubara De Tunebo
+3358.0;3657;;PNN-El Cocuy;RI-Resguardo Indígena Uwa de Valles Del Sol
+3359.0;3658;;PNN-El Cocuy;RI-Resguardo Unido U´Wa Cubara De Tunebo
+336.0;2074;;;RI-Resguardo Indígena Embera  de Do Imamma Tuma y Bella Luz
+3360.0;1562;;PNN-El Cocuy;
+3361.0;3455;;PNN-El Cocuy;
+3362.0;2805;;PNN-El Tuparro;RI-Resguardo Indígena Awia Tuparro
+3363.0;2806;;PNN-El Tuparro;RI-Resguardo Indígena Nacuanedorro Tuparro
+3364.0;1605;;PNN-El Tuparro;
+3365.0;1552;;PNN-Farallones de Cali;
+3366.0;1697;RNSC-La Esperanza;PNN-Farallones de Cali;
+3367.0;3432;;PNN-Farallones de Cali;
+3368.0;1497;;PNN-Gorgona;
+3369.0;2736;;PNN-La Paya;RI-Resguardo Indígena Muruy El Progreso
+337.0;2075;;;RI-Resguardo Indígena Uwa de Valles Del Sol
+3370.0;2737;;PNN-La Paya;RI-Resguardo Indígena Inga-Kichwa La Perecera
+3371.0;2738;;PNN-La Paya;RI-Resguardo Indígena Inga La Paya
+3372.0;2739;;PNN-La Paya;RI-Resguardo Indígena Inga de Cecilia Cocha
+3373.0;2740;;PNN-La Paya;RI-Resguardo Indígena Siona De Bajo Casacunte
+3374.0;2741;;PNN-La Paya;RI-Resguardo Indígena Witoto de Agua Negra
+3375.0;2742;;PNN-La Paya;RI-Resguardo Indígena Huitoto - Paraje de Witora O Huitora
+3376.0;2743;;PNN-La Paya;RI-Resguardo Indígena Huitoto de Lagarto Cocha
+3377.0;2744;;PNN-La Paya;RI-Resguardo Indígena El Hacha
+3378.0;2745;;PNN-La Paya;RI-Resguardo Indígena Witoto de Tukunare
+3379.0;2746;;PNN-La Paya;RI-Resguardo Indígena Bekocha Guajira
+338.0;2076;;;RI-Resguardo Indígena Chiquinima
+3380.0;2747;;PNN-La Paya;RI-Resguardo Indígena F+Ruide Naira+
+3381.0;2748;;PNN-La Paya;RI-Resguardo Indígena Coreguaje de Consara - Mecaya
+3382.0;2749;;PNN-La Paya;RI-Resguardo Indígena Huitoto De Jirijiri
+3383.0;3651;;PNN-La Paya;RI-Resguardo Indígena Inga de Cecilia Cocha
+3384.0;3652;;PNN-La Paya;RI-Resguardo Indígena Siona De Bajo Casacunte
+3385.0;1534;;PNN-La Paya;
+3386.0;2773;;PNN-La Serrania de Chiribiquete;RI-Resguardo Indígena El Itilla
+3387.0;2774;;PNN-La Serrania de Chiribiquete;RI-Resguardo Indígena Coreguaje de El Porvenir Kananguchal
+3388.0;2775;;PNN-La Serrania de Chiribiquete;RI-Resguardo Indígena Pijao, Tucano y Piratapuyo Llanos Del Yari - Yaguara II
+3389.0;2776;;PNN-La Serrania de Chiribiquete;RI-Resguardo Indígena de los Rios Miriti Parana (La Pedrera)
+339.0;2077;;;RI-Resguardo Indígena GUAMBIANA LA BONANZA
+3390.0;2777;;PNN-La Serrania de Chiribiquete;RI-Resguardo Indígena Witoto del paraje de Puerto Zabalo y Los Monos
+3391.0;2778;;PNN-La Serrania de Chiribiquete;RI-Resguardo Indígena Vaupes
+3392.0;1570;;PNN-La Serrania de Chiribiquete;
+3393.0;1587;;PNN-Las Hermosas - Gloria Valencia de Castano;
+3394.0;1646;RNSC-Pauxi pauxi Buenos Aires;PNN-Las Hermosas - Gloria Valencia de Castano;
+3395.0;1707;RNSC-La Granada;PNN-Las Hermosas - Gloria Valencia de Castano;
+3396.0;3462;;PNN-Las Hermosas - Gloria Valencia de Castano;
+3397.0;2704;;PNN-Las Orquideas;RI-Resguardo Indígena Murri-pantanos
+3398.0;2705;;PNN-Las Orquideas;RI-Resguardo Indígena Embera - Katio de Valle De Perdidas
+3399.0;2706;;PNN-Las Orquideas;RI-Resguardo Indígena Emebra - Katio de Chaquenoda
+34.0;1772;;;RI-Resguardo Indígena Nuevo Horizonte
+340.0;2078;;;RI-Resguardo Indígena Awa De Cañaveral
+3400.0;3675;;PNN-Las Orquideas;RI-Resguardo Indígena Embera - Katio de Valle De Perdidas
+3401.0;3677;;PNN-Las Orquideas;RI-Resguardo Indígena Emebra - Katio de Chaquenoda
+3402.0;3679;;PNN-Las Orquideas;RI-Resguardo Indígena Murri-pantanos
+3403.0;3681;;PNN-Las Orquideas;RI-Resguardo Indígena Emebra - Katio de Chaquenoda
+3404.0;1513;;PNN-Las Orquideas;
+3405.0;3437;;PNN-Las Orquideas;
+3406.0;3439;;PNN-Las Orquideas;
+3407.0;1515;;PNN-Los Corales del Rosario y de San Bernardo;
+3408.0;1524;;PNN-Los Katios;
+3409.0;3442;;PNN-Los Katios;
+341.0;2079;;;RI-Resguardo Indígena Guahibo de Bayoneros
+3410.0;1535;;PNN-Los Nevados;
+3411.0;1625;RFPR-Páramos de Telecom y Merchán;PNN-Los Nevados;
+3412.0;1626;DCS-Campoalegre;PNN-Los Nevados;
+3413.0;1628;RNSC-Santa Isabel;PNN-Los Nevados;
+3414.0;1634;RNSC-La Raquelita;PNN-Los Nevados;
+3415.0;1640;RNSC-Jikuri;PNN-Los Nevados;
+3416.0;1643;RNSC-Paway;PNN-Los Nevados;
+3417.0;2794;;PNN-Macuira;RI-Resguardo Indígena Wayuu de la Alta Y Media Guajira
+3418.0;1543;;PNN-Munchique;
+3419.0;2789;;PNN-Nevado del Huila;RI-Resguardo Indígena Paez De La Gaitanía
+342.0;2080;;;RI-Resguardo Indígena Wasapana Dagua
+3420.0;1581;;PNN-Nevado del Huila;
+3421.0;1718;RNSC-Clavellinas;PNN-Nevado del Huila;
+3422.0;1738;RNSC-Buenavista;PNN-Nevado del Huila;
+3423.0;1501;;PNN-Old Providence Mc Bean Lagoon;
+3424.0;2723;;PNN-Paramillo;RI-Resguardo Indígena Dochama
+3425.0;2724;;PNN-Paramillo;RI-Resguardo Indígena Embera-Katio Quebrada Cañaveral
+3426.0;2725;;PNN-Paramillo;RI-Resguardo Indígena Yaberarado
+3427.0;2726;;PNN-Paramillo;RI-Resguardo Indígena Embera-Katio de Iwagado
+3428.0;2727;;PNN-Paramillo;RI-Resguardo Indígena Embera Katio de Sever
+3429.0;2728;;PNN-Paramillo;RI-Resguardo Indígena Embera-Katio de Jaikerazavi
+343.0;2081;;;RI-Resguardo Indígena Embera Embera y Piapoco de los Rios Muco y Guarrojo
+3430.0;1525;;PNN-Paramillo;
+3431.0;1590;;PNN-Pisba;
+3432.0;3446;;PNN-Pisba;
+3433.0;2770;;PNN-Purace;RI-Resguardo Indígena Kokonuco y Yanacona de Paletara
+3434.0;2771;;PNN-Purace;RI-Resguardo Indigena Paez de Kokonuco
+3435.0;2772;;PNN-Purace;RI-Resguardo Indígena Papallaqta
+3436.0;1568;;PNN-Purace;
+3437.0;1649;RNSC-Los Tananeos;PNN-Purace;
+3438.0;1701;RNSC-La Baita;PNN-Purace;
+3439.0;2722;;PNN-Rio Pure;RI-Resguardo Indígena Predio Putumayo
+344.0;2082;;;RI-Resguardo Indígena Waunana de Puado, La Lerma, Matare y Terdo
+3440.0;1522;;PNN-Rio Pure;
+3441.0;1545;;PNN-Sanquianga;
+3442.0;1558;;PNN-Selva de Florencia;
+3443.0;2807;;PNN-Serrania de los Churumbelos  - Auka Wasi;RI-Resguardo Indígena Rumiñawi
+3444.0;2808;;PNN-Serrania de los Churumbelos  - Auka Wasi;RI-Resguardo Indígena San Gabriel
+3445.0;2809;;PNN-Serrania de los Churumbelos  - Auka Wasi;RI-Resguardo Indígena Yanacona de Villa Maria De Anamu
+3446.0;2810;;PNN-Serrania de los Churumbelos  - Auka Wasi;RI-Resguardo Indígena Inchi Iaku
+3447.0;2811;;PNN-Serrania de los Churumbelos  - Auka Wasi;RI-Resguardo Indígena Inga Rigcharikuna "Nuevo Despertar"
+3448.0;2812;;PNN-Serrania de los Churumbelos  - Auka Wasi;RI-Resguardo Indigena Inga Suma Iuiai
+3449.0;2813;;PNN-Serrania de los Churumbelos  - Auka Wasi;RI-Resguardo Indígena Inga de Mandiyaco
+345.0;2083;;;RI-Resguardo Indígena de Paso Ancho
+3450.0;2814;;PNN-Serrania de los Churumbelos  - Auka Wasi;RI-Resguardo Indígena Yanacona de Santa Marta
+3451.0;3663;;PNN-Serrania de los Churumbelos  - Auka Wasi;RI-Resguardo Indígena Yanacona de Villa Maria De Anamu
+3452.0;3664;;PNN-Serrania de los Churumbelos  - Auka Wasi;RI-Resguardo Indigena Inga Suma Iuiai
+3453.0;3665;;PNN-Serrania de los Churumbelos  - Auka Wasi;RI-Resguardo Indígena Inga Rigcharikuna "Nuevo Despertar"
+3454.0;3666;;PNN-Serrania de los Churumbelos  - Auka Wasi;RI-Resguardo Indígena Yanacona de Santa Marta
+3455.0;3667;;PNN-Serrania de los Churumbelos  - Auka Wasi;RI-Resguardo Indígena Inga de Mandiyaco
+3456.0;3668;;PNN-Serrania de los Churumbelos  - Auka Wasi;RI-Resguardo Indígena Yanacona de Santa Marta
+3457.0;1607;;PNN-Serrania de los Churumbelos  - Auka Wasi;
+3458.0;1574;;PNN-Serrania de los Yariguies;
+3459.0;1630;RFPR-El Popal;PNN-Serrania de los Yariguies;
+346.0;2084;;;RI-Resguardo Indígena Embera Katio de Sohaibado
+3460.0;1691;RNSC-Huasipungo;PNN-Serrania de los Yariguies;
+3461.0;3465;RFPR-El Popal;PNN-Serrania de los Yariguies;
+3462.0;3466;RNSC-Huasipungo;PNN-Serrania de los Yariguies;
+3463.0;1610;;PNN-Serranía de Manacacías;
+3464.0;2699;;PNN-Sierra Nevada de Santa Marta;RI-Resguardo Indígena Arhuaca O Ijke (Arhuaco De La Sierra)
+3465.0;2700;;PNN-Sierra Nevada de Santa Marta;RI-Resguardo Indigena Kankuamo
+3466.0;2701;;PNN-Sierra Nevada de Santa Marta;RI-Resguardo Indígena Kogui - Malayo y Arhuaco
+3467.0;1502;;PNN-Sierra Nevada de Santa Marta;
+3468.0;1573;;PNN-Sierra de la Macarena;
+3469.0;3454;;PNN-Sierra de la Macarena;
+347.0;2085;;;RI-Resguardo Indígena Nuevo Espinal
+3470.0;1499;;PNN-Sumapaz;
+3471.0;1704;RNSC-La Ceibita;PNN-Sumapaz;
+3472.0;1549;;PNN-Tama;
+3473.0;2797;;PNN-Tatama;RI-Resguardo Indígena Embera de Tarena
+3474.0;1594;;PNN-Tatama;
+3475.0;1639;RNSC-El Porvenir;PNN-Tatama;
+3476.0;1642;RNSC-Rancho Camaná;PNN-Tatama;
+3477.0;1514;;PNN-Tayrona;
+3478.0;1539;;PNN-Tinigua;
+3479.0;1600;;PNN-Uramba Bahia Malaga;
+348.0;2086;;;RI-Resguardo Embera Katio de Cañaverales - Antado
+3480.0;1627;AR-Humedal Maiciana Manacal;PNN-Uramba Bahia Malaga;
+3481.0;2729;;PNN-Utria;RI-Resguardo Indígena Embera de los Rios Valle y Boroboro
+3482.0;2730;;PNN-Utria;RI-Resguardo Indígena Embera de Alto Rio Bojaya
+3483.0;2731;;PNN-Utria;RI-Resguardo Indígena Embera de Alto Rio Buey
+3484.0;2732;;PNN-Utria;RI-Resguardo Indígena Emebera de los Rios Bete, Auro Bete y Auro del Buey
+3485.0;2733;;PNN-Utria;RI-Resguardo Indígena Embera de los Rios Jurubida, Chori y Alto Baudo
+3486.0;1527;;PNN-Utria;
+3487.0;2752;;PNN-Yaigoje Apaporis;RI-Resguardo Indígena de los Rios Miriti Parana (La Pedrera)
+3488.0;2753;;PNN-Yaigoje Apaporis;RI-Resguardo Indígena de Comeyafu
+3489.0;2754;;PNN-Yaigoje Apaporis;RI-Resguardo Indigena Puerto Córdoba
+349.0;2087;;;RI-Resguardo Indígena Waunana de Santa Rosa De Ijua
+3490.0;2755;;PNN-Yaigoje Apaporis;RI-Resguardo Indígena Yaigoje - Rio Apaporis
+3491.0;2756;;PNN-Yaigoje Apaporis;RI-Resguardo Indígena Vaupes
+3492.0;3653;;PNN-Yaigoje Apaporis;RI-Resguardo Indígena Yaigoje - Rio Apaporis
+3493.0;3654;;PNN-Yaigoje Apaporis;RI-Resguardo Indígena Vaupes
+3494.0;1548;;PNN-Yaigoje Apaporis;
+3495.0;1498;;RFPN-Bosque Oriental de Bogota;
+3496.0;1619;AR-Parque Ecologico Humedal Charco  Oasis;RFPN-Bosque Oriental de Bogota;
+3497.0;1681;RNSC-El Jardín;RFPN-Bosque Oriental de Bogota;
+3498.0;1730;RNSC-Huisyzuca;RFPN-Bosque Oriental de Bogota;
+3499.0;2795;;RFPN-Carauta;RI-Resguardo Indígena Murri-pantanos
+35.0;1773;;;RI-Resguardo Indígena Sumain Wayuu Uuliana
+350.0;2088;;;RI-Resguardo Indígena Wayuu de Potrerito
+3500.0;2796;;RFPN-Carauta;RI-Resguardo Indígena Emebra - Katio de Chaquenoda
+3501.0;3680;;RFPN-Carauta;RI-Resguardo Indígena Murri-pantanos
+3502.0;3682;;RFPN-Carauta;RI-Resguardo Indígena Emebra - Katio de Chaquenoda
+3503.0;1588;;RFPN-Carauta;
+3504.0;3440;;RFPN-Carauta;
+3505.0;1519;;RFPN-Cerro Quinini;
+3506.0;1669;RNSC-Taibará;RFPN-Cerro Quinini;
+3507.0;1500;;RFPN-Cerro Vanguardia;
+3508.0;1532;;RFPN-Cuchilla de Sucuncuca;
+3509.0;1526;;RFPN-Cuchilla del Minero;
+351.0;2089;;;RI-Resguardo Indígena Guahibo de Caño Claro
+3510.0;1631;DRMI-Laguna de San Diego;RFPN-Cuchilla del Minero;
+3511.0;1632;RNSC-Aguas Calientes;RFPN-Cuchilla del Minero;
+3512.0;1585;;RFPN-Cuenca Alta del Cano Alonso;
+3513.0;1523;;RFPN-Cuenca Alta del Cano Vanguardia;
+3514.0;1547;;RFPN-Cuenca Alta del Rio Cali;
+3515.0;1542;;RFPN-Cuenca Alta del Rio Jirocasaca;
+3516.0;2766;;RFPN-Cuenca Alta del Rio Mocoa;RI-Resguardo Indígena Inga De Condagua
+3517.0;2767;;RFPN-Cuenca Alta del Rio Mocoa;RI-Resguardo Indígena de Yunguillo
+3518.0;2768;;RFPN-Cuenca Alta del Rio Mocoa;RI-Resguardo Indígena Sibundoy (Kamëntsa Biya De Sibundoy)
+3519.0;2769;;RFPN-Cuenca Alta del Rio Mocoa;RI-Resguardo Indígena Kamentsa - Inga de San Francisco
+352.0;2090;;;RI-Resguardo Indígena Muchajagua del pueblo Zenu
+3520.0;3659;;RFPN-Cuenca Alta del Rio Mocoa;RI-Resguardo Indígena Inga De Condagua
+3521.0;3660;;RFPN-Cuenca Alta del Rio Mocoa;RI-Resguardo Indígena Sibundoy (Kamëntsa Biya De Sibundoy)
+3522.0;1564;;RFPN-Cuenca Alta del Rio Mocoa;
+3523.0;2750;;RFPN-Cuenca Alta del Rio Nembi;RI-Resguardo Indígena Awa de Cuaiquer Integrado La Milagrosa
+3524.0;2751;;RFPN-Cuenca Alta del Rio Nembi;RI-Resguardo Indígena Awa de Palmar Imbi
+3525.0;1546;;RFPN-Cuenca Alta del Rio Nembi;
+3526.0;2798;;RFPN-Cuenca Alta del Rio Satoca;RI-Resguardo Indígena Uwa de Playas De Bojaba
+3527.0;2799;;RFPN-Cuenca Alta del Rio Satoca;RI-Resguardo Indígena Uwa de Valles Del Sol
+3528.0;1596;;RFPN-Cuenca Alta del Rio Satoca;
+3529.0;1508;;RFPN-Cuenca Hidrografica de la Quebrada la Tablona;
+353.0;2091;;;RI-Resguardo Indígena Wayuu de Trupiogacho y La Meseta
+3530.0;1648;RNSC-Los Volcanes;RFPN-Cuenca Hidrografica de la Quebrada la Tablona;
+3531.0;1528;;RFPN-Cuenca del Rio Cravo Sur;
+3532.0;3445;;RFPN-Cuenca del Rio Cravo Sur;
+3533.0;1565;;RFPN-Cuenca del Rio Tame;
+3534.0;3456;;RFPN-Cuenca del Rio Tame;
+3535.0;2707;;RFPN-Darien;RI-Resguardo Indígena Embera Katio de Chidima - Tolo
+3536.0;2708;;RFPN-Darien;RI-Resguardo Indígena Embera Dobida Dogibi
+3537.0;2709;;RFPN-Darien;RI-Resguardo Indígena Embera Katio de Pescadito
+3538.0;2710;;RFPN-Darien;RI-Resguardo Indígena de Arquia
+3539.0;1516;;RFPN-Darien;
+354.0;2092;;;RI-Resguardo Indígena Mhuysqa Chuta Fa Aba "Los Hijos Del Maiz"
+3540.0;1690;RNSC-El Tirriagal;RFPN-Darien;
+3541.0;3441;;RFPN-Darien;
+3542.0;2757;;RFPN-De Urrao;RI-Resguardo Indígena Murri-pantanos
+3543.0;2758;;RFPN-De Urrao;RI-Resguardo Indígena Embera - Katio de Valle De Perdidas
+3544.0;2759;;RFPN-De Urrao;RI-Resguardo Indígena Emebra - Katio de Chaquenoda
+3545.0;3676;;RFPN-De Urrao;RI-Resguardo Indígena Embera - Katio de Valle De Perdidas
+3546.0;3678;;RFPN-De Urrao;RI-Resguardo Indígena Emebra - Katio de Chaquenoda
+3547.0;1559;;RFPN-De Urrao;
+3548.0;1617;RNSC-El Porvenir;RFPN-De Urrao;
+3549.0;1676;RNSC-Lote No. 2 La Chonta;RFPN-De Urrao;
+355.0;2093;;;RI-Resguardo Indígena Katio
+3550.0;1689;RNSC-Puerto Lopez;RFPN-De Urrao;
+3551.0;1733;RNSC-Matilde Montañez ? Páramo Del Sol;RFPN-De Urrao;
+3552.0;3438;;RFPN-De Urrao;
+3553.0;1560;;RFPN-De la Cuenca Hidrografica de los Rios Escalerete y San Cipriano;
+3554.0;3434;;RFPN-De la Cuenca Hidrografica de los Rios Escalerete y San Cipriano;
+3555.0;1506;;RFPN-El Cerro Dapa Carisucio;
+3556.0;1561;;RFPN-El Hortigal;
+3557.0;1635;RNSC-El Vesubio;RFPN-El Hortigal;
+3558.0;1599;;RFPN-El Malmo;
+3559.0;1540;;RFPN-La Bolsa;
+356.0;2094;;;RI-Resguardo Indígena Coreguaje de Getucha
+3560.0;1658;DRMI-Cerros de San Nicolás;RFPN-La Bolsa;
+3561.0;3451;;RFPN-La Bolsa;
+3562.0;1510;;RFPN-La Elvira;
+3563.0;1618;RNSC-Monte Calicó;RFPN-La Elvira;
+3564.0;1647;RNSC-La Reforma;RFPN-La Elvira;
+3565.0;1670;RNSC-Berlín;RFPN-La Elvira;
+3566.0;1671;RNSC-El Senderito;RFPN-La Elvira;
+3567.0;1693;RNSC-Betania;RFPN-La Elvira;
+3568.0;1696;RNSC-El Nacedero;RFPN-La Elvira;
+3569.0;1719;RNSC-Villa Pensión;RFPN-La Elvira;
+357.0;2095;;;RI-Resguardo Indígena Paez de Agua Negra
+3570.0;1721;RNSC-El Ensueño;RFPN-La Elvira;
+3571.0;1727;RNSC-El Ensueño 2;RFPN-La Elvira;
+3572.0;2711;;RFPN-La Planada;RI-Resguardo Indígena Awa de Pialapi - Pueblo Viejo - San Miguel - Yare
+3573.0;2712;;RFPN-La Planada;RI-Resguardo Indígena Awa de Cuchilla Palmar
+3574.0;1517;;RFPN-La Planada;
+3575.0;2791;;RFPN-Laguna La Cocha Cerro Patascoy;RI-Resguardo Indígena Embera Chami de Simorna
+3576.0;2792;;RFPN-Laguna La Cocha Cerro Patascoy;RI-Resguardo Indígena Inga De Santiago
+3577.0;2793;;RFPN-Laguna La Cocha Cerro Patascoy;RI-Resguardo Indígena Quillacinga de Refugio Del Sol
+3578.0;1586;;RFPN-Laguna La Cocha Cerro Patascoy;
+3579.0;1668;PNR-Serranía del Perijá;RFPN-Laguna La Cocha Cerro Patascoy;
+358.0;2096;;;RI-Resguardo Indígena Waunana de Buenavista
+3580.0;1683;RNSC-Piedra Petaca;RFPN-Laguna La Cocha Cerro Patascoy;
+3581.0;1686;RNSC-Mata de Palma;RFPN-Laguna La Cocha Cerro Patascoy;
+3582.0;1687;RNSC-La Virginia;RFPN-Laguna La Cocha Cerro Patascoy;
+3583.0;1699;DRMI-Isla Ají;RFPN-Laguna La Cocha Cerro Patascoy;
+3584.0;1732;RNSC-San Francisco;RFPN-Laguna La Cocha Cerro Patascoy;
+3585.0;3444;;RFPN-Laguna La Cocha Cerro Patascoy;
+3586.0;1521;;RFPN-Las Cuencas Hidrograficas del Rio Blanco y Quebrada Olivares;
+3587.0;1724;RNSC-Reserva Natural Cantares;RFPN-Las Cuencas Hidrograficas del Rio Blanco y Quebrada Olivares;
+3588.0;1737;RNSC-La Favorita;RFPN-Las Cuencas Hidrograficas del Rio Blanco y Quebrada Olivares;
+3589.0;1591;;RFPN-Mistela;
+359.0;2097;;;RI-Resguardo Indígena Embera-Katio y Waunana del Rio Quiparado
+3590.0;1544;;RFPN-Paramo El Atravesado;
+3591.0;1684;RNSC-Macarena;RFPN-Paramo El Atravesado;
+3592.0;1512;;RFPN-Paramo Grande;
+3593.0;1655;PNR-Corredor de las Alegrias;RFPN-Paramo Grande;
+3594.0;1698;RNSC-La Cristalina;RFPN-Paramo Grande;
+3595.0;1702;RNSC-Cuchavira;RFPN-Paramo Grande;
+3596.0;1703;RNSC-Renasie;RFPN-Paramo Grande;
+3597.0;1728;RNSC-El Zoque;RFPN-Paramo Grande;
+3598.0;1731;RNSC-El Porvenir;RFPN-Paramo Grande;
+3599.0;3435;;RFPN-Paramo Grande;
+36.0;1774;;;RI-Resguardo Indígena Itti Takke
+360.0;2098;;;RI-Resguardo Indígena Embera de Santa Cecilia de la Quebrada Oro Choco
+3600.0;1531;;RFPN-Parque el Higueron;
+3601.0;1576;;RFPN-Quebrada Guadualito y El Negrito;
+3602.0;1583;;RFPN-Quebrada Honda y Canos Parrado y Buque;
+3603.0;1722;RNSC-Nakua;RFPN-Quebrada Honda y Canos Parrado y Buque;
+3604.0;1578;;RFPN-Quebrada La Nona;
+3605.0;1638;RNSC-La Pedregoza;RFPN-Quebrada La Nona;
+3606.0;1662;RNSC-La Lucha;RFPN-Quebrada La Nona;
+3607.0;1566;;RFPN-Quebrada La Valenzuela;
+3608.0;1507;;RFPN-Quebradas El Penon y San Juan;
+3609.0;1582;;RFPN-Rio  Amaime;
+361.0;2099;;;RI-Resguardo Indígena  Pijao de Aico
+3610.0;1667;RNSC-Campohermoso;RFPN-Rio  Amaime;
+3611.0;1673;RNSC-La Albania;RFPN-Rio  Amaime;
+3612.0;1674;RNSC-Conjunto de Reservas Naturales de Sumicol S.A.S. Predio La Pintada;RFPN-Rio  Amaime;
+3613.0;1675;RNSC-El Sauce;RFPN-Rio  Amaime;
+3614.0;1678;RNSC-Doñana;RFPN-Rio  Amaime;
+3615.0;1679;RNSC-Urianaka;RFPN-Rio  Amaime;
+3616.0;1682;RNSC-Los Guaduales;RFPN-Rio  Amaime;
+3617.0;1688;RNSC-Campo Alegre;RFPN-Rio  Amaime;
+3618.0;1709;RNSC-1810;RFPN-Rio  Amaime;
+3619.0;1710;RNSC-Viracocha;RFPN-Rio  Amaime;
+362.0;2100;;;RI-Resguardo Indígena Cañon Del Sanquinini
+3620.0;1711;RNSC-Estrella De Agua;RFPN-Rio  Amaime;
+3621.0;1712;RNSC-El Porvenir;RFPN-Rio  Amaime;
+3622.0;1713;RNSC-Anukwe;RFPN-Rio  Amaime;
+3623.0;1714;RNSC-El Porvenir;RFPN-Rio  Amaime;
+3624.0;1715;RNSC-La Jabonera;RFPN-Rio  Amaime;
+3625.0;1723;RNSC-El Silencio;RFPN-Rio  Amaime;
+3626.0;3461;;RFPN-Rio  Amaime;
+3627.0;1608;;RFPN-Rio Algodonal;
+3628.0;2702;;RFPN-Rio Anchicaya;RI-Resguardo Indígena Nasa Paez de Yu Yik Kwe
+3629.0;1504;;RFPN-Rio Anchicaya;
+363.0;2101;;;RI-Resguardo Indígena Sikuani y Puinave de Cumaral - Guamuco
+3630.0;1672;RNSC-La Planta Eléctrica;RFPN-Rio Anchicaya;
+3631.0;1685;RNSC-Villa Chica;RFPN-Rio Anchicaya;
+3632.0;3431;;RFPN-Rio Anchicaya;
+3633.0;3433;;RFPN-Rio Anchicaya;
+3634.0;1553;;RFPN-Rio Bobo y Buesaquillo;
+3635.0;1661;PNR-Cortadera;RFPN-Rio Bobo y Buesaquillo;
+3636.0;1664;RNSC-La Gurrera;RFPN-Rio Bobo y Buesaquillo;
+3637.0;1536;;RFPN-Rio Dagua;
+3638.0;1620;AR-Parque Ecologico Humedal Caracoli;RFPN-Rio Dagua;
+3639.0;1621;PNR-Páramo del Duende;RFPN-Rio Dagua;
+364.0;2102;;;RI-Resguardo Indígena Pijao de Santa Marta Diamante
+3640.0;1705;RNSC-Arcasim;RFPN-Rio Dagua;
+3641.0;1563;;RFPN-Rio Guabas;
+3642.0;1680;RNSC-El Regalito;RFPN-Rio Guabas;
+3643.0;1706;RNSC-La Granada;RFPN-Rio Guabas;
+3644.0;3448;;RFPN-Rio Guabas;
+3645.0;3469;RNSC-El Regalito;RFPN-Rio Guabas;
+3646.0;3470;RNSC-La Granada;RFPN-Rio Guabas;
+3647.0;1593;;RFPN-Rio Guadalajara;
+3648.0;1708;RNSC-La Granada;RFPN-Rio Guadalajara;
+3649.0;1505;;RFPN-Rio Leon;
+365.0;2103;;;RI-Resguardo Indígena Chigorodo Memba
+3650.0;2703;;RFPN-Rio Melendez;RI-Resguardo Indígena Kofan Santiago De Cali
+3651.0;1509;;RFPN-Rio Melendez;
+3652.0;1735;RNSC-San Judas;RFPN-Rio Melendez;
+3653.0;1736;RNSC-Cantaclaro;RFPN-Rio Melendez;
+3654.0;1554;;RFPN-Rio Morales;
+3655.0;1692;RNSC-Las Garzas;RFPN-Rio Morales;
+3656.0;1579;;RFPN-Rio Nare;
+3657.0;1665;RNSC-Fuenteviva;RFPN-Rio Nare;
+3658.0;1677;RNSC-Desengañito;RFPN-Rio Nare;
+3659.0;1537;;RFPN-Rio Rucio;
+366.0;2104;;;RI-Resguardo Indígena Pijao de Pocara
+3660.0;3449;;RFPN-Rio Rucio;
+3661.0;1597;;RFPN-Rio San Francisco;
+3662.0;1538;;RFPN-Rio Tejo;
+3663.0;1606;;RFPN-Rios Blanco y Negro;
+3664.0;1616;RNSC-Parcela No. 20 Boca de Monte;RFPN-Rios Blanco y Negro;
+3665.0;1622;DRMI-Rio Subachoque y Pantano de Arce;RFPN-Rios Blanco y Negro;
+3666.0;1624;DRMI-Cuchilla el Chuscal;RFPN-Rios Blanco y Negro;
+3667.0;1650;RNSC-Las Brisas;RFPN-Rios Blanco y Negro;
+3668.0;3460;;RFPN-Rios Blanco y Negro;
+3669.0;3464;DRMI-Cuchilla el Chuscal;RFPN-Rios Blanco y Negro;
+367.0;2105;;;RI-Resguardo Indígena Wananos, Carapanas, Cubeos y Piratapuyos de Vuelta Del Alivio
+3670.0;1567;;RFPN-Rios Chorrera y Concepcion;
+3671.0;1659;DRMI-Cerros de San Nicolás;RFPN-Rios Chorrera y Concepcion;
+3672.0;1700;RNSC-Guacamayo;RFPN-Rios Chorrera y Concepcion;
+3673.0;3457;;RFPN-Rios Chorrera y Concepcion;
+3674.0;1529;;RFPN-Rios Zabaletas y Cerrito;
+3675.0;1615;RNSC-Bosques De Chipaque;RFPN-Rios Zabaletas y Cerrito;
+3676.0;1666;RNSC-El Edén;RFPN-Rios Zabaletas y Cerrito;
+3677.0;1720;RNSC-Reserva Natural Madhú 1;RFPN-Rios Zabaletas y Cerrito;
+3678.0;3447;;RFPN-Rios Zabaletas y Cerrito;
+3679.0;1541;;RFPN-Serrania La Lindosa - Angosturas II;
+368.0;2106;;;RI-Resguardo Indígena de Canime
+3680.0;1629;RNSC-Terrapreta;RFPN-Serrania La Lindosa - Angosturas II;
+3681.0;3453;;RFPN-Serrania La Lindosa - Angosturas II;
+3682.0;1577;;RFPN-Serrania de Coraza y Montes de Maria;
+3683.0;1694;RNSC-Palogrande;RFPN-Serrania de Coraza y Montes de Maria;
+3684.0;1725;RNSC-Caracolí;RFPN-Serrania de Coraza y Montes de Maria;
+3685.0;1611;;RFPN-Serranía El Capricho, Mirolindo y Cerritos;
+3686.0;1592;;RFPN-Sierra el Peligro;
+3687.0;1633;RNSC-La Macarena;RFPN-Sierra el Peligro;
+3688.0;1614;;RN-Cordillera Beata;
+3689.0;2803;;RN-Nukak;RI-Resguardo Indígena Nukak Maku
+369.0;2107;;;RI-Resguardo Indígena Misak Piscitau
+3690.0;2804;;RN-Nukak;RI-RI Puinave y Curripaco de Morichal Viejo - Santa Rosa, Cerro Cucuy, Santa Cruz, Caño Danta
+3691.0;1602;;RN-Nukak;
+3692.0;2779;;RN-Puinawai;RI-Resguardo Indígena de la Cuenca Media Y Alta del Rio Inirida
+3693.0;2780;;RN-Puinawai;RI-Resguardo Indígena Rio Cuiari e Isana
+3694.0;2781;;RN-Puinawai;RI-Resguardo Indígena Curripaco de Tonina, Sejal, San Jose y Otras
+3695.0;2782;;RN-Puinawai;RI-Resguardo Indígena Curripaco de la Parte Alta del Rio Guainia
+3696.0;3661;;RN-Puinawai;RI-Resguardo Indígena de la Cuenca Media Y Alta del Rio Inirida
+3697.0;3662;;RN-Puinawai;RI-Resguardo Indígena Rio Cuiari e Isana
+3698.0;1571;;RN-Puinawai;
+3699.0;1511;;SF-Acandi  Playon Y Playona;
+37.0;1775;;;RI-Resguardo Indígena De Cumbal
+370.0;2108;;;RI-Resguardo Indígena Inga De Santiago
+3700.0;1663;RNSC-Providencia;SF-Acandi  Playon Y Playona;
+3701.0;1589;;SFF-Cienaga Grande de Santa Marta;
+3702.0;1557;;SFF-El Corchal El Mono Hernandez;
+3703.0;1595;;SFF-Galeras;
+3704.0;1604;;SFF-Guanenta Alto Rio Fonce;
+3705.0;1637;DRMI-La Selva;SFF-Guanenta Alto Rio Fonce;
+3706.0;1726;RNSC-Corazón De La Montaña;SFF-Guanenta Alto Rio Fonce;
+3707.0;3467;DRMI-La Selva;SFF-Guanenta Alto Rio Fonce;
+3708.0;3468;RNSC-Corazón De La Montaña;SFF-Guanenta Alto Rio Fonce;
+3709.0;1551;;SFF-Iguaque;
+371.0;2109;;;RI-Resguardo Indígena Vania Chami de Argelia
+3710.0;1734;RNSC-Mareigua;SFF-Iguaque;
+3711.0;1601;;SFF-Los Colorados;
+3712.0;1695;RNSC-La Luisa;SFF-Los Colorados;
+3713.0;2790;;SFF-Los Flamencos;RI-Resguardo Indígena Wayuu de Tocoromana, Loma Fresca y Chentico - "Perratpu"
+3714.0;1584;;SFF-Los Flamencos;
+3715.0;1569;;SFF-Otun Quimbaya;
+3716.0;1636;RFPR-La Montaña;SFF-Otun Quimbaya;
+3717.0;1641;RNSC-Jikuri;SFF-Otun Quimbaya;
+3718.0;1644;RNSC-Paway;SFF-Otun Quimbaya;
+3719.0;1729;RNSC-Sierra Morena;SFF-Otun Quimbaya;
+372.0;2110;;;RI-Resguardo Indígena Eperara Siapidara de Nueva Bellavista y Partidero
+3720.0;1533;;SFF-Yuruparí - Malpelo;
+3721.0;3443;;SFL-Isla de la Corota;
+3722.0;2783;;SFL-Plantas Medicinales Orito - Ingi Ande;RI-Resguardo Indígena Embera Chami de Alto Orito
+3723.0;1575;;SFL-Plantas Medicinales Orito - Ingi Ande;
+3724.0;1496;;VP-Isla de Salamanca;
+373.0;2111;;;RI-Resguardo Indígena Pijao de Imba
+374.0;2112;;;RI-Resguardo Indígena Karabijua
+375.0;2113;;;RI-Resguardo Indígena Kofan Campoalegre del Afilador
+376.0;2114;;;RI-Resguardo Indígena Pijao de Oro
+377.0;2115;;;RI-Resguardo Indígena Awa De Los Guaduales
+378.0;2116;;;RI-Resguardo Indígena Eperara Siapidara  de San Juan de Pampon
+379.0;2117;;;RI-Resguardo Indígena Cofan Tssenene
+38.0;1776;;;RI-Resguardo Indígena Casica Ibanasca
+380.0;2118;;;RI-Resguardo Indígena Pijao de Guasimal
+381.0;2119;;;RI-Resguardo Indígena El Oso
+382.0;2120;;;RI-Resguardo Indígena Pijao de Balsillas
+383.0;2121;;;RI-Resguardo Indígena Paez de las Brisas (Nasa Kwe´s Kiwe)
+384.0;2122;;;RI-Resguardo Indígena Embera de Mungarado
+385.0;2123;;;RI-Resguardo Indígena Omaga
+386.0;2124;;;RI-Resguardo Indígena Siona de Vegas de Santana
+387.0;2125;;;RI-Resguardo Indígena Piapoco de Flores-Sombrero
+388.0;2126;;;RI-Resguardo Indígena Paez Quintana
+389.0;2127;;;RI-Resguardo Indígena Raices De Oriente
+39.0;1777;;;RI-Resguardo Indígena Paez de Bache
+390.0;2128;;;RI-Resguardo Indígena Yanacona Descanse
+391.0;2129;;;RI-Resguardo Indígena Dachi Nabe Drua
+392.0;2130;;;RI-Resguardo Indígena Flor Del Monte
+393.0;2131;;;RI-Resguardo Indígena Guelmambi El Bombo
+394.0;2132;;;RI-Resguardo Indígena Wayuu de Provincial
+395.0;2133;;;RI-Resguardo Indígena Embera Katio de Cuti
+396.0;2134;;;RI-Resguardo Indígena Kerakar
+397.0;2135;;;RI-Resguardo Indígena Alto Peñalisa
+398.0;2136;;;RI-Resguardo Indígena Irrualu
+399.0;2137;;;RI-Resguardo Indígena de La Trina
+4.0;1742;;;RI-Resguardo Indígena La Sardina
+40.0;1778;;;RI-Resguardo Indígena Piapoco de Cananama
+400.0;2138;;;RI-Resguardo Indígena San Pedro Alcantara de la Sabaneta
+401.0;2139;;;RI-Resguardo Indígena Runakuna Kutin Urkuman Quin
+402.0;2140;;;RI-Resguardo Indígena Chimaluú
+403.0;2141;;;RI-Resguardo Indígena La Libertad
+404.0;2142;;;RI-Resguardo Indígena Zenú Brojolá
+405.0;2143;;;RI-Resguardo Indígena Inga-Calarca
+406.0;2144;;;RI-Resguardo Indígena Wayu El Soldado Parate Bien
+407.0;2145;;;RI-Resguardo Indígena Wayuu de El Zaino, Guayabito y Muriaytuy
+408.0;2146;;;RI-Resguardo Indígena de Puerto Nare
+409.0;2147;;;RI- Resguardo Indígena Paez de La Siberia
+41.0;1779;;;RI-Resguardo Indígena Guahibo Genareros  - ( denominados La Esperanza, La Fortaleza y El Totumo)
+410.0;2148;;;RI-Resguardo Indígena Guahibo La Isla
+411.0;2149;;;RI-Resguardo Indígena Puerta Del Macizo
+412.0;2150;;;RI-Resguardo Indígena Pijao de Totarco Tamarindo
+413.0;2151;;;RI-Resguardo Indígena Paez de Huellas
+414.0;2152;;;RI-Resguardo Indígena Nukanchipa Alpa Amukunapa Wasi
+415.0;2153;;;RI-Resguardo Indigian Siona de Buenavista
+416.0;2154;;;RI-Resguardo Indigena Inga Suma Iuiai
+417.0;2155;;;RI-Resguardo Indígena Puinave-Tucano-Curripaco-Cubeo, de los parajes de Almidon - La Ceiba
+418.0;2156;;;RI- Resguardo Indígena Waunana de La Union Choco - San Cristobal
+419.0;2157;;;RI-Resguardo Indígena Bidukar - La Mecenia
+42.0;1780;;;RI-Resguardo Indígena La Lucha
+420.0;2158;;;RI-Resguardo Indígena Paez de Alto Lorenzo
+421.0;2159;;;RI-Resguardo Indígena Embera del Rio Torreido
+422.0;2160;;;RI-Resguardo Indigena Naexal Lajt
+423.0;2161;;;RI-Resguardo Indígena Wayuu de Okochi
+424.0;2162;;;RI-Resguardo Indígena Witoto de Amenanae (Charco del Niño Dios)
+Witoto de Mesai (Nombre Nuevo)
+425.0;2163;;;RI-Resguardo Indígena Embera de los Rios Dominic,  Londoño y Apartado
+426.0;2164;;;RI- Resguardo Indígena Nasa La Nueva Esperanza
+427.0;2165;;;RI-Resguardo Indígena Zenu del Alto San Jorge
+428.0;2166;;;RI-Resguardo Indígena Dai Umadamia
+429.0;2167;;;RI-Resguardo Indígena Zenú de Pablo Muera
+43.0;1781;;;RI-Resguardo Indígena Embera Drua
+430.0;2168;;;RI-Resguardo Indígena La Victoria
+431.0;2169;;;RI-Resguardo Indígena Unión Wouunan Noonan
+432.0;2170;;;RI-Resguardo Indígena San Sebastian del Pueblo Pastos
+433.0;2171;;;RI-Resguardo Indígena Embera de los Rios Pavarando y Amparrado Medio
+434.0;2172;;;RI-Resguardo Indígena Embera-Katio  de Amparrado Alto Medio
+435.0;2173;;;RI-Resguardo Indígena Nasa Paez de Yu Yik Kwe
+436.0;2174;;;RI-Resguardo Indígena Awa La Cabaña
+437.0;2175;;;RI-Resguardo Indígena Day Drua Las Palmeras
+438.0;2176;;;RI-Resguardo Indígena Chiasalu
+439.0;2177;;;RI-Resguardo Indígena Dachi Bedea
+44.0;1782;;;RI-Resguardo Indígena Pijao El Tambo
+440.0;2178;;;RI-Resguardo Indígena Cuaiquuier de los parajes Cuambi y Yaslambi
+441.0;2179;;;RI-Resguardo Indígena Awa  de Piguambi Palangala
+442.0;2180;;;RI-Resguardo Indígena Pijao de San Antonio de Calarma
+443.0;2181;;;RI-Resguardo Indígena Awa de Pingullo Sardinero
+444.0;2182;;;RI-Resguardo Indígena Guahibo y Puinave de Carrizal
+445.0;2183;;;RI-Resguardo Indígena Piapoco / Sikuani-Guahibo de Chigüiro
+446.0;2184;;;RI-Resguardo Indígena Sikuani de Waliani
+447.0;2185;;;RI-Resguardo Indígena Embera-Katio de La Puria
+448.0;2186;;;RI-Resguardo Indígena Piapoco de Concordia
+449.0;2187;;;RI-Resguardo Indígena Nasa Embera Chami deLa Delfina
+45.0;1783;;;RI-Resguardo Indígena Cubeo Yavilla II
+450.0;2188;;;RI-Resguardo Indígena Guahibo de Merey - La Veraita
+451.0;2189;;;RI-Resguardo Indígena Guanano de Charco Caiman
+452.0;2190;;;RI-Resguardo Indígena Guahibo del Rio Siare o Barranco Lindo
+453.0;2191;;;RI-Resguardo Indígena Piapoco de Chocon
+454.0;2192;;;RI-Resguardo Indígena Guahibo de las Lagunas Egua y Guariacana
+455.0;2193;;;RI-Resguardo Indigrena de los parajes de Caranacoa-  Yuri -  Laguna Morocoto
+456.0;2194;;;RI-Resguardo Indígena Awá La Turbia
+457.0;2195;;;RI-Resguardo Indígena Piapoco y Guahibo de Minitas - Miralindo
+458.0;2196;;;RI-Resguardo Indígena Sikuani de Nueva Esperanza del Tomo
+459.0;2197;;;RI-Resguardo Indígena Eperara - Siapidaara de Quebrada Grande
+46.0;1784;;;RI-Resguardo Indígena Yanacona El Moral
+460.0;2198;;;RI-Resguardo Indígena Guahibo de Los Rios Tomo y Los Caños Urimica y Samarro
+461.0;2199;;;RI-Resguardo Indígena Embera Guayabal de Partado
+462.0;2200;;;RI-Resguardo Indígena Awa de Guelmambi - Caraño
+463.0;2201;;;RI-Resguardo Indígena Embera Katio del Rio Murindo
+464.0;2202;;;RI-Resguardo Indígena Embera Chami La Italia
+465.0;2203;;;RI-Resguardo Indígena Waunana de Santa Maria De Pangala
+466.0;2204;;;RI-Resguardo Indígena Sikuani De Iwiwi
+467.0;2205;;;RI-Resguardo Indígena Pijao de La Tatacoa
+468.0;2206;;;RI-Resguardo Indígena de Corocoro
+469.0;2207;;;RI-Resguardo Indígena Pijao Santa Marta Inspeccion
+47.0;1785;;;RI-Resguardo Indígena Coreguaje de Maticurú
+470.0;2208;;;RI-Resguardo Indígena Kofan
+471.0;2209;;;RI-Resguardo Indígena Chimbagal
+472.0;2210;;;RI-Resguardo Indígena Barranco Ceiba Y Laguna Araguato
+473.0;2211;;;RI-Resguardo Indígena Paez de Calderas
+474.0;2212;;;RI-Resguardo Indígena Yachay Wasi
+475.0;2213;;;RI-Resguardo Indígena Kofan de Ukumari Kankhe
+476.0;2214;;;RI-Resguardo Indígena Awa de El Gran Sabalo
+477.0;2215;;;RI-Resguardo Indígena Awa de Playa Larga
+478.0;2216;;;RI-Resguardo Indígena de Cusumbe - Agua Blanca
+479.0;2217;;;RI-Resguardo Indígena Embera de Chimurro y Nendo
+48.0;1786;;;RI-Resguardo Indígena Guahibo - Roqueros  El Dorado
+480.0;2218;;;RI-Resguardo Indígena Awa de El Cedro, Las Peñas, La Brava, Pilví y La Pintada
+481.0;2219;;;RI-Resguardo Indígena Awa de Pialapi - Pueblo Viejo - San Miguel - Yare
+482.0;2220;;;RI-Resguardo Indígena Inga-Kichwa La Perecera
+483.0;2221;;;RI-Resguardo Inga de San Miguel De La Castellana
+484.0;2222;;;RI-Resguardo Indígena Embera del Rio Jarapeto
+485.0;2223;;;RI-Resguardo Indígena Wayuu de Cerrodeo
+486.0;2224;;;RI-Resguardo Indígena Paez Los Planes
+487.0;2225;;;RI-Resguardo Indígena de la Cuenca Media Y Alta del Rio Inirida
+488.0;2226;;;RI-Resguardo Indígena Nasa Paez De Musse Ukwe
+489.0;2227;;;RI-Resguardo Indígena Awa de  Alto Cartagena
+49.0;1787;;;RI-Resguardo Indígena Naara Kajmanta
+490.0;2228;;;RI-Resguardo Indígena Awa Kwaiker de Cuasbi - La Faldada
+491.0;2229;;;RI-Resguardo Indigensa Pijao de Anacarco
+492.0;2230;;;RI-Resguardo Indígena Awa de Nulpe Medio-Alto y Rio San Juan
+493.0;2231;;;RI-Resguardo Indígena Inga La Paya
+494.0;2232;;;RI-Resguardo Indígena Cofan de Bocana de Luzon
+495.0;2233;;;RI-Resguardo Indígena Motilon Bari
+496.0;2234;;;RI-Resguardo Indígena Embera-Katio de Majoré- Ambura
+497.0;2235;;;RI-Resguardo Indígena Paez de Toez
+498.0;2236;;;RI-Resguardo Indígena Waunana de Nuevo Pitalito
+499.0;2237;;;RI-Resguardo Indígena Embera-Katio de Andabu
+5.0;1743;;;RI-Resguardo Indígena Pijao Guaipa Centro
+50.0;1788;;;RI-Resguardo Indígena Wuna´Apuchon Loma Fresca
+500.0;2238;;;RI-Resguardo Indígena Awa de Cuchilla Palmar
+501.0;2239;;;RI-Resguardo Indígena Chami - (Eriom Garrapatas)
+502.0;2240;;;RI-Resguardo Indígena Embera- Katio de Choromando Alto y Medio
+503.0;2241;;;RI-Resguardo Indígena Guahibo de Guacamayas-Mamiyare
+504.0;2242;;;RI-Resguardo Indígena de Totoro
+505.0;2243;;;RI-Resguardo Indígena Nasa We' Sx Kiwe La Gaitana
+506.0;2244;;;RI-Resguardo Indígena Awa de Planadas De Telembi
+507.0;2245;;;RI-Resguardo Indígena Pijao de Hilarquito
+508.0;2246;;;RI-Resguardo Indígena Bajo Rio Guainia Y Rio Negro
+509.0;2247;;;RI-Resguardo Indígena Paez De La Gaitanía
+51.0;1789;;;RI-Resguardo Indígena Siona Santa Cruz De Pinuña Blanco
+510.0;2248;;;RI-Resguardo Indígena de los parajes de Coayare - El Coco
+511.0;2249;;;RI-Resguardo Indígena Eperara Siapidara de Maiz Blanco
+512.0;2250;;;RI-Resguardo Indígena de Ambalo
+513.0;2251;;;RI-Resguardo Indígena Curripaco y otras de Tierra Alta
+514.0;2252;;;RI-Resguardo Indígena Rio Cuiari e Isana
+515.0;2253;;;RI-Resguardo Indígena Embera Katio de San Pablo El Para
+516.0;2254;;;RI-Resguardo Indígena Awa de Pipalta - Palbi - Yaguapi
+517.0;2255;;;RI-Resguardo Indígena Pijao de Bocas De Tetuan
+518.0;2256;;;RI-Resguardo Indígena Paez de Tumburao
+519.0;2257;;;RI-Resguardo Indígena Pijao Rincon Bodega
+52.0;1790;;;RI-Resguardo Indígena Arhuaca de Businchama
+520.0;2258;;;RI-Resguardo Indígena Embera de Urada Jiguamiando
+521.0;2259;;;RI-Resguardo Indígena Waunana - Paraje de Tiosilidio
+522.0;2260;;;RI-Resguardo Indígena Awa de Gualcalá
+523.0;2261;;;RI-Resguardo Indígena Guayabero La Fuga
+524.0;2262;;;RI-Resguardo Indígena Inga de Cecilia Cocha
+525.0;2263;;;RI-Resguardo Indígena Uitiboc
+526.0;2264;;;RI-Resguardo Indígena Guahibo de Valdivia
+527.0;2265;;;RI-Rios Tomo Y Weberi
+528.0;2266;;;RI-Resguardo Indígena Pijao, Tucano y Piratapuyo Llanos Del Yari - Yaguara II
+529.0;2267;;;RI-Resguardo Indígena Embera (Eperara Siapidara) Chonara Huena
+53.0;1791;;;RI-Resguardo Indígena Kanalitojo
+530.0;2268;;;RI-Resguardo Indígena Waunana de Guayacan Santa Rosa
+531.0;2269;;;RI-Resguardo Indígena Guayuyaco
+532.0;2270;;;RI-Resguardo Indígena Pijao de Pueblo Nuevo
+533.0;2271;;;RI-Resguardo Indígena Inga de La Floresta - La Española
+534.0;2272;;;RI-Resguardo Indígena Embera Chami Dachi Agore Drua
+535.0;2273;;;RI-Resguardo Indígena Nacuanedorro Tuparro
+536.0;2274;;;RI-Resguardo Indígena Eperara Siapidara de Sanquianguita
+537.0;2275;;;RI-Resguardo Indígena Awa de Ramos - Mongon - Manchuria
+538.0;2276;;;RI-Resguardo Indígena Embera Katio de San Lorenzo
+539.0;2277;;;RI-Resguardo Indígena San Jose del Rio
+54.0;1792;;;RI-Resguardo Indígena Guahibo de Guacamayas y Maipore
+540.0;2278;;;RI-Resguardo Indígena Saliva Corregimiento de Santa Rosalia
+541.0;2279;;;RI-Resguardo Indígena Yuco de Socorpa
+542.0;2280;;;RI-Resguardo Indígena Awa de Cuaiquer Integrado La Milagrosa
+543.0;2281;;;RI-Resguardo Indígena Cerrito Bongo
+544.0;2282;;;RI-Resguardo Indígena Yukpa de Menkue, Misaya y La Pista
+545.0;2283;;;RI-Resguardo Indígena Pijao de Pocharco
+546.0;2284;;;RI-Resguardo Indígena Awa de Santa Rosita
+547.0;2285;;;RI-Resguardo Indígena Pijao de Los Pijaos
+548.0;2286;;;RI-Resguardo Indígena Saliba de Macucuana
+549.0;2287;;;RI-Resguardo Indígena El Tablero
+55.0;1793;;;RI-Resguardo Indígena Rumiñawi
+550.0;2288;;;RI-Resguardo Indígena Yukpa de Caño Padilla
+551.0;2289;;;RI-Resguardo Indígena Embera Chami La Libertad 2
+552.0;2290;;;RI-Resguardo Indígena Emebera-Katio de Jaidezavi
+553.0;2291;;;RI-Resguardo Indígena Rumiyaco
+554.0;2292;;;RI-Resguardo Indígena Yaberarado
+555.0;2293;;;RI-Resguardo Indígena Waunana del Rio Taparal
+556.0;2294;;;RI-Resguardo Indígena Awa de Cuasbi - Paldubi
+557.0;2295;;;RI-Resguardo Indígena Siona De Bajo Casacunte
+558.0;2296;;;RI-Resguardo Indígena Awa de El Espingo
+559.0;2297;;;RI-Resguardo Indígena Eperara Siapidaara de Morrito
+56.0;1794;;;RI-Resguardo Indígena Pijao de Mesa De Ortega
+560.0;2298;;;RI-Resguardo Indígena Yukpa de Laguna - El Coso - Cinco Caminos
+561.0;2299;;;RI-Resguardo Indígena Macahuan (Cusay o La Colorada)
+562.0;2300;;;RI-Resguardo Indígena Embera de Bajo Grande
+563.0;2301;;;RI-Resguardo Indígena Nasa Banderas del Recaibo
+564.0;2302;;;RI-Resguardo Indígena Quillacinga de Refugio Del Sol
+565.0;2303;;;RI-Resguardo Indígena Awa de Peña La Alegria
+566.0;2304;;;RI-Resguardo Indígena Inga De Niñeras
+567.0;2305;;;RI-Resguardo Indígena Awa de Bellavista
+568.0;2306;;;RI-Resguardo Indígena Embera del Rio Napipi
+569.0;2307;;;RI-Resguardo Indígena Paez de el Libano
+57.0;1795;;;RI-Resguardo Indígena Pijao de Pacande
+570.0;2308;;;RI-Resguardo Indígena Awa de Inda Guacaray
+571.0;2309;;;RI-Resguardo Indígena Hitnu Cuiba Grupo Macahuan de La Voragine - La Ilusion
+572.0;2310;;;RI-Resguardo Indígena Paez de Parraga  - Nasa tha
+573.0;2311;;;RI-Resguardo Indígena Guayaberos de Barrancon
+574.0;2312;;;RI-Resguardo Indígena Witoto de Agua Negra
+575.0;2313;;;RI-Resguardo Indígena Waunana  de Burujon o La Unión-San Bernardo
+576.0;2314;;;RI-Resguardo Indígena Awa de Kejuambi Feliciana
+577.0;2315;;;RI-Resguardo Indígena Cuna del Rio Cuti
+578.0;2316;;;RI-Resguardo Indígena Yuco de Iroka
+579.0;2317;;;RI-Resguardo Indígena Awa de Tronqueria, Pulgande y Palicito
+58.0;1796;;;RI-Resguardo Indígena Huitoto - El Quince
+580.0;2318;;;RI-Resguardo Indígena Paez de Zit-Set Del Quecal
+581.0;2319;;;RI-Resguardo Indígena Awa de Guadual, Cumbas, Magui, Invina, Arrayan
+582.0;2320;;;RI-Resguardo Indígena Waunana del Rio Curiche
+583.0;2321;;;RI-Resguardo Indígena Nasa Hu
+584.0;2322;;;RI-Resguardo Indígena Guahibo  de Carpintero-  Palomas
+585.0;2323;;;RI-Witack Kiwe
+586.0;2324;;;RI-Resguardo Indígena Awa de la Turbia
+587.0;2325;;;RI-Resguardo Indígena Motilona Bari (Barira) de Catalaura
+588.0;2326;;;RI-Resguardo Indígena Pijao Nueva Esperanza
+589.0;2327;;;RI-Resguardo Indígena Arara, Bacati, Cararu y Lagos de Jamiacuru
+59.0;1797;;;RI-Resguardo Indígena Pijao de Chaquira
+590.0;2328;;;RI-Resguardo Indígena Sikuani de Awaliba
+591.0;2329;;;RI-Resguardo Indígena Misak de San Antonio
+592.0;2330;;;RI-Resguardo Indígena Inga Villa Catalina de Puerto Rosario
+593.0;2331;;;RI-Resguardo Indígena Embera Chami de Escopetera-Pirza
+594.0;2332;;;RI-Resguardo Indígena Ticuna-Huitoto  Kilometro 6 Y 11
+595.0;2333;;;RI-Resguardo Indígena Ticuna, Cocama de Puerto Triunfo
+596.0;2334;;;RI-Resguardo Indígena Pijao de Lomas de Hilarco
+597.0;2335;;;RI-Resguardo Indígena de los Rios Miriti Parana (La Pedrera)
+598.0;2336;;;RI-Resguardo Indígena Ticuna y Cocoma de La Playa
+599.0;2337;;;RI-Resguardo Indígena Ticuna de San Antonio de Los Lagos y San Sebastian
+6.0;1744;;;RI-Resguardo Indígena Wayuu de El Cerro De Hatonuevo
+60.0;1798;;;RI-Resguardo Indígena Awa Ñambi Piedra Verde
+600.0;2338;;;RI-Resguardo Indígena San Luis
+601.0;2339;;;RI-Resguardo Indígena Ticuna y Yagua de Santa Sofia y el Progreso
+602.0;2340;;;RI-Resguardo Indígena de Comeyafu
+603.0;2341;;;RI-Resguardo Indígena Nonuya de Villazul
+604.0;2342;;;RI-Resguardo Unido U´Wa Cubara De Tunebo
+605.0;2343;;;RI-Resguardo Indígena Ticuna de Mocagua, Macedonia, El Vergel y Zaragoza
+606.0;2344;;;RI-Resguardo Indígena Quizgo (Kizgo)
+607.0;2345;;;RI-Resguardo Indígena Ticuna Nazaret
+608.0;2346;;;RI-Resguardo Indígena Paez de Nasa Kiwe
+609.0;2347;;;RI-Resguardo Indígena Ticuna, Cocama y Yagua - Ticoya
+61.0;1799;;;RI-Resguardo Indígena Cuiva de Los Iguanitos
+610.0;2348;;;RI-Resguardo Indígena Embera-Katio de Iwagado
+611.0;2349;;;RI-Resguardo Indigena Puerto Córdoba
+612.0;2350;;;RI-Resguardo Indigena de Camaritagua
+613.0;2351;;;RI-Resguardo Indígena Coreguaje de Aguanegra
+614.0;2352;;;RI-Resguardo Indígena Zenú de San Andres De Sotavento
+615.0;2353;;;RI-Resguardo Indígena Tunebo de Chaparral y Barro Negro
+616.0;2354;;;RI-Resguardo Indígena de Guambia
+617.0;2355;;;RI-Resguardo Indígena Guahibo de Caño Guaripa
+618.0;2356;;;RI-Resguardo Indígena Waunana Chagpien -  Rio Tordo
+619.0;2357;;;RI-Resguardo Indígena Embera Katio de Sever
+62.0;1800;;;RI-Resguardo Indígena Inkal Watzal Awa
+620.0;2358;;;RI-Resguardo Indígena Nasa Paez de Llano Buco - Bukj Ukue
+621.0;2359;;;RI-Resguardo Indígena Lomas De Guaguarco
+622.0;2360;;;RI-Resguardo Indígena Embera - Chami de la Sucia - Hermeregildo Chakiama
+623.0;2361;;;RI-Resguardo Indígena Embera de Dokerazavi
+624.0;2362;;;RI-Resguardo Indígena Paez de Kwet Wala (Piedra Grande)
+625.0;2363;;;RI-Resguardo Indígena Mesas De San Juan
+626.0;2364;;;RI-Resguardo Indígena Embera Chami de Cristiania
+627.0;2365;;;RI-Resguardo Indígena Embera de Wasiruma
+628.0;2366;;;RI-Resguardo Indígena Kokonuco y Yanacona de Paletara
+629.0;2367;;;RI-Resguardo Indígena Inga de Wasipungo
+63.0;1801;;;RI-Resguardo Indígena de Guarapamba
+630.0;2368;;;RI-Resguardo Indígena Katio-Embera del Paraje El Doce o Quebrada Borbollon
+631.0;2369;;;RI-Resguardo Indígena Yaigoje - Rio Apaporis
+632.0;2370;;;RI-Resguardo Indígena Paez de Corinto
+633.0;2371;;;RI-Resguardo Indígena Embera De Lanas
+634.0;2372;;;RI-Resguardo Indígena Inga de Puerto Limon
+635.0;2373;;;RI-Resguardo Indígena Waunana de Bellavista y Union Pitalito
+636.0;2374;;;RI-Resguardo Indígena Embera de El Salado
+637.0;2375;;;RI-Resguardo Indígena Pijao de Chenche Amayarco
+638.0;2376;;;RI-Resguardo Indígena Altos Del Tigre
+639.0;2377;;;RI-Resguardo Indígena Paez de Villa Lucia
+64.0;1802;;;RI-Resguardo Indígena Tucano de La Yuquera
+640.0;2378;;;RI-Resguardo Indígena Embera de los Rios Pato y Jengado
+641.0;2379;;;RI-Resguardo Indigena Paez de Kokonuco
+642.0;2380;;;RI-Resguardo Indígena Embera-Katio de Polines
+643.0;2381;;;RI-Resguardo Indígena Awa de Palmar Imbi
+644.0;2382;;;RI-Resguardo Rumiyaco
+645.0;2383;;;RI-Resguardo Indígena Inga de Las Brisas
+646.0;2384;;;RI-Resguardo Indígena Paez De Las Mercedes
+647.0;2385;;;RI-Resguardo Indígena Pijao de Chenche Balsillas
+648.0;2386;;;RI-Resguardo Indígena Witoto del Paraje Monochoa
+649.0;2387;;;RI-Resguardo Indígena Embera de Jagual Rio Chintado
+65.0;1803;;;RI-Resguardo Indígena Embera Chami Cacique Queragama
+650.0;2388;;;RI-Resguardo Indígena Emebra - Katio de Chaquenoda
+651.0;2389;;;RI-Resguardo Indígena Inga de Yurayaco
+652.0;2390;;;RI-Resguardo Indígena Nasa Paez La Estación Talaga
+653.0;2391;;;RI-Resguardo Indígena Embera-Katio de Jaikerazavi
+654.0;2392;;;RI-Resguardo Indígena Embera de los Rios Tungina Y Apartado
+655.0;2393;;;RI-Resguardo Indígena Embera-Katio (Chami) Cope Del Rio Ingara
+656.0;2394;;;RI-Resguardo Indígena Emebera Chami de La Mirla
+657.0;2395;;;RI-Resguardo Indígena Arhuaca O Ijke (Arhuaco De La Sierra)
+658.0;2396;;;RI-Resguardo Indígena Embera de Trapiche del Rio Pepe
+659.0;2397;;;RI-Resguardo Indígena Embera-Chami La Maria (Marcelilno Tascon)
+66.0;1804;;;RI-Resguardo Indígena Piaroa De Cachicamo
+660.0;2398;;;RI-Resguardo Indígena Paez de El Descanso
+661.0;2399;;;RI-Resguardo Indígena Chami de Totumal
+662.0;2400;;;RI-Resguardo Indígena Guambiano y Paez de La Reforma
+663.0;2401;;;RI-Resguardo Indígena Inga De San Miguel
+664.0;2402;;;RI-Resguardo Indígena Ishu Awa
+665.0;2403;;;RI-Resguardo Indígena Inga de Mandiyaco
+666.0;2404;;;RI-Resguardo Indígena Waunana del Rio Docordo y  Caseria de la Unión-Balsalito
+667.0;2405;;;RI-Resguardo Indígena El Tigre
+668.0;2406;;;RI-Resguardo Indígena Paez de La Concepcion
+669.0;2407;;;RI-Resguardo Indígena Embera - Chami de Suratena
+67.0;1805;;;RI-Resguardo Indígena Quintin Lame
+670.0;2408;;;RI-Resguardo Indígena Nukak Maku
+671.0;2409;;;RI-Resguardo Indígena Awa de Inda Zabaleta
+672.0;2410;;;RI-Resguardo Indígena Nasa Cxhab Wala Luucx
+673.0;2411;;;RI-Resguardo Indígena Embera-Katio de Las Playas
+674.0;2412;;;RI-Resguardo Indígena Embera Chami y Zenu De La Palma
+675.0;2413;;;RI-Resguardo Indígena Guahibo Del Paraje De Caño Jabon
+676.0;2414;;;RI-Resguardo Indígena Witoto del paraje de Puerto Zabalo y Los Monos
+677.0;2415;;;RI-Resguardo Indígena Andoke Del Paraje De Aduche
+678.0;2416;;;RI-Resguardo Indígena Paez de La Laguna Siberia
+679.0;2417;;;RI-Resguardo Indígena Embera Katio de Pescadito
+68.0;1806;;;RI-Resguardo Indígena Sikuani, Siriano, Carapano, Desano y Tucano de Cachivera Del Nare
+680.0;2418;;;RI-Resguardo Indígena Paez de La Aguadita
+681.0;2419;;;RI-Resguardo Indígena Nasa Paez Huila
+682.0;2420;;;RI-Resguardo Indígena Awa de Tortugaña,Telembi, Punde, Pitadero, Bravo, Tronqueria y Zabaleta
+683.0;2421;;;RI-Resguardo Indígena Embera Chami La Albania
+684.0;2422;;;RI-Resguardo Indígena Embera - Catio del Rio Chajerado
+685.0;2423;;;RI-Resguardo Indígena Paez de Pathyú
+686.0;2424;;;RI-Resguardo Indígena Coreguaje de Hericha
+687.0;2425;;;RI-Resguardo Indígena Coreguaje de Gorgonia
+688.0;2426;;;RI-Resguardo Indígena Embera-Katio de Playalta, El Veinte y El Noventa
+689.0;2427;;;RI-Resguardo Indígena Embera de Puerto Libre del Rio Pepe
+69.0;1807;;;RI-Resguardo Indígena Pijao Barzaloza
+690.0;2428;;;RI-Resguardo Indígena Morichito y Caño Mochuelo
+691.0;2429;;;RI-Resguardo Indígena Embera (Eperara - Siapidara) de La Floresta, Sta Rosa y San Francisco
+692.0;2430;;;RI-Resguardo Indígena Awa de Pulgande Campo Alegre
+693.0;2431;;;RI-Resguardo Indígena Tiitanho Nijaamu - La Libertad
+694.0;2432;;;RI-Resguardo Indigena Kankuamo
+695.0;2433;;;RI-Resguardo Indígena Pickwe Ikh
+696.0;2434;;;RI-Resguardo Indígena Saracure Y Rio Cada
+697.0;2435;;;RI-Resguardo Indígena Paez Ondas Del Cafre
+698.0;2436;;;RI-Resguardo Indígena Waunana de Papayo
+699.0;2437;;;RI-Resguardo Indígena Embera-Katio de Honduras
+7.0;1745;;;RI-Resguardo Indígena Pijao Mercadillo
+70.0;1808;;;RI-Resguardo Indígena Embera Chami Bajo Caceres
+700.0;2438;;;RI-Resguardo Indígena Wayuu de la Alta Y Media Guajira
+701.0;2439;;;RI-Resguardo Indígena Predio Putumayo
+702.0;2440;;;RI-Resguardo Indígena Yanacona de Santa Marta
+703.0;2441;;;RI-Resguardo Indígena Nasa Paez Potrerito
+704.0;2442;;;RI-Resguardo Indígena de Arquia
+705.0;2443;;;RI-Resguardo Indígena Inga de Descanse
+706.0;2444;;;RI-Resguardo Indígena Caiman Nuevo
+707.0;2445;;;RI-Resguardo Indígena Wayuu de Mayalitas, Bangañitas, La Gloria y La Loma "Mayabangloma"
+708.0;2446;;;RI-Resguardo Indígena Kwe´Sx Yu Kiwe
+709.0;2447;;;RI-Resguardo Indígena Embera (Eperara-Siapidara) de el Turbio y Bacao (Rio Satinga)
+71.0;1809;;;RI-Resguardo Indígena Pijao Santa Marta - Palmar
+710.0;2448;;;RI-Resguardo Indígena Paez de Jambalo
+711.0;2449;;;RI-Resguardo Indígena del Rio La Playa
+712.0;2450;;;RI-Resguardo Indígena Triunfo Cristal Paez
+713.0;2451;;;RI-Resguardo Indígena Paez de Canoas
+714.0;2452;;;RI-Resguardo Indígena Waunana del Rio Dagua
+715.0;2453;;;RI-Resguardo Indígena Embera-Chami de Sabaleta
+716.0;2454;;;RI- Resguardo Indígena Pijao de La Tutira Bonanza
+717.0;2455;;;RI-Resguardo Indígena Sikuani de Domo Planas
+718.0;2456;;;RI-Resguardo Indígena Paez de Guadualito
+719.0;2457;;;RI-Resguardo Indígena de Purace
+72.0;1810;;;RI-Resguardo Indígena Pijao Bateas
+720.0;2458;;;RI-Resguardo Indígena Embera (Eperara) Rio Naya
+721.0;2459;;;RI-Resguardo Indígena Nasa Paez - Pickwe Tha Fiw
+722.0;2460;;;RI-Resguardo Indígena Chimilas O Cacahueros (Issa Oristuna)
+723.0;2461;;;RI-Resguardo Indígena Huitoto - Paraje de Witora O Huitora
+724.0;2462;;;RI-Resguardo Indígena Coreguaje de Jerico-Consaya
+725.0;2463;;;RI-Resguardo Indígena Huitoto de Coropoya
+726.0;2464;;;RI-Resguardo Indígena Puerto Samaria
+727.0;2465;;;RI-Resguardo Indígena La Chinita
+728.0;2466;;;RI-Resguardo Indígena Embera de Wanchirado
+729.0;2467;;;RI-Resguardo Indígena Embera Katio de Gegora, Quipara, Murando, Tiravenado y Jiguado
+73.0;1811;;;RI-Resguardo Indígena Pijao San Miguel
+730.0;2468;;;RI-Resguardo Indígena Embera Katio de El Silencio
+731.0;2469;;;RI-Resguardo Indígena Embera-Catio del Rio Mumbu
+732.0;2470;;;RI-Resguardo Indígena Katio de Tokolloro
+733.0;2471;;;RI-Resguardo Indígena Yukuna-Cubeo de Curare Los Ingleses
+734.0;2472;;;RI-Resguardo Indígena Tikuna de los Rios Cotuhe y Putumayo
+735.0;2473;;;RI-Resguardo Indígena Caño Ovejas - Betania y Corocito
+736.0;2474;;;RI-Resguardo Indígena Embera Katio de Guarandó Carrizal
+737.0;2475;;;RI-Resguardo Indígena Embera de Pared y Parecito
+738.0;2476;;;RI-Resguardo Indígena de Venezuela O Panure
+739.0;2477;;;RI-Resguardo Indígena Eperara Siapidara de San Agustin La Floresta
+74.0;1812;;;RI-Resguardo Indígena Embera Katio El Cedrito
+740.0;2478;;;RI-Resguardo Indígena Awa El Sande
+741.0;2479;;;RI-Resguardo Indígena Huitoto de Lagarto Cocha
+742.0;2480;;;RI-Resguardo Indígena Inga de Blasiaku
+743.0;2481;;;RI-Resguardo Indígena Embera del Rio Icho y Quebrada Baratuo
+744.0;2482;;;RI-Resguardo Indígena Embera del Rio Negua
+745.0;2483;;;RI-Resguardo Indígena Piapoco de Pueblo Nuevo - Laguna Colorada
+746.0;2484;;;RI-Resguardo Indígena Kogui - Malayo y Arhuaco
+747.0;2485;;;RI-Resguardo Indígena Awa Piedra Sellada - Quebrada Tronqueria
+748.0;2486;;;RI-Resguardo Indígena Aco Viejo Patio Bonito
+749.0;2487;;;RI-Resguardo Indígena Pijao de Beltran
+75.0;1813;;;RI-Resguardo Indígena Inga De San Andres
+750.0;2488;;;RI-Resguardo Indígena Nanurco
+751.0;2489;;;RI-Resguardo Indígena Embera del Rio Domingodo
+752.0;2490;;;RI-Resguardo Indígena Embera de Motordo
+753.0;2491;;;RI-Resguardo Indígena Embera El Veintiuno
+754.0;2492;;;RI-Resguardo Indígena Embera de Guadualito
+755.0;2493;;;RI-Resguardo Indígena Embera de Hurtado y Tegavera
+756.0;2494;;;RI-Resguardo Indígena La Bandera del Pueblo Pijao
+757.0;2495;;;RI-Resguardo Indígena Cofán Villanueva del Pueblo Cofán
+758.0;2496;;;RI-Resguardo Indígena de Coreguaje de la Esperanza
+759.0;2497;;;RI-Resguardo Indígena Vaupes
+76.0;1814;;;RI-Resguardo Indígena El Noventa
+760.0;2498;;;RI-Resguardo Indígena Paez de Quichaya
+761.0;2499;;;RI-Resguardo Indígena Guambiano de Nam Misak
+762.0;2500;;;RI-Resguardo Indígena Nasa Kiwe Use Nueva Palestina
+763.0;2501;;;RI-Resguardo Indígena Tsawilonia del pueblo Sikuani
+764.0;2502;;;RI-Resguardo Indígena Los Angeles del pueblo Nasa
+765.0;2503;;;RI-Resguardo Indígena Jose de los Santos del pueblo Senu
+766.0;2504;;;RI-Resguardo Indígena Embera Chami de Alto Orito
+767.0;2505;;;RI-Resguardo Indígena Nataroco
+768.0;2506;;;RI-Resguardo Indígena Pijao de Zaragoza Tamarindo
+769.0;2507;;;RI-Resguardo Indígena Embera del Rio Nuqui
+77.0;1815;;;RI-Resguardo Indígena Pijao Palma Alta
+770.0;2508;;;RI-Resguardo Indígena Embera de Puerto Alegre y La Divisa
+771.0;2509;;;RI-Resguardo Indígena Embera de los Rios Catru, Dubasa, Ankoso
+772.0;2510;;;RI-Resguardo Indígena Embera del Rio Pavasa y la Quebrada Jella
+773.0;2511;;;RI-Resguardo Indígena Embera del Rio Pangui
+774.0;2512;;;RI-Resguardo Indígena Nasa (Paez) El Peñon
+775.0;2513;;;RI-Resguardo Indígena Katio (Rio Tanela)
+776.0;2514;;;RI-Resguardo Indígena Embera (Chami) de los Niasa
+777.0;2515;;;RI-Resguardo Indígena Sikuani de Punta Bandera
+778.0;2516;;;RI-Resguardo Indígena Eperara-Siapidara de Isla Del Mono
+779.0;2517;;;RI-Resguardo Indígena Embera de Peranchito
+78.0;1816;;;RI-Resguardo Indígena Inga De Wasipanga
+780.0;2518;;;RI-Resguardo Indígena Embera de Perancho
+781.0;2519;;;RI-Resguardo Indígena Embera de La Raya
+782.0;2520;;;RI-Resguardo Indígena Embera de Mamey De Dipurdu
+783.0;2521;;;RI-Resguardo Indígena Embera Almorzadero, San Isidro y la Nueva Union
+784.0;2522;;;RI-Resguardo Indígena Paez de Las Delicias
+785.0;2523;;;RI-Resguardo Indígena Papallaqta
+786.0;2524;;;RI-Resguardo Indígena Embera asentada en la Zona Infi
+787.0;2525;;;RI-Resguardo Indígena San Jose De Lipa o Caño Colorado
+788.0;2526;;;RI-Resguardo Indígena Embera La Iguana
+789.0;2527;;;RI-Resguardo Indígena Embera - Cholo Del Rio Guangüi
+79.0;1817;;;RI-Resguardo Indígena Awa de Damasco Vides
+790.0;2528;;;RI-Resguardo Indígena Eperara Siapadara de Playa Bendita
+791.0;2529;;;RI-Resguardo Indígena Embera del Rio Bebara
+792.0;2530;;;RI-Resguardo Indígena Embera-Chami de La Cristalina
+793.0;2531;;;RI-Resguardo indígena Guayaberos de Macuare
+794.0;2532;;;RI-Resguardo Indígena Embera de Peña Blanca - Rio Truando
+795.0;2533;;;RI-Resguardo Indígena Trua Integrado Del Charco
+796.0;2534;;;RI-Resguardo Indígena Muchidó
+797.0;2535;;;RI-Resguardo Indígena Embera de Bochoroma Bochoromacito
+798.0;2536;;;RI-Resguardo Indígena Embera de  Alto Bonito Vira Vira
+799.0;2537;;;RI-Resguardo Indígena Embera Katio de Sabaletera San Onofre y El Tigre
+8.0;1746;;;RI-Resguardo Indígena Muisca de Fonqueta y Cerca de Piedra
+80.0;1818;;;RI-Resguardo Indígena San Gabriel
+800.0;2538;;;RI-Resguardo Indígena Embera de Mondó Mondocito
+801.0;2539;;;RI-Resguardo Indígena Embera de Tarena
+802.0;2540;;;RI-Resguardo Indígena Embera Buchado Amparrado
+803.0;2541;;;RI-Resguardo Indígena Embera del Alto Rio Tagachi
+804.0;2542;;;RI-Resguardo Indígena Embera de Alto Rio Bojaya
+805.0;2543;;;RI-Resguardo indígena Embera Rios Uva Pogue, Quebrada Taparal
+806.0;2544;;;RI-Resguardo Indígena Piedra Sagrada La Gran Familia de los Pastos
+807.0;2545;;;RI-Resguardo Indígena Waunan de Puerto Chichiliano
+808.0;2546;;;RI-Resguardo Indígena Guahibo -Puinave de Laguna Curvina - Sapuara
+809.0;2547;;;RI-Resguardo Indígena Guahibo-Piapoco de Arrecifal
+81.0;1819;;;RI-Resguardo Indígena Embera-Katio de Jenaturado
+810.0;2548;;;RI-Resguardo Indígena Piapoco de Murcielago - Altamira
+811.0;2549;;;RI-Resguardo Indígena Waunana de Chachajo
+812.0;2550;;;RI-Resguardo Indígena Emebera Calle Santa Rosa
+813.0;2551;;;RI-Resguardo Indígena pasto de Nuevo Horizonte
+814.0;2552;;;RI-Resguardo Indígena Nasa Paez Juan Tama
+815.0;2553;;;RI-Resguardo Indígena Ticuna de Arara
+816.0;2554;;;RI-Resguardo Indígena Telar Luz Del Amanecer
+817.0;2555;;;RI-Resguardo Indígena Nasa, Pueblo Nuevo Ceral
+818.0;2556;;;RI-Resguardo Indígena Eperara Siapadara de Playita San Francisco
+819.0;2557;;;RI-Resguardo Indígena Inga De Condagua
+82.0;1820;;;RI-Resguardo Indígena Pijao de Chenche Buenos Aires Tradicional
+820.0;2558;;;RI-Resguardo Indígena Inga De Aponte
+821.0;2559;;;RI-Resguardo Indígena Inga De San Pedro
+822.0;2560;;;RI-Resguardo Indígena de Yunguillo
+823.0;2561;;;RI-Resguardo Indígena Sibundoy (Kamëntsa Biya De Sibundoy)
+824.0;2562;;;RI-Resguardo Indígena Guahibo de Wacoyo de los Caserios de Corocito,Yopalito y Gualabo
+825.0;2563;;;RI-Resguardo Indígena Inga De Mocoa
+826.0;2564;;;RI-Resguardo Indígena Inga-Kamsa De Mocoa
+827.0;2565;;;RI-Resguardo Indígena Awa de Honda Rio Guiza
+828.0;2566;;;RI-Resguardo Indígena Embera-Katio de La Julia
+829.0;2567;;;RI-Resguardo Indígena Curripaco de Tonina, Sejal, San Jose y Otras
+83.0;1821;;;RI-Resguardo Indígena Embera de Villa Nueva Juna
+830.0;2568;;;RI-Resguardo Indígena Curripaco de la Parte Alta del Rio Guainia
+831.0;2569;;;RI-Resguardo Indígena Embera-Katio Rio Andagueda
+832.0;2570;;;RI-Resguardo Indígena Coreguaje de Jacome
+833.0;2571;;;RI-Resguardo Indígena Unificado Chami
+834.0;2572;;;RI-Resguardo Indígena Guahibo de Chololobo Matatu
+835.0;2573;;;RI-Resguardo Indígena El Hacha
+836.0;2574;;;RI-Resguardo Indígena Cocama Isla De Ronda
+837.0;2575;;;RI-Resguardo Indígena La Pascua
+838.0;2576;;;RI-Resguardo Indígena Witoto de Tukunare
+839.0;2577;;;RI-Resguardo Indígena Guahibo de Alto Unuma
+84.0;1822;;;RI-Resguardo Indígena Embera Chami de Bernardino Panchi
+840.0;2578;;;RI-Resguardo Indígena Guayabero de Barranco Colorado
+841.0;2579;;;RI-Resguardo Indígena Paez de El Porvenir - La Barrialosa
+842.0;2580;;;RI-Resguardo Indígena Guayabero de La Sal
+843.0;2581;;;RI-Resguardo Indígena Naexil Put
+844.0;2582;;;RI-Resguardo Indígena Bekocha Guajira
+845.0;2583;;;RI-Resguardo Indígena F+Ruide Naira+
+846.0;2584;;;RI-Resguardo Indígena Coreguaje de Consara - Mecaya
+847.0;2585;;;RI-Resguardo Indígena Huitoto De Jirijiri
+848.0;2586;;;RI-Resguardo Indígena Puinave y Sikuani de Laguna Niñal, Cocuy, Loma Baja y Loma Alta del Caño Guari
+849.0;2587;;;RI-Resguardo Indígena Puinave y Piapoco de Paujil
+85.0;1823;;;RI-Resguardo Indígena Guahibo de La Esperanza
+850.0;2588;;;RI-Resguardo Indígena Selva De Mataven
+851.0;2589;;;RI-Resguardo Indígena Jai Dukama
+852.0;2590;;;RI-Resguardo Indígena Paez de Poblazon
+853.0;2591;;;RI-Resguardo Indígena Embera de Alto Rio Cuia
+854.0;2592;;;RI-Resguardo Indígena Embera de Opogado Doguado
+855.0;2593;;;RI-Resguardo Indígena Embera  de Pichicora, Chicue y Punto Alegre
+856.0;2594;;;RI-Resguardo Indígena Kamentsa - Inga de San Francisco
+857.0;2595;;;RI-Resguardo Indígena Embera Paso Rio Salado
+858.0;2596;;;RI-Resguardo Indígena Embera de Alto Rio Buey
+859.0;2597;;;RI-Resguardo Indígena Emebera de los Rios Bete, Auro Bete y Auro del Buey
+86.0;1824;;;RI-Resguardo Indígena Cubeo, Tukano, Wanano y Piratapuyo de Centro Miraflores
+860.0;2598;;;RI-Resguardo Indígena Embera de Corede en el Alto del Rio Munguidó
+861.0;2599;;;RI-Resguardo Indígena El Saladillo
+862.0;2600;;;RI-Resguardo Indígena de Natacoy Pijao
+863.0;2601;;;RI-Resguardo Indígena Embera de Dearade Biakirude
+864.0;2602;;;RI-Resguardo Indígena Embera de los Rios Jurubida, Chori y Alto Baudo
+865.0;2603;;;RI-Resguardo Indígena Rincon De Anchique
+866.0;2604;;;RI-Resguardo Indígena Yanacona de San Agustin
+867.0;2605;;;RI-Resguardo Indígena Saliva asentada en el Paraje El Consejo
+868.0;2606;;;RI-Resguardo Indígena La Asuncion
+869.0;2607;;;RI-Resguardo Indígena Guahibo Julieros y Velasqueros
+87.0;1825;;;RI-Resguardo Indígena Awa Mayasquer
+870.0;2608;;;RI-Resguardo Indígena Guahibo de Campo Alegre y Ripialito
+871.0;2609;;;RI-Resguardo Indígena Salilva de los parajes de San Juanito, El Duya y Paravare
+872.0;2610;;;RI-Resguardo Indígena Saliva de El Medano
+873.0;2611;;;RI-Resguardo Indígena Awa de Saunde Guiguay
+874.0;2612;;;RI-Resguardo Indígena Awa Gran Rosario
+875.0;2613;;;RI-Resguardo Indígena Awa de Nunalbi Alto Ulbi
+876.0;2614;;;RI-Resguardo Indígena de Calenturas
+877.0;2615;;;RI-Resguardo Indígena De Muellamuez
+878.0;2616;;;RI- Resguardo Indígena Pijao La Sortija
+879.0;2617;;;RI-Resguardo Indígena Pijao Nicolas Ramirez
+88.0;1826;;;RI-Resguardo Indígena Embera - Katio deTagual  - La Po
+880.0;2618;;;RI-Resguardo Indígena Buena Vista Meche
+881.0;2619;;;RI-Resguardo Indígena Paez y Guambiano de La Gaitana
+882.0;2620;;;RI-Resguardo Indígena Pijao de Vuelta Del Rio
+883.0;2621;;;RI-Resguardo Indígena Tumbichucue
+884.0;2622;;;RI-Resguardo Indígena Coreguaje de La Teofila
+885.0;2623;;;RI-RI Paez de Santa Rosa Juanambu, Campo Alegre, Alpes Orientales, La Floresta Alto Coqueto.
+886.0;2624;;;RI-RI Guahibo y Cuiva  Rio Tuparro y los Caños Malicia y Arreita (Santa Teresita Del Tuparro)
+887.0;2625;;;RI-RI Sikuani De Vencedor, Piriri, Guamito, Matanegra, Siniquiba, Sisiba, Lindatan, Chaparral y Remanso
+888.0;2626;;;RI-RI Awa Chagui Chimbuza Vegas San Antonio Candiyas Quelbi Nalbu Balsal Bajo Nembiy Chapilal Cimarron
+889.0;2627;;;RI-RI Puinave y Curripaco de Morichal Viejo - Santa Rosa, Cerro Cucuy, Santa Cruz, Caño Danta
+89.0;1827;;;RI-Resguardo Indígena Nasa de Kitek Kiwe
+890.0;2628;;;RI-RI Coreguaje Asentada en la Regiones De Puerto Naranjo, Peñas Rojas, Cuerazo, El Diamante
+891.0;2629;;;RI-RI Guahibo-Sicuani asentada en Paraje La Llanura P. La Llanura,Florida, Campaña,Piñalito Miralindo
+892.0;2630;RNSC-Parcela N. 7 de la Parcelación La Josefina;;RI-Resguardo Indígena Guambiano de Nam Misak
+893.0;2631;RNSC-La Palma de La Castellana;;RI-Resguardo Indígena Paez Quintana
+894.0;2632;RNSC-Primavera 2;;RI-Resguardo Indígena de Purace
+895.0;2633;RNSC-Parcela No. 12 Parcelación Las Brisas;;RI-Resguardo Indígena Kokonuco y Yanacona de Paletara
+896.0;2634;RNSC-Parcela No. 12 Parcelación Las Brisas;;RI-Resguardo Indigena Paez de Kokonuco
+897.0;2635;RNSC-El Cedro;;RI-Resguardo Indígena Kokonuco y Yanacona de Paletara
+898.0;2636;RNSC-El Cedro;;RI-Resguardo Indigena Paez de Kokonuco
+899.0;2637;RNSC-Reserva Miravalle;;RI-Resguardo Indígena Kokonuco y Yanacona de Paletara
+9.0;1747;;;RI-Resguardo Indígena Waunana del Rio Pichima
+90.0;1828;;;RI-Resguardo Indígena Inga de Albania
+900.0;2638;RNSC-La Reserva;;RI-Resguardo Indígena Paez de Poblazon
+901.0;2639;RFPR-Olla Grande, la Esmeralda y el Nahir;;RI-Resguardo Indígena Paez de Poblazon
+902.0;2640;DRMI-Complejo Cenagoso de Zarate Malibú y Veladero;;RI-Resguardo Indígena Paez Quintana
+903.0;2641;PNR-Sisavita;;RI-Resguardo Indígena Paez Quintana
+904.0;2642;RFPR-Montes de  Oca;;RI-Resguardo Indígena Paez Quintana
+905.0;2643;DRMI-Nacimiento de las Quebradas los Tiestos, La Chorrera y Hoya Fría;;RI-Resguardo Indígena Embera - Chami de la Sucia - Hermeregildo Chakiama
+906.0;2644;DRMI-Nacimiento de las Quebradas los Tiestos, La Chorrera y Hoya Fría;;RI-Resguardo Indígena Embera Chami de Cristiania
+907.0;2645;DRMI-Nacimiento de las Quebradas los Tiestos, La Chorrera y Hoya Fría;;RI-Resguardo Indígena Embera-Katio Rio Andagueda
+908.0;2646;DRMI-Nacimiento de las Quebradas los Tiestos, La Chorrera y Hoya Fría;;RI-Resguardo Indígena Unificado Chami
+909.0;2647;RFPR-El Robledal;;RI-Resguardo Indígena Embera Katio de San Lorenzo
+91.0;1829;;;RI-Resguardo Indígena Paez de Nasa Chamb
+910.0;2648;RNSC-Las Tángaras;;RI-Resguardo Indígena Embera-Chami de Sabaleta
+911.0;2649;DRMI-Alto Calima;;RI-Resguardo Indígena Embera (Chami) Nabera Drua
+912.0;2650;RNSC-Los Tananeos;;RI-Resguardo Indígena Casica Ibanasca
+913.0;2651;RNSC-Tomovida - Shambala;;RI-Resguardo Indígena Nuevo Espinal
+914.0;2652;DRMI-Caracolí Sabanas de Manuela;;RI-Resguardo Indígena Kogui - Malayo y Arhuaco
+915.0;2653;RNSC-La Esperanza;;RI-Resguardo Indígena Wayuu de la Alta Y Media Guajira
+916.0;2654;RNSC-Jardín Botánico de la Macarena I;;RI-Resguardo Indígena de Arquia
+917.0;2655;RNSC-El Porvenir;;RI-Resguardo Indigena Kankuamo
+918.0;2656;DRMI-Chinchorro;;RI-Resguardo Indígena Wayuu de Mañature
+919.0;2657;DRMI-Chinchorro;;RI-Resguardo Indígena Wayuu de Lomamato
+92.0;1830;;;RI-Resguardo Indígena Embera - Catio de "El Pital" - Narikizavi
+920.0;2658;RNSC-Iguakan;;RI-Resguardo Indígena Guahibo de Guacamayas y Maipore
+921.0;2659;RNSC-El Chochal de Siecha;;RI-Resguardo Indígena Kogui - Malayo y Arhuaco
+922.0;2660;RNSC-Monayano;;RI-Resguardo Indígena Guahibo de Caño Guaripa
+923.0;2661;PNR-Páramo de las Ovejas-Tauso;;RI-Resguardo Indígena Guahibo de Guacamayas y Maipore
+924.0;2662;RNSC-Bariloche;;RI-Resguardo Indígena Wayuu de la Alta Y Media Guajira
+925.0;2663;RNSC-Bioparque Moncora 3;;RI-Resguardo Indígena Wayuu Cuatro De Noviembre
+926.0;2664;RNSC-Bioparque Moncora 3;;RI-Resguardo Indígena Wayu El Soldado Parate Bien
+927.0;2665;RNSC-Bioparque Moncora 3;;RI-Resguardo Indígena Wayuu de la Alta Y Media Guajira
+928.0;2666;RNSC-Reserva Natural Verdeagua;;RI-Resguardo Indígena Awa de El Gran Sabalo
+929.0;2667;RFPR-Río Bravo;;RI-Resguardo Indígena Pasto De Iles
+93.0;1831;;;RI-Resguardo Indígena Carupia
+930.0;2668;RNSC-Santa Lucía;;RI-Resguardo Indígena Tsawilonia del pueblo Sikuani
+931.0;2669;RNSC-Altamira;;RI-Resguardo Indígena Kogui - Malayo y Arhuaco
+932.0;2670;RNSC-Villa Fátima;;RI-Resguardo Indígena Embera de los Rios Jurubida, Chori y Alto Baudo
+933.0;2671;RNSC-Miramar;;RI-Resguardo Indígena Yuco de Iroka
+934.0;2672;RNSC-La Esperanza;;RI-Resguardo Indígena Muisca De Cota
+935.0;2673;RNSC-La Florida;;RI-Resguardo Indígena Intillagta (Hijos Del Sol)
+936.0;2674;DRMI-Isla Ají;;RI-Resguardo Indígena Pasto de Funes
+937.0;2675;RNSC-Lote Cinco;;RI-Resguardo Indígena Wayuu de la Alta Y Media Guajira
+938.0;2676;RNSC-Muquiche;;RI-Resguardo Indígena Achagua y Piapoco (El Turpial La Victoria (Umapo))
+939.0;2677;RNSC-La Esperanza;;RI-Resguardo Indígena Embera Chami de Doxura
+94.0;1832;;;RI-Resguardo Indígena Pueblo Kokonuco
+940.0;2678;DRMI-Bajo Cauca Nechí;;RI-Resguardo Indígena Nasa Paez de Llano Buco - Bukj Ukue
+941.0;2679;DRMI-Bajo Cauca Nechí;;RI-Resguardo Indígena Nasa Paez Huila
+942.0;2680;RNSC-Islandia;;RI-Resguardo Indígena Embera-Katio de Polines
+943.0;2681;RNSC-Reserva El Portete;;RI-Resguardo Indígena Eperara-Siapidara de Isla Del Mono
+944.0;2682;RNSC-Reserva El Portete;;RI-Resguardo Indígena Embera Almorzadero, San Isidro y la Nueva Union
+945.0;2683;RNSC-Reserva El Portete;;RI-Resguardo Indígena Embera - Cholo Del Rio Guangüi
+946.0;2684;RNSC-Reserva El Portete;;RI-Resguardo Indígena Emebera Calle Santa Rosa
+947.0;2685;PNR-Serranía de Minas;;RI-Resguardo Indígena Pickwe Ikh
+948.0;2686;DRMI-Serranía de Minas;;RI-Resguardo Indígena Fiw Paez
+949.0;2687;DRMI-Serranía de Minas;;RI-Resguardo Indígena Pickwe Ikh
+95.0;1833;;;RI-Resguardo Indígena Awa de San Andres - Las Vegas - Villa Union
+950.0;2688;DRMI-Serranía de Minas;;RI-Resguardo Indígena Nasa Paez Potrerito
+951.0;2689;DRMI-Serranía de Minas;;RI-Resguardo Indígena Guambiano de Nam Misak
+952.0;2690;DRMI-Isla Ají;;RI-Resguardo Indígena Eperara-Siapidara de Isla Del Mono
+953.0;2691;RNSC-Santa Elena;;RI-Resguardo Indígena Paez de Zit-Set Del Quecal
+954.0;2692;RNSC-Charanga;;RI-Resguardo Indígena Salilva de los parajes de San Juanito, El Duya y Paravare
+955.0;2693;RNSC-Siempre Vivo;;RI-Resguardo Indígena Pijao de Pocharco
+956.0;2694;RNSC-Leguaro;;RI-Resguardo Indigena Paez de Kokonuco
+957.0;2695;RNSC-Núcleo de Reservas Akae- Santa Rosita;;RI-Resguardo Indígena La Pascua
+958.0;2696;RNSC-Los Eucaliptos;;RI-Resguardo Indígena Nasa Paez Huila
+959.0;2697;RNSC-Villamar;;RI-Resguardo Indígena Paez de Zit-Set Del Quecal
+96.0;1834;;;RI-Resguardo Indígena Ukwe Kiwe del pueblo Nasa
+960.0;2698;DRMI-Bajo Cauca Nechí;;RI-Resguardo Indígena Vegas De Segovia
+961.0;3471;;;RI-Resguardo Indígena Waunana del Rio Pichima
+962.0;3472;;;RI-Resguardo Indígena Waunana del Rio Orpua
+963.0;3473;;;RI-Resguardo Indígena El Refugio
+964.0;3474;;;RI-Resguardo Indígena Guayaberos de Barrancon
+965.0;3475;;;RI-Resguardo Indígena Paez de La Florida
+966.0;3476;;;RI-Resguardo Indígena Kamentsa - Inga de San Francisco
+967.0;3477;;;RI-Resguardo Indígena Gran Tescual
+968.0;3478;;;RI-Resguardo Indígena Pasto de Funes
+969.0;3479;;;RI-Resguardo Indígena Wuna´Apuchon Loma Fresca
+97.0;1835;;;RI-Resguardo Indígena Musu Runakuna
+970.0;3480;;;RI-Resguardo Indígena Wayu El Soldado Parate Bien
+971.0;3481;;;RI-Resguardo Indígena Awa Ñambi Piedra Verde
+972.0;3482;;;RI-Resguardo Indígena Awa de Palmar Imbi
+973.0;3483;;;RI-Resguardo Indígena Embera de los Rios Valle y Boroboro
+974.0;3484;;;RI-Resguardo indígena Embera Rios Uva Pogue, Quebrada Taparal
+975.0;3485;;;RI-Resguardo Indígena Guahibo de La Esmeralda
+976.0;3486;;;RI-Resguardo Indígena Guahibo de Valdivia
+977.0;3487;;;RI-Resguardo Indígena Embera de Chuscal y Tuguridocito
+978.0;3488;;;RI-Resguardo Indígena Embera de Chimurro y Nendo
+979.0;3489;;;RI-Resguardo Indígena Embera Chami  de Gitó Dokabú
+98.0;1836;;;RI-Resguardo Indígena Rio Alto De San Juan
+980.0;3490;;;RI-Resguardo Indígena Embera-Katio Rio Andagueda
+981.0;3491;;;RI-Resguardo Indígena Embera Chami  de Gitó Dokabú
+982.0;3492;;;RI-Resguardo Indígena Unificado Chami
+983.0;3493;;;RI-Resguardo Indígena Wayuu de Una'Apüchon
+984.0;3494;;;RI-Resguardo Indígena Wayuu de la Alta Y Media Guajira
+985.0;3495;;;RI-Resguardo Indígena Embera Gegenado
+986.0;3496;;;RI-Resguardo Indígena Embera del Alto Rio Tagachi
+987.0;3497;;;RI-Resguardo Indígena Piapoco de Cali-Barranquilla
+988.0;3498;;;RI-Resguardo Indígena Piapoco de Pueblo Nuevo - Laguna Colorada
+989.0;3499;;;RI-Resguardo Indígena Embera Katio El Dieciocho
+99.0;1837;;;RI-Resguardo Indígena Embera del Rio Ame
+990.0;3500;;;RI-Resguardo Indígena Embera Katio de Abejero
+991.0;3501;;;RI-Resguardo Indígena Embera Katio El Dieciocho
+992.0;3502;;;RI-Resguardo Indígena del Rio La Playa
+993.0;3503;;;RI-Resguardo Indígena Nasa Tkwima Thewë´Sx
+994.0;3504;;;RI-Resguardo Indígena Embera Chami de Simorna
+995.0;3505;;;RI-Resguardo Indígena Bachaco BuenaVista
+996.0;3506;;;RI-Resguardo Indígena de la Cuenca Media Y Alta del Rio Inirida
+997.0;3507;;;RI-Resguardo Indígena Puinave y Piapoco de Guaco Bajo - Guaco Alto
+998.0;3508;;;RI-Resguardo Indígena Piapoco de Pueblo Nuevo - Laguna Colorada
+999.0;3509;;;RI-Resguardo Indígena Integrado Eden Cartagena

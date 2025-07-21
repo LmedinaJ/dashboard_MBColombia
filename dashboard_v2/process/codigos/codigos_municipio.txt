@@ -1,0 +1,1108 @@
+1.0;3;Antioquia;Caldas
+10.0;81;Antioquia;Concepción
+100.0;887;Antioquia;Armenia
+1000.0;325;Valle del Cauca;La Cumbre
+1001.0;355;Valle del Cauca;Candelaria
+1002.0;384;Valle del Cauca;Roldanillo
+1003.0;406;Valle del Cauca;Ginebra
+1004.0;436;Valle del Cauca;La Victoria
+1005.0;473;Valle del Cauca;El Cerrito
+1006.0;504;Valle del Cauca;Bolívar
+1007.0;518;Valle del Cauca;Dagua
+1008.0;519;Valle del Cauca;Bugalagrande
+1009.0;523;Valle del Cauca;Toro
+101.0;893;Antioquia;Vigía del Fuerte
+1010.0;539;Valle del Cauca;Jamundí
+1011.0;541;Valle del Cauca;Versalles
+1012.0;555;Valle del Cauca;Caicedonia
+1013.0;582;Valle del Cauca;Buga
+1014.0;666;Valle del Cauca;Ríofrío
+1015.0;694;Valle del Cauca;San Pedro
+1016.0;698;Valle del Cauca;Restrepo
+1017.0;730;Valle del Cauca;Yumbo
+1018.0;759;Valle del Cauca;Yotoco
+1019.0;785;Valle del Cauca;Sevilla
+102.0;903;Antioquia;Angostura
+1020.0;890;Valle del Cauca;Calima
+1021.0;930;Valle del Cauca;Pradera
+1022.0;954;Valle del Cauca;Guacarí
+1023.0;985;Valle del Cauca;Argelia
+1024.0;987;Valle del Cauca;Florida
+1025.0;992;Valle del Cauca;El Dovio
+1026.0;1026;Valle del Cauca;Obando
+1027.0;1027;Valle del Cauca;Tuluá
+1028.0;1030;Valle del Cauca;Vijes
+1029.0;1035;Valle del Cauca;Ansermanuevo
+103.0;908;Antioquia;Yarumal
+1030.0;1065;Valle del Cauca;Cali
+1031.0;1068;Valle del Cauca;Ulloa
+1032.0;76;Vichada;La Primavera
+1033.0;186;Vichada;Puerto Carreño
+1034.0;915;Vichada;Santa Rosalía
+1035.0;910;Área en Litigio;Área en Litigio
+1036.0;414;Amazonas;Puerto Nariño
+1037.0;770;Amazonas;Leticia
+1038.0;921;Amazonas;Sin decisión político administrativa 1
+1039.0;172;Caquetá;San José del Fragua
+104.0;917;Antioquia;Chigorodó
+1040.0;220;Caquetá;Morelia
+1041.0;226;Caquetá;Cartagena del Chairá
+1042.0;276;Caquetá;Puerto Rico
+1043.0;298;Caquetá;Milán
+1044.0;309;Caquetá;El Doncello
+1045.0;465;Caquetá;Solita
+1046.0;597;Caquetá;Montañita
+1047.0;616;Caquetá;El Paujil
+1048.0;765;Caquetá;Florencia
+1049.0;802;Caquetá;Belén de Los Andaquíes
+105.0;933;Antioquia;Guadalupe
+1050.0;814;Caquetá;Curillo
+1051.0;820;Caquetá;Solano
+1052.0;834;Caquetá;Valparaíso
+1053.0;885;Caquetá;San Vicente del Caguán
+1054.0;944;Caquetá;Albania
+1055.0;260;Cauca;San Sebastián
+1056.0;570;Cauca;Santa Rosa
+1057.0;912;Cauca;Piamonte
+1058.0;249;Guainía;Sin decisión político administrativa 2
+1059.0;294;Guainía;Barranco Mina
+106.0;935;Antioquia;Amagá
+1060.0;387;Guainía;Inírida
+1061.0;440;Guainía;San Felipe
+1062.0;34;Guaviare;San José del Guaviare
+1063.0;110;Guaviare;Calamar
+1064.0;375;Guaviare;El Retorno
+1065.0;474;Guaviare;Miraflores
+1066.0;48;Meta;El Dorado
+1067.0;80;Meta;Cubarral
+1068.0;105;Meta;Uribe
+1069.0;143;Meta;Granada
+107.0;937;Antioquia;Carmen de Viboral
+1070.0;160;Meta;Mapiripán
+1071.0;179;Meta;Puerto Concordia
+1072.0;219;Meta;Puerto Rico
+1073.0;228;Meta;Mesetas
+1074.0;351;Meta;Guamal
+1075.0;549;Meta;Puerto Gaitán
+1076.0;612;Meta;La Macarena
+1077.0;618;Meta;Lejanías
+1078.0;635;Meta;San Juan de Arama
+1079.0;737;Meta;Fuente de Oro
+108.0;953;Antioquia;Santuario
+1080.0;815;Meta;Puerto Lleras
+1081.0;913;Meta;El Castillo
+1082.0;922;Meta;San Martín
+1083.0;964;Meta;Acacías
+1084.0;973;Meta;Vistahermosa
+1085.0;14;Nariño;Funes
+1086.0;329;Nariño;Ipiales
+1087.0;377;Nariño;Pasto
+1088.0;758;Nariño;Córdoba
+1089.0;982;Nariño;Puerres
+109.0;957;Antioquia;Santa Rosa de Osos
+1090.0;1059;Nariño;Potosí
+1091.0;69;Putumayo;Valle del Guamuez
+1092.0;95;Putumayo;Colón
+1093.0;395;Putumayo;Puerto Caicedo
+1094.0;401;Putumayo;Orito
+1095.0;538;Putumayo;San Francisco
+1096.0;571;Putumayo;Santiago
+1097.0;573;Putumayo;Puerto Guzmán
+1098.0;715;Putumayo;San Miguel
+1099.0;783;Putumayo;Puerto Asís
+11.0;84;Antioquia;Concordia
+110.0;963;Antioquia;Santa Bárbara
+1100.0;877;Putumayo;Sibundoy
+1101.0;958;Putumayo;Villagarzón
+1102.0;984;Putumayo;Puerto Leguízamo
+1103.0;1001;Putumayo;Mocoa
+1104.0;313;Vaupés;Carurú
+1105.0;338;Vaupés;Sin decisión político administrativa 3
+1106.0;362;Vaupés;Taraira
+1107.0;1028;Vaupés;Mitú
+1108.0;336;Vichada;Cumaribo
+111.0;971;Antioquia;Valdivia
+112.0;980;Antioquia;Ríonegro
+113.0;990;Antioquia;Caicedo
+114.0;993;Antioquia;Cocorná
+115.0;1006;Antioquia;Itagüí
+116.0;1016;Antioquia;San Jerónimo
+117.0;1046;Antioquia;San Luis
+118.0;1050;Antioquia;La Pintada
+119.0;1057;Antioquia;Ebéjico
+12.0;92;Antioquia;Medellín
+120.0;1062;Antioquia;San Juan de Urabá
+121.0;1082;Antioquia;Uramita
+122.0;1088;Antioquia;San José de La Montaña
+123.0;1089;Antioquia;Nechí
+124.0;1092;Antioquia;Liborina
+125.0;1096;Antioquia;San Vicente
+126.0;15;Arauca;Arauquita
+127.0;232;Arauca;Arauca
+128.0;245;Arauca;Tame
+129.0;469;Arauca;Fortul
+13.0;94;Antioquia;Toledo
+130.0;970;Arauca;Cravo Norte
+131.0;991;Arauca;Puerto Rondón
+132.0;1044;Arauca;Saravena
+133.0;6;Atlántico;Polonuevo
+134.0;78;Atlántico;Candelaria
+135.0;166;Atlántico;Santo Tomás
+136.0;237;Atlántico;Repelón
+137.0;300;Atlántico;Puerto Colombia
+138.0;331;Atlántico;Palmar de Varela
+139.0;332;Atlántico;Tubará
+14.0;100;Antioquia;San Carlos
+140.0;501;Atlántico;Soledad
+141.0;603;Atlántico;Galapa
+142.0;614;Atlántico;Luruaco
+143.0;631;Atlántico;Manatí
+144.0;691;Atlántico;Malambo
+145.0;704;Atlántico;Juan de Acosta
+146.0;716;Atlántico;Suán
+147.0;767;Atlántico;Sabanagrande
+148.0;823;Atlántico;Piojó
+149.0;836;Atlántico;Sabanalarga
+15.0;117;Antioquia;Alejandría
+150.0;870;Atlántico;Barranquilla
+151.0;952;Atlántico;Santa Lucía
+152.0;994;Atlántico;Baranoa
+153.0;1017;Atlántico;Usiacurí
+154.0;1020;Atlántico;Campo de La Cruz
+155.0;1058;Atlántico;Ponedera
+156.0;341;Bogotá, D.C.;Bogotá, D.C.
+157.0;52;Bolívar;San Jacinto
+158.0;90;Bolívar;Barranco de Loba
+159.0;91;Bolívar;Cantagallo
+16.0;120;Antioquia;Carolina
+160.0;112;Bolívar;Norosí
+161.0;114;Bolívar;San Cristóbal
+162.0;123;Bolívar;Magangué
+163.0;153;Bolívar;Turbana
+164.0;190;Bolívar;Margarita
+165.0;199;Bolívar;Arjona
+166.0;203;Bolívar;Simití
+167.0;205;Bolívar;Achí
+168.0;229;Bolívar;Mompós
+169.0;275;Bolívar;Santa Rosa
+17.0;121;Antioquia;Dabeiba
+170.0;328;Bolívar;Cicuco
+171.0;335;Bolívar;Mahates
+172.0;360;Bolívar;Santa Rosa del Sur
+173.0;367;Bolívar;San Pablo
+174.0;417;Bolívar;San Juan Nepomuceno
+175.0;424;Bolívar;Hatillo de Loba
+176.0;427;Bolívar;Arenal
+177.0;466;Bolívar;Soplaviento
+178.0;502;Bolívar;Córdoba
+179.0;508;Bolívar;El Carmen de Bolívar
+18.0;128;Antioquia;Tarso
+180.0;509;Bolívar;Calamar
+181.0;531;Bolívar;Montecristo
+182.0;561;Bolívar;Ríoviejo
+183.0;572;Bolívar;San Martín de Loba
+184.0;585;Bolívar;San Jacinto del Cauca
+185.0;615;Bolívar;Santa Catalina
+186.0;645;Bolívar;Cartagena de Indias
+187.0;672;Bolívar;Clemencia
+188.0;673;Bolívar;Talaigua Nuevo
+189.0;680;Bolívar;San Estanislao
+19.0;155;Antioquia;Betulia
+190.0;686;Bolívar;San Fernando
+191.0;697;Bolívar;El Peñón
+192.0;700;Bolívar;Morales
+193.0;707;Bolívar;Regidor
+194.0;738;Bolívar;Turbaco
+195.0;781;Bolívar;Tiquisio
+196.0;810;Bolívar;Zambrano
+197.0;895;Bolívar;El Guamo
+198.0;916;Bolívar;Arroyohondo
+199.0;926;Bolívar;María La Baja
+2.0;27;Antioquia;Sonsón
+20.0;161;Antioquia;Heliconia
+200.0;983;Bolívar;Altos del Rosario
+201.0;1029;Bolívar;Villanueva
+202.0;1097;Bolívar;Pinillos
+203.0;16;Boyacá;Briceño
+204.0;18;Boyacá;Tutazá
+205.0;23;Boyacá;Saboyá
+206.0;26;Boyacá;Toca
+207.0;41;Boyacá;La Victoria
+208.0;47;Boyacá;Soracá
+209.0;58;Boyacá;Arcabuco
+21.0;187;Antioquia;El Bagre
+210.0;60;Boyacá;Ciénega
+211.0;74;Boyacá;Pajarito
+212.0;83;Boyacá;Corrales
+213.0;86;Boyacá;Chivor
+214.0;108;Boyacá;Garagoa
+215.0;113;Boyacá;Duitama
+216.0;127;Boyacá;San Luis de Gaceno
+217.0;134;Boyacá;Tinjacá
+218.0;137;Boyacá;Tasco
+219.0;147;Boyacá;Tenza
+22.0;194;Antioquia;Yolombó
+220.0;154;Boyacá;Otanche
+221.0;174;Boyacá;Chiscas
+222.0;192;Boyacá;Sogamoso
+223.0;208;Boyacá;Mongua
+224.0;210;Boyacá;Monguí
+225.0;215;Boyacá;Busbanzá
+226.0;217;Boyacá;Buenavista
+227.0;227;Boyacá;Chinavita
+228.0;230;Boyacá;Boyacá
+229.0;248;Boyacá;Macanal
+23.0;198;Antioquia;Belmira
+230.0;266;Boyacá;Nuevo Colón
+231.0;295;Boyacá;Almeida
+232.0;310;Boyacá;Sativanorte
+233.0;311;Boyacá;Sotaquirá
+234.0;324;Boyacá;Floresta
+235.0;327;Boyacá;Sora
+236.0;343;Boyacá;Socotá
+237.0;347;Boyacá;Sativasur
+238.0;354;Boyacá;Somondoco
+239.0;358;Boyacá;Miraflores
+24.0;200;Antioquia;Bello
+240.0;378;Boyacá;Sutatenza
+241.0;388;Boyacá;Coper
+242.0;398;Boyacá;Togüí
+243.0;419;Boyacá;Covarachía
+244.0;426;Boyacá;Tipacoque
+245.0;456;Boyacá;Chita
+246.0;460;Boyacá;Tununguá
+247.0;461;Boyacá;Pauna
+248.0;464;Boyacá;Moniquirá
+249.0;471;Boyacá;Rondón
+25.0;214;Antioquia;Argelia
+250.0;495;Boyacá;Panqueba
+251.0;500;Boyacá;Gámeza
+252.0;522;Boyacá;Nobsa
+253.0;533;Boyacá;Ráquira
+254.0;542;Boyacá;La Capilla
+255.0;552;Boyacá;Caldas
+256.0;553;Boyacá;San Miguel de Sema
+257.0;559;Boyacá;Jericó
+258.0;567;Boyacá;Sutamarchán
+259.0;569;Boyacá;Labranzagrande
+26.0;233;Antioquia;Támesis
+260.0;574;Boyacá;Paz de Río
+261.0;624;Boyacá;Jenesano
+262.0;625;Boyacá;Cubará
+263.0;629;Boyacá;Socha
+264.0;636;Boyacá;Boavita
+265.0;641;Boyacá;Chiquinquirá
+266.0;644;Boyacá;Guicán
+267.0;648;Boyacá;Chitaraque
+268.0;651;Boyacá;Santa Rosa de Viterbo
+269.0;657;Boyacá;Viracachá
+27.0;250;Antioquia;Angelópolis
+270.0;661;Boyacá;San Eduardo
+271.0;662;Boyacá;Tópaga
+272.0;669;Boyacá;Villa de Leiva
+273.0;674;Boyacá;Pachavita
+274.0;683;Boyacá;Paipa
+275.0;684;Boyacá;Paya
+276.0;685;Boyacá;Guacamayas
+277.0;706;Boyacá;Susacón
+278.0;719;Boyacá;Tunja
+279.0;729;Boyacá;Tota
+28.0;257;Antioquia;Carepa
+280.0;732;Boyacá;Cuítiva
+281.0;739;Boyacá;Campohermoso
+282.0;746;Boyacá;Turmequé
+283.0;754;Boyacá;Chivatá
+284.0;777;Boyacá;Muzo
+285.0;780;Boyacá;Tibaná
+286.0;782;Boyacá;Aquitania
+287.0;784;Boyacá;La Uvita
+288.0;808;Boyacá;Motavita
+289.0;809;Boyacá;San José de Pare
+29.0;259;Antioquia;Don Matias
+290.0;819;Boyacá;El Espino
+291.0;839;Boyacá;Úmbita
+292.0;845;Boyacá;Ventaquemada
+293.0;869;Boyacá;Belén
+294.0;872;Boyacá;Páez
+295.0;898;Boyacá;Soatá
+296.0;905;Boyacá;El Cocuy
+297.0;920;Boyacá;Firavitoba
+298.0;936;Boyacá;Pesca
+299.0;942;Boyacá;San Mateo
+3.0;29;Antioquia;Santa Fe de Antioquia
+30.0;264;Antioquia;San Pedro
+300.0;955;Boyacá;Santa Sofía
+301.0;967;Boyacá;Siachoque
+302.0;976;Boyacá;Guayatá
+303.0;977;Boyacá;Gachantivá
+304.0;988;Boyacá;Berbeo
+305.0;989;Boyacá;Tuta
+306.0;999;Boyacá;Oicatá
+307.0;1005;Boyacá;Samacá
+308.0;1007;Boyacá;Ramiriquí
+309.0;1010;Boyacá;Maripí
+31.0;277;Antioquia;Buriticá
+310.0;1013;Boyacá;Sáchica
+311.0;1022;Boyacá;Cerinza
+312.0;1023;Boyacá;Iza
+313.0;1034;Boyacá;Cómbita
+314.0;1039;Boyacá;Chíquiza
+315.0;1040;Boyacá;Santana
+316.0;1051;Boyacá;Santa María
+317.0;1052;Boyacá;Zetaquira
+318.0;1054;Boyacá;Betéitiva
+319.0;1061;Boyacá;Tibasosa
+32.0;286;Antioquia;Yondó
+320.0;1066;Boyacá;Quípama
+321.0;1069;Boyacá;Guateque
+322.0;1072;Boyacá;Cucaita
+323.0;1081;Boyacá;Puerto Boyacá
+324.0;1083;Boyacá;Pisva
+325.0;1086;Boyacá;San Pablo de Borbur
+326.0;37;Caldas;Supia
+327.0;87;Caldas;Norcasia
+328.0;106;Caldas;Aguadas
+329.0;181;Caldas;Manzanares
+33.0;290;Antioquia;Amalfi
+330.0;251;Caldas;Salamina
+331.0;253;Caldas;Ríosucio
+332.0;254;Caldas;Aranzazu
+333.0;284;Caldas;Pensilvania
+334.0;297;Caldas;Pácora
+335.0;344;Caldas;Villamaría
+336.0;363;Caldas;Belalcazar
+337.0;364;Caldas;Palestina
+338.0;394;Caldas;Risaralda
+339.0;420;Caldas;La Dorada
+34.0;292;Antioquia;Urrao
+340.0;507;Caldas;San José
+341.0;540;Caldas;Victoria
+342.0;577;Caldas;Marmato
+343.0;623;Caldas;Marulanda
+344.0;769;Caldas;Chinchiná
+345.0;824;Caldas;Anserma
+346.0;874;Caldas;Marquetalia
+347.0;888;Caldas;Viterbo
+348.0;896;Caldas;Neira
+349.0;928;Caldas;La Merced
+35.0;296;Antioquia;Ciudad Bolívar
+350.0;978;Caldas;Samaná
+351.0;1043;Caldas;Manizales
+352.0;1064;Caldas;Filadelfia
+353.0;5;Casanare;Pore
+354.0;96;Casanare;Nunchía
+355.0;322;Casanare;Chámeza
+356.0;345;Casanare;Maní
+357.0;488;Casanare;Támara
+358.0;510;Casanare;Recetor
+359.0;556;Casanare;Monterrey
+36.0;304;Antioquia;Santo Domingo
+360.0;637;Casanare;Aguazul
+361.0;638;Casanare;Yopal
+362.0;642;Casanare;San Luis de Palenque
+363.0;649;Casanare;Villanueva
+364.0;656;Casanare;Orocué
+365.0;752;Casanare;La Salina
+366.0;789;Casanare;Tauramena
+367.0;827;Casanare;Paz de Ariporo
+368.0;866;Casanare;Sabanalarga
+369.0;1036;Casanare;Trinidad
+37.0;308;Antioquia;Hispania
+370.0;1055;Casanare;Hato Corozal
+371.0;1073;Casanare;Sácama
+372.0;17;Cauca;Totoró
+373.0;22;Cauca;López
+374.0;51;Cauca;Balboa
+375.0;115;Cauca;Guachené
+376.0;164;Cauca;Patía
+377.0;218;Cauca;Inzá
+378.0;289;Cauca;Timbiquí
+379.0;305;Cauca;La Sierra
+38.0;319;Antioquia;Segovia
+380.0;307;Cauca;El Tambo
+381.0;350;Cauca;Almaguer
+382.0;433;Cauca;Rosas
+383.0;463;Cauca;Piendamó
+384.0;486;Cauca;Sucre
+385.0;490;Cauca;Bolívar
+386.0;497;Cauca;Mercaderes
+387.0;530;Cauca;Toribío
+388.0;564;Cauca;Suárez
+389.0;604;Cauca;Santander de Quilichao
+39.0;353;Antioquia;Anzá
+390.0;608;Cauca;Cajibío
+391.0;634;Cauca;Corinto
+392.0;654;Cauca;Páez
+393.0;677;Cauca;Timbío
+394.0;687;Cauca;Miranda
+395.0;718;Cauca;Sotará
+396.0;751;Cauca;Guapi
+397.0;755;Cauca;Popayán
+398.0;797;Cauca;Caloto
+399.0;803;Cauca;Caldono
+4.0;42;Antioquia;Campamento
+40.0;361;Antioquia;Envigado
+400.0;825;Cauca;Buenos Aires
+401.0;835;Cauca;Padilla
+402.0;909;Cauca;Morales
+403.0;979;Cauca;La Vega
+404.0;1018;Cauca;Puerto Tejada
+405.0;1045;Cauca;Silvia
+406.0;1053;Cauca;Jambaló
+407.0;1060;Cauca;Villa Rica
+408.0;1076;Cauca;Florencia
+409.0;1077;Cauca;Argelia
+41.0;371;Antioquia;San Francisco
+410.0;1105;Cauca;Puracé
+411.0;33;Cesar;Astrea
+412.0;77;Cesar;Pueblo Bello
+413.0;116;Cesar;Tamalameque
+414.0;165;Cesar;Pailitas
+415.0;193;Cesar;El Paso
+416.0;242;Cesar;El Copey
+417.0;279;Cesar;Gamarra
+418.0;291;Cesar;Valledupar
+419.0;342;Cesar;San Martín
+42.0;383;Antioquia;Fredonia
+420.0;349;Cesar;Agustín Codazzi
+421.0;491;Cesar;Rio de Oro
+422.0;492;Cesar;Chimichagua
+423.0;528;Cesar;La Paz
+424.0;584;Cesar;San Diego
+425.0;590;Cesar;Manaure Balcón del Cesar
+426.0;609;Cesar;Becerril
+427.0;626;Cesar;La Jagua de Ibirico
+428.0;655;Cesar;González
+429.0;695;Cesar;Curumaní
+43.0;393;Antioquia;Sabanalarga
+430.0;713;Cesar;Bosconia
+431.0;728;Cesar;San Alberto
+432.0;812;Cesar;Aguachica
+433.0;923;Cesar;La Gloria
+434.0;1008;Cesar;Pelaya
+435.0;1078;Cesar;Chiriguaná
+436.0;46;Chocó;Medio Atrato
+437.0;70;Chocó;Unguía
+438.0;130;Chocó;Bagadó
+439.0;132;Chocó;Alto Baudó
+44.0;404;Antioquia;Puerto Berrío
+440.0;157;Chocó;Quibdó
+441.0;204;Chocó;Rio Quito
+442.0;239;Chocó;Lloró
+443.0;267;Chocó;Cértegui
+444.0;281;Chocó;El Cantón del San Pablo
+445.0;317;Chocó;Bahía Solano
+446.0;334;Chocó;Condoto
+447.0;391;Chocó;Nuquí
+448.0;415;Chocó;Unión Panamericana
+449.0;416;Chocó;Carmen del Darién
+45.0;405;Antioquia;Briceño
+450.0;441;Chocó;Acandí
+451.0;443;Chocó;Juradó
+452.0;481;Chocó;El Carmen
+453.0;566;Chocó;Bojayá
+454.0;580;Chocó;Istmina
+455.0;595;Chocó;Ríosucio
+456.0;640;Chocó;Medio Baudó
+457.0;712;Chocó;Rio Iró
+458.0;831;Chocó;Sipí
+459.0;838;Chocó;Nóvita
+46.0;409;Antioquia;San Andrés
+460.0;862;Chocó;El Litoral del San Juán
+461.0;868;Chocó;Bajo Baudó
+462.0;956;Chocó;Atrato
+463.0;969;Chocó;San José del Palmar
+464.0;1024;Chocó;Medio San Juan
+465.0;1049;Chocó;Tadó
+466.0;4;Cundinamarca;Topaipí
+467.0;19;Cundinamarca;Nimaima
+468.0;25;Cundinamarca;La Calera
+469.0;38;Cundinamarca;Fúquene
+47.0;412;Antioquia;Necoclí
+470.0;57;Cundinamarca;Susa
+471.0;66;Cundinamarca;Ricaurte
+472.0;93;Cundinamarca;Cogua
+473.0;104;Cundinamarca;Girardot
+474.0;111;Cundinamarca;Cachipay
+475.0;124;Cundinamarca;Yacopí
+476.0;129;Cundinamarca;Paime
+477.0;131;Cundinamarca;Fusagasugá
+478.0;145;Cundinamarca;Tena
+479.0;148;Cundinamarca;Quebradanegra
+48.0;413;Antioquia;Copacabana
+480.0;150;Cundinamarca;La Vega
+481.0;151;Cundinamarca;Carmen de Carupa
+482.0;152;Cundinamarca;Gachetá
+483.0;156;Cundinamarca;Chipaque
+484.0;158;Cundinamarca;Bojacá
+485.0;171;Cundinamarca;Tocaima
+486.0;173;Cundinamarca;Subachoque
+487.0;182;Cundinamarca;Facatativá
+488.0;183;Cundinamarca;La Peña
+489.0;188;Cundinamarca;Supatá
+49.0;431;Antioquia;Caracolí
+490.0;206;Cundinamarca;Zipacón
+491.0;213;Cundinamarca;Caparrapí
+492.0;238;Cundinamarca;Manta
+493.0;244;Cundinamarca;Fosca
+494.0;269;Cundinamarca;Nemocón
+495.0;278;Cundinamarca;Suesca
+496.0;287;Cundinamarca;Nariño
+497.0;293;Cundinamarca;Útica
+498.0;314;Cundinamarca;Villagómez
+499.0;315;Cundinamarca;Granada
+5.0;45;Antioquia;Cisneros
+50.0;437;Antioquia;Jardín
+500.0;323;Cundinamarca;Guachetá
+501.0;326;Cundinamarca;Gachancipá
+502.0;356;Cundinamarca;Cáqueza
+503.0;357;Cundinamarca;Vergara
+504.0;368;Cundinamarca;La Palma
+505.0;369;Cundinamarca;Pandi
+506.0;376;Cundinamarca;Pasca
+507.0;379;Cundinamarca;Anolaima
+508.0;382;Cundinamarca;Guaduas
+509.0;402;Cundinamarca;Machetá
+51.0;444;Antioquia;La Unión
+510.0;408;Cundinamarca;Lenguazaque
+511.0;422;Cundinamarca;San Cayetano
+512.0;423;Cundinamarca;Puerto Salgar
+513.0;425;Cundinamarca;Guasca
+514.0;429;Cundinamarca;Paratebueno
+515.0;435;Cundinamarca;Agua de Dios
+516.0;438;Cundinamarca;Choachí
+517.0;446;Cundinamarca;Soacha
+518.0;448;Cundinamarca;Chocontá
+519.0;457;Cundinamarca;Sutatausa
+52.0;451;Antioquia;Caucasia
+520.0;470;Cundinamarca;Villeta
+521.0;479;Cundinamarca;Quipile
+522.0;487;Cundinamarca;Ubalá
+523.0;489;Cundinamarca;Guayabetal
+524.0;511;Cundinamarca;San Juan de Rioseco
+525.0;517;Cundinamarca;Cabrera
+526.0;520;Cundinamarca;Villapinzón
+527.0;524;Cundinamarca;Gama
+528.0;525;Cundinamarca;Guayabal de Síquima
+529.0;536;Cundinamarca;Une
+53.0;452;Antioquia;Cáceres
+530.0;576;Cundinamarca;Chaguaní
+531.0;583;Cundinamarca;Ubaté
+532.0;586;Cundinamarca;Pacho
+533.0;596;Cundinamarca;Sopó
+534.0;601;Cundinamarca;Tibacuy
+535.0;643;Cundinamarca;Fómeque
+536.0;658;Cundinamarca;El Colegio
+537.0;664;Cundinamarca;Nocaima
+538.0;693;Cundinamarca;Gutiérrez
+539.0;725;Cundinamarca;Chía
+54.0;453;Antioquia;Tarazá
+540.0;726;Cundinamarca;Anapoima
+541.0;736;Cundinamarca;Sesquilé
+542.0;742;Cundinamarca;Cota
+543.0;747;Cundinamarca;Bituima
+544.0;748;Cundinamarca;Silvania
+545.0;774;Cundinamarca;Mosquera
+546.0;779;Cundinamarca;Sibaté
+547.0;792;Cundinamarca;Tocancipá
+548.0;793;Cundinamarca;Medina
+549.0;801;Cundinamarca;Sasaima
+55.0;454;Antioquia;Abejorral
+550.0;805;Cundinamarca;Cajicá
+551.0;811;Cundinamarca;Apulo
+552.0;837;Cundinamarca;Guatavita
+553.0;840;Cundinamarca;Cucunubá
+554.0;849;Cundinamarca;Ubaque
+555.0;853;Cundinamarca;San Antonio del Tequendama
+556.0;863;Cundinamarca;Funza
+557.0;879;Cundinamarca;El Rosal
+558.0;881;Cundinamarca;Zipaquirá
+559.0;889;Cundinamarca;Tenjo
+56.0;455;Antioquia;Apartadó
+560.0;899;Cundinamarca;Viotá
+561.0;900;Cundinamarca;Arbeláez
+562.0;931;Cundinamarca;Simijaca
+563.0;943;Cundinamarca;San Bernardo
+564.0;946;Cundinamarca;Venecia
+565.0;997;Cundinamarca;La Mesa
+566.0;1002;Cundinamarca;Vianí
+567.0;1009;Cundinamarca;Nilo
+568.0;1011;Cundinamarca;Albán
+569.0;1012;Cundinamarca;Tabio
+57.0;459;Antioquia;Puerto Triunfo
+570.0;1014;Cundinamarca;Madrid
+571.0;1015;Cundinamarca;Jerusalén
+572.0;1025;Cundinamarca;Quetame
+573.0;1032;Cundinamarca;Junín
+574.0;1063;Cundinamarca;Tausa
+575.0;1075;Cundinamarca;San Francisco
+576.0;1079;Cundinamarca;Gachalá
+577.0;1084;Cundinamarca;El Peñón
+578.0;1095;Cundinamarca;Guataquí
+579.0;1100;Cundinamarca;Beltrán
+58.0;468;Antioquia;Guarne
+580.0;1106;Cundinamarca;Pulí
+581.0;1108;Cundinamarca;Tibirita
+582.0;43;Córdoba;Cereté
+583.0;71;Córdoba;Montería
+584.0;138;Córdoba;Puerto Escondido
+585.0;144;Córdoba;San Bernardo del Viento
+586.0;211;Córdoba;Pueblo Nuevo
+587.0;236;Córdoba;Purísima
+588.0;303;Córdoba;Planeta Rica
+589.0;330;Córdoba;Montelíbano
+59.0;476;Antioquia;Jericó
+590.0;390;Córdoba;Buenavista
+591.0;418;Córdoba;Cotorra
+592.0;432;Córdoba;San José de Uré
+593.0;498;Córdoba;Valencia
+594.0;503;Córdoba;Ayapel
+595.0;563;Córdoba;Ciénaga de Oro
+596.0;627;Córdoba;San Carlos
+597.0;689;Córdoba;San Andrés de Sotavento
+598.0;708;Córdoba;Moñitos
+599.0;740;Córdoba;San Antero
+6.0;55;Antioquia;Giraldo
+60.0;483;Antioquia;Retiro
+600.0;772;Córdoba;Puerto Libertador
+601.0;775;Córdoba;La Apartada
+602.0;778;Córdoba;Sahagún
+603.0;880;Córdoba;Tierralta
+604.0;892;Córdoba;Chinú
+605.0;925;Córdoba;Los Córdobas
+606.0;947;Córdoba;San Pelayo
+607.0;1037;Córdoba;Lorica
+608.0;1080;Córdoba;Momil
+609.0;1091;Córdoba;Chima
+61.0;484;Antioquia;Ituango
+610.0;1103;Córdoba;Tuchín
+611.0;1104;Córdoba;Canalete
+612.0;13;Huila;Paicol
+613.0;39;Huila;Oporapa
+614.0;50;Huila;Palermo
+615.0;79;Huila;La Argentina
+616.0;107;Huila;Colombia
+617.0;126;Huila;Yaguará
+618.0;176;Huila;Guadalupe
+619.0;258;Huila;La Plata
+62.0;485;Antioquia;Pueblorrico
+620.0;282;Huila;Neiva
+621.0;285;Huila;Suaza
+622.0;339;Huila;Pitalito
+623.0;370;Huila;San Agustín
+624.0;372;Huila;Timaná
+625.0;411;Huila;Rivera
+626.0;450;Huila;Isnos
+627.0;515;Huila;Tesalia
+628.0;526;Huila;Santa María
+629.0;527;Huila;Altamira
+63.0;514;Antioquia;Peñol
+630.0;547;Huila;Tarqui
+631.0;579;Huila;Algeciras
+632.0;621;Huila;Villavieja
+633.0;652;Huila;Agrado
+634.0;681;Huila;Íquira
+635.0;682;Huila;Teruel
+636.0;688;Huila;Palestina
+637.0;733;Huila;Tello
+638.0;749;Huila;Saladoblanco
+639.0;768;Huila;Aipe
+64.0;532;Antioquia;Maceo
+640.0;807;Huila;Elías
+641.0;821;Huila;Baraya
+642.0;822;Huila;Nátaga
+643.0;859;Huila;Campoalegre
+644.0;867;Huila;Acevedo
+645.0;939;Huila;Garzón
+646.0;996;Huila;Pital
+647.0;1041;Huila;Gigante
+648.0;1048;Huila;Hobo
+649.0;7;La Guajira;Villanueva
+65.0;535;Antioquia;Arboletes
+650.0;49;La Guajira;San Juan del Cesar
+651.0;133;La Guajira;Hato Nuevo
+652.0;180;La Guajira;Urumita
+653.0;212;La Guajira;Fonseca
+654.0;280;La Guajira;El Molino
+655.0;410;La Guajira;Ríohacha
+656.0;475;La Guajira;Distracción
+657.0;550;La Guajira;Maicao
+658.0;588;La Guajira;Barrancas
+659.0;663;La Guajira;Albania
+66.0;544;Antioquia;La Estrella
+660.0;720;La Guajira;Uribia
+661.0;744;La Guajira;Manaure
+662.0;941;La Guajira;La Jagua del Pilar
+663.0;951;La Guajira;Dibulla
+664.0;1;Magdalena;Guamal
+665.0;28;Magdalena;Zona Bananera
+666.0;35;Magdalena;San Sebastián de Buenavista
+667.0;56;Magdalena;Santa Bárbara de Pinto
+668.0;65;Magdalena;Chivolo
+669.0;82;Magdalena;Algarrobo
+67.0;562;Antioquia;Sabaneta
+670.0;159;Magdalena;Santa Marta
+671.0;178;Magdalena;Nueva Granada
+672.0;189;Magdalena;El Banco
+673.0;231;Magdalena;Salamina
+674.0;261;Magdalena;Pijiño del Carmen
+675.0;265;Magdalena;Pivijay
+676.0;340;Magdalena;Sabanas de San Ángel
+677.0;380;Magdalena;Ariguaní
+678.0;430;Magdalena;Sitionuevo
+679.0;512;Magdalena;Zapayán
+68.0;605;Antioquia;Vegachí
+680.0;565;Magdalena;Fundación
+681.0;578;Magdalena;Concordia
+682.0;606;Magdalena;Tenerife
+683.0;632;Magdalena;Ciénaga
+684.0;660;Magdalena;El Retén
+685.0;667;Magdalena;El Piñón
+686.0;679;Magdalena;Puebloviejo
+687.0;721;Magdalena;Aracataca
+688.0;826;Magdalena;Plato
+689.0;924;Magdalena;Cerro de San Antonio
+69.0;607;Antioquia;Venecia
+690.0;938;Magdalena;Santa Ana
+691.0;1038;Magdalena;San Zenón
+692.0;1047;Magdalena;Remolino
+693.0;1090;Magdalena;Pedraza
+694.0;44;Meta;Cabuyaro
+695.0;102;Meta;Restrepo
+696.0;118;Meta;El Calvario
+697.0;428;Meta;Puerto López
+698.0;442;Meta;Cumaral
+699.0;702;Meta;San Juanito
+7.0;61;Antioquia;Frontino
+70.0;619;Antioquia;San Roque
+700.0;717;Meta;Barranca de Upía
+701.0;875;Meta;San Carlos de Guaroa
+702.0;902;Meta;Villavicencio
+703.0;1074;Meta;Castilla La Nueva
+704.0;8;Nariño;El Rosario
+705.0;9;Nariño;Tangua
+706.0;31;Nariño;Cumbitara
+707.0;67;Nariño;Mosquera
+708.0;75;Nariño;Policarpa
+709.0;168;Nariño;Providencia
+71.0;633;Antioquia;Valparaíso
+710.0;170;Nariño;La Unión
+711.0;196;Nariño;San Lorenzo
+712.0;197;Nariño;Santa Cruz
+713.0;223;Nariño;Leiva
+714.0;234;Nariño;Francisco Pizarro
+715.0;256;Nariño;San Pablo
+716.0;262;Nariño;Cumbal
+717.0;283;Nariño;Mallama
+718.0;306;Nariño;Los Andes
+719.0;312;Nariño;Magüí
+72.0;650;Antioquia;Murindó
+720.0;365;Nariño;La Cruz
+721.0;385;Nariño;El Tambo
+722.0;399;Nariño;La Tola
+723.0;403;Nariño;Belén
+724.0;462;Nariño;Albán
+725.0;477;Nariño;Buesaco
+726.0;478;Nariño;Olaya Herrera
+727.0;482;Nariño;Imués
+728.0;494;Nariño;San Pedro de Cartago
+729.0;534;Nariño;Taminango
+73.0;653;Antioquia;Caramanta
+730.0;591;Nariño;Guachucal
+731.0;598;Nariño;Barbacoas
+732.0;602;Nariño;Ricaurte
+733.0;610;Nariño;Yacuanquer
+734.0;611;Nariño;Samaniego
+735.0;727;Nariño;Gualmatán
+736.0;735;Nariño;El Charco
+737.0;757;Nariño;Iles
+738.0;787;Nariño;Tumaco
+739.0;796;Nariño;Cuaspud
+74.0;659;Antioquia;Guatapé
+740.0;804;Nariño;Sapuyes
+741.0;828;Nariño;Colón
+742.0;844;Nariño;Guaitarilla
+743.0;847;Nariño;San Bernardo
+744.0;855;Nariño;Ancuya
+745.0;858;Nariño;Linares
+746.0;886;Nariño;El Tablón
+747.0;904;Nariño;Chachagüí
+748.0;906;Nariño;Santa Bárbara
+749.0;907;Nariño;Nariño
+75.0;670;Antioquia;Puerto Nare
+750.0;911;Nariño;Roberto Payán
+751.0;945;Nariño;Túquerres
+752.0;960;Nariño;Consacá
+753.0;968;Nariño;Sandoná
+754.0;972;Nariño;Aldana
+755.0;981;Nariño;El Peñol
+756.0;1000;Nariño;La Llanada
+757.0;1003;Nariño;La Florida
+758.0;1004;Nariño;Ospina
+759.0;1019;Nariño;Contadero
+76.0;676;Antioquia;Girardota
+760.0;1087;Nariño;Pupiales
+761.0;1101;Nariño;Arboleda
+762.0;21;Norte de Santander;Cucutilla
+763.0;59;Norte de Santander;Cúcuta
+764.0;101;Norte de Santander;Santiago
+765.0;119;Norte de Santander;Convención
+766.0;135;Norte de Santander;Villa del Rosario
+767.0;149;Norte de Santander;Tibú
+768.0;162;Norte de Santander;Salazar
+769.0;169;Norte de Santander;Pamplona
+77.0;678;Antioquia;Zaragoza
+770.0;177;Norte de Santander;San Calixto
+771.0;222;Norte de Santander;Ábrego
+772.0;225;Norte de Santander;San Cayetano
+773.0;320;Norte de Santander;Durania
+774.0;346;Norte de Santander;El Tarra
+775.0;386;Norte de Santander;Chitagá
+776.0;397;Norte de Santander;Los Patios
+777.0;400;Norte de Santander;Silos
+778.0;434;Norte de Santander;Puerto Santander
+779.0;445;Norte de Santander;Ragonvalia
+78.0;699;Antioquia;Marinilla
+780.0;449;Norte de Santander;Gramalote
+781.0;458;Norte de Santander;Hacarí
+782.0;516;Norte de Santander;Chinácota
+783.0;529;Norte de Santander;Mutiscua
+784.0;581;Norte de Santander;Labateca
+785.0;587;Norte de Santander;Bucarasica
+786.0;594;Norte de Santander;La Playa
+787.0;620;Norte de Santander;El Zulia
+788.0;690;Norte de Santander;Ocaña
+789.0;705;Norte de Santander;Cácota
+79.0;701;Antioquia;Andes
+790.0;760;Norte de Santander;Pamplonita
+791.0;764;Norte de Santander;La Esperanza
+792.0;766;Norte de Santander;Teorama
+793.0;773;Norte de Santander;Herrán
+794.0;816;Norte de Santander;Arboledas
+795.0;861;Norte de Santander;Bochalema
+796.0;864;Norte de Santander;Lourdes
+797.0;873;Norte de Santander;El Carmen
+798.0;894;Norte de Santander;Sardinata
+799.0;918;Norte de Santander;Cáchira
+8.0;63;Antioquia;Titiribí
+80.0;703;Antioquia;Olaya
+800.0;1021;Norte de Santander;Toledo
+801.0;1107;Norte de Santander;Villa Caro
+802.0;30;Quindío;La Tebaida
+803.0;240;Quindío;Filandia
+804.0;381;Quindío;Calarcá
+805.0;396;Quindío;Circasia
+806.0;548;Quindío;Buenavista
+807.0;639;Quindío;Pijao
+808.0;646;Quindío;Córdoba
+809.0;675;Quindío;Salento
+81.0;709;Antioquia;Anorí
+810.0;830;Quindío;Montenegro
+811.0;843;Quindío;Armenia
+812.0;848;Quindío;Génova
+813.0;914;Quindío;Quimbaya
+814.0;40;Risaralda;Pueblo Rico
+815.0;68;Risaralda;Pereira
+816.0;209;Risaralda;Dosquebradas
+817.0;247;Risaralda;Santa Rosa de Cabal
+818.0;255;Risaralda;Mistrató
+819.0;480;Risaralda;Guática
+82.0;714;Antioquia;Nariño
+820.0;493;Risaralda;Belén de Umbría
+821.0;543;Risaralda;Marsella
+822.0;545;Risaralda;La Celia
+823.0;589;Risaralda;La Virginia
+824.0;763;Risaralda;Quinchía
+825.0;813;Risaralda;Apía
+826.0;817;Risaralda;Santuario
+827.0;966;Risaralda;Balboa
+828.0;865;San Andres y Providencia;Providencia y Santa Catalina
+829.0;932;San Andres y Providencia;San Andrés
+83.0;741;Antioquia;Abriaquí
+830.0;10;Santander;Los Santos
+831.0;11;Santander;Curití
+832.0;12;Santander;Guadalupe
+833.0;32;Santander;Pinchote
+834.0;54;Santander;Molagavita
+835.0;85;Santander;Capitanejo
+836.0;88;Santander;Palmas del Socorro
+837.0;97;Santander;Charta
+838.0;140;Santander;California
+839.0;163;Santander;Enciso
+84.0;745;Antioquia;Montebello
+840.0;185;Santander;Vetas
+841.0;191;Santander;Charalá
+842.0;195;Santander;Girón
+843.0;202;Santander;Puerto Parra
+844.0;221;Santander;Barbosa
+845.0;224;Santander;San Benito
+846.0;241;Santander;Galán
+847.0;246;Santander;Albania
+848.0;252;Santander;Piedecuesta
+849.0;263;Santander;Santa Helena del Opón
+85.0;756;Antioquia;Cañasgordas
+850.0;272;Santander;Suratá
+851.0;299;Santander;Hato
+852.0;318;Santander;Matanza
+853.0;321;Santander;San Andrés
+854.0;348;Santander;Güepsa
+855.0;352;Santander;Ocamonte
+856.0;421;Santander;Socorro
+857.0;447;Santander;San Vicente de Chucurí
+858.0;513;Santander;San José de Miranda
+859.0;537;Santander;Mogotes
+86.0;788;Antioquia;Peque
+860.0;546;Santander;El Guacamayo
+861.0;551;Santander;Suaita
+862.0;554;Santander;Florián
+863.0;558;Santander;La Belleza
+864.0;560;Santander;La Paz
+865.0;568;Santander;El Playón
+866.0;592;Santander;Concepción
+867.0;593;Santander;Jordán
+868.0;599;Santander;Zapatoca
+869.0;600;Santander;Cabrera
+87.0;790;Antioquia;Granada
+870.0;613;Santander;Valle de San José
+871.0;617;Santander;Santa Bárbara
+872.0;628;Santander;Jesús María
+873.0;647;Santander;Barrancabermeja
+874.0;665;Santander;Floridablanca
+875.0;668;Santander;Ríonegro
+876.0;671;Santander;Barichara
+877.0;692;Santander;Chima
+878.0;722;Santander;San Joaquín
+879.0;723;Santander;Oiba
+88.0;791;Antioquia;Remedios
+880.0;743;Santander;Puente Nacional
+881.0;761;Santander;Confines
+882.0;762;Santander;Aratoca
+883.0;771;Santander;Macaravita
+884.0;795;Santander;Chipatá
+885.0;799;Santander;Contratación
+886.0;800;Santander;Bucaramanga
+887.0;806;Santander;Páramo
+888.0;818;Santander;Cerrito
+889.0;846;Santander;Guavatá
+89.0;794;Antioquia;Betania
+890.0;854;Santander;Gámbita
+891.0;857;Santander;Guapotá
+892.0;871;Santander;Sabana de Torres
+893.0;876;Santander;Palmar
+894.0;882;Santander;Villanueva
+895.0;891;Santander;Sucre
+896.0;897;Santander;Simacota
+897.0;901;Santander;San Gil
+898.0;919;Santander;Onzaga
+899.0;927;Santander;Puerto Wilches
+9.0;72;Antioquia;Turbo
+90.0;798;Antioquia;Gómez Plata
+900.0;929;Santander;Landázuri
+901.0;934;Santander;El Peñón
+902.0;950;Santander;Aguada
+903.0;959;Santander;Encino
+904.0;961;Santander;Cepitá
+905.0;965;Santander;Málaga
+906.0;974;Santander;Vélez
+907.0;975;Santander;Betulia
+908.0;986;Santander;El Carmen
+909.0;1031;Santander;Bolívar
+91.0;829;Antioquia;San Pedro de Urabá
+910.0;1033;Santander;Guaca
+911.0;1042;Santander;Tona
+912.0;1067;Santander;Cimitarra
+913.0;1070;Santander;San Miguel
+914.0;1071;Santander;Coromoro
+915.0;1093;Santander;Carcasí
+916.0;1102;Santander;Lebrija
+917.0;73;Sucre;Sucre
+918.0;89;Sucre;Sincelejo
+919.0;99;Sucre;Tolú
+92.0;832;Antioquia;La Ceja
+920.0;122;Sucre;Coveñas
+921.0;125;Sucre;San Benito Abad
+922.0;139;Sucre;El Roble
+923.0;142;Sucre;Caimito
+924.0;201;Sucre;Sampués
+925.0;302;Sucre;San Juan de Betulia
+926.0;366;Sucre;Palmito
+927.0;496;Sucre;Corozal
+928.0;499;Sucre;Toluviejo
+929.0;506;Sucre;Los Palmitos
+93.0;833;Antioquia;Mutatá
+930.0;521;Sucre;Chalán
+931.0;575;Sucre;Guaranda
+932.0;711;Sucre;La Unión
+933.0;724;Sucre;Buenavista
+934.0;731;Sucre;San Marcos
+935.0;753;Sucre;Colosó
+936.0;776;Sucre;Sincé
+937.0;878;Sucre;Ovejas
+938.0;940;Sucre;Galeras
+939.0;962;Sucre;Morroa
+94.0;841;Antioquia;Sopetrán
+940.0;1085;Sucre;Majagual
+941.0;1098;Sucre;San Onofre
+942.0;1099;Sucre;San Pedro
+943.0;2;Tolima;Villahermosa
+944.0;24;Tolima;Lérida
+945.0;36;Tolima;Mariquita
+946.0;62;Tolima;Murillo
+947.0;103;Tolima;Santa Isabel
+948.0;136;Tolima;Ríoblanco
+949.0;146;Tolima;Rovira
+95.0;842;Antioquia;Barbosa
+950.0;167;Tolima;Ataco
+951.0;175;Tolima;Purificación
+952.0;216;Tolima;Saldaña
+953.0;235;Tolima;Cajamarca
+954.0;243;Tolima;Honda
+955.0;268;Tolima;Anzoátegui
+956.0;273;Tolima;Flandes
+957.0;274;Tolima;San Luis
+958.0;288;Tolima;Palocabildo
+959.0;301;Tolima;Suárez
+96.0;850;Antioquia;Yalí
+960.0;316;Tolima;Guamo
+961.0;333;Tolima;San Antonio
+962.0;337;Tolima;Ambalema
+963.0;359;Tolima;Falan
+964.0;373;Tolima;Casabianca
+965.0;374;Tolima;Armero
+966.0;389;Tolima;Ibagué
+967.0;392;Tolima;Piedras
+968.0;407;Tolima;Alvarado
+969.0;439;Tolima;Ortega
+97.0;852;Antioquia;Salgar
+970.0;467;Tolima;Roncesvalles
+971.0;472;Tolima;Chaparral
+972.0;505;Tolima;Icononzo
+973.0;557;Tolima;Dolores
+974.0;622;Tolima;Melgar
+975.0;630;Tolima;Villarrica
+976.0;696;Tolima;Planadas
+977.0;710;Tolima;Líbano
+978.0;734;Tolima;Espinal
+979.0;750;Tolima;Natagaima
+98.0;856;Antioquia;Entrerríos
+980.0;786;Tolima;Coello
+981.0;851;Tolima;Venadillo
+982.0;860;Tolima;Coyaima
+983.0;884;Tolima;Prado
+984.0;948;Tolima;Alpujarra
+985.0;949;Tolima;Cunday
+986.0;995;Tolima;Carmen de Apicalá
+987.0;998;Tolima;Herveo
+988.0;1056;Tolima;Fresno
+989.0;1094;Tolima;Valle de San Juan
+99.0;883;Antioquia;San Rafael
+990.0;20;Valle del Cauca;Buenaventura
+991.0;53;Valle del Cauca;Andalucía
+992.0;64;Valle del Cauca;El Águila
+993.0;98;Valle del Cauca;El Cairo
+994.0;109;Valle del Cauca;Alcalá
+995.0;141;Valle del Cauca;Trujillo
+996.0;184;Valle del Cauca;Palmira
+997.0;207;Valle del Cauca;Cartago
+998.0;270;Valle del Cauca;Zarzal
+999.0;271;Valle del Cauca;La Unión

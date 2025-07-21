@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, user-scalable=yes">
+    <title>🌳 Dashboard de Áreas de Integración Amazónica v2</title>
+    <link rel="stylesheet" href="styles.css">
+    <!-- Chart.js CDN -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <!-- Date adapter for Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns/dist/chartjs-adapter-date-fns.bundle.min.js"></script>
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <!-- Leaflet JavaScript -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <!-- Shapefile plugin for Leaflet -->
+    <script src="https://unpkg.com/shapefile@0.6.6/dist/shapefile.min.js"></script>
+    <!-- Alternative: Leaflet.shapefile plugin -->
+    <script src="https://unpkg.com/leaflet.shapefile@0.3.1/dist/leaflet.shapefile.js"></script>
+</head>
+<body>
+    <!-- Floating Toggle Button -->
+    <button id="toggleControls" class="controls-toggle">
+        <!-- <span class="toggle-icon">📊</span> -->
+        <span class="toggle-text">Panel de Control</span>
+    </button>
+
+    <!-- Sidebar Controls Panel -->
+    <div id="controlsSidebar" class="controls-sidebar">
+        <div class="sidebar-header">
+            <h3>Panel de Control</h3>
+            <button id="closeSidebar" class="close-btn">✕</button>
+        </div>
+        
+        <div class="sidebar-content">
+            <!-- Data Source Selection -->
+            <div class="control-group">
+                <label for="dataSource">Fuente de Datos</label>
+                <select id="dataSource">
+                    <option value="">Cargando fuentes...</option>
+                </select>
+            </div>
+            
+            <!-- Refresh Button -->
+            <div class="control-group">
+                <button id="refreshBtn" class="btn-refresh">🔄 Actualizar Datos</button>
+            </div>
+
+            <!-- Filters Section -->
+            <div class="filters-section">
+                <div class="filter-section-title">
+                    <h4>🔍 Filtros</h4>
+                </div>
+                
+                <!-- Year Range Filter -->
+                <div class="filter-group">
+                    <div class="filter-label">
+                        <label>📅 Rango de Años</label>
+                    </div>
+                    <div class="dual-range-container">
+                        <div class="range-track">
+                            <div class="range-progress" id="rangeProgress"></div>
+                        </div>
+                        <div class="range-inputs">
+                            <input type="range" id="yearMin" min="1985" max="2024" value="1985" class="range-min">
+                            <input type="range" id="yearMax" min="1985" max="2024" value="2024" class="range-max">
+                        </div>
+                        <div class="range-tooltips">
+                            <div class="tooltip tooltip-min" id="tooltipMin">1985</div>
+                            <div class="tooltip tooltip-max" id="tooltipMax">2024</div>
+                        </div>
+                        <div class="year-labels">
+                            <span class="year-start">1985</span>
+                            <span class="year-end">2024</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Territory Filter -->
+                <div class="filter-group">
+                    <div class="filter-label">
+                        <label>🗺️ Territorios</label>
+                    </div>
+                    <div class="filter-container">
+                        <input type="text" id="territorySearch" placeholder="Buscar territorios...">
+                        <div class="button-row">
+                            <button id="selectAllTerritories" class="btn-filter-full">Seleccionar Todo</button>
+                            <button id="clearAllTerritories" class="btn-filter-full">Limpiar Todo</button>
+                        </div>
+                        <div class="checkbox-group" id="territoryFilters">
+                            <!-- Dynamic territory checkboxes will be added here -->
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Coverage Filter -->
+                <div class="filter-group">
+                    <div class="filter-label">
+                        <label>🌿 Coberturas</label>
+                    </div>
+                    <div class="filter-container">
+                        <input type="text" id="coverageSearch" placeholder="Buscar coberturas...">
+                        <div class="button-row">
+                            <button id="selectAllCoverages" class="btn-filter-full">Seleccionar Todo</button>
+                            <button id="clearAllCoverages" class="btn-filter-full">Limpiar Todo</button>
+                        </div>
+                        <div class="checkbox-group" id="coverageFilters">
+                            <!-- Dynamic coverage checkboxes will be added here -->
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Apply Filters Button -->
+                <div class="filter-actions">
+                    <button id="applyFilters" class="btn-apply">✅ Aplicar Filtros</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Sidebar Overlay -->
+    <div id="sidebarOverlay" class="sidebar-overlay"></div>
+
+    <div class="container">
+        <!-- Header -->
+        <header class="header">
+            <h1>🌳 Dashboard de Áreas de Integración Amazónica</h1>
+            <p class="subtitle">Análisis de datos de integración de regiones amazónicas de 1985-2024</p>
+        </header>
+
+        <!-- Main Dashboard Content -->
+        <main class="dashboard-content">
+            <!-- Key Metrics -->
+            <section class="metrics-section">
+                <h2>Datos generales</h2>
+                <div class="metrics-grid">
+                    <div class="metric-card">
+                        <h3>Área Formación Forestal</h3>
+                        <div class="metric-value" id="forestArea">-</div>
+                        <div class="metric-change" id="forestChange">-</div>
+                    </div>
+                    <div class="metric-card">
+                        <h3>Área Pastos</h3>
+                        <div class="metric-value" id="pastureArea">-</div>
+                        <div class="metric-change" id="pastureChange">-</div>
+                    </div>
+                    <div class="metric-card">
+                        <h3>Área Agricultura</h3>
+                        <div class="metric-value" id="agricultureArea">-</div>
+                        <div class="metric-change" id="agricultureChange">-</div>
+                    </div>
+                    <div class="metric-card">
+                        <h3>Total Territorios</h3>
+                        <div class="metric-value" id="totalTerritories">-</div>
+                        <div class="metric-change" id="territoryPercent">-</div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Charts Section -->
+            <section class="charts-section">
+                <!-- Time Series Chart -->
+                <div class="chart-container">
+                    <h3>Evolución de Coberturas en el Tiempo</h3>
+                    <canvas id="timeSeriesChart"></canvas>
+                </div>
+
+                <!-- Territory Analysis Chart -->
+                <div class="chart-container">
+                    <h3>Análisis de Territorios</h3>
+                    <canvas id="territoryChart"></canvas>
+                </div>
+
+                <!-- Coverage Distribution Chart -->
+                <div class="chart-container">
+                    <h3>Distribución de Coberturas</h3>
+                    <canvas id="coverageChart"></canvas>
+                </div>
+            </section>
+
+            <!-- Debug Table Section - COMMENTED OUT -->
+            <!--
+            <section class="debug-section">
+                <h2>🔍 Merge CSV ↔ Códigos (territory ↔ id_gee)</h2>
+                <div class="debug-controls">
+                    <button id="refreshDebugTable" class="btn-refresh">🔄 Actualizar Tabla Debug</button>
+                    <span id="debugTableStatus" class="debug-status">Esperando datos...</span>
+                </div>
+                <div class="debug-table-container">
+                    <table id="debugTable" class="debug-table">
+                        <thead>
+                            <tr id="debugTableHeader">
+                                 Headers will be populated dynamically 
+                            </tr>
+                        </thead>
+                        <tbody id="debugTableBody">
+                             Debug data rows will be added here
+                        </tbody>
+                    </table>
+                </div>
+            </section>
+            -->
+
+            <!-- Map Section -->
+            <section class="map-section">
+                <h2>Visualización Geoespacial</h2>
+                <div class="map-container">
+                    <div id="mapContainer" class="map-view">
+                        <!-- Leaflet map will be initialized here -->
+                    </div>
+                    <div class="map-legend" id="mapLegend">
+                        <h4>Leyenda</h4>
+                        <div class="legend-items" id="legendItems">
+                            <!-- Legend items will be populated dynamically -->
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Data Table Section -->
+            <section class="data-section">
+                <h3>Exploración de Datos</h3>
+                <div class="table-controls">
+                    <div class="table-info">
+                        <span id="dataCount">0 registros</span>
+                        <button id="exportBtn" class="btn-export">📥 Exportar CSV</button>
+                    </div>
+                </div>
+                <div class="table-container">
+                    <table id="dataTable">
+                        <thead>
+                            <tr>
+                                <th>Territorio</th>
+                                <th>Cobertura</th>
+                                <th>Año</th>
+                                <th>Área (km²)</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <!-- Dynamic data rows will be added here -->
+                        </tbody>
+                    </table>
+                </div>
+            </section>
+        </main>
+
+        <!-- Loading Indicator -->
+        <div id="loadingIndicator" class="loading">
+            <div class="spinner"></div>
+            <p>Cargando datos...</p>
+        </div>
+
+        <!-- Filter Loading Indicator -->
+        <div id="filterLoadingIndicator" class="filter-loading hidden">
+            <div class="filter-spinner"></div>
+            <span>Aplicando filtros...</span>
+        </div>
+    </div>
+
+    <!-- JavaScript -->
+    <!-- <script type="module" src="app_modular.js"></script> -->
+    <script type="module" src="app.js"></script>
+</body>
+</html>
