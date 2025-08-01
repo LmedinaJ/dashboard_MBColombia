@@ -42,16 +42,6 @@
                 <button id="refreshBtn" class="btn-refresh">🔄 Actualizar Datos</button>
             </div>
             
-            <!-- GeoJSON Debug Info -->
-            <div class="control-group" id="geojsonDebugInfo" style="display: none;">
-                <div style="font-size: 12px; color: #666; padding: 8px; background: #f8f9fa; border-radius: 4px;">
-                    <strong>📍 Capa GIS:</strong><br>
-                    <span id="geojsonFileName">-</span><br>
-                    <strong>Registros:</strong> <span id="geojsonFeatureCount">-</span><br>
-                    <strong>Origen:</strong> <span id="geojsonSource">-</span><br>
-                    <strong>Cargado:</strong> <span id="geojsonLoadTime">-</span>
-                </div>
-            </div>
 
             <!-- Filters Section -->
             <div class="filters-section">
@@ -206,6 +196,14 @@
             <section class="data-section">
                 <h3>Exploración de Datos</h3>
                 <div class="table-controls">
+                    <div class="table-filters">
+                        <div class="table-filter-group">
+                            <label for="tableYearFilter">📅 Filtrar por Año:</label>
+                            <select id="tableYearFilter">
+                                <option value="">Todos los años</option>
+                            </select>
+                        </div>
+                    </div>
                     <div class="table-info">
                         <span id="dataCount">0 registros</span>
                         <button id="exportBtn" class="btn-export">📥 Exportar CSV</button>

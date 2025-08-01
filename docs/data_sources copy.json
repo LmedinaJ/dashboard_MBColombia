@@ -21,7 +21,7 @@
     "description": "Intersección ANP TIS",
     "gis":"process/data/gis/geojson/mascara_raisg_v3_4326.geojson",
     "columns":["id_gee","id_area","translape"],
-    "barchart":"mascara"
+    "barchart":"translape"
   },
   "TIS": {
     "file": "AREAS-INTEGRACION-AMAZONIA-TIS-DASH-3007.csv",
@@ -37,7 +37,7 @@
     "description": "ANP DEPARTAMENTAL",
     "gis":"process/data/gis/geojson/anp_depto_28072025_4326.geojson",
     "columns":["id_gee","id_area","nombre"],
-    "barchart":"categoria"
+    "barchart":"nombre"
   },
   "ANP_NAL": {
     "file": "AREAS-INTEGRACION-AMAZONIA-ANP-NAL-DASH-3007.csv",

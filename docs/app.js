@@ -16,7 +16,8 @@ class AmazonDashboard {
         this.config = {
             tableMaxHeight: 200, // 🔧 CONFIGURABLE: Max height in pixels for table scroll (also change in CSS)
             enableMapBounds: false, // 🔧 CONFIGURABLE: Whether to restrict map panning to loaded GIS layer bounds
-            tableMaxRows: 20 // 🔧 CONFIGURABLE: Maximum number of rows to display in data exploration table
+            tableMaxRows: 20, // 🔧 CONFIGURABLE: Maximum number of rows to display in data exploration table
+            territoryChartMaxItems: 15 // 🔧 CONFIGURABLE: Maximum number of territories to show in bar chart
         };
         this.map = null;
         this.mapLayer = null;
@@ -73,7 +74,7 @@ class AmazonDashboard {
         Object.keys(this.dataSources).forEach(key => {
             const option = document.createElement('option');
             option.value = key;
-            option.textContent = `${key} - ${this.dataSources[key].description}`;
+            option.textContent = this.dataSources[key].description;
             select.appendChild(option);
         });
     }
@@ -131,6 +132,7 @@ class AmazonDashboard {
             
             try {
                 this.updateFilters();
+                this.updateTableYearFilter(); // Update table year filter after data is loaded
                 this.applyFilters();
                 this.updateCharts();
                 this.updateTable();
@@ -719,7 +721,7 @@ class AmazonDashboard {
                 plugins: {
                     title: {
                         display: true,
-                        text: 'Top 15 Territorios por Área Total',
+                        text: `Top ${this.config.territoryChartMaxItems} Territorios por Área Total`,
                         font: {
                             size: isMobile ? 12 : 16
                         }
@@ -864,6 +866,30 @@ class AmazonDashboard {
         this.updateCoverageChart();
     }
 
+    updateTableYearFilter() {
+        const tableYearFilter = document.getElementById('tableYearFilter');
+        if (!tableYearFilter) return;
+        
+        // Get unique years from ALL data (not filtered data)
+        const years = [...new Set(this.data.map(d => d.year))].sort((a, b) => a - b);
+        
+        // Store current selection
+        const currentValue = tableYearFilter.value;
+        
+        // Clear and repopulate options
+        tableYearFilter.innerHTML = '<option value="">Todos los años</option>';
+        
+        years.forEach(year => {
+            const option = document.createElement('option');
+            option.value = year;
+            option.textContent = year;
+            if (year.toString() === currentValue) {
+                option.selected = true;
+            }
+            tableYearFilter.appendChild(option);
+        });
+    }
+
     updateTimeSeriesChart() {
         // Group by year and coverage, sum areas
         const timeData = {};
@@ -937,10 +963,20 @@ class AmazonDashboard {
             territoryData[territory] += area;
         });
 
-        // Sort and take top 15
+        // Get the maximum number of territories to show based on data source
+        let maxItems = this.config.territoryChartMaxItems;
+        
+        // Special cases for specific data sources
+        if (this.currentDataSource === 'ANP_DEPTO' || 
+            this.currentDataSource === 'ANP_NAL' || 
+            this.currentDataSource === 'TIS') {
+            maxItems = 10; // 🔧 CONFIGURABLE: Limit ANP and TI to top 10
+        }
+        
+        // Sort and take top N territories
         const sortedTerritories = Object.entries(territoryData)
             .sort(([,a], [,b]) => b - a)
-            .slice(0, 15);
+            .slice(0, maxItems);
 
         const labels = sortedTerritories.map(([territory]) => {
             let label = '';
@@ -977,6 +1013,13 @@ class AmazonDashboard {
         );
         const borderColor = sortedTerritories.map(() => territoryColor);
 
+        // Update chart title dynamically based on data source and actual number of items shown
+        let chartTitle = `Top ${maxItems} Territorios por Área Total`;
+        if (this.currentDataSource === 'MASCARA') {
+            chartTitle = 'Coberturas por Área de Análisis';
+        }
+        this.charts.territory.options.plugins.title.text = chartTitle;
+        
         this.charts.territory.data.labels = labels;
         this.charts.territory.data.datasets[0].data = data;
         this.charts.territory.data.datasets[0].backgroundColor = backgroundColor;
@@ -1024,10 +1067,24 @@ class AmazonDashboard {
 
     updateTable() {
         const tbody = document.querySelector('#dataTable tbody');
+        const dataCount = document.getElementById('dataCount');
+        
+        if (!tbody || !dataCount) return;
+        
+        // Get table year filter value
+        const tableYearFilter = document.getElementById('tableYearFilter');
+        const selectedYear = tableYearFilter ? tableYearFilter.value : '';
+        
+        // Apply table-specific year filter
+        let tableData = this.filteredData;
+        if (selectedYear) {
+            tableData = this.filteredData.filter(row => row.year.toString() === selectedYear);
+        }
+        
         tbody.innerHTML = '';
         
         // Show first N rows based on configuration
-        const displayData = this.filteredData.slice(0, this.config.tableMaxRows);
+        const displayData = tableData.slice(0, this.config.tableMaxRows);
         
         displayData.forEach((row) => {
             const tr = document.createElement('tr');
@@ -1058,8 +1115,6 @@ class AmazonDashboard {
             const coverageName = coverageInfo ? coverageInfo.name : `Clase ${row.class}`;
             const area = parseFloat(row.area) || 0;
             
-            // Debug first few rows (removed debug output)
-            
             tr.innerHTML = `
                 <td>${territoryName}</td>
                 <td>${coverageName}</td>
@@ -1071,8 +1126,7 @@ class AmazonDashboard {
         });
         
         // Update data count
-        document.getElementById('dataCount').textContent = 
-            `${this.filteredData.length} registros (mostrando ${Math.min(this.config.tableMaxRows, this.filteredData.length)})`;
+        dataCount.textContent = `${tableData.length.toLocaleString()} registros ${displayData.length < tableData.length ? `(mostrando ${displayData.length})` : ''}`;
     }
 
     updateMetrics() {
@@ -1102,13 +1156,13 @@ class AmazonDashboard {
 
         // Update metrics
         document.getElementById('forestArea').textContent = this.formatArea(forestFinal);
-        document.getElementById('forestChange').textContent = this.formatChange(forestFinal - forestInitial);
+        document.getElementById('forestChange').textContent = this.formatChangeWithPeriod(forestFinal - forestInitial, minYear, maxYear);
         
         document.getElementById('pastureArea').textContent = this.formatArea(pastureFinal);
-        document.getElementById('pastureChange').textContent = this.formatChange(pastureFinal - pastureInitial);
+        document.getElementById('pastureChange').textContent = this.formatChangeWithPeriod(pastureFinal - pastureInitial, minYear, maxYear);
         
         document.getElementById('agricultureArea').textContent = this.formatArea(agricultureFinal);
-        document.getElementById('agricultureChange').textContent = this.formatChange(agricultureFinal - agricultureInitial);
+        document.getElementById('agricultureChange').textContent = this.formatChangeWithPeriod(agricultureFinal - agricultureInitial, minYear, maxYear);
         
         // Territory count
         const totalTerritories = new Set(this.filteredData.map(d => d.territory)).size;
@@ -1139,6 +1193,13 @@ class AmazonDashboard {
     formatChange(change) {
         const formatted = this.formatArea(Math.abs(change));
         return change >= 0 ? `+${formatted}` : `-${formatted}`;
+    }
+
+    formatChangeWithPeriod(change, startYear, endYear) {
+        const formatted = this.formatArea(Math.abs(change));
+        const sign = change >= 0 ? '+' : '-';
+        const period = startYear === endYear ? `${startYear}` : `${startYear}-${endYear}`;
+        return `${sign}${formatted} (${period})`;
     }
 
     getColor(index, alpha = 1) {
@@ -1240,6 +1301,11 @@ class AmazonDashboard {
         // Export button - only in full dashboard
         safeAddEventListener('exportBtn', 'click', () => {
             this.exportToCSV();
+        });
+
+        // Table year filter - only in full dashboard
+        safeAddEventListener('tableYearFilter', 'change', () => {
+            this.updateTable();
         });
 
         // Territory filter buttons - only in full dashboard
@@ -2667,26 +2733,8 @@ class AmazonDashboard {
         }
     }
 
-    displayGeoJSONInfo(geojsonPath, geojsonData, source) {
-        const fileName = geojsonPath.split('/').pop();
-        const featureCount = geojsonData.features ? geojsonData.features.length : 0;
-        
-        // Update the sidebar debug info
-        const debugContainer = document.getElementById('geojsonDebugInfo');
-        const fileNameEl = document.getElementById('geojsonFileName');
-        const featureCountEl = document.getElementById('geojsonFeatureCount');
-        const sourceEl = document.getElementById('geojsonSource');
-        const loadTimeEl = document.getElementById('geojsonLoadTime');
-        
-        if (debugContainer && fileNameEl && featureCountEl && sourceEl && loadTimeEl) {
-            debugContainer.style.display = 'block';
-            fileNameEl.textContent = fileName;
-            featureCountEl.textContent = featureCount.toLocaleString();
-            sourceEl.textContent = source;
-            sourceEl.style.color = source === 'AWS S3' ? '#27ae60' : '#3498db';
-            loadTimeEl.textContent = new Date().toLocaleTimeString();
-        }
-        
+    displayGeoJSONInfo() {
+        // GeoJSON info display removed - keep method for compatibility
     }
 }
 

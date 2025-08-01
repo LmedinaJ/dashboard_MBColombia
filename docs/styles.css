@@ -1000,6 +1000,39 @@ body {
     gap: 15px;
 }
 
+.table-filters {
+    display: flex;
+    gap: 15px;
+    align-items: center;
+}
+
+.table-filter-group {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.table-filter-group label {
+    font-weight: 600;
+    color: #2c3e50;
+    font-size: 14px;
+    min-width: 120px;
+}
+
+.table-filter-group select {
+    padding: 6px 12px;
+    border: 2px solid #e1e8ed;
+    border-radius: 6px;
+    font-size: 14px;
+    min-width: 140px;
+    transition: border-color 0.3s ease;
+}
+
+.table-filter-group select:focus {
+    outline: none;
+    border-color: #3498db;
+}
+
 .table-info {
     display: flex;
     align-items: center;
@@ -1312,6 +1345,28 @@ tr:hover {
         flex-direction: column;
         align-items: stretch;
         gap: 10px;
+    }
+    
+    .table-filters {
+        flex-direction: column;
+        align-items: stretch;
+        gap: 10px;
+    }
+    
+    .table-filter-group {
+        flex-direction: column;
+        align-items: stretch;
+        gap: 5px;
+    }
+    
+    .table-filter-group label {
+        min-width: auto;
+        font-size: 0.9rem;
+    }
+    
+    .table-filter-group select {
+        min-width: auto;
+        width: 100%;
     }
     
     .table-info {
