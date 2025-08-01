@@ -13,10 +13,6 @@
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
     <!-- Leaflet JavaScript -->
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-    <!-- Shapefile plugin for Leaflet -->
-    <script src="https://unpkg.com/shapefile@0.6.6/dist/shapefile.min.js"></script>
-    <!-- Alternative: Leaflet.shapefile plugin -->
-    <script src="https://unpkg.com/leaflet.shapefile@0.3.1/dist/leaflet.shapefile.js"></script>
 </head>
 <body>
     <!-- Floating Toggle Button -->
@@ -44,6 +40,17 @@
             <!-- Refresh Button -->
             <div class="control-group">
                 <button id="refreshBtn" class="btn-refresh">🔄 Actualizar Datos</button>
+            </div>
+            
+            <!-- GeoJSON Debug Info -->
+            <div class="control-group" id="geojsonDebugInfo" style="display: none;">
+                <div style="font-size: 12px; color: #666; padding: 8px; background: #f8f9fa; border-radius: 4px;">
+                    <strong>📍 Capa GIS:</strong><br>
+                    <span id="geojsonFileName">-</span><br>
+                    <strong>Registros:</strong> <span id="geojsonFeatureCount">-</span><br>
+                    <strong>Origen:</strong> <span id="geojsonSource">-</span><br>
+                    <strong>Cargado:</strong> <span id="geojsonLoadTime">-</span>
+                </div>
             </div>
 
             <!-- Filters Section -->
@@ -178,28 +185,6 @@
                 </div>
             </section>
 
-            <!-- Debug Table Section - COMMENTED OUT -->
-            <!--
-            <section class="debug-section">
-                <h2>🔍 Merge CSV ↔ Códigos (territory ↔ id_gee)</h2>
-                <div class="debug-controls">
-                    <button id="refreshDebugTable" class="btn-refresh">🔄 Actualizar Tabla Debug</button>
-                    <span id="debugTableStatus" class="debug-status">Esperando datos...</span>
-                </div>
-                <div class="debug-table-container">
-                    <table id="debugTable" class="debug-table">
-                        <thead>
-                            <tr id="debugTableHeader">
-                                 Headers will be populated dynamically 
-                            </tr>
-                        </thead>
-                        <tbody id="debugTableBody">
-                             Debug data rows will be added here
-                        </tbody>
-                    </table>
-                </div>
-            </section>
-            -->
 
             <!-- Map Section -->
             <section class="map-section">
@@ -258,7 +243,6 @@
     </div>
 
     <!-- JavaScript -->
-    <!-- <script type="module" src="app_modular.js"></script> -->
     <script type="module" src="app.js"></script>
 </body>
 </html>

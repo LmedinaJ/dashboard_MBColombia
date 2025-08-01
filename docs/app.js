@@ -10,6 +10,7 @@ class AmazonDashboard {
         this.spatialTabularMappings = {}; // Advanced spatial-tabular integration (by data source)
         this.charts = {};
         this.popupCharts = new Map(); // Store popup chart instances for cleanup
+        this.geojsonInfo = null; // Store info about loaded GeoJSON
         
         // Configuration parameters
         this.config = {
@@ -96,10 +97,31 @@ class AmazonDashboard {
             
             const csvText = await response.text();
             
-            this.data = this.parseCSV(csvText);
+            if (csvText.length > 50000000) { // 50MB limit  
+                throw new Error(`CSV file too large (${Math.round(csvText.length/1000000)}MB). Maximum supported size is 50MB.`);
+            }
+            
+            if (csvText.length > 20000000) { // Warn for files > 20MB
+            }
+            
+            try {
+                this.data = this.parseCSV(csvText);
+            } catch (csvError) {
+                if (csvError.message.includes('Maximum call stack size exceeded')) {
+                    throw new Error('CSV file too complex to parse - likely due to file size or format issues');
+                }
+                throw csvError;
+            }
             
             // Filter out territories that have 0 area for all years
-            this.data = this.filterValidTerritories(this.data);
+            try {
+                this.data = this.filterValidTerritories(this.data);
+            } catch (filterError) {
+                if (filterError.message.includes('Maximum call stack size exceeded')) {
+                    throw new Error('Data filtering too complex - dataset too large for territory validation');
+                }
+                throw filterError;
+            }
             
             // Load territory and coverage names if available
             await this.loadMappings(this.dataSources[sourceName]);
@@ -107,21 +129,31 @@ class AmazonDashboard {
             // Load spatial-tabular mappings for advanced integration
             await this.loadSpatialTabularMappings(this.dataSources[sourceName]);
             
-            this.updateFilters();
-            this.applyFilters();
-            this.updateCharts();
-            this.updateTable();
-            this.updateMetrics();
-            this.updateMapControls();
+            try {
+                this.updateFilters();
+                this.applyFilters();
+                this.updateCharts();
+                this.updateTable();
+                this.updateMetrics();
+                this.updateMapControls();
+            } catch (uiError) {
+                if (uiError.message.includes('Maximum call stack size exceeded')) {
+                    throw new Error('Interface update too complex - dataset too large for visualization');
+                }
+                throw uiError;
+            }
             
             // Populate debug table
-            this.populateDebugTable();
             
             // Auto-load corresponding GIS layer
             this.loadCorrespondingGisLayer();
             
         } catch (error) {
-            this.showError(`Error cargando datos: ${error.message}`);
+            if (error.message.includes('Maximum call stack size exceeded')) {
+                this.showError(`Error: Los datos de ${sourceName} son demasiado complejos para procesar. Intenta con un archivo más pequeño o simplificado.`);
+            } else {
+                this.showError(`Error cargando datos: ${error.message}`);
+            }
         }
         
         this.showLoading(false);
@@ -130,27 +162,45 @@ class AmazonDashboard {
     parseCSV(csvText) {
         const lines = csvText.trim().split('\n');
         const headers = lines[0].split(',').map(h => h.trim());
+        const result = [];
         
-        return lines.slice(1).map(line => {
-            const values = line.split(',');
-            const row = {};
+        // Process in chunks to avoid stack overflow for large files
+        const chunkSize = 1000;
+        const totalLines = lines.length - 1;
+        
+        for (let i = 1; i < lines.length; i += chunkSize) {
+            const chunk = lines.slice(i, i + chunkSize);
             
-            headers.forEach((header, index) => {
-                let value = values[index]?.trim() || '';
+            for (const line of chunk) {
+                if (!line.trim()) continue; // Skip empty lines
                 
-                // Try to convert numeric values (but keep territory as string for matching)
-                if (header === 'area' || header === 'class' || header === 'year') {
-                    const numValue = parseFloat(value);
-                    if (!isNaN(numValue)) {
-                        value = numValue;
+                const values = line.split(',');
+                const row = {};
+                
+                headers.forEach((header, index) => {
+                    let value = values[index]?.trim() || '';
+                    
+                    // Try to convert numeric values (but keep territory as string for matching)
+                    if (header === 'area' || header === 'class' || header === 'year') {
+                        const numValue = parseFloat(value);
+                        if (!isNaN(numValue)) {
+                            value = numValue;
+                        }
                     }
-                }
+                    
+                    row[header] = value;
+                });
                 
-                row[header] = value;
-            });
+                result.push(row);
+            }
             
-            return row;
-        });
+            // Progress feedback for large files
+            if (totalLines > 50000 && i % 10000 === 0) {
+                // Optional: could show progress in UI instead of console
+            }
+        }
+        
+        return result;
     }
 
     filterValidTerritories(data) {
@@ -182,13 +232,13 @@ class AmazonDashboard {
     }
 
     hasValidDataForFeature(feature) {
-        // Get the id_area from shapefile properties
+        // Get the id_area from GeoJSON properties
         const idArea = feature.properties.id_area;
         if (!idArea) {
             return false;
         }
         
-        // Convert shapefile id_area to CSV territory using codes mapping
+        // Convert GeoJSON id_area to CSV territory using codes mapping
         const csvTerritory = this.convertIdAreaToTerritory(idArea);
         if (!csvTerritory) {
             return false;
@@ -228,6 +278,7 @@ class AmazonDashboard {
 
     async loadSpatialTabularMappings(sourceConfig) {
         // Only load if we have codes file and columns configuration
+        
         if (!sourceConfig.codes || !sourceConfig.columns) {
             return;
         }
@@ -250,13 +301,6 @@ class AmazonDashboard {
             }
             this.spatialTabularMappings[this.currentDataSource] = mappingsForThisSource;
             
-            // SIMPLE DEBUG: Only log if we have data
-            if (Object.keys(mappingsForThisSource).length > 0) {
-                console.log('Loaded mappings for', this.currentDataSource, '- First key:', Object.keys(mappingsForThisSource)[0]);
-            } else {
-                console.log('NO MAPPINGS loaded for', this.currentDataSource);
-            }
-            
         } catch (error) {
             // Initialize empty mappings for this source
             if (!this.spatialTabularMappings[this.currentDataSource]) {
@@ -269,12 +313,16 @@ class AmazonDashboard {
         const mappings = {};
         const lines = text.split('\n').filter(line => line.trim());
         
-        lines.forEach((line) => {
+        let skipped = 0;
+        let parsed = 0;
+        
+        lines.forEach((line, index) => {
             try {
                 // Parse format: "id_gee;id_area;data1;data2;..." (using id_gee as key)
                 const dataValues = line.split(';');
                 
                 if (dataValues.length < columns.length) {
+                    skipped++;
                     return;
                 }
                 
@@ -288,6 +336,7 @@ class AmazonDashboard {
                 const idGee = dataValues[0].trim();
                 if (idGee) {
                     mappings[idGee] = mappedData;
+                    parsed++;
                 }
                 
             } catch (error) {
@@ -364,10 +413,18 @@ class AmazonDashboard {
     }
 
     updateFilters() {
-        // Update year range
-        const years = this.data.map(d => d.year).filter(y => !isNaN(y));
-        const minYear = Math.min(...years);
-        const maxYear = Math.max(...years);
+        // Update year range - optimized for large datasets
+        let minYear = Infinity;
+        let maxYear = -Infinity;
+        
+        // Single pass through data instead of creating large arrays
+        for (const row of this.data) {
+            const year = row.year;
+            if (!isNaN(year)) {
+                if (year < minYear) minYear = year;
+                if (year > maxYear) maxYear = year;
+            }
+        }
         
         const yearMinSlider = document.getElementById('yearMin');
         const yearMaxSlider = document.getElementById('yearMax');
@@ -393,7 +450,14 @@ class AmazonDashboard {
     }
 
     updateTerritoryFilters() {
-        const territories = [...new Set(this.data.map(d => d.territory))].filter(t => t !== undefined);
+        // Optimized unique territory extraction for large datasets
+        const territoriesSet = new Set();
+        for (const row of this.data) {
+            if (row.territory !== undefined) {
+                territoriesSet.add(row.territory);
+            }
+        }
+        const territories = Array.from(territoriesSet);
         const container = document.getElementById('territoryFilters');
         if (!container) return;
         
@@ -449,7 +513,14 @@ class AmazonDashboard {
     }
 
     updateCoverageFilters() {
-        const coverages = [...new Set(this.data.map(d => d.class))].filter(c => c !== undefined);
+        // Optimized unique coverage extraction for large datasets
+        const coveragesSet = new Set();
+        for (const row of this.data) {
+            if (row.class !== undefined) {
+                coveragesSet.add(row.class);
+            }
+        }
+        const coverages = Array.from(coveragesSet);
         const container = document.getElementById('coverageFilters');
         if (!container) return;
         
@@ -1191,10 +1262,6 @@ class AmazonDashboard {
 
         // Map controls removed - no longer needed
 
-        // Debug table controls
-        safeAddEventListener('refreshDebugTable', 'click', () => {
-            this.populateDebugTable();
-        });
 
         // Sidebar controls
         safeAddEventListener('toggleControls', 'click', () => {
@@ -1383,13 +1450,11 @@ class AmazonDashboard {
         
         // First pass: collect all coverage info
         const allCoverageInfo = {};
-        console.log('📊 Available coverages in data:', coverages);
         
         coverages.forEach(coverage => {
             const coverageInfo = this.coverageNames[coverage];
             if (coverageInfo) {
                 const coverageName = coverageInfo.fullName || coverageInfo.name;
-                console.log(`📝 Coverage ${coverage}: fullName="${coverageInfo.fullName}", name="${coverageInfo.name}"`);
                 allCoverageInfo[coverage] = {
                     ...coverageInfo,
                     fullName: coverageName
@@ -1412,7 +1477,6 @@ class AmazonDashboard {
                 const isSubLevel = !!subLevel;
                 
                 // DEBUG: Log parsing results
-                console.log(`🔍 Parsing: "${coverageName}" → mainLevel: ${mainLevel}, subLevel: ${subLevel || 'none'}, name: "${name}", isSubLevel: ${isSubLevel}`);
                 
                 if (!isSubLevel) {
                     // Main level (e.g., "1. Bosque")
@@ -1446,7 +1510,6 @@ class AmazonDashboard {
                 }
             } else {
                 // Fallback for items without hierarchy
-                console.log(`⚠️ No hierarchy match for: "${coverageName}" → going to "Otras Coberturas"`);
                 
                 const fallbackGroup = 'otros';
                 if (!groups[fallbackGroup]) {
@@ -1472,7 +1535,6 @@ class AmazonDashboard {
     findMainLevelName(mainLevel) {
         // Look for the main level class (e.g., "1. Bosque" for mainLevel "1")
         // Search in ALL coverageNames (palette), not just current data
-        console.log(`🔍 Looking for main level ${mainLevel} in complete palette...`);
         
         // Search through the complete palette (this.coverageNames)
         for (const [coverageId, coverageInfo] of Object.entries(this.coverageNames)) {
@@ -1491,7 +1553,6 @@ class AmazonDashboard {
                         if (!namesPart.match(/^\d+\./)) {
                             // Return the full name with number (e.g., "1. Bosque")
                             const fullMainName = `${matchedLevel}. ${namesPart}`;
-                            console.log(`🎯 FOUND main level for ${mainLevel}: "${fullMainName}" (from coverage ID ${coverageId})`);
                             return fullMainName;
                         }
                     }
@@ -1499,7 +1560,6 @@ class AmazonDashboard {
             }
         }
         
-        console.log(`⚠️ No main level found for ${mainLevel} in palette, using fallback`);
         return null;
     }
 
@@ -1607,7 +1667,7 @@ class AmazonDashboard {
         });
     }
 
-    async loadShapefile() {
+    async loadGIS() {
         if (!this.currentDataSource || !this.dataSources[this.currentDataSource].gis) {
             return;
         }
@@ -1618,32 +1678,178 @@ class AmazonDashboard {
             // Remove existing layer if any
             this.clearMapLayers();
             
-            console.log(`Loading GeoJSON: ${geojsonPath}`);
-            
-            // Load GeoJSON directly (much simpler than shapefiles!)
+            // Load GeoJSON from AWS S3 or local fallback
             await this.loadGeoJSON(geojsonPath);
             
         } catch (error) {
-            console.warn('GeoJSON loading failed, continuing without map:', error);
             this.createDataVisualization();
         }
     }
 
     async loadGeoJSON(geojsonPath) {
         try {
-            console.log(`Fetching GeoJSON from: ${geojsonPath}`);
+            // Extract filename and construct AWS S3 URL (same as working mapa.html)
+            const fileName = geojsonPath.split('/').pop();
+            const awsUrl = `https://mb-colombia-data.s3.us-east-1.amazonaws.com/RAISG/${fileName}`;
             
-            // Simply fetch the file from the relative path
-            const response = await fetch(`./${geojsonPath}`);
+            
+            // Simple fetch approach that works in mapa.html (with cache bypass)
+            const response = await fetch(awsUrl, {
+                cache: 'no-cache',
+                headers: {
+                    'Cache-Control': 'no-cache'
+                }
+            });
+            
             if (!response.ok) {
-                throw new Error(`Failed to load GeoJSON: ${response.status} ${response.statusText}`);
+                if (response.status === 403) {
+                    throw new Error(`Access denied to ${fileName} - file may not exist or be accessible`);
+                } else if (response.status === 404) {
+                    throw new Error(`File ${fileName} not found in S3 bucket`);
+                } else {
+                    throw new Error(`HTTP error! status: ${response.status} - ${response.statusText}`);
+                }
             }
             
-            const geojsonData = await response.json();
-            console.log(`GeoJSON loaded: ${geojsonData.features.length} features`);
             
-            // Create Leaflet GeoJSON layer
-            this.mapLayer = L.geoJSON(geojsonData, {
+            // Direct JSON parsing (same as working mapa.html)
+            const geojsonData = await response.json();
+            
+            
+            // Display simple info on page
+            this.displayGeoJSONInfo(geojsonPath, geojsonData, 'AWS S3');
+            
+            // Create and process the map layer with error handling
+            try {
+                this.createMapLayer(geojsonData);
+            } catch (layerError) {
+                if (layerError.message.includes('Maximum call stack size exceeded')) {
+                } else {
+                }
+                return; // Exit successfully without throwing
+            }
+            
+        } catch (awsError) {
+            // Simple fallback to local file
+            try {
+                const localUrl = `./${geojsonPath}`;
+                const response = await fetch(localUrl);
+                
+                if (!response.ok) {
+                    throw new Error(`Local file error! status: ${response.status}`);
+                }
+                
+                const geojsonData = await response.json();
+                
+                // Display simple info on page  
+                this.displayGeoJSONInfo(geojsonPath, geojsonData, 'Local');
+                
+                // Create and process the map layer
+                this.createMapLayer(geojsonData);
+                
+            } catch (localError) {
+                throw new Error(`No se pudo cargar GeoJSON: AWS (${awsError.message}), Local (${localError.message})`);
+            }
+        }
+    }
+
+    validateFeatureGeometry(feature, index) {
+        // Enhanced validation logic
+        if (!feature.geometry) {
+            return false;
+        }
+        
+        if (!feature.geometry.coordinates) {
+            return false;
+        }
+        
+        // Additional validation for coordinate structure
+        try {
+            const coords = feature.geometry.coordinates;
+            const geomType = feature.geometry.type;
+            
+            if (geomType === 'Polygon' && coords.length > 0) {
+                // Check if first ring has at least 3 points
+                if (!coords[0] || coords[0].length < 3) {
+                    return false;
+                }
+                
+                // Validate actual coordinate values
+                for (let ring of coords) {
+                    // Check for extremely complex geometries that might cause stack overflow
+                    if (ring.length > 10000) {
+                        return false;
+                    }
+                    
+                    for (let point of ring) {
+                        if (!Array.isArray(point) || point.length < 2) {
+                            return false;
+                        }
+                        const [lng, lat] = point;
+                        if (typeof lng !== 'number' || typeof lat !== 'number' || 
+                            isNaN(lng) || isNaN(lat) || 
+                            !isFinite(lng) || !isFinite(lat) ||
+                            lng < -180 || lng > 180 || lat < -90 || lat > 90) {
+                            return false;
+                        }
+                    }
+                }
+            } else if (geomType === 'MultiPolygon' && coords.length > 0) {
+                // Similar validation for MultiPolygon
+                for (let polygon of coords) {
+                    for (let ring of polygon) {
+                        if (!ring || ring.length < 3) continue;
+                        for (let point of ring) {
+                            if (!Array.isArray(point) || point.length < 2) {
+                                return false;
+                            }
+                            const [lng, lat] = point;
+                            if (typeof lng !== 'number' || typeof lat !== 'number' || 
+                                isNaN(lng) || isNaN(lat) || 
+                                !isFinite(lng) || !isFinite(lat) ||
+                                lng < -180 || lng > 180 || lat < -90 || lat > 90) {
+                                return false;
+                            }
+                        }
+                    }
+                }
+            }
+            
+            return true;
+        } catch (coordError) {
+            return false;
+        }
+    }
+    
+    createMapLayer(geojsonData) {
+        try {
+            // Pre-validate and clean features (same approach as mapa.html)
+            const validFeatures = [];
+            const invalidFeatures = [];
+            
+            if (geojsonData.features) {
+                geojsonData.features.forEach((feature, index) => {
+                    if (this.validateFeatureGeometry(feature, index)) {
+                        validFeatures.push(feature);
+                    } else {
+                        invalidFeatures.push(index);
+                    }
+                });
+            }
+            
+            
+            if (validFeatures.length === 0) {
+                throw new Error('No se encontraron geometrías válidas');
+            }
+            
+            // Create clean data structure (same as mapa.html)
+            const cleanData = {
+                type: "FeatureCollection",
+                features: validFeatures
+            };
+            
+            // Create Leaflet GeoJSON layer with clean data
+            this.mapLayer = L.geoJSON(cleanData, {
                 style: {
                     fillColor: '#3388ff',
                     weight: 2,
@@ -1653,192 +1859,51 @@ class AmazonDashboard {
                     fillOpacity: 0.7
                 },
                 onEachFeature: (feature, layer) => {
-                    // Add popup functionality
-                    this.createEnhancedPopup(feature, layer);
-                }
-            });
-            
-            // Add layer to map
-            if (this.mapLayer) {
-                this.mapLayer.addTo(this.map);
-                
-                // Fit map to show all features
-                if (this.mapLayer.getLayers && this.mapLayer.getLayers().length > 0) {
-                    if (typeof this.mapLayer.getBounds === 'function') {
-                        this.map.fitBounds(this.mapLayer.getBounds());
+                    try {
+                        // Add popup functionality
+                        this.createEnhancedPopup(feature, layer);
+                    } catch (popupError) {
+                        // Create a simple fallback popup
+                        layer.bindPopup(`Error creating popup: ${popupError.message}`);
                     }
                 }
-                
-                // Process the data for visualization
-                this.processGeoJSON(geojsonData);
-            }
-            
-        } catch (error) {
-            console.error('Error loading GeoJSON:', error);
-            throw error;
-        }
-    }
-
-    async loadWithLeafletShapefile(shapefilePath) {
-        
-        return new Promise((resolve, reject) => {
-            const shapefileLayer = new L.shapefile(shapefilePath, {
-                onEachFeature: (feature, layer) => {
-                    // Add popup with feature properties
-                    if (feature.properties) {
-                        const popupContent = Object.entries(feature.properties)
-                            .map(([key, value]) => `<strong>${key}:</strong> ${value}`)
-                            .join('<br>');
-                        layer.bindPopup(popupContent);
-                    }
-                }
+                // No filter needed - we pre-validated features
             });
             
-            shapefileLayer.on('data:loaded', () => {
-                this.mapLayer = shapefileLayer;
-                this.mapLayer.addTo(this.map);
-                this.map.fitBounds(this.mapLayer.getBounds());
-                this.updateMap();
-                resolve();
-            });
-            
-            shapefileLayer.on('data:error', (error) => {
-                reject(error);
-            });
-        });
-    }
-
-    async loadZipShapefile(zipPath) {
-        const response = await fetch(zipPath);
-        if (!response.ok) {
-            throw new Error(`Failed to load shapefile ZIP: ${response.status}`);
+        } catch (layerError) {
+            throw layerError;
         }
         
-        const zipBuffer = await response.arrayBuffer();
-        
-        // Use streaming approach for better compatibility
-        
-        try {
-            const source = await shapefile.open(zipBuffer);
-            const features = [];
+        // Add layer to map
+        if (this.mapLayer) {
+            this.mapLayer.addTo(this.map);
             
-            // Read all features
-            while (true) {
-                const result = await source.read();
-                if (result.done) break;
-                
-                if (result.value && result.value.geometry) {
-                    // Validate geometry
-                    if (this.isValidGeometry(result.value.geometry)) {
-                        features.push(result.value);
+            // Fit map to show all features with error handling
+            if (this.mapLayer.getLayers && this.mapLayer.getLayers().length > 0) {
+                if (typeof this.mapLayer.getBounds === 'function') {
+                    try {
+                        const bounds = this.mapLayer.getBounds();
+                        if (bounds && bounds.isValid && bounds.isValid()) {
+                            this.map.fitBounds(bounds);
+                        } else {
+                            this.map.setView([4.5709, -74.2973], 5); // Default Colombia view
+                        }
+                    } catch (boundsError) {
+                        this.map.setView([4.5709, -74.2973], 5); // Default Colombia view
                     }
                 }
             }
             
-            if (features.length === 0) {
-                throw new Error('No valid features found in shapefile');
-            }
+            // Process the data for visualization
+            this.processGeoJSON(geojsonData);
             
-            const geojson = {
-                type: 'FeatureCollection',
-                features: features
-            };
-            
-            this.processGeoJSON(geojson);
-            
-        } catch (error) {
-            throw error;
+            // Update debug table with new GeoJSON info
         }
     }
 
-    async loadComponentShapefile(basePath) {
-        const shpUrl = `${basePath}.shp`;
-        const dbfUrl = `${basePath}.dbf`;
-        
-        // Check if shapefile library is available
-        if (!window.shapefile) {
-            throw new Error('Shapefile library not available');
-        }
-        
-        try {
-            const [shpResponse, dbfResponse] = await Promise.all([
-                fetch(shpUrl),
-                fetch(dbfUrl)
-            ]);
-            
-            if (!shpResponse.ok) {
-                throw new Error(`Failed to load .shp file: ${shpResponse.status} - ${shpUrl}`);
-            }
-            if (!dbfResponse.ok) {
-                throw new Error(`Failed to load .dbf file: ${dbfResponse.status} - ${dbfUrl}`);
-            }
-            
-            const [shpBuffer, dbfBuffer] = await Promise.all([
-                shpResponse.arrayBuffer(),
-                dbfResponse.arrayBuffer()
-            ]);
-            
-            // Files loaded successfully
-            
-            // Try direct reading first (faster)
-            try {
-                const geojson = await shapefile.read(shpBuffer, dbfBuffer);
-                this.processGeoJSON(geojson);
-                return;
-            } catch (directError) {
-            }
-            
-            // Fallback to streaming approach
-            const source = await shapefile.open(shpBuffer, dbfBuffer);
-            const features = [];
-            
-            let featureCount = 0;
-            while (true) {
-                const result = await source.read();
-                if (result.done) break;
-                
-                featureCount++;
-                if (result.value && result.value.geometry) {
-                    // Validate geometry
-                    if (this.isValidGeometry(result.value.geometry)) {
-                        features.push(result.value);
-                    }
-                }
-            }
-            
-            if (features.length === 0) {
-                throw new Error('No valid features found in shapefile');
-            }
-            
-            const geojson = {
-                type: 'FeatureCollection',
-                features: features
-            };
-            
-            this.processGeoJSON(geojson);
-            
-        } catch (error) {
-            throw error;
-        }
-    }
 
-    isValidGeometry(geometry) {
-        if (!geometry || !geometry.type) {
-            return false;
-        }
-        
-        const validTypes = ['Point', 'MultiPoint', 'LineString', 'MultiLineString', 'Polygon', 'MultiPolygon'];
-        if (!validTypes.includes(geometry.type)) {
-            return false;
-        }
-        
-        // Check if coordinates exist and are not empty
-        if (!geometry.coordinates || geometry.coordinates.length === 0) {
-            return false;
-        }
-        
-        return true;
-    }
+
+
 
     createDataVisualization() {
         
@@ -1949,7 +2014,7 @@ class AmazonDashboard {
             // Clear any previous bounds restrictions
             this.map.setMaxBounds(null);
             
-            // Standard consistent style for all shapefiles
+            // Standard consistent style for all GeoJSON layers
             const standardStyle = {
                 fillColor: '#3498db',
                 weight: 2,
@@ -1976,21 +2041,11 @@ class AmazonDashboard {
                 }
             }).addTo(this.map);
             
-            // Get the bounds of the loaded layer
-            const layerBounds = this.mapLayer.getBounds();
+            // Skip bounds calculation and use fixed coordinates for problematic layers
+            this.map.setView([2.067735, -72.232948], 6); // Centered on Colombia's protected areas region
             
-            // Fit map to shapefile bounds
-            this.map.fitBounds(layerBounds);
-            
-            // Conditionally restrict map view to the bounds of the loaded GIS layer
-            if (this.config.enableMapBounds) {
-                // Add some padding to the bounds for better UX
-                const paddedBounds = layerBounds.pad(0.1); // 10% padding
-                this.map.setMaxBounds(paddedBounds);
-                
-                // Set reasonable zoom limits
-                this.map.setMinZoom(this.map.getZoom() - 2); // Allow zooming out a bit
-            }
+            // Skip bounds restrictions for now - use simple zoom limits
+            this.map.setMinZoom(4); // Allow zooming out to see Colombia
             this.map.setMaxZoom(18); // Standard max zoom for satellite imagery
             
         } catch (error) {
@@ -2061,13 +2116,13 @@ class AmazonDashboard {
     }
 
     getCSVDataForFeature(feature, year, coverage) {
-        // Get the id_area from shapefile properties
+        // Get the id_area from GeoJSON properties
         const idArea = feature.properties.id_area;
         if (!idArea) {
             return [];
         }
         
-        // Convert shapefile id_area to CSV territory using codes mapping
+        // Convert GeoJSON id_area to CSV territory using codes mapping
         const csvTerritory = this.convertIdAreaToTerritory(idArea);
         if (!csvTerritory) {
             return [];
@@ -2111,7 +2166,7 @@ class AmazonDashboard {
     }
 
     getSpatialTabularDataForFeature(feature) {
-        // Get the id_area from shapefile properties
+        // Get the id_area from GeoJSON properties
         const idArea = feature.properties.id_area;
         if (!idArea) {
             return null;
@@ -2127,6 +2182,7 @@ class AmazonDashboard {
     }
 
     createEnhancedPopup(feature, layer) {
+        
         // Get CSV data for this feature (no map coverage filtering since the selector was removed)
         const csvData = this.getCSVDataForFeature(feature, null, null);
         
@@ -2169,7 +2225,7 @@ class AmazonDashboard {
         } else {
             popupContent += '<div class="popup-section">';
             popupContent += '<div style="color: #666; font-style: italic;">';
-            popupContent += `No hay datos de cobertura disponibles${selectedCoverage ? ` para la cobertura seleccionada` : ''}.`;
+            popupContent += 'No hay datos de cobertura disponibles para este territorio.';
             popupContent += '</div>';
             popupContent += '</div>';
         }
@@ -2237,8 +2293,6 @@ class AmazonDashboard {
                 } else {
                     // DEBUG: Log when spatial data is not found for MASCARA
                     if (this.currentDataSource === 'MASCARA') {
-                        console.log(`🔍 MASCARA DEBUG - No spatial data found for territory: ${territoryId}`);
-                        console.log('Available mappings:', Object.keys(this.spatialTabularMappings.MASCARA || {}));
                     }
                     // Fallback: show territory name from territoryNames mapping
                     const territoryName = this.territoryNames[territoryId];
@@ -2348,7 +2402,7 @@ class AmazonDashboard {
 
     findTerritoryId(properties) {
         // Try to find territory ID in feature properties
-        // This may need adjustment based on your shapefile structure
+        // This may need adjustment based on your GeoJSON structure
         const possibleKeys = ['id', 'ID', 'codigo', 'CODIGO', 'code', 'CODE', 'dpto', 'DPTO'];
         
         for (const key of possibleKeys) {
@@ -2362,12 +2416,12 @@ class AmazonDashboard {
 
     loadCorrespondingGisLayer() {
         // Load the GIS layer corresponding to the current data source
-        // The loadShapefile function now loads GeoJSON files instead of shapefiles
-        this.loadShapefile();
+        // Load GeoJSON files for spatial visualization
+        this.loadGIS();
     }
 
     convertIdAreaToTerritory(idArea) {
-        // Convert shapefile id_area to CSV territory using codes mapping
+        // Convert GeoJSON id_area to CSV territory using codes mapping
         // This searches through the codes to find id_gee for the given id_area
         
         if (!this.currentDataSource || !this.spatialTabularMappings[this.currentDataSource]) {
@@ -2375,132 +2429,27 @@ class AmazonDashboard {
         }
         
         const currentSourceMappings = this.spatialTabularMappings[this.currentDataSource];
+        if (Object.keys(currentSourceMappings).length === 0) {
+            return null;
+        }
         
         // Search through all mappings to find the one with matching id_area
+        // For ANP_DEPTO: GeoJSON has id_area=1661, codes file has "128.0;1661;Las Mercedes"
+        // So we need to match GeoJSON.id_area with codes.id_area (second field)
         for (const [id_gee, data] of Object.entries(currentSourceMappings)) {
+            // Try exact match first
             if (data.id_area && data.id_area.toString() === idArea.toString()) {
-                // Found match! Return the id_gee (which is what CSV uses as territory)
+                return id_gee;
+            }
+            
+            // Try with numeric comparison (GeoJSON 1661 should match codes 1661.0)
+            if (data.id_area && parseFloat(data.id_area) === parseFloat(idArea)) {
                 return id_gee;
             }
         }
-        
         return null;
     }
 
-    populateDebugTable() {
-        const debugTableHeader = document.getElementById('debugTableHeader');
-        const debugTableBody = document.getElementById('debugTableBody');
-        const debugTableStatus = document.getElementById('debugTableStatus');
-        
-        if (!debugTableHeader || !debugTableBody || !debugTableStatus) {
-            return;
-        }
-
-        // Update status
-        debugTableStatus.textContent = 'Generando tabla...';
-        
-        // Clear existing content
-        debugTableHeader.innerHTML = '';
-        debugTableBody.innerHTML = '';
-
-        if (!this.currentDataSource || !this.data || this.data.length === 0) {
-            debugTableStatus.textContent = 'No hay datos disponibles';
-            return;
-        }
-
-        // Get unique territory IDs from filtered CSV data (only territories with area > 0)
-        const uniqueTerritories = [...new Set(this.data.map(row => row.territory))].sort((a, b) => a - b).slice(0, 25); // Show more after filtering
-        
-        // Calculate some statistics
-        const totalValidTerritories = uniqueTerritories.length;
-        const totalRecords = this.data.length;
-        
-        // Get current source mappings
-        const currentSourceMappings = this.spatialTabularMappings[this.currentDataSource] || {};
-        const currentSource = this.dataSources[this.currentDataSource];
-        
-        // Create headers for CSV-Codes merge
-        const headers = ['CSV Territory', 'Codes id_gee', 'Match Status', 'CSV Records'];
-        if (currentSource && currentSource.columns) {
-            currentSource.columns.forEach(col => {
-                if (col !== 'id_gee' && col !== 'id_area' && !col.startsWith('placeholder')) {
-                    headers.push(`Codes: ${col}`);
-                }
-            });
-        }
-        
-        headers.forEach(header => {
-            const th = document.createElement('th');
-            th.textContent = header;
-            debugTableHeader.appendChild(th);
-        });
-
-        // Populate rows showing CSV-Codes merge
-        uniqueTerritories.forEach(csvTerritory => {
-            const row = document.createElement('tr');
-            
-            // CSV Territory column
-            const csvTerritoryCell = document.createElement('td');
-            csvTerritoryCell.textContent = csvTerritory;
-            csvTerritoryCell.className = 'territory-id';
-            row.appendChild(csvTerritoryCell);
-            
-            // Codes id_gee column (should match CSV territory)
-            const idGeeCell = document.createElement('td');
-            const spatialData = currentSourceMappings[csvTerritory];
-            if (spatialData && spatialData.id_gee) {
-                idGeeCell.textContent = spatialData.id_gee;
-                idGeeCell.className = 'merged-data';
-            } else {
-                idGeeCell.textContent = '-';
-                idGeeCell.className = 'no-data';
-            }
-            row.appendChild(idGeeCell);
-            
-            // Match status: CSV.territory === Codes.id_gee
-            const matchCell = document.createElement('td');
-            if (spatialData && spatialData.id_gee && spatialData.id_gee.toString() === csvTerritory.toString()) {
-                matchCell.textContent = '✅ MATCH';
-                matchCell.className = 'merged-data';
-            } else if (spatialData) {
-                matchCell.textContent = '⚠️ MISMATCH';
-                matchCell.className = 'no-data';
-            } else {
-                matchCell.textContent = '❌ NO FOUND';
-                matchCell.className = 'no-data';
-            }
-            row.appendChild(matchCell);
-            
-            // CSV Records count
-            const csvRecordsCell = document.createElement('td');
-            const csvRecords = this.data.filter(d => d.territory === csvTerritory);
-            csvRecordsCell.textContent = csvRecords.length;
-            row.appendChild(csvRecordsCell);
-            
-            // Additional columns from codes
-            if (currentSource && currentSource.columns) {
-                currentSource.columns.forEach(col => {
-                    if (col !== 'id_gee' && col !== 'id_area' && !col.startsWith('placeholder')) {
-                        const dataCell = document.createElement('td');
-                        if (spatialData && spatialData[col]) {
-                            dataCell.textContent = spatialData[col];
-                            dataCell.className = 'merged-data';
-                        } else {
-                            dataCell.textContent = '-';
-                            dataCell.className = 'no-data';
-                        }
-                        row.appendChild(dataCell);
-                    }
-                });
-            }
-            
-            debugTableBody.appendChild(row);
-        });
-
-        // Update status with detailed statistics
-        const totalMapped = uniqueTerritories.filter(id => currentSourceMappings[id]).length;
-        debugTableStatus.textContent = `${totalMapped}/${totalValidTerritories} territorios válidos con codes merged | ${totalRecords} registros filtrados | Mostrando primeros 25`;
-    }
 
     toggleSidebar() {
         const sidebar = document.getElementById('controlsSidebar');
@@ -2539,7 +2488,6 @@ class AmazonDashboard {
     createPopupTimeSeriesChart(chartId, csvData) {
         const canvas = document.getElementById(chartId);
         if (!canvas) {
-            console.warn(`Canvas ${chartId} not found for popup chart`);
             return;
         }
 
@@ -2715,9 +2663,30 @@ class AmazonDashboard {
             this.popupCharts.set(chartId, chart);
 
         } catch (error) {
-            console.error('Error creating popup chart:', error);
             canvas.parentElement.innerHTML = '<p style="color: #666; font-style: italic;">Error generando gráfico</p>';
         }
+    }
+
+    displayGeoJSONInfo(geojsonPath, geojsonData, source) {
+        const fileName = geojsonPath.split('/').pop();
+        const featureCount = geojsonData.features ? geojsonData.features.length : 0;
+        
+        // Update the sidebar debug info
+        const debugContainer = document.getElementById('geojsonDebugInfo');
+        const fileNameEl = document.getElementById('geojsonFileName');
+        const featureCountEl = document.getElementById('geojsonFeatureCount');
+        const sourceEl = document.getElementById('geojsonSource');
+        const loadTimeEl = document.getElementById('geojsonLoadTime');
+        
+        if (debugContainer && fileNameEl && featureCountEl && sourceEl && loadTimeEl) {
+            debugContainer.style.display = 'block';
+            fileNameEl.textContent = fileName;
+            featureCountEl.textContent = featureCount.toLocaleString();
+            sourceEl.textContent = source;
+            sourceEl.style.color = source === 'AWS S3' ? '#27ae60' : '#3498db';
+            loadTimeEl.textContent = new Date().toLocaleTimeString();
+        }
+        
     }
 }
 

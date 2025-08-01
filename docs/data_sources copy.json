@@ -1,51 +1,50 @@
 {
   "DEPARTAMENTOS": {
-    "file": "AREAS-INTEGRACION-AMAZONIA-DEPARTAMENTOS-DASH-2207.csv",
+    "file": "AREAS-INTEGRACION-AMAZONIA-DEPARTAMENTOS-DASH-3007.csv",
     "codes": "codigos_depto.txt",
     "description": "Departamentos de Colombia",
-    "gis":"process/data/gis/geojson/ColombiaDepartamentos_RAISG_16062025.geojson",
+    "gis":"process/data/gis/geojson/depto_raisg_4326.geojson",
     "columns":["id_gee","id_area","departamento"],
     "barchart":"departamento"
   },
   "MUNICIPIOS": {
-    "file": "AREAS-INTEGRACION-AMAZONIA-MUNICIPIOS-DASH-2207.csv", 
+    "file": "AREAS-INTEGRACION-AMAZONIA-MUNICIPIOS-DASH-3007.csv", 
     "codes": "codigos_municipio.txt",
     "description": "Municipios de Colombia",
-    "gis":"process/data/gis/geojson/ColombiaMunicipios_RAISG_16062025.geojson",
+    "gis":"process/data/gis/geojson/municipios_raisg_4326.geojson",
     "columns":["id_gee","id_area","departamento","municipio"],
     "barchart":"municipio"
   },
   "MASCARA": {
-    "file": "AREAS-INTEGRACION-MASCARA-DASH-2207.csv",
+    "file": "AREAS-INTEGRACION-AMAZONIA-MASCARA-DASH-3107.csv",
     "codes": "codigos_mascara.txt", 
     "description": "Intersección ANP TIS",
-    "gis":"process/data/gis/geojson/mascara_tis_anps_RAISG_03072025.geojson",
-    "columns":["id_gee","id_area","anp nal","anp nacional","TI"],
-    "barchart":"TI"
+    "gis":"process/data/gis/geojson/mascara_raisg_v3_4326.geojson",
+    "columns":["id_gee","id_area","translape"],
+    "barchart":"mascara"
   },
   "TIS": {
-    "file": "AREAS-INTEGRACION-TIS-DASH-2207.csv",
+    "file": "AREAS-INTEGRACION-AMAZONIA-TIS-DASH-3007.csv",
     "codes": "codigos_tis.txt",
     "description": "Territorios Indígenas",
-    "gis":"process/data/gis/geojson/tis_RAISG_16062025.geojson",
+    "gis":"process/data/gis/geojson/tis_16062025_4326.geojson",
     "columns":["id_gee","id_area","nombre"],
     "barchart":"nombre"
   },
   "ANP_DEPTO": {
-    "file": "AREAS-INTEGRACION-AMAZONIA-ANP-DEPTO-DASH-2207.csv",
+    "file": "AREAS-INTEGRACION-AMAZONIA-ANP-DEPTO-DASH-3007.csv",
     "codes": "codigos_anp_depto.txt",
     "description": "ANP DEPARTAMENTAL",
-    "gis":"process/data/gis/geojson/ANP_DEPARTAMENTAL_RAISG.geojson",
+    "gis":"process/data/gis/geojson/anp_depto_28072025_4326.geojson",
     "columns":["id_gee","id_area","nombre"],
-    "barchart":"nombre"
+    "barchart":"categoria"
   },
   "ANP_NAL": {
-    "file": "AREAS-INTEGRACION-AMAZONIA-ANP-NAL-DASH-2207.csv",
+    "file": "AREAS-INTEGRACION-AMAZONIA-ANP-NAL-DASH-3007.csv",
     "codes": "codigos_anp_nal.txt",
     "description": "ANP NACIONAL",
-    "gis":"process/data/gis/geojson/ANP_NACIONAL_RAISG.geojson",
+    "gis":"process/data/gis/geojson/anp_nal_4326.geojson",
     "columns":["id_gee","id_area","nombre"],
     "barchart":"nombre"
   }
 }
-
