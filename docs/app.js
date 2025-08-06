@@ -16,7 +16,7 @@ class AmazonDashboard {
         this.config = {
             tableMaxHeight: 200, // 🔧 CONFIGURABLE: Max height in pixels for table scroll (also change in CSS)
             enableMapBounds: false, // 🔧 CONFIGURABLE: Whether to restrict map panning to loaded GIS layer bounds
-            tableMaxRows: 20, // 🔧 CONFIGURABLE: Maximum number of rows to display in data exploration table
+            tableMaxRows: 10, // 🔧 CONFIGURABLE: Maximum number of rows to display in data exploration table
             territoryChartMaxItems: 15 // 🔧 CONFIGURABLE: Maximum number of territories to show in bar chart
         };
         this.map = null;
@@ -2023,18 +2023,29 @@ class AmazonDashboard {
     }
 
     updateMetrics() {
-        if (this.filteredData.length === 0) {
+        // Use data filtered only by territory, NOT by coverage or years
+        const dataForMetrics = this.data.filter(row => {            
+            // Territory filter - apply if active
+            if (this.filters.territories.size > 0 && !this.filters.territories.has(row.territory)) {
+                return false;
+            }
+            
+            // Don't apply year or coverage filters for metrics - we want to show complete overview
+            return true;
+        });
+
+        if (dataForMetrics.length === 0) {
             this.clearMetrics();
             return;
         }
 
-        const years = this.filteredData.map(d => d.year);
+        const years = dataForMetrics.map(d => d.year);
         const minYear = Math.min(...years);
         const maxYear = Math.max(...years);
 
         // Calculate areas for specific classes
         const getAreaByYearClass = (year, classId) => {
-            return this.filteredData
+            return dataForMetrics
                 .filter(d => d.year === year && d.class === classId)
                 .reduce((sum, d) => sum + (parseFloat(d.area) || 0), 0);
         };
@@ -2058,7 +2069,7 @@ class AmazonDashboard {
         document.getElementById('agricultureChange').textContent = this.formatChangeWithPeriod(agricultureFinal - agricultureInitial, minYear, maxYear);
         
         // Territory count with dynamic title
-        const totalTerritories = new Set(this.filteredData.map(d => d.territory)).size;
+        const totalTerritories = new Set(dataForMetrics.map(d => d.territory)).size;
         const allTerritories = new Set(this.data.map(d => d.territory)).size;
         const territoryPercent = ((totalTerritories / allTerritories) * 100).toFixed(1);
         
