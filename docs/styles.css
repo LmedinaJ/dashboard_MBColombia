@@ -36,6 +36,9 @@ body {
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
+    line-height: 1.2;
+    word-wrap: break-word;
+    hyphens: auto;
 }
 
 .subtitle {
@@ -45,8 +48,15 @@ body {
 }
 
 
-/* Floating Toggle Button */
-.controls-toggle {
+/* OLD SIDEBAR STYLES - HIDDEN */
+.controls-toggle,
+.controls-sidebar,
+.sidebar-overlay {
+    display: none !important;
+}
+
+/* OLD Floating Toggle Button */
+.controls-toggle-old {
     position: fixed;
     top: 20px;
     left: 20px;
@@ -694,6 +704,10 @@ body {
     gap: 30px;
 }
 
+.chart-full-width {
+    grid-column: 1 / -1; /* Takes full width of the grid */
+}
+
 .chart-container {
     background: white;
     padding: 25px;
@@ -735,14 +749,71 @@ body {
 }
 
 .map-controls {
-    display: flex;
-    gap: 20px;
-    align-items: center;
-    flex-wrap: wrap;
     padding: 15px;
     background: #f8f9fa;
     border-radius: 10px;
     border: 1px solid #e1e8ed;
+    margin-bottom: 15px;
+}
+
+.map-controls-row {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.map-filter-group {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex: 1;
+}
+
+.map-filter-group label {
+    font-weight: 600;
+    color: #2c3e50;
+    white-space: nowrap;
+    font-size: 14px;
+}
+
+/* Map Legend Section */
+.map-legend-section {
+    margin-bottom: 20px;
+}
+
+.map-legend-section .map-legend {
+    background: #ffffff;
+    border: 1px solid #d1d5db;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+    max-width: 500px;
+}
+
+.map-legend-section .map-legend h4 {
+    font-size: 16px;
+    color: #1f2937;
+    margin: 0 0 15px 0;
+    font-weight: 700;
+    border-bottom: 2px solid #e5e7eb;
+    padding-bottom: 10px;
+}
+
+.map-filter-group select {
+    padding: 8px 12px;
+    border: 2px solid #e1e8ed;
+    border-radius: 6px;
+    font-size: 14px;
+    flex: 1;
+    min-width: 150px;
+    background: white;
+    transition: border-color 0.3s ease;
+}
+
+.map-filter-group select:focus {
+    outline: none;
+    border-color: #3498db;
 }
 
 .map-control-group {
@@ -977,6 +1048,84 @@ body {
 .legend-dropdown.expanded .legend-item.legend-sub:nth-child(4) { transition-delay: 0.4s; }
 .legend-dropdown.expanded .legend-item.legend-sub:nth-child(5) { transition-delay: 0.5s; }
 
+/* Choropleth Legend Styles */
+.choropleth-legend h5 {
+    font-size: 14px;
+    color: #2c3e50;
+    margin-bottom: 10px;
+    font-weight: 600;
+}
+
+.choropleth-scale {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.scale-item {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 12px;
+}
+
+.scale-item .color-box {
+    width: 20px;
+    height: 15px;
+    border-radius: 3px;
+    flex-shrink: 0;
+}
+
+.scale-item span {
+    color: #555;
+    font-weight: 500;
+}
+
+/* Enhanced Choropleth Legend Styles */
+.legend-header h5 {
+    font-size: 16px;
+    color: #1f2937;
+    margin: 0 0 5px 0;
+    font-weight: 700;
+}
+
+.legend-subtitle {
+    font-size: 13px;
+    color: #6b7280;
+    margin: 0 0 12px 0;
+    font-style: italic;
+}
+
+.legend-note {
+    margin-top: 10px;
+    padding-top: 8px;
+    border-top: 1px solid #e5e7eb;
+}
+
+.legend-note small {
+    color: #6b7280;
+    font-size: 11px;
+    line-height: 1.3;
+}
+
+/* Legend Sections */
+.legend-section {
+    margin-bottom: 12px;
+}
+
+.legend-section:last-child {
+    margin-bottom: 0;
+}
+
+.legend-section h6 {
+    font-size: 12px;
+    color: #374151;
+    margin: 0 0 6px 0;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
 /* Data Table Section */
 .data-section {
     background: white;
@@ -1170,6 +1319,17 @@ tr:hover {
 
 /* Responsive Design */
 
+/* Extra small screens */
+@media (max-width: 360px) {
+    .header h1 {
+        font-size: 1.1rem !important;
+        line-height: 1.4;
+        word-break: break-word;
+        hyphens: auto;
+        padding: 0 5px;
+    }
+}
+
 /* Extra Small devices (phones, 320px and up) */
 @media (max-width: 480px) {
     .container {
@@ -1182,8 +1342,10 @@ tr:hover {
     }
     
     .header h1 {
-        font-size: 1.5rem;
-        line-height: 1.2;
+        font-size: 1.3rem;
+        line-height: 1.3;
+        word-break: break-word;
+        hyphens: auto;
     }
     
     .subtitle {
@@ -1305,10 +1467,13 @@ tr:hover {
     }
     
     .map-controls {
+        padding: 12px;
+    }
+    
+    .map-controls-row {
         flex-direction: column;
         align-items: stretch;
         gap: 15px;
-        padding: 12px;
     }
     
     .map-control-group {
@@ -1562,7 +1727,9 @@ tr:hover {
     }
     
     .header h1 {
-        font-size: 1.8rem;
+        font-size: 1.6rem;
+        line-height: 1.2;
+        word-break: break-word;
     }
     
     .controls-panel {
@@ -1825,4 +1992,517 @@ tr:hover {
     }
     
     /* Apply dark mode styles if needed */
+}
+
+/* Responsive Map Controls */
+@media (max-width: 768px) {
+    .map-controls {
+        grid-template-columns: 1fr;
+        gap: 20px;
+    }
+    
+    .map-controls-right {
+        justify-content: center;
+    }
+    
+    .map-controls-right .map-legend {
+        max-width: 100%;
+    }
+}
+
+/* Leaflet Map Legend Control */
+.leaflet-map-legend {
+    background: rgba(255, 255, 255, 0.95);
+    border: 1px solid #d1d5db;
+    border-radius: 10px;
+    padding: 15px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    max-width: 280px;
+    max-height: 400px;
+    overflow-y: auto;
+    backdrop-filter: blur(5px);
+}
+
+.leaflet-legend-content .legend-header-with-toggle {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 2px solid #e5e7eb;
+    padding-bottom: 8px;
+    margin-bottom: 12px;
+}
+
+.leaflet-legend-content h4 {
+    font-size: 14px;
+    color: #1f2937;
+    margin: 0;
+    font-weight: 700;
+}
+
+.legend-toggle-btn {
+    background: linear-gradient(135deg, #11c772, #1dd85b);
+    border: 1px solid #11c772;
+    font-size: 14px;
+    font-weight: bold;
+    color: white;
+    cursor: pointer;
+    padding: 6px 10px;
+    border-radius: 6px;
+    transition: all 0.3s ease;
+    line-height: 1;
+    box-shadow: 0 2px 4px rgba(28, 118, 6, 0.3);
+    min-width: 28px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.legend-toggle-btn:hover {
+    background: linear-gradient(135deg, #149e0c, #208e02);
+    box-shadow: 0 4px 8px rgba(84, 226, 13, 0.4);
+    transform: translateY(-1px);
+}
+
+.legend-toggle-btn:active {
+    transform: translateY(0px) scale(0.98);
+    box-shadow: 0 1px 2px rgba(62, 125, 3, 0.3);
+}
+
+.leaflet-legend-content .legend-title-subtitle {
+    margin-top: 6px;
+    padding-top: 4px;
+}
+
+.leaflet-legend-content .legend-title-subtitle small {
+    font-size: 11px;
+    color: #6b7280;
+    font-weight: 500;
+}
+
+.leaflet-map-legend .legend-item {
+    margin-bottom: 10px;
+}
+
+.leaflet-map-legend .legend-header h5 {
+    font-size: 13px;
+    color: #374151;
+    margin: 0 0 8px 0;
+    font-weight: 600;
+}
+
+.leaflet-map-legend .legend-subtitle {
+    font-size: 11px;
+    color: #6b7280;
+    margin: 0 0 10px 0;
+}
+
+.leaflet-map-legend .choropleth-scale {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.leaflet-map-legend .legend-sections-row {
+    display: flex;
+    gap: 15px;
+    align-items: flex-start;
+}
+
+.leaflet-map-legend .legend-section-left {
+    flex: 2;
+}
+
+.leaflet-map-legend .legend-section-right {
+    flex: 1;
+    min-width: 120px;
+}
+
+.leaflet-map-legend .legend-section h6 {
+    font-size: 12px;
+    color: #374151;
+    margin: 0 0 8px 0;
+    font-weight: 600;
+}
+
+.leaflet-map-legend .scale-item {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 6px;
+    font-size: 11px;
+}
+
+.leaflet-map-legend .color-box {
+    width: 16px;
+    height: 16px;
+    border-radius: 3px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.leaflet-map-legend .legend-note {
+    margin-top: 10px;
+    padding-top: 8px;
+    border-top: 1px solid #e5e7eb;
+}
+
+.leaflet-map-legend .legend-note small {
+    font-size: 10px;
+    color: #6b7280;
+    line-height: 1.3;
+}
+
+.leaflet-map-legend .legend-note-inline {
+    margin-top: 8px;
+    padding-top: 6px;
+    border-top: 1px solid #e5e7eb;
+}
+
+.leaflet-map-legend .legend-note-inline small {
+    font-size: 10px;
+    color: #6b7280;
+    font-weight: 500;
+}
+
+/* Hide the external legend section when using Leaflet legend */
+.map-legend-section {
+    display: none;
+}
+
+/* Modern Navbar Styles */
+.navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+    background: linear-gradient(135deg, #166534 0%, #16a34a 50%, #22c55e 100%);
+    backdrop-filter: blur(10px);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+.navbar-container {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 0 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 70px;
+}
+
+/* Brand/Logo */
+.navbar-brand {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    color: white;
+    font-weight: 700;
+    font-size: 1.2rem;
+}
+
+.brand-icon {
+    font-size: 1.5rem;
+}
+
+.brand-text {
+    background: linear-gradient(45deg, #ffffff, #e0f2fe);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+/* Navbar Controls */
+.navbar-controls {
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    flex: 1;
+    justify-content: center;
+}
+
+.navbar-item {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    position: relative;
+}
+
+/* Special alignment for action buttons */
+.navbar-actions {
+    flex-direction: row !important;
+    align-items: center;
+    gap: 8px !important;
+    margin-top: 18px; /* Align with other controls */
+}
+
+/* Align dropdown button with other controls */
+.navbar-item.dropdown {
+    justify-content: flex-end;
+}
+
+.navbar-item.dropdown .navbar-btn {
+    margin-top: 18px; /* Match other controls alignment */
+}
+
+.navbar-label {
+    font-size: 0.75rem;
+    color: rgba(255, 255, 255, 0.8);
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.navbar-select {
+    background: rgba(255, 255, 255, 0.95);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    border-radius: 8px;
+    padding: 8px 12px;
+    font-size: 0.9rem;
+    color: #1f2937;
+    min-width: 180px;
+    transition: all 0.3s ease;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.navbar-select:focus {
+    outline: none;
+    border-color: #60a5fa;
+    box-shadow: 0 0 0 3px rgba(96, 165, 250, 0.2);
+}
+
+/* Year Select Dropdowns - More Compact */
+.year-select {
+    min-width: 80px !important;
+    padding: 6px 8px !important;
+    font-size: 0.85rem !important;
+}
+
+/* Year Range Inputs */
+.year-range-compact {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    background: rgba(255, 255, 255, 0.95);
+    border-radius: 8px;
+    padding: 6px 12px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.year-input {
+    width: 65px;
+    border: none;
+    background: transparent;
+    font-size: 0.9rem;
+    color: #1f2937;
+    text-align: center;
+    font-weight: 500;
+}
+
+.year-input:focus {
+    outline: none;
+}
+
+.year-separator {
+    color: #6b7280;
+    font-weight: 500;
+}
+
+/* Navbar Buttons */
+.navbar-btn {
+    background: rgba(255, 255, 255, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    color: white;
+    padding: 8px 16px;
+    border-radius: 8px;
+    font-size: 0.9rem;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+
+.navbar-btn:hover {
+    background: rgba(255, 255, 255, 0.2);
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.btn-primary {
+    background: linear-gradient(135deg, #10b981, #047857);
+    border-color: #059669;
+}
+
+.btn-primary:hover {
+    background: linear-gradient(135deg, #059669, #065f46);
+}
+
+.btn-secondary {
+    background: rgba(255, 255, 255, 0.15);
+}
+
+/* Dropdown Styles */
+.dropdown {
+    position: relative;
+}
+
+.dropdown-toggle {
+    cursor: pointer;
+}
+
+.dropdown-arrow {
+    font-size: 0.7rem;
+    transition: transform 0.3s ease;
+}
+
+.dropdown.active .dropdown-arrow {
+    transform: rotate(180deg);
+}
+
+.dropdown-menu {
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    margin-top: 8px;
+    background: white;
+    border-radius: 12px;
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.15);
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    min-width: 300px;
+    max-height: 400px;
+    overflow-y: auto;
+    opacity: 0;
+    visibility: hidden;
+    transform: translateX(-50%) translateY(-10px);
+    transition: all 0.3s ease;
+    z-index: 1001;
+}
+
+.dropdown.active .dropdown-menu {
+    opacity: 1;
+    visibility: visible;
+    transform: translateX(-50%) translateY(0);
+}
+
+.dropdown-content {
+    padding: 16px;
+}
+
+.filter-section {
+    margin-bottom: 20px;
+}
+
+.filter-section:last-child {
+    margin-bottom: 0;
+}
+
+.filter-section h5 {
+    color: #1f2937;
+    font-size: 0.9rem;
+    font-weight: 600;
+    margin-bottom: 8px;
+    padding-bottom: 4px;
+    border-bottom: 1px solid #e5e7eb;
+}
+
+.filter-search {
+    width: 100%;
+    padding: 6px 10px;
+    border: 1px solid #d1d5db;
+    border-radius: 6px;
+    font-size: 0.85rem;
+    margin-bottom: 8px;
+}
+
+.filter-buttons {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 8px;
+}
+
+.btn-filter-small {
+    flex: 1;
+    padding: 4px 8px;
+    background: #f3f4f6;
+    border: 1px solid #d1d5db;
+    border-radius: 4px;
+    font-size: 0.75rem;
+    color: #374151;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.btn-filter-small:hover {
+    background: #e5e7eb;
+}
+
+.checkbox-group-compact {
+    max-height: 150px;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
+/* Mobile Styles */
+.mobile-toggle {
+    display: none;
+    flex-direction: column;
+    gap: 4px;
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 4px;
+}
+
+.hamburger-line {
+    width: 25px;
+    height: 3px;
+    background: white;
+    border-radius: 2px;
+    transition: all 0.3s ease;
+}
+
+.mobile-menu {
+    display: none;
+    background: white;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+/* Responsive Design */
+@media (max-width: 1024px) {
+    .navbar-controls {
+        gap: 16px;
+    }
+    
+    .navbar-select {
+        min-width: 140px;
+    }
+}
+
+@media (max-width: 768px) {
+    .navbar-controls {
+        display: none;
+    }
+    
+    .mobile-toggle {
+        display: flex;
+    }
+    
+    .mobile-menu.active {
+        display: block;
+    }
+    
+    .mobile-menu-content {
+        padding: 20px;
+    }
+}
+
+/* Adjust body padding for fixed navbar */
+body {
+    padding-top: 70px;
 }

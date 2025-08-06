@@ -54,7 +54,7 @@ class AmazonDashboard {
 
     async loadDataSources() {
         try {
-            const response = await fetch('./data_sources copy.json');
+            const response = await fetch('./data_sources.json');
             if (!response.ok) {
                 throw new Error(`HTTP error! status: ${response.status}`);
             }
@@ -69,12 +69,21 @@ class AmazonDashboard {
         const select = document.getElementById('dataSource');
         if (!select) return;
         
-        select.innerHTML = '<option value="">Seleccionar fuente de datos...</option>';
+        select.innerHTML = '';
         
-        Object.keys(this.dataSources).forEach(key => {
+        const keys = Object.keys(this.dataSources);
+        keys.forEach((key, index) => {
             const option = document.createElement('option');
             option.value = key;
             option.textContent = this.dataSources[key].description;
+            
+            // Seleccionar automáticamente la primera opción
+            if (index === 0) {
+                option.selected = true;
+                // Cargar automáticamente la primera fuente de datos
+                setTimeout(() => this.loadDataSource(key), 100);
+            }
+            
             select.appendChild(option);
         });
     }
@@ -428,27 +437,43 @@ class AmazonDashboard {
             }
         }
         
-        const yearMinSlider = document.getElementById('yearMin');
-        const yearMaxSlider = document.getElementById('yearMax');
+        // Update navbar year dropdowns
+        const yearMinInput = document.getElementById('yearMinInput');
+        const yearMaxInput = document.getElementById('yearMaxInput');
         
-        yearMinSlider.min = minYear;
-        yearMinSlider.max = maxYear;
-        yearMinSlider.value = minYear;
+        if (yearMinInput) {
+            yearMinInput.innerHTML = '';
+            for (let year = minYear; year <= maxYear; year++) {
+                const option = document.createElement('option');
+                option.value = year;
+                option.textContent = year;
+                if (year === minYear) option.selected = true;
+                yearMinInput.appendChild(option);
+            }
+        }
         
-        yearMaxSlider.min = minYear;
-        yearMaxSlider.max = maxYear;
-        yearMaxSlider.value = maxYear;
+        if (yearMaxInput) {
+            yearMaxInput.innerHTML = '';
+            for (let year = minYear; year <= maxYear; year++) {
+                const option = document.createElement('option');
+                option.value = year;
+                option.textContent = year;
+                if (year === maxYear) option.selected = true;
+                yearMaxInput.appendChild(option);
+            }
+        }
         
         this.filters.yearMin = minYear;
         this.filters.yearMax = maxYear;
-        
-        this.updateRangeSlider();
         
         // Update territory filters
         this.updateTerritoryFilters();
         
         // Update coverage filters
         this.updateCoverageFilters();
+        
+        // Update map filters
+        this.updateMapFilters();
     }
 
     updateTerritoryFilters() {
@@ -494,7 +519,7 @@ class AmazonDashboard {
             const label = document.createElement('label');
             const checkbox = document.createElement('input');
             checkbox.type = 'checkbox';
-            checkbox.checked = true;
+            checkbox.checked = false; // Start with no territories selected by default
             checkbox.value = territory;
             
             checkbox.addEventListener('change', (e) => {
@@ -510,7 +535,7 @@ class AmazonDashboard {
             label.appendChild(document.createTextNode(territoryName));
             container.appendChild(label);
             
-            this.filters.territories.add(territory);
+            // Don't add territory to filters by default - let user select what they want
         });
     }
 
@@ -537,7 +562,7 @@ class AmazonDashboard {
             const label = document.createElement('label');
             const checkbox = document.createElement('input');
             checkbox.type = 'checkbox';
-            checkbox.checked = true;
+            checkbox.checked = false; // Start with no coverages selected by default
             checkbox.value = coverage;
             
             checkbox.addEventListener('change', (e) => {
@@ -553,7 +578,7 @@ class AmazonDashboard {
             label.appendChild(document.createTextNode(coverageName));
             container.appendChild(label);
             
-            this.filters.coverages.add(coverage);
+            // Don't add coverage to filters by default - let user select what they want
         });
     }
 
@@ -593,6 +618,52 @@ class AmazonDashboard {
         }, 20);
     }
 
+    // Get data for forest change and heatmap charts with special logic
+    getDataForSpecificCharts() {
+        return this.data.filter(row => {
+            // Year filter - always apply
+            if (row.year < this.filters.yearMin || row.year > this.filters.yearMax) {
+                return false;
+            }
+            
+            // Territory filter - apply if active
+            if (this.filters.territories.size > 0 && !this.filters.territories.has(row.territory)) {
+                return false;
+            }
+            
+            // Coverage filter - if no coverage filter is active, default to class 3 (forest)
+            // If coverage filter is active, respect it
+            if (this.filters.coverages.size > 0) {
+                if (!this.filters.coverages.has(row.class)) {
+                    return false;
+                }
+            } else {
+                // No coverage filter active - default to class 3 (formación forestal)
+                if (row.class !== 3) {
+                    return false;
+                }
+            }
+            
+            return true;
+        });
+    }
+
+    // Get coverage names for chart titles
+    getCoverageNamesForTitle() {
+        if (this.filters.coverages.size > 0) {
+            // Use selected coverage(s)
+            const selectedCoverages = Array.from(this.filters.coverages).map(classId => {
+                const coverageInfo = this.coverageNames[classId];
+                return coverageInfo ? coverageInfo.name : `Clase ${classId}`;
+            });
+            return selectedCoverages.join(', ');
+        } else {
+            // Default to Formación Forestal (class 3)
+            const coverageInfo = this.coverageNames[3];
+            return coverageInfo ? coverageInfo.name : 'Formación Forestal';
+        }
+    }
+
     setupMap() {
         // Initialize Leaflet map
         this.map = L.map('mapContainer').setView([4.5709, -74.2973], 6); // Colombia center
@@ -601,7 +672,211 @@ class AmazonDashboard {
         L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
             attribution: '© OpenStreetMap contributors'
         }).addTo(this.map);
+        
+        // Create legend control
+        this.createMapLegendControl();
     }
+
+    createMapLegendControl() {
+        // Create custom legend control
+        const LegendControl = L.Control.extend({
+            onAdd: function(map) {
+                const div = L.DomUtil.create('div', 'leaflet-map-legend');
+                div.id = 'leafletMapLegend';
+                div.innerHTML = `
+                    <div class="leaflet-legend-content">
+                        <div class="legend-header-with-toggle">
+                            <h4>Leyenda</h4>
+                            <button id="legendToggleBtn" class="legend-toggle-btn" title="Ocultar/Mostrar leyenda">
+                                <span class="toggle-icon">−</span>
+                            </button>
+                        </div>
+                        <div id="leafletLegendItems" class="legend-content">
+                            <div class="legend-item">
+                                <div class="legend-header">
+                                    <p class="legend-subtitle">Selecciona un año para ver el mapa coropléthico</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                `;
+                
+                // Add toggle functionality
+                setTimeout(() => {
+                    const toggleBtn = document.getElementById('legendToggleBtn');
+                    const legendContent = document.getElementById('leafletLegendItems');
+                    const toggleIcon = toggleBtn.querySelector('.toggle-icon');
+                    
+                    if (toggleBtn && legendContent) {
+                        toggleBtn.addEventListener('click', function(e) {
+                            e.preventDefault();
+                            e.stopPropagation();
+                            
+                            if (legendContent.style.display === 'none') {
+                                legendContent.style.display = 'block';
+                                toggleIcon.textContent = '−';
+                            } else {
+                                legendContent.style.display = 'none';
+                                toggleIcon.textContent = '+';
+                            }
+                        });
+                    }
+                }, 100);
+                return div;
+            },
+            onRemove: function(map) {
+                // Nothing to do here
+            }
+        });
+
+        // Add legend control to map
+        this.mapLegendControl = new LegendControl({ position: 'topright' });
+        this.mapLegendControl.addTo(this.map);
+    }
+
+    createEnhancedPopup(feature, layer) {
+        // Use the SAME successful logic as createEnhancedPopupLegacy but with map filters
+        
+        // Get CSV data for this feature using map filters
+        const csvData = this.getCSVDataForFeatureWithMapFilters(feature);
+        // Get data for time series chart (only coverage filter, not year filter)
+        const allTerritoryData = this.getCSVDataForFeatureTimeSeriesChart(feature);
+        
+        // Start building popup content
+        let popupContent = '';
+        
+        // Create unique chart ID (same as legacy)
+        const chartId = `popup-chart-${Date.now()}-${Math.random().toString(36).substring(2, 11)}`;
+        
+        // Add CSV data if available
+        if (csvData && csvData.length > 0) {
+            // Add CSV metadata section
+            popupContent += '<div class="popup-section">';
+            popupContent += '<div class="popup-section-title">📋 Información del Registro</div>';
+            popupContent += this.createCSVMetadataSection(csvData);
+            popupContent += '</div>';
+            
+            // Add temporal evolution chart section
+            popupContent += '<div class="popup-section">';
+            popupContent += `<div class="popup-section-title">📈 Evolución Temporal de Coberturas</div>`;
+            
+            // Add chart container
+            popupContent += `<div class="popup-chart-container">`;
+            popupContent += `<canvas id="${chartId}" width="400" height="250"></canvas>`;
+            popupContent += `</div>`;
+            
+            // Total area summary (using filtered data)
+            const totalArea = allTerritoryData.reduce((sum, row) => sum + (parseFloat(row.area) || 0), 0);
+            const uniqueYears = [...new Set(allTerritoryData.map(d => d.year))].sort((a, b) => a - b);
+            const yearRange = uniqueYears.length > 0 ? `${uniqueYears[0]} - ${uniqueYears[uniqueYears.length - 1]}` : '';
+            
+            popupContent += `<div class="total-area">`;
+            popupContent += `Área total (${yearRange}): ${totalArea.toFixed(2)} km²`;
+            popupContent += '</div>';
+            popupContent += '</div>';
+            
+        } else {
+            popupContent += '<div class="popup-section">';
+            popupContent += '<div style="color: #666; font-style: italic;">';
+            popupContent += 'No hay datos de cobertura disponibles para este territorio con los filtros actuales.';
+            popupContent += '</div>';
+            popupContent += '</div>';
+        }
+        
+        // Set popup with enhanced content (same as legacy)
+        layer.bindPopup(popupContent, {
+            maxWidth: 450, // Wider for chart
+            className: 'enhanced-popup'
+        });
+
+        // Create chart after popup opens (SAME logic as legacy)
+        if (allTerritoryData && allTerritoryData.length > 0) {
+            layer.on('popupopen', () => {
+                // Wait for popup to be fully rendered (same as legacy)
+                setTimeout(() => {
+                    this.createPopupTimeSeriesChart(chartId, allTerritoryData);
+                }, 200);
+            });
+
+            // Cleanup chart when popup closes (SAME as legacy)
+            layer.on('popupclose', () => {
+                const existingChart = this.popupCharts.get(chartId);
+                if (existingChart) {
+                    existingChart.destroy();
+                    this.popupCharts.delete(chartId);
+                }
+            });
+        }
+    }
+
+
+    getCSVDataForFeatureWithMapFilters(feature) {
+        // Get the id_area from GeoJSON properties
+        const idArea = feature.properties.id_area;
+        if (!idArea) {
+            return [];
+        }
+        
+        // Convert GeoJSON id_area to CSV territory using codes mapping
+        const csvTerritory = this.convertIdAreaToTerritory(idArea);
+        if (!csvTerritory) {
+            return [];
+        }
+        
+        // Start with all data for this territory
+        let filteredData = this.data.filter(row => 
+            row.territory.toString() === csvTerritory.toString()
+        );
+        
+        // Apply map-specific filters
+        const mapCoverageFilter = document.getElementById('mapCoverageFilter');
+        const mapYearFilter = document.getElementById('mapYearFilter');
+        
+        const selectedCoverage = mapCoverageFilter ? mapCoverageFilter.value : '';
+        const selectedYear = mapYearFilter ? mapYearFilter.value : '';
+        
+        if (selectedCoverage) {
+            filteredData = filteredData.filter(row => row.class.toString() === selectedCoverage.toString());
+        }
+        
+        if (selectedYear) {
+            filteredData = filteredData.filter(row => row.year.toString() === selectedYear.toString());
+        }
+        
+        return filteredData;
+    }
+
+    getCSVDataForFeatureTimeSeriesChart(feature) {
+        // Get CSV data for time series chart - apply only coverage filter, NOT year filter
+        // This allows the chart to show complete temporal evolution
+        
+        const idArea = feature.properties.id_area;
+        if (!idArea) {
+            return [];
+        }
+        
+        // Convert GeoJSON id_area to CSV territory using codes mapping
+        const csvTerritory = this.convertIdAreaToTerritory(idArea);
+        if (!csvTerritory) {
+            return [];
+        }
+        
+        // Start with all data for this territory (all years)
+        let filteredData = this.data.filter(row => 
+            row.territory.toString() === csvTerritory.toString()
+        );
+        
+        // Apply ONLY map coverage filter (not year filter)
+        const mapCoverageFilter = document.getElementById('mapCoverageFilter');
+        const selectedCoverage = mapCoverageFilter ? mapCoverageFilter.value : '';
+        
+        if (selectedCoverage) {
+            filteredData = filteredData.filter(row => row.class.toString() === selectedCoverage.toString());
+        }
+        
+        return filteredData;
+    }
+
 
     clearMapLayers() {
         // Clear all GIS layers from the map
@@ -700,6 +975,73 @@ class AmazonDashboard {
             }
         });
 
+        // Coverage Change Heatmap Chart
+        const heatmapCtx = document.getElementById('coverageChangeHeatmap').getContext('2d');
+        this.charts.heatmap = new Chart(heatmapCtx, {
+            type: 'bar',
+            data: {
+                labels: [],
+                datasets: []
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                indexAxis: 'y',
+                plugins: {
+                    title: {
+                        display: true,
+                        text: '',  // Will be updated dynamically
+                        font: {
+                            size: isMobile ? 12 : 16
+                        }
+                    },
+                    legend: {
+                        display: true,
+                        position: 'bottom'
+                    },
+                    tooltip: {
+                        callbacks: {
+                            label: function(context) {
+                                const value = context.parsed.x;
+                                const sign = value >= 0 ? '+' : '';
+                                return `${context.dataset.label}: ${sign}${value.toFixed(2)} km²`;
+                            }
+                        }
+                    }
+                },
+                scales: {
+                    x: {
+                        title: {
+                            display: !isMobile,
+                            text: 'Cambio en Área (km²)',
+                            font: {
+                                size: isMobile ? 10 : 12
+                            }
+                        },
+                        ticks: {
+                            font: {
+                                size: isMobile ? 9 : 11
+                            }
+                        }
+                    },
+                    y: {
+                        title: {
+                            display: !isMobile,
+                            text: 'Territorio',
+                            font: {
+                                size: isMobile ? 10 : 12
+                            }
+                        },
+                        ticks: {
+                            font: {
+                                size: isMobile ? 8 : 10
+                            }
+                        }
+                    }
+                }
+            }
+        });
+
         // Territory Chart
         const territoryCtx = document.getElementById('territoryChart').getContext('2d');
         this.charts.territory = new Chart(territoryCtx, {
@@ -721,7 +1063,7 @@ class AmazonDashboard {
                 plugins: {
                     title: {
                         display: true,
-                        text: `Top ${this.config.territoryChartMaxItems} Territorios por Área Total`,
+                        text: 'Top 10 Territorios por Área Total',
                         font: {
                             size: isMobile ? 12 : 16
                         }
@@ -847,6 +1189,89 @@ class AmazonDashboard {
                 }
             }
         });
+
+        // Forest Change Chart - Shows annual change in forest area
+        const forestChangeCtx = document.getElementById('forestChangeChart').getContext('2d');
+        this.charts.forestChange = new Chart(forestChangeCtx, {
+            type: 'line',
+            data: {
+                labels: [],
+                datasets: [{
+                    label: 'Cambio Anual (km²)',
+                    data: [],
+                    borderColor: 'rgba(46, 125, 50, 1)', // Forest green
+                    backgroundColor: function(context) {
+                        const value = context.parsed ? context.parsed.y : 0;
+                        return value >= 0 ? 'rgba(76, 175, 80, 0.3)' : 'rgba(244, 67, 54, 0.3)'; // Green for gain, red for loss
+                    },
+                    borderWidth: 2,
+                    fill: {
+                        target: 'origin',
+                        above: 'rgba(76, 175, 80, 0.2)', // Green fill above zero
+                        below: 'rgba(244, 67, 54, 0.2)'  // Red fill below zero
+                    },
+                    pointBackgroundColor: function(context) {
+                        const value = context.parsed ? context.parsed.y : 0;
+                        return value >= 0 ? 'rgba(76, 175, 80, 1)' : 'rgba(244, 67, 54, 1)';
+                    },
+                    pointBorderColor: 'white',
+                    pointBorderWidth: 2,
+                    pointRadius: 4,
+                    tension: 0.1
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    title: {
+                        display: true,
+                        text: 'Cambio Anual de Área Forestal (Clase 3)',
+                        font: {
+                            size: isMobile ? 12 : 16
+                        }
+                    },
+                    legend: {
+                        display: !isMobile
+                    },
+                    tooltip: {
+                        callbacks: {
+                            label: function(context) {
+                                const value = context.parsed.y;
+                                const sign = value >= 0 ? '+' : '';
+                                return `${context.dataset.label}: ${sign}${value.toFixed(2)} km²`;
+                            }
+                        }
+                    }
+                },
+                scales: {
+                    x: {
+                        title: {
+                            display: !isMobile,
+                            text: 'Año',
+                            font: {
+                                size: isMobile ? 10 : 12
+                            }
+                        }
+                    },
+                    y: {
+                        title: {
+                            display: !isMobile,
+                            text: 'Cambio (km²)',
+                            font: {
+                                size: isMobile ? 10 : 12
+                            }
+                        },
+                        beginAtZero: true,
+                        grid: {
+                            color: function(context) {
+                                return context.tick.value === 0 ? 'rgba(0, 0, 0, 0.3)' : 'rgba(0, 0, 0, 0.1)';
+                            }
+                        }
+                    }
+                }
+            }
+        });
         
         // Add resize listener to update charts on orientation change
         window.addEventListener('resize', () => {
@@ -864,6 +1289,8 @@ class AmazonDashboard {
         this.updateTimeSeriesChart();
         this.updateTerritoryChart();
         this.updateCoverageChart();
+        this.updateForestChangeChart();
+        this.updateHeatmapChart();
     }
 
     updateTableYearFilter() {
@@ -888,6 +1315,47 @@ class AmazonDashboard {
             }
             tableYearFilter.appendChild(option);
         });
+    }
+
+    updateMapFilters() {
+        // Update map coverage filter
+        const coverageFilter = document.getElementById('mapCoverageFilter');
+        if (coverageFilter) {
+            const coverages = [...new Set(this.data.map(d => d.class))].sort((a, b) => a - b);
+            
+            // Reset to default option when data source changes
+            coverageFilter.innerHTML = '<option value="">Todas las coberturas</option>';
+            
+            coverages.forEach(coverage => {
+                const option = document.createElement('option');
+                option.value = coverage;
+                const coverageInfo = this.coverageNames[coverage];
+                option.textContent = coverageInfo ? coverageInfo.name : `Clase ${coverage}`;
+                coverageFilter.appendChild(option);
+            });
+            
+            // Reset selection to default
+            coverageFilter.value = '';
+        }
+        
+        // Update map year filter
+        const yearFilter = document.getElementById('mapYearFilter');
+        if (yearFilter) {
+            const years = [...new Set(this.data.map(d => d.year))].sort((a, b) => a - b);
+            
+            // Reset to default option when data source changes
+            yearFilter.innerHTML = '<option value="">Todos los años</option>';
+            
+            years.forEach(year => {
+                const option = document.createElement('option');
+                option.value = year;
+                option.textContent = year;
+                yearFilter.appendChild(option);
+            });
+            
+            // Reset selection to default
+            yearFilter.value = '';
+        }
     }
 
     updateTimeSeriesChart() {
@@ -963,15 +1431,8 @@ class AmazonDashboard {
             territoryData[territory] += area;
         });
 
-        // Get the maximum number of territories to show based on data source
-        let maxItems = this.config.territoryChartMaxItems;
-        
-        // Special cases for specific data sources
-        if (this.currentDataSource === 'ANP_DEPTO' || 
-            this.currentDataSource === 'ANP_NAL' || 
-            this.currentDataSource === 'TIS') {
-            maxItems = 10; // 🔧 CONFIGURABLE: Limit ANP and TI to top 10
-        }
+        // Get the maximum number of territories to show - always top 10
+        let maxItems = 10; // 🔧 CONFIGURABLE: Show top 10 territories for all data sources
         
         // Sort and take top N territories
         const sortedTerritories = Object.entries(territoryData)
@@ -1063,6 +1524,438 @@ class AmazonDashboard {
         this.charts.coverage.data.datasets[0].data = data;
         this.charts.coverage.data.datasets[0].backgroundColor = colors;
         this.charts.coverage.update();
+    }
+
+    updateForestChangeChart() {
+        // Get data respecting navbar filters, but default to class 3 if no coverage filter is active
+        const dataForChart = this.getDataForSpecificCharts();
+        
+        // Create dynamic title
+        const coverageNames = this.getCoverageNamesForTitle();
+        const title = `Evolución Anual de ${coverageNames}`;
+        
+        // Group data by year
+        const forestByYear = {};
+        dataForChart.forEach(row => {
+            const year = row.year;
+            const area = parseFloat(row.area) || 0;
+            
+            if (!forestByYear[year]) {
+                forestByYear[year] = 0;
+            }
+            forestByYear[year] += area;
+        });
+        
+        // Sort years and calculate year-over-year changes
+        const years = Object.keys(forestByYear).map(year => parseInt(year)).sort((a, b) => a - b);
+        const changes = [];
+        const changeLabels = [];
+        
+        for (let i = 1; i < years.length; i++) {
+            const currentYear = years[i];
+            const previousYear = years[i - 1];
+            
+            const currentArea = forestByYear[currentYear] || 0;
+            const previousArea = forestByYear[previousYear] || 0;
+            
+            const change = currentArea - previousArea;
+            
+            changes.push(change);
+            changeLabels.push(`${previousYear}-${currentYear}`);
+        }
+        
+        // Update chart title and data
+        this.charts.forestChange.options.plugins.title.text = title;
+        this.charts.forestChange.data.labels = changeLabels;
+        this.charts.forestChange.data.datasets[0].data = changes;
+        this.charts.forestChange.update();
+    }
+
+    updateHeatmapChart() {
+        if (!this.charts.heatmap) return;
+
+        console.log('🔥 Updating heatmap chart...');
+
+        // Get data respecting navbar filters, but default to class 3 if no coverage filter is active
+        const dataForChart = this.getDataForSpecificCharts();
+        console.log('📊 Data for heatmap chart:', dataForChart.length);
+
+        if (dataForChart.length === 0) {
+            console.warn('⚠️ No data found for heatmap');
+            return;
+        }
+
+        // Group data by territory and calculate recent changes (last 5 years)
+        const territoryData = {};
+        const currentYear = new Date().getFullYear();
+        const recentYears = [currentYear - 4, currentYear - 3, currentYear - 2, currentYear - 1, currentYear];
+
+        dataForChart.forEach(row => {
+            const territory = row.territory;
+            const year = parseInt(row.year);
+            const area = parseFloat(row.area) || 0;
+
+            if (!territoryData[territory]) {
+                territoryData[territory] = {};
+            }
+
+            territoryData[territory][year] = area;
+        });
+
+        // Calculate year-over-year changes for recent years
+        const territoryChanges = {};
+        Object.keys(territoryData).forEach(territory => {
+            const yearlyData = territoryData[territory];
+            let totalChange = 0;
+            let changeCount = 0;
+
+            for (let i = 1; i < recentYears.length; i++) {
+                const currentYear = recentYears[i];
+                const previousYear = recentYears[i - 1];
+                
+                if (yearlyData[currentYear] !== undefined && yearlyData[previousYear] !== undefined) {
+                    const change = yearlyData[currentYear] - yearlyData[previousYear];
+                    totalChange += change;
+                    changeCount++;
+                }
+            }
+
+            if (changeCount > 0) {
+                territoryChanges[territory] = totalChange / changeCount; // Average annual change
+            }
+        });
+
+        console.log('📈 Territory changes calculated:', Object.keys(territoryChanges).length);
+
+        // Get top 10 territories by total area
+        const territoryTotals = {};
+        dataForChart.forEach(row => {
+            const territory = row.territory;
+            const area = parseFloat(row.area) || 0;
+            territoryTotals[territory] = (territoryTotals[territory] || 0) + area;
+        });
+
+        const topTerritories = Object.entries(territoryTotals)
+            .sort(([,a], [,b]) => b - a)
+            .slice(0, 10)
+            .map(([territory]) => territory);
+
+        console.log('🏆 Top territories:', topTerritories.length);
+
+        // Prepare chart data
+        const labels = [];
+        const changes = [];
+
+        topTerritories.forEach(territory => {
+            // Use exactly the same pattern as the territory bar chart
+            let label = '';
+            
+            // Use the barchart column from data source configuration
+            const currentSource = this.dataSources[this.currentDataSource];
+            if (currentSource && currentSource.barchart) {
+                // Get the spatial data for this territory
+                const currentSourceMappings = this.spatialTabularMappings[this.currentDataSource] || {};
+                const spatialData = currentSourceMappings[territory];
+                
+                if (spatialData && spatialData[currentSource.barchart]) {
+                    label = spatialData[currentSource.barchart];
+                }
+            }
+            
+            // Fallback to territory names mapping or raw territory ID
+            if (!label) {
+                label = this.territoryNames[territory] || territory;
+            }
+            
+            // Replace "Resguardo Indígena" with "R.I" for cleaner display (same as territory chart)
+            if (label.includes('Resguardo Indígena')) {
+                label = label.replace('Resguardo Indígena', 'R.I.');
+            }
+
+            labels.push(label);
+            changes.push(territoryChanges[territory] || 0);
+        });
+
+        // Update chart title with current data source and coverage info
+        const currentSource = this.dataSources[this.currentDataSource];
+        const dataSourceName = currentSource ? currentSource.description : 'Territorio';
+        const coverageNames = this.getCoverageNamesForTitle();
+        const newTitle = `Cambio de ${coverageNames} por ${dataSourceName} (Últimos 5 Años)`;
+        
+        console.log('🏷️ Current data source:', this.currentDataSource);
+        console.log('📋 Data source name:', dataSourceName);
+        console.log('🔖 New title:', newTitle);
+        
+        this.charts.heatmap.options.plugins.title.text = newTitle;
+
+        // Update chart
+        this.charts.heatmap.data.labels = labels;
+        this.charts.heatmap.data.datasets = [{
+            label: 'Cambio Anual Promedio (km²)',
+            data: changes,
+            backgroundColor: changes.map(change => {
+                if (change < 0) {
+                    return 'rgba(244, 67, 54, 0.7)'; // Red for loss
+                } else if (change > 0) {
+                    return 'rgba(76, 175, 80, 0.7)'; // Green for gain
+                } else {
+                    return 'rgba(158, 158, 158, 0.7)'; // Gray for no change
+                }
+            }),
+            borderColor: changes.map(change => {
+                if (change < 0) {
+                    return 'rgba(244, 67, 54, 1)';
+                } else if (change > 0) {
+                    return 'rgba(76, 175, 80, 1)';
+                } else {
+                    return 'rgba(158, 158, 158, 1)';
+                }
+            }),
+            borderWidth: 1
+        }];
+
+        console.log('✅ Chart updated with', labels.length, 'territories');
+        console.log('📝 Chart title updated to:', this.charts.heatmap.options.plugins.title.text);
+        this.charts.heatmap.update();
+    }
+
+    updateMapPopups() {
+        // Update popups with map-specific filters using the WORKING logic
+        if (this.mapLayer) {
+            this.mapLayer.eachLayer((layer) => {
+                if (layer.feature && layer.feature.properties) {
+                    // Use the SAME successful function but for map filters
+                    this.createEnhancedPopup(layer.feature, layer);
+                    
+                    // Update choropleth styling if specific year is selected
+                    this.updateChoroplethStyling(layer);
+                }
+            });
+            
+            // Update legend after updating all layers
+            this.updateMapLegend();
+        }
+    }
+
+    updateChoroplethStyling(layer) {
+        const mapYearFilter = document.getElementById('mapYearFilter');
+        const mapCoverageFilter = document.getElementById('mapCoverageFilter');
+        
+        if (!mapYearFilter || !mapCoverageFilter) return;
+        
+        const selectedYear = mapYearFilter.value;
+        const selectedCoverage = mapCoverageFilter.value;
+        
+        
+        // Only apply choropleth when a specific year is selected
+        if (selectedYear && selectedYear !== '') {
+            const territoryData = this.getChoroplethDataForTerritory(layer.feature, selectedYear, selectedCoverage);
+            
+            if (territoryData && territoryData.totalArea > 0) {
+                // Calculate intensity based on total area for this territory
+                const maxArea = this.getMaxAreaForChoropleth(selectedYear, selectedCoverage);
+                const intensity = Math.min(territoryData.totalArea / maxArea, 1);
+                
+                // Apply choropleth styling
+                const choroplethColor = this.getChoroplethColor(intensity);
+                
+                layer.setStyle({
+                    fillColor: choroplethColor,
+                    fillOpacity: 0.7,
+                    color: '#666',
+                    weight: 1
+                });
+            } else {
+                // No data for this territory - use neutral gray
+                layer.setStyle({
+                    fillColor: '#d1d5db',
+                    fillOpacity: 0.4,
+                    color: '#9ca3af',
+                    weight: 1
+                });
+            }
+        } else {
+            // Reset to default styling when no specific year is selected
+            layer.setStyle({
+                fillColor: '#3388ff',
+                fillOpacity: 0.5,
+                color: '#3388ff',
+                weight: 2
+            });
+        }
+    }
+
+    getChoroplethDataForTerritory(feature, year, coverage) {
+        const idArea = feature.properties.id_area;
+        if (!idArea) return null;
+        
+        // Convert GeoJSON id_area to CSV territory using the SAME function as popups
+        const csvTerritory = this.convertIdAreaToTerritory(idArea);
+        if (!csvTerritory) {
+            console.log('❌ Could not convert idArea to csvTerritory:', idArea);
+            return null;
+        }
+        
+        let filteredData = this.data.filter(row => {
+            return row && row.territory && row.year &&
+                   row.territory.toString() === csvTerritory.toString() && 
+                   row.year.toString() === year.toString();
+        });
+        
+        // Apply coverage filter if specified
+        if (coverage && coverage !== '') {
+            filteredData = filteredData.filter(row => 
+                row && row.class && row.class.toString() === coverage.toString()
+            );
+        }
+        
+        // Sum total area for this territory
+        const totalArea = filteredData.reduce((sum, row) => sum + parseFloat(row.area || 0), 0);
+        
+        return {
+            totalArea: totalArea,
+            records: filteredData
+        };
+    }
+
+    getMaxAreaForChoropleth(year, coverage) {
+        // Get all territories for the selected year/coverage combination
+        let yearData = this.data.filter(row => 
+            row && row.year && row.year.toString() === year.toString()
+        );
+        
+        if (coverage && coverage !== '') {
+            yearData = yearData.filter(row => 
+                row && row.class && row.class.toString() === coverage.toString()
+            );
+        }
+        
+        // Group by territory and sum areas (same logic as working popups)
+        const territoryTotals = {};
+        yearData.forEach(row => {
+            if (row && row.territory) {
+                const territory = row.territory.toString();
+                if (!territoryTotals[territory]) {
+                    territoryTotals[territory] = 0;
+                }
+                territoryTotals[territory] += parseFloat(row.area || 0);
+            }
+        });
+        
+        // Return the maximum area among all territories
+        const maxArea = Math.max(...Object.values(territoryTotals), 0);
+        return maxArea > 0 ? maxArea : 1; // Avoid division by zero
+    }
+
+    getChoroplethColor(intensity) {
+        // Color gradient from light green to dark green
+        const minColor = { r: 199, g: 233, b: 192 }; // Light green
+        const maxColor = { r: 27, g: 94, b: 32 };    // Dark green
+        
+        const r = Math.round(minColor.r + (maxColor.r - minColor.r) * intensity);
+        const g = Math.round(minColor.g + (maxColor.g - minColor.g) * intensity);
+        const b = Math.round(minColor.b + (maxColor.b - minColor.b) * intensity);
+        
+        return `rgb(${r}, ${g}, ${b})`;
+    }
+
+    updateMapLegend() {
+        const legendItems = document.getElementById('leafletLegendItems');
+        const legendTitle = document.querySelector('.leaflet-legend-content h4');
+        const mapYearFilter = document.getElementById('mapYearFilter');
+        const mapCoverageFilter = document.getElementById('mapCoverageFilter');
+        
+        console.log('🗺️ Updating map legend:', { 
+            legendItems: !!legendItems, 
+            legendTitle: !!legendTitle,
+            mapYearFilter: !!mapYearFilter, 
+            mapCoverageFilter: !!mapCoverageFilter 
+        });
+        
+        if (!legendItems) {
+            console.error('❌ Leaflet legend container not found!');
+            return;
+        }
+        
+        const selectedYear = mapYearFilter ? mapYearFilter.value : '';
+        const selectedCoverage = mapCoverageFilter ? mapCoverageFilter.value : '';
+        
+        // Show choropleth legend only when a specific year is selected
+        if (selectedYear && selectedYear !== '') {
+            // Calculate max area for better context
+            const maxArea = this.getMaxAreaForChoropleth(selectedYear, selectedCoverage);
+            const maxAreaFormatted = maxArea > 1000 ? 
+                `${(maxArea / 1000).toFixed(1)}k km²` : 
+                `${maxArea.toFixed(1)} km²`;
+            
+            // Update legend title with filter information and add max area below title
+            if (legendTitle) {
+                const coverageName = selectedCoverage && this.coverageNames[selectedCoverage] 
+                    ? this.coverageNames[selectedCoverage].name 
+                    : 'todas las coberturas';
+                
+                legendTitle.innerHTML = `
+                    Leyenda- ${coverageName} (${selectedYear})
+                    <div class="legend-title-subtitle">
+                        <small>📊 Área máxima: ${maxAreaFormatted}</small>
+                    </div>
+                `;
+            }
+            
+            legendItems.innerHTML = `
+                <div class="legend-item choropleth-legend">
+                    <div class="choropleth-scale">
+                        <div class="legend-section">
+                            <h6>Intensidad de Área (km²)</h6>
+                            <div class="scale-item">
+                                <div class="color-box" style="background: rgb(199, 233, 192);"></div>
+                                <span>Baja (0 - 33%)</span>
+                            </div>
+                            <div class="scale-item">
+                                <div class="color-box" style="background: rgb(113, 163, 112);"></div>
+                                <span>Media (34 - 66%)</span>
+                            </div>
+                            <div class="scale-item">
+                                <div class="color-box" style="background: rgb(27, 94, 32);"></div>
+                                <span>Alta (67 - 100%)</span>
+                            </div>
+                        </div>
+                        <div class="legend-section">
+                            <h6>Otros</h6>
+                            <div class="scale-item">
+                                <div class="color-box" style="background: #d1d5db; border: 1px solid #9ca3af;"></div>
+                                <span>Sin datos disponibles</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            `;
+        } else {
+            // Update legend title for general view
+            if (legendTitle) {
+                legendTitle.textContent = 'Leyenda- Vista General';
+            }
+            
+            // Default legend when no specific year is selected
+            legendItems.innerHTML = `
+                <div class="legend-item">
+                    <div class="choropleth-scale">
+                        <div class="legend-section">
+                            <h6>Territorios</h6>
+                            <div class="scale-item">
+                                <div class="color-box" style="background: #3388ff;"></div>
+                                <span>Territorios con datos</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="legend-note">
+                        <small>💡 Selecciona un año específico para activar el mapa coroplético con escalas de color</small>
+                    </div>
+                </div>
+            `;
+        }
+        
+        console.log('✅ Map legend updated successfully');
     }
 
     updateTable() {
@@ -1164,10 +2057,15 @@ class AmazonDashboard {
         document.getElementById('agricultureArea').textContent = this.formatArea(agricultureFinal);
         document.getElementById('agricultureChange').textContent = this.formatChangeWithPeriod(agricultureFinal - agricultureInitial, minYear, maxYear);
         
-        // Territory count
+        // Territory count with dynamic title
         const totalTerritories = new Set(this.filteredData.map(d => d.territory)).size;
         const allTerritories = new Set(this.data.map(d => d.territory)).size;
         const territoryPercent = ((totalTerritories / allTerritories) * 100).toFixed(1);
+        
+        // Update territory title dynamically based on data source
+        const currentSource = this.dataSources[this.currentDataSource];
+        const dataSourceName = currentSource ? currentSource.description : 'Territorios';
+        document.getElementById('totalTerritoriesTitle').textContent = `Total ${dataSourceName}`;
         
         document.getElementById('totalTerritories').textContent = totalTerritories;
         document.getElementById('territoryPercent').textContent = `${territoryPercent}% del total`;
@@ -1232,6 +2130,69 @@ class AmazonDashboard {
         return `rgba(${r}, ${g}, ${b}, ${alpha})`;
     }
 
+    setupNavbarFunctionality() {
+        // Filters dropdown toggle
+        const filtersToggle = document.getElementById('filtersToggle');
+        const filtersDropdown = document.getElementById('filtersDropdown');
+        const dropdown = filtersToggle?.parentElement;
+
+        if (filtersToggle && dropdown) {
+            filtersToggle.addEventListener('click', (e) => {
+                e.stopPropagation();
+                dropdown.classList.toggle('active');
+            });
+
+            // Close dropdown when clicking outside
+            document.addEventListener('click', (e) => {
+                if (dropdown && !dropdown.contains(e.target)) {
+                    dropdown.classList.remove('active');
+                }
+            });
+
+            // Prevent dropdown from closing when clicking inside
+            if (filtersDropdown) {
+                filtersDropdown.addEventListener('click', (e) => {
+                    e.stopPropagation();
+                });
+            }
+        }
+
+        // Year range inputs in navbar
+        const yearMinInput = document.getElementById('yearMinInput');
+        const yearMaxInput = document.getElementById('yearMaxInput');
+
+        if (yearMinInput) {
+            yearMinInput.addEventListener('change', (e) => {
+                const value = parseInt(e.target.value);
+                if (value <= this.filters.yearMax) {
+                    this.filters.yearMin = value;
+                    this.updateRangeSlider();
+                }
+            });
+        }
+
+        if (yearMaxInput) {
+            yearMaxInput.addEventListener('change', (e) => {
+                const value = parseInt(e.target.value);
+                if (value >= this.filters.yearMin) {
+                    this.filters.yearMax = value;
+                    this.updateRangeSlider();
+                }
+            });
+        }
+
+        // Mobile menu toggle
+        const mobileToggle = document.getElementById('mobileToggle');
+        const mobileMenu = document.getElementById('mobileMenu');
+
+        if (mobileToggle && mobileMenu) {
+            mobileToggle.addEventListener('click', () => {
+                mobileMenu.classList.toggle('active');
+                mobileToggle.classList.toggle('active');
+            });
+        }
+    }
+
     setupEventListeners() {
         // Helper function to safely add event listeners
         const safeAddEventListener = (elementId, event, handler) => {
@@ -1240,6 +2201,9 @@ class AmazonDashboard {
                 element.addEventListener(event, handler);
             }
         };
+
+        // Setup navbar functionality
+        this.setupNavbarFunctionality();
 
         // Data source selector - always present
         safeAddEventListener('dataSource', 'change', (e) => {
@@ -1256,38 +2220,8 @@ class AmazonDashboard {
         });
 
         // Year range sliders - only in full dashboard
-        safeAddEventListener('yearMin', 'input', (e) => {
-            this.filters.yearMin = parseInt(e.target.value);
-            this.updateRangeSlider();
-            this.applyFilters();
-        });
-
-        safeAddEventListener('yearMax', 'input', (e) => {
-            this.filters.yearMax = parseInt(e.target.value);
-            this.updateRangeSlider();
-            this.applyFilters();
-        });
-
-        // Show tooltips on hover - only in full dashboard
-        safeAddEventListener('yearMin', 'mouseenter', () => {
-            const tooltip = document.getElementById('tooltipMin');
-            if (tooltip) tooltip.classList.add('show');
-        });
-
-        safeAddEventListener('yearMin', 'mouseleave', () => {
-            const tooltip = document.getElementById('tooltipMin');
-            if (tooltip) tooltip.classList.remove('show');
-        });
-
-        safeAddEventListener('yearMax', 'mouseenter', () => {
-            const tooltip = document.getElementById('tooltipMax');
-            if (tooltip) tooltip.classList.add('show');
-        });
-
-        safeAddEventListener('yearMax', 'mouseleave', () => {
-            const tooltip = document.getElementById('tooltipMax');
-            if (tooltip) tooltip.classList.remove('show');
-        });
+        // Note: Old slider and tooltip event listeners removed
+        // Year inputs are now handled in the navbar section above
 
         // Search filters - only in full dashboard
         safeAddEventListener('territorySearch', 'input', (e) => {
@@ -1306,6 +2240,15 @@ class AmazonDashboard {
         // Table year filter - only in full dashboard
         safeAddEventListener('tableYearFilter', 'change', () => {
             this.updateTable();
+        });
+
+        // Map filters - independent from main dashboard filters
+        safeAddEventListener('mapCoverageFilter', 'change', () => {
+            this.updateMapPopups();
+        });
+
+        safeAddEventListener('mapYearFilter', 'change', () => {
+            this.updateMapPopups();
         });
 
         // Territory filter buttons - only in full dashboard
@@ -1351,33 +2294,21 @@ class AmazonDashboard {
     updateRangeSlider() {
         const yearMin = this.filters.yearMin;
         const yearMax = this.filters.yearMax;
-        const minSlider = document.getElementById('yearMin');
-        const maxSlider = document.getElementById('yearMax');
         
-        // Update slider values
-        minSlider.value = yearMin;
-        maxSlider.value = yearMax;
+        // Update navbar dropdown values
+        const minInput = document.getElementById('yearMinInput');
+        const maxInput = document.getElementById('yearMaxInput');
         
-        // Update tooltips
-        document.getElementById('tooltipMin').textContent = yearMin;
-        document.getElementById('tooltipMax').textContent = yearMax;
+        if (minInput) {
+            minInput.value = yearMin;
+        }
         
-        // Calculate positions for tooltips and progress bar
-        const minRange = parseInt(minSlider.min);
-        const maxRange = parseInt(minSlider.max);
-        const totalRange = maxRange - minRange;
+        if (maxInput) {
+            maxInput.value = yearMax;
+        }
         
-        const minPercent = ((yearMin - minRange) / totalRange) * 100;
-        const maxPercent = ((yearMax - minRange) / totalRange) * 100;
-        
-        // Update tooltip positions
-        document.getElementById('tooltipMin').style.left = `${minPercent}%`;
-        document.getElementById('tooltipMax').style.left = `${maxPercent}%`;
-        
-        // Update progress bar
-        const progressBar = document.getElementById('rangeProgress');
-        progressBar.style.left = `${minPercent}%`;
-        progressBar.style.width = `${maxPercent - minPercent}%`;
+        // Note: The old sidebar had tooltips and progress bars, but the new navbar
+        // uses simple dropdowns, so we only need to update the selected values
     }
 
     filterCheckboxes(containerId, searchTerm) {
@@ -1495,244 +2426,6 @@ class AmazonDashboard {
         }
     }
 
-    updateMapLegend() {
-        const legendContainer = document.getElementById('legendItems');
-        if (!legendContainer) return;
-        
-        legendContainer.innerHTML = '';
-
-        // Get unique coverages for legend
-        const coverages = [...new Set(this.data.map(d => d.class))].sort((a, b) => a - b);
-        
-        // Group coverages by hierarchy levels
-        const hierarchicalGroups = this.groupCoveragesByHierarchy(coverages);
-        
-        // Create hierarchical legend
-        this.createHierarchicalLegend(hierarchicalGroups, legendContainer);
-    }
-
-    groupCoveragesByHierarchy(coverages) {
-        const groups = {};
-        
-        // First pass: collect all coverage info
-        const allCoverageInfo = {};
-        
-        coverages.forEach(coverage => {
-            const coverageInfo = this.coverageNames[coverage];
-            if (coverageInfo) {
-                const coverageName = coverageInfo.fullName || coverageInfo.name;
-                allCoverageInfo[coverage] = {
-                    ...coverageInfo,
-                    fullName: coverageName
-                };
-            }
-        });
-        
-        // Second pass: process hierarchy
-        coverages.forEach(coverage => {
-            const coverageInfo = allCoverageInfo[coverage];
-            if (!coverageInfo) return;
-            
-            const coverageName = coverageInfo.fullName;
-            
-            // Parse hierarchy from name (e.g., "1. Bosque", "1.1. Formación forestal")
-            const hierarchyMatch = coverageName.match(/^(\d+)(\.\d+)?\.\s*(.+)/);
-            
-            if (hierarchyMatch) {
-                const [, mainLevel, subLevel, name] = hierarchyMatch;
-                const isSubLevel = !!subLevel;
-                
-                // DEBUG: Log parsing results
-                
-                if (!isSubLevel) {
-                    // Main level (e.g., "1. Bosque")
-                    if (!groups[mainLevel]) {
-                        groups[mainLevel] = {
-                            name: name,
-                            color: coverageInfo.color,
-                            id: coverage,
-                            subItems: []
-                        };
-                    }
-                } else {
-                    // Sub level (e.g., "1.1. Formación forestal")
-                    if (!groups[mainLevel]) {
-                        // Find the main level name by looking for the base class (e.g., "1. Bosque")
-                        const mainLevelName = this.findMainLevelName(mainLevel);
-                        
-                        groups[mainLevel] = {
-                            name: mainLevelName || `Nivel ${mainLevel}`,
-                            color: this.getColor(parseInt(mainLevel) % 10),
-                            id: null,
-                            subItems: []
-                        };
-                    }
-                    
-                    groups[mainLevel].subItems.push({
-                        name: name,
-                        color: coverageInfo.color,
-                        id: coverage
-                    });
-                }
-            } else {
-                // Fallback for items without hierarchy
-                
-                const fallbackGroup = 'otros';
-                if (!groups[fallbackGroup]) {
-                    groups[fallbackGroup] = {
-                        name: 'Otras Coberturas',
-                        color: '#cccccc',
-                        id: null,
-                        subItems: []
-                    };
-                }
-                
-                groups[fallbackGroup].subItems.push({
-                    name: coverageName,
-                    color: coverageInfo.color,
-                    id: coverage
-                });
-            }
-        });
-        
-        return groups;
-    }
-
-    findMainLevelName(mainLevel) {
-        // Look for the main level class (e.g., "1. Bosque" for mainLevel "1")
-        // Search in ALL coverageNames (palette), not just current data
-        
-        // Search through the complete palette (this.coverageNames)
-        for (const [coverageId, coverageInfo] of Object.entries(this.coverageNames)) {
-            if (coverageInfo && coverageInfo.fullName) {
-                const fullName = coverageInfo.fullName;
-                
-                // Simple regex: number + period + optional space + name
-                const match = fullName.match(/^(\d+)\.\s*(.+)$/);
-                
-                if (match) {
-                    const matchedLevel = match[1];
-                    const namesPart = match[2];
-                    
-                    if (matchedLevel === mainLevel) {
-                        // Check if this is a main level (name shouldn't start with another number+period)
-                        if (!namesPart.match(/^\d+\./)) {
-                            // Return the full name with number (e.g., "1. Bosque")
-                            const fullMainName = `${matchedLevel}. ${namesPart}`;
-                            return fullMainName;
-                        }
-                    }
-                }
-            }
-        }
-        
-        return null;
-    }
-
-    createHierarchicalLegend(groups, container) {
-        // Sort groups by main level number
-        const sortedGroupKeys = Object.keys(groups).sort((a, b) => {
-            if (a === 'otros') return 1;
-            if (b === 'otros') return -1;
-            return parseInt(a) - parseInt(b);
-        });
-        
-        sortedGroupKeys.forEach(groupKey => {
-            const group = groups[groupKey];
-            
-            // Create main group container
-            const groupContainer = document.createElement('div');
-            groupContainer.className = 'legend-group';
-            
-            // Create main level item (if it has an ID, meaning it exists in data)
-            if (group.id) {
-                const mainItem = document.createElement('div');
-                mainItem.className = 'legend-item legend-main';
-                
-                // If there are subitems, make it a dropdown
-                if (group.subItems.length > 0) {
-                    mainItem.className += ' legend-dropdown';
-                    mainItem.innerHTML = `
-                        <div class="legend-dropdown-header">
-                            <div class="legend-color" style="background-color: ${group.color}"></div>
-                            <div class="legend-text">${group.name}</div>
-                            <div class="legend-arrow">▼</div>
-                        </div>
-                    `;
-                    
-                    // Add click event listener to the header
-                    const header = mainItem.querySelector('.legend-dropdown-header');
-                    header.addEventListener('click', function(e) {
-                        e.stopPropagation();
-                        mainItem.classList.toggle('expanded');
-                    });
-                    
-                    // Create sub-level items container inside the dropdown
-                    const subItemsContainer = document.createElement('div');
-                    subItemsContainer.className = 'legend-subitems';
-                    
-                    group.subItems.forEach(subItem => {
-                        const subItemElement = document.createElement('div');
-                        subItemElement.className = 'legend-item legend-sub';
-                        subItemElement.innerHTML = `
-                            <div class="legend-color" style="background-color: ${subItem.color}"></div>
-                            <div class="legend-text">${subItem.name}</div>
-                        `;
-                        subItemsContainer.appendChild(subItemElement);
-                    });
-                    
-                    mainItem.appendChild(subItemsContainer);
-                } else {
-                    // No subitems, regular item
-                    mainItem.innerHTML = `
-                        <div class="legend-color" style="background-color: ${group.color}"></div>
-                        <div class="legend-text">${group.name}</div>
-                    `;
-                }
-                groupContainer.appendChild(mainItem);
-            } else if (group.subItems.length > 0) {
-                // Create group header for items that only have subitems
-                const groupHeader = document.createElement('div');
-                groupHeader.className = 'legend-group-header legend-dropdown';
-                groupHeader.innerHTML = `
-                    <div class="legend-dropdown-header">
-                        <div class="legend-text">${group.name}</div>
-                        <div class="legend-arrow">▼</div>
-                    </div>
-                `;
-                
-                // Add click event listener to the header
-                const header = groupHeader.querySelector('.legend-dropdown-header');
-                header.addEventListener('click', function(e) {
-                    e.stopPropagation();
-                    groupHeader.classList.toggle('expanded');
-                });
-                
-                // Create sub-level items container inside the dropdown
-                const subItemsContainer = document.createElement('div');
-                subItemsContainer.className = 'legend-subitems';
-                
-                group.subItems.forEach(subItem => {
-                    const subItemElement = document.createElement('div');
-                    subItemElement.className = 'legend-item legend-sub';
-                    subItemElement.innerHTML = `
-                        <div class="legend-color" style="background-color: ${subItem.color}"></div>
-                        <div class="legend-text">${subItem.name}</div>
-                    `;
-                    subItemsContainer.appendChild(subItemElement);
-                });
-                
-                groupHeader.appendChild(subItemsContainer);
-                groupContainer.appendChild(groupHeader);
-            }
-            
-            // Only add group if it has content
-            if (group.id || group.subItems.length > 0) {
-                container.appendChild(groupContainer);
-            }
-        });
-    }
-
     async loadGIS() {
         if (!this.currentDataSource || !this.dataSources[this.currentDataSource].gis) {
             return;
@@ -1819,7 +2512,7 @@ class AmazonDashboard {
         }
     }
 
-    validateFeatureGeometry(feature, index) {
+    validateFeatureGeometry(feature) {
         // Enhanced validation logic
         if (!feature.geometry) {
             return false;
@@ -1927,7 +2620,7 @@ class AmazonDashboard {
                 onEachFeature: (feature, layer) => {
                     try {
                         // Add popup functionality
-                        this.createEnhancedPopup(feature, layer);
+                        this.createEnhancedPopupLegacy(feature, layer);
                     } catch (popupError) {
                         // Create a simple fallback popup
                         layer.bindPopup(`Error creating popup: ${popupError.message}`);
@@ -2103,9 +2796,12 @@ class AmazonDashboard {
                     layer.setStyle(standardStyle);
                     
                     // Create enhanced popup with CSV data
-                    this.createEnhancedPopup(feature, layer);
+                    this.createEnhancedPopupLegacy(feature, layer);
                 }
             }).addTo(this.map);
+            
+            // Initialize legend after loading GeoJSON
+            this.updateMapLegend();
             
             // Skip bounds calculation and use fixed coordinates for problematic layers
             this.map.setView([2.067735, -72.232948], 6); // Centered on Colombia's protected areas region
@@ -2125,7 +2821,7 @@ class AmazonDashboard {
             const feature = layer.feature;
             if (feature) {
                 // Update popup content with CSV data
-                this.createEnhancedPopup(feature, layer);
+                this.createEnhancedPopupLegacy(feature, layer);
             }
         });
     }
@@ -2247,7 +2943,7 @@ class AmazonDashboard {
         return spatialData;
     }
 
-    createEnhancedPopup(feature, layer) {
+    createEnhancedPopupLegacy(feature, layer) {
         
         // Get CSV data for this feature (no map coverage filtering since the selector was removed)
         const csvData = this.getCSVDataForFeature(feature, null, null);
@@ -2259,7 +2955,7 @@ class AmazonDashboard {
         let popupContent = '';
         
         // Create unique chart ID (available for entire function)
-        const chartId = `popup-chart-${Date.now()}-${Math.random().toString(36).substr(2, 9)}`;
+        const chartId = `popup-chart-${Date.now()}-${Math.random().toString(36).substring(2, 11)}`;
         
         // Add CSV data if available
         if (csvData && csvData.length > 0) {
@@ -2452,7 +3148,7 @@ class AmazonDashboard {
                     
                     // Update popup content with current filter data
                     if (layer.feature) {
-                        this.createEnhancedPopup(layer.feature, layer);
+                        this.createEnhancedPopupLegacy(layer.feature, layer);
                     }
                 });
                 
@@ -2732,6 +3428,7 @@ class AmazonDashboard {
             canvas.parentElement.innerHTML = '<p style="color: #666; font-style: italic;">Error generando gráfico</p>';
         }
     }
+
 
     displayGeoJSONInfo() {
         // GeoJSON info display removed - keep method for compatibility
